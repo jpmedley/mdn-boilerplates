@@ -7,6 +7,8 @@ This repo contains boilerplates for web platform APIs that are not currently doc
 * limiting the number of MDN writing requirements you need to learn
 * letting you focus on what you know best: the content you're contributing.
 
+*Currently, there is an extensive backlog of undocumented features on MDN. Please help even if you only have time to contribute one extra page. Every little bit helps.*
+
 ## Getting Started
 
 **Prerequisite:** Fork and clone the [MDN Content repo](https://github.com/mdn/content). This is where your boilerplates will be submitted.
@@ -21,7 +23,7 @@ This repo contains boilerplates for web platform APIs that are not currently doc
 
 ## Simplified Process
 
-I don't want perfect to be the enemy of good. If you're dealing with a large API, you may not have time to document all of its members in separate pages as required by MDN. (See *The Structure of MDN API Reference*, below.) Alternatively, you can just complete the interface pages (`interfaceone`, `interfacetwo` in the example structure), and send them to me for completion at jmedley@google.com.
+I don't want perfect to be the enemy of good. If you're dealing with a large API, you may not have time to document all of its members in separate pages as required by MDN. (See *[The Structure of MDN API Reference](#the-structure-of-mdn-api-reference)*, below.) Alternatively, you can just complete the interface pages (`interfaceone`, `interfacetwo` in the example structure), and send them to me for completion at jmedley@google.com.
 
 ## Report a Missing API
 
@@ -42,7 +44,8 @@ files/en-us/web/api/
     isstuffsone/index.md
   interfacetwo/index.md
     dostuff/index.md
-    isstuffdone/index.md```
+    isstuffdone/index.md
+```
     
 There are a few things to note about this structure:
     
