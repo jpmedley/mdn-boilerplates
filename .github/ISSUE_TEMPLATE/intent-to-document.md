@@ -2,7 +2,7 @@
 name: Intent to Document
 about: Let others know what you're working on
 title: "[Intent to Document] Description to Cover Work or a Spec Name"
-labels: ''
+labels: Intent to Document
 assignees: ''
 
 ---
