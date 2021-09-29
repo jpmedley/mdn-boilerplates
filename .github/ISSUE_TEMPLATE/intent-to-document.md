@@ -1,6 +1,6 @@
 ---
 name: Intent to Document
-about: Describe this issue template's purpose here.
+about: Let others know what you're working on
 title: "[Intent to Document] Description to Cover Work or a Spec Name"
 labels: ''
 assignees: ''
