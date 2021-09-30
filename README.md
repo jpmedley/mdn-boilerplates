@@ -7,6 +7,8 @@ This repo contains boilerplates for web platform APIs that are not currently doc
 * limiting the number of MDN writing requirements you need to learn
 * letting you focus on what you know best: the content you're contributing.
 
+This repo is updated approximately once per week.
+
 *Currently, there is an extensive backlog of undocumented features on MDN. Please help even if you only have time to contribute one extra page. Every little bit helps.*
 
 ## Getting Started
