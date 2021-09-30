@@ -9,7 +9,7 @@ tags:
   - EyeDropper
 browser-compat: api.EyeDropper.open
 ---
-{{DefaultAPISidebar("")}}
+{{securecontext_header}}{{DefaultAPISidebar("")}}
 
 The **`open()`** method of the {{domxref("EyeDropper")}} interface 
 

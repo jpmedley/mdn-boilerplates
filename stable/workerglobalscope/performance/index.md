@@ -1,30 +1,19 @@
 ---
-title: EyeDropper
-slug: Web/API/EyeDropper
+title: WorkerGlobalScope.performance
+slug: Web/API/WorkerGlobalScope/performance
 tags:
   - API
-  - Interface
+  - Property
   - Reference
-  - EyeDropper
-browser-compat: api.EyeDropper
+  - performance
+  - WorkerGlobalScope
+browser-compat: api.WorkerGlobalScope.performance
 ---
-{{securecontext_header}}{{DefaultAPISidebar("")}}
+{{DefaultAPISidebar("")}}
 
-The **`EyeDropper`** interface of the {{domxref('','','','true')}} 
+The **`performance`** property of the {{domxref("WorkerGlobalScope")}} interface 
 
-## Description
-
- 
-
-## Properties
-
-
-
-### Event handlers
-
-
-
-## Methods
+## Value
 
 
 
@@ -51,4 +40,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 ## Browser compatibility
 
 {{Compat}}
+
 

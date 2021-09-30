@@ -8,7 +8,7 @@ tags:
   - EyeDropper
 browser-compat: api.EyeDropper.EyeDropper
 ---
-{{DefaultAPISidebar("")}}
+{{securecontext_header}}{{DefaultAPISidebar("")}}
 
 The **`EyeDropper()`** constructor creates a new {{domxref("EyeDropper")}} object which 
 

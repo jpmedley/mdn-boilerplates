@@ -1,30 +1,19 @@
 ---
-title: EyeDropper
-slug: Web/API/EyeDropper
+title: Window.performance
+slug: Web/API/Window/performance
 tags:
   - API
-  - Interface
+  - Property
   - Reference
-  - EyeDropper
-browser-compat: api.EyeDropper
+  - performance
+  - Window
+browser-compat: api.Window.performance
 ---
-{{securecontext_header}}{{DefaultAPISidebar("")}}
+{{DefaultAPISidebar("")}}
 
-The **`EyeDropper`** interface of the {{domxref('','','','true')}} 
+The **`performance`** property of the {{domxref("Window")}} interface 
 
-## Description
-
- 
-
-## Properties
-
-
-
-### Event handlers
-
-
-
-## Methods
+## Value
 
 
 
@@ -51,4 +40,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 ## Browser compatibility
 
 {{Compat}}
+
 
