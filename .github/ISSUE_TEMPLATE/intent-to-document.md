@@ -14,3 +14,4 @@ Please list the interfaces you intend to work on by name. For example: `IdleDete
 Please check these items off as they are completed.
 - [ ] Verify that the [browser compatibility database](https://github.com/mdn/browser-compat-data) has data about the feature. Contact jmedley@google.com if it does not.
 - [ ] Submit a pull request to the [MDN content repo](https://github.com/mdn/content) and add a link to it to this comment thread.
+- [ ] Write an overview page. (Not required for all interfaces.)
