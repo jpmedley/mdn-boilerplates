@@ -1,0 +1,44 @@
+---
+title: USBAlternateInterface.interfaceSubclass
+slug: Web/API/USBAlternateInterface/interfaceSubclass
+tags:
+  - API
+  - Property
+  - Reference
+  - interfaceSubclass
+  - USBAlternateInterface
+browser-compat: api.USBAlternateInterface.interfaceSubclass
+---
+{{securecontext_header}}{{DefaultAPISidebar("")}}
+
+The **`interfaceSubclass`** property of the {{domxref("USBAlternateInterface")}} interface 
+
+## Value
+
+
+
+## Examples
+
+Fill in a simple example that nicely shows a typical usage of the API, then perhaps some more complex examples (see our guide on how to add [code examples](/en-US/docs/MDN/Contribute/Structures/Code_examples) for more information).
+
+This text should be replaced with a brief description of what the example demonstrates.
+
+```js
+my code block
+```
+
+And/or include a list of links to useful code samples that live elsewhere:
+
+*   x
+*   y
+*   z
+
+## Specifications
+
+{{Specifications}}
+
+## Browser compatibility
+
+{{Compat}}
+
+

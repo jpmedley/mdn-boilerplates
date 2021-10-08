@@ -1,0 +1,53 @@
+---
+title: HTMLButtonElement.setCustomValidity()
+slug: Web/API/HTMLButtonElement/setCustomValidity
+tags:
+  - API
+  - Method
+  - Reference
+  - setCustomValidity
+  - HTMLButtonElement
+browser-compat: api.HTMLButtonElement.setCustomValidity
+---
+{{DefaultAPISidebar("")}}
+
+The **`setCustomValidity()`** method of the {{domxref("HTMLButtonElement")}} interface 
+
+## Syntax
+
+```js
+HTMLButtonElement.setCustomValidity()
+```
+
+### Parameters
+
+
+
+### Return Value
+
+
+
+## Examples
+
+Fill in a simple example that nicely shows a typical usage of the API, then perhaps some more complex examples (see our guide on how to add [code examples](/en-US/docs/MDN/Contribute/Structures/Code_examples) for more information).
+
+This text should be replaced with a brief description of what the example demonstrates.
+
+```js
+my code block
+```
+
+And/or include a list of links to useful code samples that live elsewhere:
+
+*   x
+*   y
+*   z
+
+## Specifications
+
+{{Specifications}}
+
+## Browser compatibility
+
+{{Compat}}
+
