@@ -16,7 +16,7 @@ The **`createSVGMatrix()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-SVGSVGElement.createSVGMatrix()
+createSVGMatrix()
 ```
 
 ### Parameters

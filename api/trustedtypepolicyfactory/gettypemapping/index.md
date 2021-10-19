@@ -16,7 +16,7 @@ The **`getTypeMapping()`** method of the {{domxref("TrustedTypePolicyFactory")}}
 ## Syntax
 
 ```js
-TrustedTypePolicyFactory.getTypeMapping()
+getTypeMapping()
 ```
 
 ### Parameters

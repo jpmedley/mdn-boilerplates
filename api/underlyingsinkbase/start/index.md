@@ -16,7 +16,7 @@ The **`start()`** method of the {{domxref("UnderlyingSinkBase")}} interface
 ## Syntax
 
 ```js
-UnderlyingSinkBase.start()
+start()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`getItem()`** method of the {{domxref("SVGStringList")}} interface
 ## Syntax
 
 ```js
-SVGStringList.getItem()
+getItem()
 ```
 
 ### Parameters

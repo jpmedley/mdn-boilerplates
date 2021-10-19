@@ -16,7 +16,7 @@ The **`lookupNamespaceURI()`** method of the {{domxref("XPathNSResolver")}} inte
 ## Syntax
 
 ```js
-XPathNSResolver.lookupNamespaceURI()
+lookupNamespaceURI()
 ```
 
 ### Parameters

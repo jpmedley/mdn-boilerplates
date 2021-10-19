@@ -16,7 +16,7 @@ The **`unsuspendRedraw()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-SVGSVGElement.unsuspendRedraw()
+unsuspendRedraw()
 ```
 
 ### Parameters

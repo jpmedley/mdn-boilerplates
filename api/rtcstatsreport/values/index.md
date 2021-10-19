@@ -16,7 +16,7 @@ The **`values()`** method of the {{domxref("RTCStatsReport")}} interface
 ## Syntax
 
 ```js
-RTCStatsReport.values()
+values()
 ```
 
 ### Parameters

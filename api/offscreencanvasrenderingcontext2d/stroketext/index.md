@@ -16,7 +16,7 @@ The **`strokeText()`** method of the {{domxref("OffscreenCanvasRenderingContext2
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.strokeText()
+strokeText()
 ```
 
 ### Parameters

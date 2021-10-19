@@ -16,7 +16,7 @@ The **`endOcclusionQuery()`** method of the {{domxref("GPURenderPassEncoder")}} 
 ## Syntax
 
 ```js
-GPURenderPassEncoder.endOcclusionQuery()
+endOcclusionQuery()
 ```
 
 ### Parameters

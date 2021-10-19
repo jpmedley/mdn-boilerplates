@@ -16,7 +16,7 @@ The **`checkValidity()`** method of the {{domxref("HTMLOutputElement")}} interfa
 ## Syntax
 
 ```js
-HTMLOutputElement.checkValidity()
+checkValidity()
 ```
 
 ### Parameters

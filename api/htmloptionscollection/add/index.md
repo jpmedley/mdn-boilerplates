@@ -16,7 +16,7 @@ The **`add()`** method of the {{domxref("HTMLOptionsCollection")}} interface
 ## Syntax
 
 ```js
-HTMLOptionsCollection.add()
+add()
 ```
 
 ### Parameters

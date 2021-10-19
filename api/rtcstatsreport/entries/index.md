@@ -16,7 +16,7 @@ The **`entries()`** method of the {{domxref("RTCStatsReport")}} interface
 ## Syntax
 
 ```js
-RTCStatsReport.entries()
+entries()
 ```
 
 ### Parameters

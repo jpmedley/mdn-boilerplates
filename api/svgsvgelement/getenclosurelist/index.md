@@ -16,7 +16,7 @@ The **`getEnclosureList()`** method of the {{domxref("SVGSVGElement")}} interfac
 ## Syntax
 
 ```js
-SVGSVGElement.getEnclosureList()
+getEnclosureList()
 ```
 
 ### Parameters

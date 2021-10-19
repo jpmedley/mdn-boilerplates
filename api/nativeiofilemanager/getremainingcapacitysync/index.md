@@ -16,7 +16,7 @@ The **`getRemainingCapacitySync()`** method of the {{domxref("NativeIOFileManage
 ## Syntax
 
 ```js
-NativeIOFileManager.getRemainingCapacitySync()
+getRemainingCapacitySync()
 ```
 
 ### Parameters

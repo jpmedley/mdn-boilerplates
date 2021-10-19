@@ -16,7 +16,7 @@ The **`setRangeText()`** method of the {{domxref("HTMLTextAreaElement")}} interf
 ## Syntax
 
 ```js
-HTMLTextAreaElement.setRangeText()
+setRangeText()
 ```
 
 ### Parameters

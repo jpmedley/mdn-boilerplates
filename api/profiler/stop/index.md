@@ -16,7 +16,7 @@ The **`stop()`** method of the {{domxref("Profiler")}} interface
 ## Syntax
 
 ```js
-Profiler.stop()
+stop()
 ```
 
 ### Parameters

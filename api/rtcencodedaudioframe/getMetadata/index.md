@@ -16,7 +16,7 @@ The **`getMetadata()`** method of the {{domxref("RTCEncodedAudioFrame")}} interf
 ## Syntax
 
 ```js
-RTCEncodedAudioFrame.getMetadata()
+getMetadata()
 ```
 
 ### Parameters

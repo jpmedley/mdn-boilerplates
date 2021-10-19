@@ -16,7 +16,7 @@ The **`appendItem()`** method of the {{domxref("SVGTransformList")}} interface
 ## Syntax
 
 ```js
-SVGTransformList.appendItem()
+appendItem()
 ```
 
 ### Parameters

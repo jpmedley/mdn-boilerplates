@@ -16,7 +16,7 @@ The **`destroy()`** method of the {{domxref("GPUQuerySet")}} interface
 ## Syntax
 
 ```js
-GPUQuerySet.destroy()
+destroy()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`reportValidity()`** method of the {{domxref("HTMLTextAreaElement")}} inte
 ## Syntax
 
 ```js
-HTMLTextAreaElement.reportValidity()
+reportValidity()
 ```
 
 ### Parameters

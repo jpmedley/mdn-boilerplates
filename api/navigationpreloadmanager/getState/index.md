@@ -16,7 +16,7 @@ The **`getState()`** method of the {{domxref("NavigationPreloadManager")}} inter
 ## Syntax
 
 ```js
-NavigationPreloadManager.getState()
+getState()
 ```
 
 ### Parameters

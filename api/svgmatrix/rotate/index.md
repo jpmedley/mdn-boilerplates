@@ -16,7 +16,7 @@ The **`rotate()`** method of the {{domxref("SVGMatrix")}} interface
 ## Syntax
 
 ```js
-SVGMatrix.rotate()
+rotate()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`clip()`** method of the {{domxref("PaintRenderingContext2D")}} interface
 ## Syntax
 
 ```js
-PaintRenderingContext2D.clip()
+clip()
 ```
 
 ### Parameters

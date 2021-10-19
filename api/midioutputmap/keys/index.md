@@ -16,7 +16,7 @@ The **`keys()`** method of the {{domxref("MIDIOutputMap")}} interface
 ## Syntax
 
 ```js
-MIDIOutputMap.keys()
+keys()
 ```
 
 ### Parameters

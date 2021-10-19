@@ -16,7 +16,7 @@ The **`get()`** method of the {{domxref("AudioParamMap")}} interface
 ## Syntax
 
 ```js
-AudioParamMap.get()
+get()
 ```
 
 ### Parameters

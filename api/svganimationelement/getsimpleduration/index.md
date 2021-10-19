@@ -16,7 +16,7 @@ The **`getSimpleDuration()`** method of the {{domxref("SVGAnimationElement")}} i
 ## Syntax
 
 ```js
-SVGAnimationElement.getSimpleDuration()
+getSimpleDuration()
 ```
 
 ### Parameters

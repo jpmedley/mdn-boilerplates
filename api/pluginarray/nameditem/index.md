@@ -16,7 +16,7 @@ The **`namedItem()`** method of the {{domxref("PluginArray")}} interface
 ## Syntax
 
 ```js
-PluginArray.namedItem()
+namedItem()
 ```
 
 ### Parameters

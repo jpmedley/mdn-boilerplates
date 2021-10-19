@@ -16,7 +16,7 @@ The **`skewX()`** method of the {{domxref("SVGMatrix")}} interface
 ## Syntax
 
 ```js
-SVGMatrix.skewX()
+skewX()
 ```
 
 ### Parameters

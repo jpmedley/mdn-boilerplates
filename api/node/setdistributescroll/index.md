@@ -16,7 +16,7 @@ The **`setDistributeScroll()`** method of the {{domxref("Node")}} interface
 ## Syntax
 
 ```js
-Node.setDistributeScroll()
+setDistributeScroll()
 ```
 
 ### Parameters

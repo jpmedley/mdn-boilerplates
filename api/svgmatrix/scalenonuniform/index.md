@@ -16,7 +16,7 @@ The **`scaleNonUniform()`** method of the {{domxref("SVGMatrix")}} interface
 ## Syntax
 
 ```js
-SVGMatrix.scaleNonUniform()
+scaleNonUniform()
 ```
 
 ### Parameters

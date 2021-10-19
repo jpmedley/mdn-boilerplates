@@ -16,7 +16,7 @@ The **`getParent()`** method of the {{domxref("EntrySync")}} interface
 ## Syntax
 
 ```js
-EntrySync.getParent()
+getParent()
 ```
 
 ### Parameters

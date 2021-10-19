@@ -16,7 +16,7 @@ The **`openSync()`** method of the {{domxref("NativeIOFileManager")}} interface
 ## Syntax
 
 ```js
-NativeIOFileManager.openSync()
+openSync()
 ```
 
 ### Parameters

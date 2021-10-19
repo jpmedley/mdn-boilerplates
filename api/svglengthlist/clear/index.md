@@ -16,7 +16,7 @@ The **`clear()`** method of the {{domxref("SVGLengthList")}} interface
 ## Syntax
 
 ```js
-SVGLengthList.clear()
+clear()
 ```
 
 ### Parameters

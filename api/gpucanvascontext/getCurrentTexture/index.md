@@ -16,7 +16,7 @@ The **`getCurrentTexture()`** method of the {{domxref("GPUCanvasContext")}} inte
 ## Syntax
 
 ```js
-GPUCanvasContext.getCurrentTexture()
+getCurrentTexture()
 ```
 
 ### Parameters

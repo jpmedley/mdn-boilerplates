@@ -16,7 +16,7 @@ The **`beginLayer()`** method of the {{domxref("OffscreenCanvasRenderingContext2
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.beginLayer()
+beginLayer()
 ```
 
 ### Parameters

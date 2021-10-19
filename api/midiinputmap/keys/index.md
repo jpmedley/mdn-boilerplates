@@ -16,7 +16,7 @@ The **`keys()`** method of the {{domxref("MIDIInputMap")}} interface
 ## Syntax
 
 ```js
-MIDIInputMap.keys()
+keys()
 ```
 
 ### Parameters

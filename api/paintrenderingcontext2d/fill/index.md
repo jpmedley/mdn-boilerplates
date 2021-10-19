@@ -16,7 +16,7 @@ The **`fill()`** method of the {{domxref("PaintRenderingContext2D")}} interface
 ## Syntax
 
 ```js
-PaintRenderingContext2D.fill()
+fill()
 ```
 
 ### Parameters

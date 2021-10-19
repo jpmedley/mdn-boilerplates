@@ -16,7 +16,7 @@ The **`getSVGDocument()`** method of the {{domxref("HTMLObjectElement")}} interf
 ## Syntax
 
 ```js
-HTMLObjectElement.getSVGDocument()
+getSVGDocument()
 ```
 
 ### Parameters

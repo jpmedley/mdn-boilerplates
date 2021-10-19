@@ -16,7 +16,7 @@ The **`putImageData()`** method of the {{domxref("OffscreenCanvasRenderingContex
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.putImageData()
+putImageData()
 ```
 
 ### Parameters

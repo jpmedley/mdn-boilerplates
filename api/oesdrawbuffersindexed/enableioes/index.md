@@ -16,7 +16,7 @@ The **`enableiOES()`** method of the {{domxref("OESDrawBuffersIndexed")}} interf
 ## Syntax
 
 ```js
-OESDrawBuffersIndexed.enableiOES()
+enableiOES()
 ```
 
 ### Parameters

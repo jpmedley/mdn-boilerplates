@@ -16,7 +16,7 @@ The **`dispatch()`** method of the {{domxref("GPUComputePassEncoder")}} interfac
 ## Syntax
 
 ```js
-GPUComputePassEncoder.dispatch()
+dispatch()
 ```
 
 ### Parameters

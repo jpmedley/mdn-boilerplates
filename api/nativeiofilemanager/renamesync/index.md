@@ -16,7 +16,7 @@ The **`renameSync()`** method of the {{domxref("NativeIOFileManager")}} interfac
 ## Syntax
 
 ```js
-NativeIOFileManager.renameSync()
+renameSync()
 ```
 
 ### Parameters

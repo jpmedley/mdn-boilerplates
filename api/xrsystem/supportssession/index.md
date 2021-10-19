@@ -16,7 +16,7 @@ The **`supportsSession()`** method of the {{domxref("XRSystem")}} interface
 ## Syntax
 
 ```js
-XRSystem.supportsSession()
+supportsSession()
 ```
 
 ### Parameters

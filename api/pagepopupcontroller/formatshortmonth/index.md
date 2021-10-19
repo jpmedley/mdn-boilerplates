@@ -16,7 +16,7 @@ The **`formatShortMonth()`** method of the {{domxref("PagePopupController")}} in
 ## Syntax
 
 ```js
-PagePopupController.formatShortMonth()
+formatShortMonth()
 ```
 
 ### Parameters

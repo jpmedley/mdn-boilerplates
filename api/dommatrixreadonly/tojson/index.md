@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("DOMMatrixReadOnly")}} interface
 ## Syntax
 
 ```js
-DOMMatrixReadOnly.toJSON()
+toJSON()
 ```
 
 ### Parameters

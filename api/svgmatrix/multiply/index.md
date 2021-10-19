@@ -16,7 +16,7 @@ The **`multiply()`** method of the {{domxref("SVGMatrix")}} interface
 ## Syntax
 
 ```js
-SVGMatrix.multiply()
+multiply()
 ```
 
 ### Parameters

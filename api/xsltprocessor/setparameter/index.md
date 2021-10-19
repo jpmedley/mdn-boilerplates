@@ -16,7 +16,7 @@ The **`setParameter()`** method of the {{domxref("XSLTProcessor")}} interface
 ## Syntax
 
 ```js
-XSLTProcessor.setParameter()
+setParameter()
 ```
 
 ### Parameters

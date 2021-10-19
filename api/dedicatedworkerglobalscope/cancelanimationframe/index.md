@@ -16,7 +16,7 @@ The **`cancelAnimationFrame()`** method of the {{domxref("DedicatedWorkerGlobalS
 ## Syntax
 
 ```js
-DedicatedWorkerGlobalScope.cancelAnimationFrame()
+cancelAnimationFrame()
 ```
 
 ### Parameters

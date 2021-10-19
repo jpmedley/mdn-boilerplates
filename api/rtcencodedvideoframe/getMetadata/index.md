@@ -16,7 +16,7 @@ The **`getMetadata()`** method of the {{domxref("RTCEncodedVideoFrame")}} interf
 ## Syntax
 
 ```js
-RTCEncodedVideoFrame.getMetadata()
+getMetadata()
 ```
 
 ### Parameters

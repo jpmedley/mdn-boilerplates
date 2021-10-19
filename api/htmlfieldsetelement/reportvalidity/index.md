@@ -16,7 +16,7 @@ The **`reportValidity()`** method of the {{domxref("HTMLFieldSetElement")}} inte
 ## Syntax
 
 ```js
-HTMLFieldSetElement.reportValidity()
+reportValidity()
 ```
 
 ### Parameters

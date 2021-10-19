@@ -16,7 +16,7 @@ The **`clear()`** method of the {{domxref("CustomStateSet")}} interface
 ## Syntax
 
 ```js
-CustomStateSet.clear()
+clear()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`has()`** method of the {{domxref("XRAnchorSet")}} interface
 ## Syntax
 
 ```js
-XRAnchorSet.has()
+has()
 ```
 
 ### Parameters

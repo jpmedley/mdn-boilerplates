@@ -16,7 +16,7 @@ The **`requestPictureInPicture()`** method of the {{domxref("HTMLElement")}} int
 ## Syntax
 
 ```js
-HTMLElement.requestPictureInPicture()
+requestPictureInPicture()
 ```
 
 ### Parameters

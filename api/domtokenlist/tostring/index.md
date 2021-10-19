@@ -16,7 +16,7 @@ The **`toString()`** method of the {{domxref("DOMTokenList")}} interface
 ## Syntax
 
 ```js
-DOMTokenList.toString()
+toString()
 ```
 
 ### Parameters

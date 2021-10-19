@@ -16,7 +16,7 @@ The **`entries()`** method of the {{domxref("EventCounts")}} interface
 ## Syntax
 
 ```js
-EventCounts.entries()
+entries()
 ```
 
 ### Parameters

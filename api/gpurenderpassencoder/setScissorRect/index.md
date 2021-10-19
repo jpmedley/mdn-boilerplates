@@ -16,7 +16,7 @@ The **`setScissorRect()`** method of the {{domxref("GPURenderPassEncoder")}} int
 ## Syntax
 
 ```js
-GPURenderPassEncoder.setScissorRect()
+setScissorRect()
 ```
 
 ### Parameters

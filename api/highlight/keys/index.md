@@ -16,7 +16,7 @@ The **`keys()`** method of the {{domxref("Highlight")}} interface
 ## Syntax
 
 ```js
-Highlight.keys()
+keys()
 ```
 
 ### Parameters

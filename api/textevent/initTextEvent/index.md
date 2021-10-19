@@ -16,7 +16,7 @@ The **`initTextEvent()`** method of the {{domxref("TextEvent")}} interface
 ## Syntax
 
 ```js
-TextEvent.initTextEvent()
+initTextEvent()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`values()`** method of the {{domxref("CustomStateSet")}} interface
 ## Syntax
 
 ```js
-CustomStateSet.values()
+values()
 ```
 
 ### Parameters

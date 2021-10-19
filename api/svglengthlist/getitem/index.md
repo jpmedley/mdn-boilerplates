@@ -16,7 +16,7 @@ The **`getItem()`** method of the {{domxref("SVGLengthList")}} interface
 ## Syntax
 
 ```js
-SVGLengthList.getItem()
+getItem()
 ```
 
 ### Parameters

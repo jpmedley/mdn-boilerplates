@@ -16,7 +16,7 @@ The **`blob()`** method of the {{domxref("FontMetadata")}} interface
 ## Syntax
 
 ```js
-FontMetadata.blob()
+blob()
 ```
 
 ### Parameters

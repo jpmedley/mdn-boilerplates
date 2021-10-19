@@ -16,7 +16,7 @@ The **`write()`** method of the {{domxref("FileWriterSync")}} interface
 ## Syntax
 
 ```js
-FileWriterSync.write()
+write()
 ```
 
 ### Parameters

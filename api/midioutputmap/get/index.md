@@ -16,7 +16,7 @@ The **`get()`** method of the {{domxref("MIDIOutputMap")}} interface
 ## Syntax
 
 ```js
-MIDIOutputMap.get()
+get()
 ```
 
 ### Parameters

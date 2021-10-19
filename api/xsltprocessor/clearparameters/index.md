@@ -16,7 +16,7 @@ The **`clearParameters()`** method of the {{domxref("XSLTProcessor")}} interface
 ## Syntax
 
 ```js
-XSLTProcessor.clearParameters()
+clearParameters()
 ```
 
 ### Parameters

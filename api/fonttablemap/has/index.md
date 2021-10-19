@@ -16,7 +16,7 @@ The **`has()`** method of the {{domxref("FontTableMap")}} interface
 ## Syntax
 
 ```js
-FontTableMap.has()
+has()
 ```
 
 ### Parameters

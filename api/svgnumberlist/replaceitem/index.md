@@ -16,7 +16,7 @@ The **`replaceItem()`** method of the {{domxref("SVGNumberList")}} interface
 ## Syntax
 
 ```js
-SVGNumberList.replaceItem()
+replaceItem()
 ```
 
 ### Parameters

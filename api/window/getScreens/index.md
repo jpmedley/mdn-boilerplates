@@ -16,7 +16,7 @@ The **`getScreens()`** method of the {{domxref("Window")}} interface
 ## Syntax
 
 ```js
-Window.getScreens()
+getScreens()
 ```
 
 ### Parameters

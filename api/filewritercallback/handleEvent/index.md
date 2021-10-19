@@ -16,7 +16,7 @@ The **`handleEvent()`** method of the {{domxref("FileWriterCallback")}} interfac
 ## Syntax
 
 ```js
-FileWriterCallback.handleEvent()
+handleEvent()
 ```
 
 ### Parameters

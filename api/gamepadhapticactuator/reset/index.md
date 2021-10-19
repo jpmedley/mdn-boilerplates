@@ -16,7 +16,7 @@ The **`reset()`** method of the {{domxref("GamepadHapticActuator")}} interface
 ## Syntax
 
 ```js
-GamepadHapticActuator.reset()
+reset()
 ```
 
 ### Parameters

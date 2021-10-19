@@ -16,7 +16,7 @@ The **`forEach()`** method of the {{domxref("XRAnchorSet")}} interface
 ## Syntax
 
 ```js
-XRAnchorSet.forEach()
+forEach()
 ```
 
 ### Parameters

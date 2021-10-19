@@ -16,7 +16,7 @@ The **`copyBufferToBuffer()`** method of the {{domxref("GPUCommandEncoder")}} in
 ## Syntax
 
 ```js
-GPUCommandEncoder.copyBufferToBuffer()
+copyBufferToBuffer()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`checkValidity()`** method of the {{domxref("HTMLFormElement")}} interface
 ## Syntax
 
 ```js
-HTMLFormElement.checkValidity()
+checkValidity()
 ```
 
 ### Parameters

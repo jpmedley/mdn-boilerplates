@@ -16,7 +16,7 @@ The **`has()`** method of the {{domxref("CustomStateSet")}} interface
 ## Syntax
 
 ```js
-CustomStateSet.has()
+has()
 ```
 
 ### Parameters

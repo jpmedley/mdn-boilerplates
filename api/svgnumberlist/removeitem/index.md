@@ -16,7 +16,7 @@ The **`removeItem()`** method of the {{domxref("SVGNumberList")}} interface
 ## Syntax
 
 ```js
-SVGNumberList.removeItem()
+removeItem()
 ```
 
 ### Parameters

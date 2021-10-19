@@ -16,7 +16,7 @@ The **`entries()`** method of the {{domxref("XRAnchorSet")}} interface
 ## Syntax
 
 ```js
-XRAnchorSet.entries()
+entries()
 ```
 
 ### Parameters

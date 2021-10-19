@@ -16,7 +16,7 @@ The **`item()`** method of the {{domxref("DOMRectList")}} interface
 ## Syntax
 
 ```js
-DOMRectList.item()
+item()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`openDatabase()`** method of the {{domxref("Window")}} interface
 ## Syntax
 
 ```js
-Window.openDatabase()
+openDatabase()
 ```
 
 ### Parameters

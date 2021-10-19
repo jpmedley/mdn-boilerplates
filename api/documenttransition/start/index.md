@@ -16,7 +16,7 @@ The **`start()`** method of the {{domxref("DocumentTransition")}} interface
 ## Syntax
 
 ```js
-DocumentTransition.start()
+start()
 ```
 
 ### Parameters

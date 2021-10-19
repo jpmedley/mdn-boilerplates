@@ -16,7 +16,7 @@ The **`createSVGLength()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-SVGSVGElement.createSVGLength()
+createSVGLength()
 ```
 
 ### Parameters

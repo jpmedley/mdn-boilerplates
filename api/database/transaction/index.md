@@ -16,7 +16,7 @@ The **`transaction()`** method of the {{domxref("Database")}} interface
 ## Syntax
 
 ```js
-Database.transaction()
+transaction()
 ```
 
 ### Parameters

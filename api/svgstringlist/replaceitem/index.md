@@ -16,7 +16,7 @@ The **`replaceItem()`** method of the {{domxref("SVGStringList")}} interface
 ## Syntax
 
 ```js
-SVGStringList.replaceItem()
+replaceItem()
 ```
 
 ### Parameters

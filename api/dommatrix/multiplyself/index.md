@@ -16,7 +16,7 @@ The **`multiplySelf()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-DOMMatrix.multiplySelf()
+multiplySelf()
 ```
 
 ### Parameters

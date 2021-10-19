@@ -16,7 +16,7 @@ The **`configure()`** method of the {{domxref("GPUCanvasContext")}} interface
 ## Syntax
 
 ```js
-GPUCanvasContext.configure()
+configure()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`forEach()`** method of the {{domxref("MIDIOutputMap")}} interface
 ## Syntax
 
 ```js
-MIDIOutputMap.forEach()
+forEach()
 ```
 
 ### Parameters

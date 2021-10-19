@@ -16,7 +16,7 @@ The **`values()`** method of the {{domxref("GPUSupportedFeatures")}} interface
 ## Syntax
 
 ```js
-GPUSupportedFeatures.values()
+values()
 ```
 
 ### Parameters

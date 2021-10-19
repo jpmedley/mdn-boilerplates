@@ -16,7 +16,7 @@ The **`webkitRequestFileSystemSync()`** method of the {{domxref("DedicatedWorker
 ## Syntax
 
 ```js
-DedicatedWorkerGlobalScope.webkitRequestFileSystemSync()
+webkitRequestFileSystemSync()
 ```
 
 ### Parameters

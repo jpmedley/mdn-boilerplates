@@ -16,7 +16,7 @@ The **`selectSubString()`** method of the {{domxref("SVGTextContentElement")}} i
 ## Syntax
 
 ```js
-SVGTextContentElement.selectSubString()
+selectSubString()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`createSVGAngle()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-SVGSVGElement.createSVGAngle()
+createSVGAngle()
 ```
 
 ### Parameters

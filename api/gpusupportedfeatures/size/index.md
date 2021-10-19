@@ -16,7 +16,7 @@ The **`size()`** method of the {{domxref("GPUSupportedFeatures")}} interface
 ## Syntax
 
 ```js
-GPUSupportedFeatures.size()
+size()
 ```
 
 ### Parameters

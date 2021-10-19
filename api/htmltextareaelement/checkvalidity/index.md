@@ -16,7 +16,7 @@ The **`checkValidity()`** method of the {{domxref("HTMLTextAreaElement")}} inter
 ## Syntax
 
 ```js
-HTMLTextAreaElement.checkValidity()
+checkValidity()
 ```
 
 ### Parameters

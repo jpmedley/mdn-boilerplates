@@ -16,7 +16,7 @@ The **`item()`** method of the {{domxref("Plugin")}} interface
 ## Syntax
 
 ```js
-Plugin.item()
+item()
 ```
 
 ### Parameters

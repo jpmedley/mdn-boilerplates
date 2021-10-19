@@ -16,7 +16,7 @@ The **`getTransform()`** method of the {{domxref("OffscreenCanvasRenderingContex
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.getTransform()
+getTransform()
 ```
 
 ### Parameters

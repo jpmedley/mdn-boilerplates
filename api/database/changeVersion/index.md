@@ -16,7 +16,7 @@ The **`changeVersion()`** method of the {{domxref("Database")}} interface
 ## Syntax
 
 ```js
-Database.changeVersion()
+changeVersion()
 ```
 
 ### Parameters

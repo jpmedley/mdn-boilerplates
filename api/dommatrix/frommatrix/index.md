@@ -16,7 +16,7 @@ The **`fromMatrix()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-DOMMatrix.fromMatrix()
+fromMatrix()
 ```
 
 ### Parameters

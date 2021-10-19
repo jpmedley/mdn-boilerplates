@@ -16,7 +16,7 @@ The **`hide()`** method of the {{domxref("VirtualKeyboard")}} interface
 ## Syntax
 
 ```js
-VirtualKeyboard.hide()
+hide()
 ```
 
 ### Parameters

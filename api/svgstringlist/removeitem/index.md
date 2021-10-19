@@ -16,7 +16,7 @@ The **`removeItem()`** method of the {{domxref("SVGStringList")}} interface
 ## Syntax
 
 ```js
-SVGStringList.removeItem()
+removeItem()
 ```
 
 ### Parameters

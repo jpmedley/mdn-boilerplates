@@ -16,7 +16,7 @@ The **`distributeToScrollChainDescendant()`** method of the {{domxref("ScrollSta
 ## Syntax
 
 ```js
-ScrollState.distributeToScrollChainDescendant()
+distributeToScrollChainDescendant()
 ```
 
 ### Parameters

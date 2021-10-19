@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("MediaDeviceInfo")}} interface
 ## Syntax
 
 ```js
-MediaDeviceInfo.toJSON()
+toJSON()
 ```
 
 ### Parameters

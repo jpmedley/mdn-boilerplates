@@ -16,7 +16,7 @@ The **`webkitResolveLocalFileSystemURL()`** method of the {{domxref("Window")}} 
 ## Syntax
 
 ```js
-Window.webkitResolveLocalFileSystemURL()
+webkitResolveLocalFileSystemURL()
 ```
 
 ### Parameters

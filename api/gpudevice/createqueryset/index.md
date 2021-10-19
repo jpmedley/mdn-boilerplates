@@ -16,7 +16,7 @@ The **`createQuerySet()`** method of the {{domxref("GPUDevice")}} interface
 ## Syntax
 
 ```js
-GPUDevice.createQuerySet()
+createQuerySet()
 ```
 
 ### Parameters

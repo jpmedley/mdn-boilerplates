@@ -16,7 +16,7 @@ The **`translateSelf()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-DOMMatrix.translateSelf()
+translateSelf()
 ```
 
 ### Parameters

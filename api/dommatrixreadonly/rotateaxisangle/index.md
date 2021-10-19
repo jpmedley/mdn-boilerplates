@@ -16,7 +16,7 @@ The **`rotateAxisAngle()`** method of the {{domxref("DOMMatrixReadOnly")}} inter
 ## Syntax
 
 ```js
-DOMMatrixReadOnly.rotateAxisAngle()
+rotateAxisAngle()
 ```
 
 ### Parameters

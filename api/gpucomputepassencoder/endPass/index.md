@@ -16,7 +16,7 @@ The **`endPass()`** method of the {{domxref("GPUComputePassEncoder")}} interface
 ## Syntax
 
 ```js
-GPUComputePassEncoder.endPass()
+endPass()
 ```
 
 ### Parameters

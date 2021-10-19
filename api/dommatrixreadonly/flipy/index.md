@@ -16,7 +16,7 @@ The **`flipY()`** method of the {{domxref("DOMMatrixReadOnly")}} interface
 ## Syntax
 
 ```js
-DOMMatrixReadOnly.flipY()
+flipY()
 ```
 
 ### Parameters

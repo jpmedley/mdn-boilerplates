@@ -16,7 +16,7 @@ The **`dispatchEvent()`** method of the {{domxref("Screen")}} interface
 ## Syntax
 
 ```js
-Screen.dispatchEvent()
+dispatchEvent()
 ```
 
 ### Parameters

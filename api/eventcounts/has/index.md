@@ -16,7 +16,7 @@ The **`has()`** method of the {{domxref("EventCounts")}} interface
 ## Syntax
 
 ```js
-EventCounts.has()
+has()
 ```
 
 ### Parameters

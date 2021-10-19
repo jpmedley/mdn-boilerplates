@@ -16,7 +16,7 @@ The **`copyTextureToTexture()`** method of the {{domxref("GPUCommandEncoder")}} 
 ## Syntax
 
 ```js
-GPUCommandEncoder.copyTextureToTexture()
+copyTextureToTexture()
 ```
 
 ### Parameters

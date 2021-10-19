@@ -16,7 +16,7 @@ The **`size()`** method of the {{domxref("HighlightRegistry")}} interface
 ## Syntax
 
 ```js
-HighlightRegistry.size()
+size()
 ```
 
 ### Parameters

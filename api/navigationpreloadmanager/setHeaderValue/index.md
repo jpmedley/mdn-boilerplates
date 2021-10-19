@@ -16,7 +16,7 @@ The **`setHeaderValue()`** method of the {{domxref("NavigationPreloadManager")}}
 ## Syntax
 
 ```js
-NavigationPreloadManager.setHeaderValue()
+setHeaderValue()
 ```
 
 ### Parameters

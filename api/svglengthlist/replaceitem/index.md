@@ -16,7 +16,7 @@ The **`replaceItem()`** method of the {{domxref("SVGLengthList")}} interface
 ## Syntax
 
 ```js
-SVGLengthList.replaceItem()
+replaceItem()
 ```
 
 ### Parameters

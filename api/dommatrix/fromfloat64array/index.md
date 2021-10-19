@@ -16,7 +16,7 @@ The **`fromFloat64Array()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-DOMMatrix.fromFloat64Array()
+fromFloat64Array()
 ```
 
 ### Parameters

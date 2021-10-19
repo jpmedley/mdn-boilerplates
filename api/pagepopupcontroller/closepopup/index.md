@@ -16,7 +16,7 @@ The **`closePopup()`** method of the {{domxref("PagePopupController")}} interfac
 ## Syntax
 
 ```js
-PagePopupController.closePopup()
+closePopup()
 ```
 
 ### Parameters

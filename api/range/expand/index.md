@@ -16,7 +16,7 @@ The **`expand()`** method of the {{domxref("Range")}} interface
 ## Syntax
 
 ```js
-Range.expand()
+expand()
 ```
 
 ### Parameters

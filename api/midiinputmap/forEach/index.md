@@ -16,7 +16,7 @@ The **`forEach()`** method of the {{domxref("MIDIInputMap")}} interface
 ## Syntax
 
 ```js
-MIDIInputMap.forEach()
+forEach()
 ```
 
 ### Parameters

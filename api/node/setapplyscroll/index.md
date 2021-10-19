@@ -16,7 +16,7 @@ The **`setApplyScroll()`** method of the {{domxref("Node")}} interface
 ## Syntax
 
 ```js
-Node.setApplyScroll()
+setApplyScroll()
 ```
 
 ### Parameters

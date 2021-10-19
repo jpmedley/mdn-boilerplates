@@ -16,7 +16,7 @@ The **`cancel()`** method of the {{domxref("UnderlyingSourceBase")}} interface
 ## Syntax
 
 ```js
-UnderlyingSourceBase.cancel()
+cancel()
 ```
 
 ### Parameters

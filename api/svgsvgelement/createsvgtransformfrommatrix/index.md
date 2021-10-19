@@ -16,7 +16,7 @@ The **`createSVGTransformFromMatrix()`** method of the {{domxref("SVGSVGElement"
 ## Syntax
 
 ```js
-SVGSVGElement.createSVGTransformFromMatrix()
+createSVGTransformFromMatrix()
 ```
 
 ### Parameters

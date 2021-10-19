@@ -16,7 +16,7 @@ The **`copyExternalImageToTexture()`** method of the {{domxref("GPUQueue")}} int
 ## Syntax
 
 ```js
-GPUQueue.copyExternalImageToTexture()
+copyExternalImageToTexture()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`measureText()`** method of the {{domxref("OffscreenCanvasRenderingContext
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.measureText()
+measureText()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`entries()`** method of the {{domxref("CustomStateSet")}} interface
 ## Syntax
 
 ```js
-CustomStateSet.entries()
+entries()
 ```
 
 ### Parameters

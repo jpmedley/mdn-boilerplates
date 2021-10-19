@@ -16,7 +16,7 @@ The **`getRotationOfChar()`** method of the {{domxref("SVGTextContentElement")}}
 ## Syntax
 
 ```js
-SVGTextContentElement.getRotationOfChar()
+getRotationOfChar()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`get()`** method of the {{domxref("RTCStatsReport")}} interface
 ## Syntax
 
 ```js
-RTCStatsReport.get()
+get()
 ```
 
 ### Parameters

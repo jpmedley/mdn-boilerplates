@@ -16,7 +16,7 @@ The **`get()`** method of the {{domxref("EventCounts")}} interface
 ## Syntax
 
 ```js
-EventCounts.get()
+get()
 ```
 
 ### Parameters

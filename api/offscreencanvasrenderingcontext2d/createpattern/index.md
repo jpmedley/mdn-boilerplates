@@ -16,7 +16,7 @@ The **`createPattern()`** method of the {{domxref("OffscreenCanvasRenderingConte
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.createPattern()
+createPattern()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`write()`** method of the {{domxref("UnderlyingSinkBase")}} interface
 ## Syntax
 
 ```js
-UnderlyingSinkBase.write()
+write()
 ```
 
 ### Parameters

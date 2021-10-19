@@ -16,7 +16,7 @@ The **`namedItem()`** method of the {{domxref("HTMLCollection")}} interface
 ## Syntax
 
 ```js
-HTMLCollection.namedItem()
+namedItem()
 ```
 
 ### Parameters

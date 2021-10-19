@@ -16,7 +16,7 @@ The **`readEntries()`** method of the {{domxref("DirectoryReader")}} interface
 ## Syntax
 
 ```js
-DirectoryReader.readEntries()
+readEntries()
 ```
 
 ### Parameters

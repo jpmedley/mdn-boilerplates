@@ -16,7 +16,7 @@ The **`has()`** method of the {{domxref("AudioParamMap")}} interface
 ## Syntax
 
 ```js
-AudioParamMap.has()
+has()
 ```
 
 ### Parameters

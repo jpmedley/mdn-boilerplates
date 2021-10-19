@@ -16,7 +16,7 @@ The **`initialize()`** method of the {{domxref("SVGStringList")}} interface
 ## Syntax
 
 ```js
-SVGStringList.initialize()
+initialize()
 ```
 
 ### Parameters

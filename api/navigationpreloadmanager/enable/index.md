@@ -16,7 +16,7 @@ The **`enable()`** method of the {{domxref("NavigationPreloadManager")}} interfa
 ## Syntax
 
 ```js
-NavigationPreloadManager.enable()
+enable()
 ```
 
 ### Parameters

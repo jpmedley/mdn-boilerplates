@@ -16,7 +16,7 @@ The **`initMutationEvent()`** method of the {{domxref("MutationEvent")}} interfa
 ## Syntax
 
 ```js
-MutationEvent.initMutationEvent()
+initMutationEvent()
 ```
 
 ### Parameters

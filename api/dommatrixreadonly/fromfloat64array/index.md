@@ -16,7 +16,7 @@ The **`fromFloat64Array()`** method of the {{domxref("DOMMatrixReadOnly")}} inte
 ## Syntax
 
 ```js
-DOMMatrixReadOnly.fromFloat64Array()
+fromFloat64Array()
 ```
 
 ### Parameters

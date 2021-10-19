@@ -16,7 +16,7 @@ The **`remove()`** method of the {{domxref("FileSystemHandle")}} interface
 ## Syntax
 
 ```js
-FileSystemHandle.remove()
+remove()
 ```
 
 ### Parameters

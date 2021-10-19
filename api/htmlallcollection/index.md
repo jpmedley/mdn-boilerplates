@@ -16,7 +16,7 @@ The **`()`** method of the {{domxref("HTMLAllCollection")}} interface
 ## Syntax
 
 ```js
-HTMLAllCollection.()
+()
 ```
 
 ### Parameters

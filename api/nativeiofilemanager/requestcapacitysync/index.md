@@ -16,7 +16,7 @@ The **`requestCapacitySync()`** method of the {{domxref("NativeIOFileManager")}}
 ## Syntax
 
 ```js
-NativeIOFileManager.requestCapacitySync()
+requestCapacitySync()
 ```
 
 ### Parameters

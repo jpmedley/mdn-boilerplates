@@ -16,7 +16,7 @@ The **`beginPath()`** method of the {{domxref("OffscreenCanvasRenderingContext2D
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.beginPath()
+beginPath()
 ```
 
 ### Parameters

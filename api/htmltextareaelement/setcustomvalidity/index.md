@@ -16,7 +16,7 @@ The **`setCustomValidity()`** method of the {{domxref("HTMLTextAreaElement")}} i
 ## Syntax
 
 ```js
-HTMLTextAreaElement.setCustomValidity()
+setCustomValidity()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`webkitRequestAnimationFrame()`** method of the {{domxref("Window")}} inte
 ## Syntax
 
 ```js
-Window.webkitRequestAnimationFrame()
+webkitRequestAnimationFrame()
 ```
 
 ### Parameters

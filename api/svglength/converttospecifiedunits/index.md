@@ -16,7 +16,7 @@ The **`convertToSpecifiedUnits()`** method of the {{domxref("SVGLength")}} inter
 ## Syntax
 
 ```js
-SVGLength.convertToSpecifiedUnits()
+convertToSpecifiedUnits()
 ```
 
 ### Parameters

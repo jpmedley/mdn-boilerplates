@@ -16,7 +16,7 @@ The **`webkitResolveLocalFileSystemURL()`** method of the {{domxref("DedicatedWo
 ## Syntax
 
 ```js
-DedicatedWorkerGlobalScope.webkitResolveLocalFileSystemURL()
+webkitResolveLocalFileSystemURL()
 ```
 
 ### Parameters

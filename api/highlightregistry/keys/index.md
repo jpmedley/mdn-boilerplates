@@ -16,7 +16,7 @@ The **`keys()`** method of the {{domxref("HighlightRegistry")}} interface
 ## Syntax
 
 ```js
-HighlightRegistry.keys()
+keys()
 ```
 
 ### Parameters

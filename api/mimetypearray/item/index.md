@@ -16,7 +16,7 @@ The **`item()`** method of the {{domxref("MimeTypeArray")}} interface
 ## Syntax
 
 ```js
-MimeTypeArray.item()
+item()
 ```
 
 ### Parameters

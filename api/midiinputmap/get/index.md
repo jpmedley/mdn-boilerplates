@@ -16,7 +16,7 @@ The **`get()`** method of the {{domxref("MIDIInputMap")}} interface
 ## Syntax
 
 ```js
-MIDIInputMap.get()
+get()
 ```
 
 ### Parameters

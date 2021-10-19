@@ -16,7 +16,7 @@ The **`finish()`** method of the {{domxref("GPUCommandEncoder")}} interface
 ## Syntax
 
 ```js
-GPUCommandEncoder.finish()
+finish()
 ```
 
 ### Parameters

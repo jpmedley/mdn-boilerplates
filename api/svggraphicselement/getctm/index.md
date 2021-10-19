@@ -16,7 +16,7 @@ The **`getCTM()`** method of the {{domxref("SVGGraphicsElement")}} interface
 ## Syntax
 
 ```js
-SVGGraphicsElement.getCTM()
+getCTM()
 ```
 
 ### Parameters

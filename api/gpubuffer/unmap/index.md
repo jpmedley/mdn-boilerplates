@@ -16,7 +16,7 @@ The **`unmap()`** method of the {{domxref("GPUBuffer")}} interface
 ## Syntax
 
 ```js
-GPUBuffer.unmap()
+unmap()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`isPointInStroke()`** method of the {{domxref("PaintRenderingContext2D")}}
 ## Syntax
 
 ```js
-PaintRenderingContext2D.isPointInStroke()
+isPointInStroke()
 ```
 
 ### Parameters

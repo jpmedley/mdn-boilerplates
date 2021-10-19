@@ -16,7 +16,7 @@ The **`webkitEnterFullscreen()`** method of the {{domxref("HTMLVideoElement")}} 
 ## Syntax
 
 ```js
-HTMLVideoElement.webkitEnterFullscreen()
+webkitEnterFullscreen()
 ```
 
 ### Parameters

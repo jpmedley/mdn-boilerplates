@@ -16,7 +16,7 @@ The **`postMessage()`** method of the {{domxref("ServiceWorker")}} interface
 ## Syntax
 
 ```js
-ServiceWorker.postMessage()
+postMessage()
 ```
 
 ### Parameters

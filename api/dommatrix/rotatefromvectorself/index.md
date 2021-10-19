@@ -16,7 +16,7 @@ The **`rotateFromVectorSelf()`** method of the {{domxref("DOMMatrix")}} interfac
 ## Syntax
 
 ```js
-DOMMatrix.rotateFromVectorSelf()
+rotateFromVectorSelf()
 ```
 
 ### Parameters

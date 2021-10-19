@@ -16,7 +16,7 @@ The **`isPointInStroke()`** method of the {{domxref("OffscreenCanvasRenderingCon
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.isPointInStroke()
+isPointInStroke()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`joinAdInterestGroup()`** method of the {{domxref("Navigator")}} interface
 ## Syntax
 
 ```js
-Navigator.joinAdInterestGroup()
+joinAdInterestGroup()
 ```
 
 ### Parameters

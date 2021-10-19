@@ -16,7 +16,7 @@ The **`has()`** method of the {{domxref("GPUSupportedFeatures")}} interface
 ## Syntax
 
 ```js
-GPUSupportedFeatures.has()
+has()
 ```
 
 ### Parameters

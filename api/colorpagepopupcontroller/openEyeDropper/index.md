@@ -16,7 +16,7 @@ The **`openEyeDropper()`** method of the {{domxref("ColorPagePopupController")}}
 ## Syntax
 
 ```js
-ColorPagePopupController.openEyeDropper()
+openEyeDropper()
 ```
 
 ### Parameters

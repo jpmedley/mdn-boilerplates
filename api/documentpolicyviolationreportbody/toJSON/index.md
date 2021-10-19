@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("DocumentPolicyViolationReportBody")}
 ## Syntax
 
 ```js
-DocumentPolicyViolationReportBody.toJSON()
+toJSON()
 ```
 
 ### Parameters

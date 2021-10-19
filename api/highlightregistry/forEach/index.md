@@ -16,7 +16,7 @@ The **`forEach()`** method of the {{domxref("HighlightRegistry")}} interface
 ## Syntax
 
 ```js
-HighlightRegistry.forEach()
+forEach()
 ```
 
 ### Parameters

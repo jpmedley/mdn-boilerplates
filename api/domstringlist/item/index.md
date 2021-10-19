@@ -16,7 +16,7 @@ The **`item()`** method of the {{domxref("DOMStringList")}} interface
 ## Syntax
 
 ```js
-DOMStringList.item()
+item()
 ```
 
 ### Parameters

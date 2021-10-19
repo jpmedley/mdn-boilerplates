@@ -16,7 +16,7 @@ The **`item()`** method of the {{domxref("SQLResultSetRowList")}} interface
 ## Syntax
 
 ```js
-SQLResultSetRowList.item()
+item()
 ```
 
 ### Parameters

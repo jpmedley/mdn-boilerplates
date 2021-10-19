@@ -16,7 +16,7 @@ The **`pauseAnimations()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-SVGSVGElement.pauseAnimations()
+pauseAnimations()
 ```
 
 ### Parameters

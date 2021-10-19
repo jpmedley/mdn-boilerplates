@@ -16,7 +16,7 @@ The **`()`** method of the {{domxref("HTMLCanvasElement")}} interface
 ## Syntax
 
 ```js
-HTMLCanvasElement.()
+()
 ```
 
 ### Parameters

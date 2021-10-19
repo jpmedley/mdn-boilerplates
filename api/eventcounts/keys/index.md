@@ -16,7 +16,7 @@ The **`keys()`** method of the {{domxref("EventCounts")}} interface
 ## Syntax
 
 ```js
-EventCounts.keys()
+keys()
 ```
 
 ### Parameters

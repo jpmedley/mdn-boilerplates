@@ -16,7 +16,7 @@ The **`getPredictedEvents()`** method of the {{domxref("PointerEvent")}} interfa
 ## Syntax
 
 ```js
-PointerEvent.getPredictedEvents()
+getPredictedEvents()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("DOMQuad")}} interface
 ## Syntax
 
 ```js
-DOMQuad.toJSON()
+toJSON()
 ```
 
 ### Parameters

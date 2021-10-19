@@ -16,7 +16,7 @@ The **`createEncodedStreams()`** method of the {{domxref("RTCRtpReceiver")}} int
 ## Syntax
 
 ```js
-RTCRtpReceiver.createEncodedStreams()
+createEncodedStreams()
 ```
 
 ### Parameters

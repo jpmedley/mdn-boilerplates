@@ -16,7 +16,7 @@ The **`has()`** method of the {{domxref("RTCStatsReport")}} interface
 ## Syntax
 
 ```js
-RTCStatsReport.has()
+has()
 ```
 
 ### Parameters

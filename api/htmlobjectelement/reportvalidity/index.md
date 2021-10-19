@@ -16,7 +16,7 @@ The **`reportValidity()`** method of the {{domxref("HTMLObjectElement")}} interf
 ## Syntax
 
 ```js
-HTMLObjectElement.reportValidity()
+reportValidity()
 ```
 
 ### Parameters

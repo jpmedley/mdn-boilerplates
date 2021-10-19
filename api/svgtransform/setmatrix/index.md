@@ -16,7 +16,7 @@ The **`setMatrix()`** method of the {{domxref("SVGTransform")}} interface
 ## Syntax
 
 ```js
-SVGTransform.setMatrix()
+setMatrix()
 ```
 
 ### Parameters

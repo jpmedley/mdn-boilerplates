@@ -16,7 +16,7 @@ The **`unregisterProtocolHandler()`** method of the {{domxref("Navigator")}} int
 ## Syntax
 
 ```js
-Navigator.unregisterProtocolHandler()
+unregisterProtocolHandler()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`setCustomValidity()`** method of the {{domxref("HTMLButtonElement")}} int
 ## Syntax
 
 ```js
-HTMLButtonElement.setCustomValidity()
+setCustomValidity()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`mapAsync()`** method of the {{domxref("GPUBuffer")}} interface
 ## Syntax
 
 ```js
-GPUBuffer.mapAsync()
+mapAsync()
 ```
 
 ### Parameters

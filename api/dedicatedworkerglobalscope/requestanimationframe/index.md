@@ -16,7 +16,7 @@ The **`requestAnimationFrame()`** method of the {{domxref("DedicatedWorkerGlobal
 ## Syntax
 
 ```js
-DedicatedWorkerGlobalScope.requestAnimationFrame()
+requestAnimationFrame()
 ```
 
 ### Parameters

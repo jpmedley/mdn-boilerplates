@@ -16,7 +16,7 @@ The **`handleEvent()`** method of the {{domxref("SQLTransactionErrorCallback")}}
 ## Syntax
 
 ```js
-SQLTransactionErrorCallback.handleEvent()
+handleEvent()
 ```
 
 ### Parameters

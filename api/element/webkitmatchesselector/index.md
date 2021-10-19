@@ -16,7 +16,7 @@ The **`webkitMatchesSelector()`** method of the {{domxref("Element")}} interface
 ## Syntax
 
 ```js
-Element.webkitMatchesSelector()
+webkitMatchesSelector()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`replaceItem()`** method of the {{domxref("SVGTransformList")}} interface
 ## Syntax
 
 ```js
-SVGTransformList.replaceItem()
+replaceItem()
 ```
 
 ### Parameters

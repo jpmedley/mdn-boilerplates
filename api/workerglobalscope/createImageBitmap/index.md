@@ -16,7 +16,7 @@ The **`createImageBitmap()`** method of the {{domxref("WorkerGlobalScope")}} int
 ## Syntax
 
 ```js
-WorkerGlobalScope.createImageBitmap()
+createImageBitmap()
 ```
 
 ### Parameters

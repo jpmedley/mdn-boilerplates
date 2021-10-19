@@ -16,7 +16,7 @@ The **`has()`** method of the {{domxref("HighlightRegistry")}} interface
 ## Syntax
 
 ```js
-HighlightRegistry.has()
+has()
 ```
 
 ### Parameters

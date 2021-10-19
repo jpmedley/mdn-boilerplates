@@ -16,7 +16,7 @@ The **`handleEvent()`** method of the {{domxref("VoidCallback")}} interface
 ## Syntax
 
 ```js
-VoidCallback.handleEvent()
+handleEvent()
 ```
 
 ### Parameters

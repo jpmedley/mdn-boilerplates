@@ -16,7 +16,7 @@ The **`checkIntersection()`** method of the {{domxref("SVGSVGElement")}} interfa
 ## Syntax
 
 ```js
-SVGSVGElement.checkIntersection()
+checkIntersection()
 ```
 
 ### Parameters

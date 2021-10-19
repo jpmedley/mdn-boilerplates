@@ -16,7 +16,7 @@ The **`fetch()`** method of the {{domxref("Window")}} interface
 ## Syntax
 
 ```js
-Window.fetch()
+fetch()
 ```
 
 ### Parameters

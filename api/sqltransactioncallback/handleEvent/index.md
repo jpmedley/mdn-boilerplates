@@ -16,7 +16,7 @@ The **`handleEvent()`** method of the {{domxref("SQLTransactionCallback")}} inte
 ## Syntax
 
 ```js
-SQLTransactionCallback.handleEvent()
+handleEvent()
 ```
 
 ### Parameters

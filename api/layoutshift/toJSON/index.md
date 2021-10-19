@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("LayoutShift")}} interface
 ## Syntax
 
 ```js
-LayoutShift.toJSON()
+toJSON()
 ```
 
 ### Parameters

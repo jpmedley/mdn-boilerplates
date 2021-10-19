@@ -16,7 +16,7 @@ The **`removeItem()`** method of the {{domxref("SVGTransformList")}} interface
 ## Syntax
 
 ```js
-SVGTransformList.removeItem()
+removeItem()
 ```
 
 ### Parameters

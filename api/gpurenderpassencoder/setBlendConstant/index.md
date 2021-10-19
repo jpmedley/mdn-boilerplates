@@ -16,7 +16,7 @@ The **`setBlendConstant()`** method of the {{domxref("GPURenderPassEncoder")}} i
 ## Syntax
 
 ```js
-GPURenderPassEncoder.setBlendConstant()
+setBlendConstant()
 ```
 
 ### Parameters

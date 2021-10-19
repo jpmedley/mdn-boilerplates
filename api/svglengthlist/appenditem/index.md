@@ -16,7 +16,7 @@ The **`appendItem()`** method of the {{domxref("SVGLengthList")}} interface
 ## Syntax
 
 ```js
-SVGLengthList.appendItem()
+appendItem()
 ```
 
 ### Parameters

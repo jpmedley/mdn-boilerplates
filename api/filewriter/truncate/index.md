@@ -16,7 +16,7 @@ The **`truncate()`** method of the {{domxref("FileWriter")}} interface
 ## Syntax
 
 ```js
-FileWriter.truncate()
+truncate()
 ```
 
 ### Parameters

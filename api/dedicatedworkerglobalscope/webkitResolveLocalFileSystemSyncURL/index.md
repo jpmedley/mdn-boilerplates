@@ -16,7 +16,7 @@ The **`webkitResolveLocalFileSystemSyncURL()`** method of the {{domxref("Dedicat
 ## Syntax
 
 ```js
-DedicatedWorkerGlobalScope.webkitResolveLocalFileSystemSyncURL()
+webkitResolveLocalFileSystemSyncURL()
 ```
 
 ### Parameters

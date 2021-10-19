@@ -16,7 +16,7 @@ The **`abort()`** method of the {{domxref("UnderlyingSinkBase")}} interface
 ## Syntax
 
 ```js
-UnderlyingSinkBase.abort()
+abort()
 ```
 
 ### Parameters

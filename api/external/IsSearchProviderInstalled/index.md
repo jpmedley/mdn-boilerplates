@@ -16,7 +16,7 @@ The **`IsSearchProviderInstalled()`** method of the {{domxref("External")}} inte
 ## Syntax
 
 ```js
-External.IsSearchProviderInstalled()
+IsSearchProviderInstalled()
 ```
 
 ### Parameters

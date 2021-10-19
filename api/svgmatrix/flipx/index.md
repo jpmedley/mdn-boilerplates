@@ -16,7 +16,7 @@ The **`flipX()`** method of the {{domxref("SVGMatrix")}} interface
 ## Syntax
 
 ```js
-SVGMatrix.flipX()
+flipX()
 ```
 
 ### Parameters

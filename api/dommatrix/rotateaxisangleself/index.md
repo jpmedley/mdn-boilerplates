@@ -16,7 +16,7 @@ The **`rotateAxisAngleSelf()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-DOMMatrix.rotateAxisAngleSelf()
+rotateAxisAngleSelf()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`convertToBlob()`** method of the {{domxref("HTMLCanvasElement")}} interfa
 ## Syntax
 
 ```js
-HTMLCanvasElement.convertToBlob()
+convertToBlob()
 ```
 
 ### Parameters

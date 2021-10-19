@@ -16,7 +16,7 @@ The **`releaseCapacitySync()`** method of the {{domxref("NativeIOFileManager")}}
 ## Syntax
 
 ```js
-NativeIOFileManager.releaseCapacitySync()
+releaseCapacitySync()
 ```
 
 ### Parameters

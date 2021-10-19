@@ -16,7 +16,7 @@ The **`dispatchIndirect()`** method of the {{domxref("GPUComputePassEncoder")}} 
 ## Syntax
 
 ```js
-GPUComputePassEncoder.dispatchIndirect()
+dispatchIndirect()
 ```
 
 ### Parameters

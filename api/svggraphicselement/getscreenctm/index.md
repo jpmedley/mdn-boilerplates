@@ -16,7 +16,7 @@ The **`getScreenCTM()`** method of the {{domxref("SVGGraphicsElement")}} interfa
 ## Syntax
 
 ```js
-SVGGraphicsElement.getScreenCTM()
+getScreenCTM()
 ```
 
 ### Parameters

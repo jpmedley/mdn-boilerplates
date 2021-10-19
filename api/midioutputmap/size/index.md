@@ -16,7 +16,7 @@ The **`size()`** method of the {{domxref("MIDIOutputMap")}} interface
 ## Syntax
 
 ```js
-MIDIOutputMap.size()
+size()
 ```
 
 ### Parameters

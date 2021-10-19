@@ -16,7 +16,7 @@ The **`toString()`** method of the {{domxref("RTCEncodedAudioFrame")}} interface
 ## Syntax
 
 ```js
-RTCEncodedAudioFrame.toString()
+toString()
 ```
 
 ### Parameters

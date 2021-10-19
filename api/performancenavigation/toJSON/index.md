@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("PerformanceNavigation")}} interface
 ## Syntax
 
 ```js
-PerformanceNavigation.toJSON()
+toJSON()
 ```
 
 ### Parameters

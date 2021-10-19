@@ -16,7 +16,7 @@ The **`handleEvent()`** method of the {{domxref("FileSystemCallback")}} interfac
 ## Syntax
 
 ```js
-FileSystemCallback.handleEvent()
+handleEvent()
 ```
 
 ### Parameters

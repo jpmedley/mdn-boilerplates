@@ -16,7 +16,7 @@ The **`getStatusForPolicy()`** method of the {{domxref("MediaKeys")}} interface
 ## Syntax
 
 ```js
-MediaKeys.getStatusForPolicy()
+getStatusForPolicy()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`entries()`** method of the {{domxref("MIDIInputMap")}} interface
 ## Syntax
 
 ```js
-MIDIInputMap.entries()
+entries()
 ```
 
 ### Parameters

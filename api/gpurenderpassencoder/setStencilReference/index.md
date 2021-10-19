@@ -16,7 +16,7 @@ The **`setStencilReference()`** method of the {{domxref("GPURenderPassEncoder")}
 ## Syntax
 
 ```js
-GPURenderPassEncoder.setStencilReference()
+setStencilReference()
 ```
 
 ### Parameters

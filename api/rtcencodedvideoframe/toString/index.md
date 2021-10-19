@@ -16,7 +16,7 @@ The **`toString()`** method of the {{domxref("RTCEncodedVideoFrame")}} interface
 ## Syntax
 
 ```js
-RTCEncodedVideoFrame.toString()
+toString()
 ```
 
 ### Parameters

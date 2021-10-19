@@ -16,7 +16,7 @@ The **`upgradeDraggedFileSystemPermissions()`** method of the {{domxref("DevTool
 ## Syntax
 
 ```js
-DevToolsHost.upgradeDraggedFileSystemPermissions()
+upgradeDraggedFileSystemPermissions()
 ```
 
 ### Parameters

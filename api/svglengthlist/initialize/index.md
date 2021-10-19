@@ -16,7 +16,7 @@ The **`initialize()`** method of the {{domxref("SVGLengthList")}} interface
 ## Syntax
 
 ```js
-SVGLengthList.initialize()
+initialize()
 ```
 
 ### Parameters

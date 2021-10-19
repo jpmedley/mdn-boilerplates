@@ -16,7 +16,7 @@ The **`setRotate()`** method of the {{domxref("SVGTransform")}} interface
 ## Syntax
 
 ```js
-SVGTransform.setRotate()
+setRotate()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`clear()`** method of the {{domxref("SVGStringList")}} interface
 ## Syntax
 
 ```js
-SVGStringList.clear()
+clear()
 ```
 
 ### Parameters

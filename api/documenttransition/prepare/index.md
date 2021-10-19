@@ -16,7 +16,7 @@ The **`prepare()`** method of the {{domxref("DocumentTransition")}} interface
 ## Syntax
 
 ```js
-DocumentTransition.prepare()
+prepare()
 ```
 
 ### Parameters

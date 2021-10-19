@@ -16,7 +16,7 @@ The **`entries()`** method of the {{domxref("FontTableMap")}} interface
 ## Syntax
 
 ```js
-FontTableMap.entries()
+entries()
 ```
 
 ### Parameters

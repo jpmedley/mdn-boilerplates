@@ -16,7 +16,7 @@ The **`size()`** method of the {{domxref("MIDIInputMap")}} interface
 ## Syntax
 
 ```js
-MIDIInputMap.size()
+size()
 ```
 
 ### Parameters

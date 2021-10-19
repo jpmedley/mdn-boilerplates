@@ -16,7 +16,7 @@ The **`drawElementsInstancedBaseVertexBaseInstanceWEBGL()`** method of the {{dom
 ## Syntax
 
 ```js
-WebGLDrawInstancedBaseVertexBaseInstance.drawElementsInstancedBaseVertexBaseInstanceWEBGL()
+drawElementsInstancedBaseVertexBaseInstanceWEBGL()
 ```
 
 ### Parameters

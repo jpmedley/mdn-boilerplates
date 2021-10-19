@@ -16,7 +16,7 @@ The **`stat()`** method of the {{domxref("RTCLegacyStatsReport")}} interface
 ## Syntax
 
 ```js
-RTCLegacyStatsReport.stat()
+stat()
 ```
 
 ### Parameters

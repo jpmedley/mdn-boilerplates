@@ -16,7 +16,7 @@ The **`setHTML()`** method of the {{domxref("Element")}} interface
 ## Syntax
 
 ```js
-Element.setHTML()
+setHTML()
 ```
 
 ### Parameters

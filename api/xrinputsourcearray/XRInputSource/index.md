@@ -16,7 +16,7 @@ The **`XRInputSource()`** method of the {{domxref("XRInputSourceArray")}} interf
 ## Syntax
 
 ```js
-XRInputSourceArray.XRInputSource()
+XRInputSource()
 ```
 
 ### Parameters

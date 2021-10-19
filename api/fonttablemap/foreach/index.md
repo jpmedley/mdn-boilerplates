@@ -16,7 +16,7 @@ The **`forEach()`** method of the {{domxref("FontTableMap")}} interface
 ## Syntax
 
 ```js
-FontTableMap.forEach()
+forEach()
 ```
 
 ### Parameters

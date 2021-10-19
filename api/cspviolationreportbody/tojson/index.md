@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("CSPViolationReportBody")}} interface
 ## Syntax
 
 ```js
-CSPViolationReportBody.toJSON()
+toJSON()
 ```
 
 ### Parameters

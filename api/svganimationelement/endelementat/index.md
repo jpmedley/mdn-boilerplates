@@ -16,7 +16,7 @@ The **`endElementAt()`** method of the {{domxref("SVGAnimationElement")}} interf
 ## Syntax
 
 ```js
-SVGAnimationElement.endElementAt()
+endElementAt()
 ```
 
 ### Parameters

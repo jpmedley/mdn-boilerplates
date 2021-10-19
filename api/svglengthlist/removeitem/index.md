@@ -16,7 +16,7 @@ The **`removeItem()`** method of the {{domxref("SVGLengthList")}} interface
 ## Syntax
 
 ```js
-SVGLengthList.removeItem()
+removeItem()
 ```
 
 ### Parameters

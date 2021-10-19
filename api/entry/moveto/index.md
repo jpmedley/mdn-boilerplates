@@ -16,7 +16,7 @@ The **`moveTo()`** method of the {{domxref("Entry")}} interface
 ## Syntax
 
 ```js
-Entry.moveTo()
+moveTo()
 ```
 
 ### Parameters

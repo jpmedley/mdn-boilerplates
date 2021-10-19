@@ -16,7 +16,7 @@ The **`forEach()`** method of the {{domxref("GPUSupportedFeatures")}} interface
 ## Syntax
 
 ```js
-GPUSupportedFeatures.forEach()
+forEach()
 ```
 
 ### Parameters

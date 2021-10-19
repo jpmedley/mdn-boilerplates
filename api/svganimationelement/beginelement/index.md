@@ -16,7 +16,7 @@ The **`beginElement()`** method of the {{domxref("SVGAnimationElement")}} interf
 ## Syntax
 
 ```js
-SVGAnimationElement.beginElement()
+beginElement()
 ```
 
 ### Parameters

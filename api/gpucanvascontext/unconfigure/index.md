@@ -16,7 +16,7 @@ The **`unconfigure()`** method of the {{domxref("GPUCanvasContext")}} interface
 ## Syntax
 
 ```js
-GPUCanvasContext.unconfigure()
+unconfigure()
 ```
 
 ### Parameters

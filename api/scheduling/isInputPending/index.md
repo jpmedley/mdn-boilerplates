@@ -16,7 +16,7 @@ The **`isInputPending()`** method of the {{domxref("Scheduling")}} interface
 ## Syntax
 
 ```js
-Scheduling.isInputPending()
+isInputPending()
 ```
 
 ### Parameters

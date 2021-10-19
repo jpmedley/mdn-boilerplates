@@ -16,7 +16,7 @@ The **`size()`** method of the {{domxref("RTCStatsReport")}} interface
 ## Syntax
 
 ```js
-RTCStatsReport.size()
+size()
 ```
 
 ### Parameters

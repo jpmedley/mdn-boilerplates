@@ -16,7 +16,7 @@ The **`select()`** method of the {{domxref("HTMLTextAreaElement")}} interface
 ## Syntax
 
 ```js
-HTMLTextAreaElement.select()
+select()
 ```
 
 ### Parameters

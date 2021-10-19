@@ -16,7 +16,7 @@ The **`createSVGTransform()`** method of the {{domxref("SVGSVGElement")}} interf
 ## Syntax
 
 ```js
-SVGSVGElement.createSVGTransform()
+createSVGTransform()
 ```
 
 ### Parameters

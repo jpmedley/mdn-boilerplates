@@ -16,7 +16,7 @@ The **`formatMonth()`** method of the {{domxref("PagePopupController")}} interfa
 ## Syntax
 
 ```js
-PagePopupController.formatMonth()
+formatMonth()
 ```
 
 ### Parameters

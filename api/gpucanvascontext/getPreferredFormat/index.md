@@ -16,7 +16,7 @@ The **`getPreferredFormat()`** method of the {{domxref("GPUCanvasContext")}} int
 ## Syntax
 
 ```js
-GPUCanvasContext.getPreferredFormat()
+getPreferredFormat()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`values()`** method of the {{domxref("Highlight")}} interface
 ## Syntax
 
 ```js
-Highlight.values()
+values()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`compilationInfo()`** method of the {{domxref("GPUShaderModule")}} interfa
 ## Syntax
 
 ```js
-GPUShaderModule.compilationInfo()
+compilationInfo()
 ```
 
 ### Parameters

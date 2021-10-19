@@ -16,7 +16,7 @@ The **`insertItemBefore()`** method of the {{domxref("SVGLengthList")}} interfac
 ## Syntax
 
 ```js
-SVGLengthList.insertItemBefore()
+insertItemBefore()
 ```
 
 ### Parameters

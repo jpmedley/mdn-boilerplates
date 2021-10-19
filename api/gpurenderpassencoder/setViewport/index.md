@@ -16,7 +16,7 @@ The **`setViewport()`** method of the {{domxref("GPURenderPassEncoder")}} interf
 ## Syntax
 
 ```js
-GPURenderPassEncoder.setViewport()
+setViewport()
 ```
 
 ### Parameters

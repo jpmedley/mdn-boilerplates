@@ -16,7 +16,7 @@ The **`item()`** method of the {{domxref("GamepadList")}} interface
 ## Syntax
 
 ```js
-GamepadList.item()
+item()
 ```
 
 ### Parameters

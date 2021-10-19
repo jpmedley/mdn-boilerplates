@@ -16,7 +16,7 @@ The **`getNumberOfChars()`** method of the {{domxref("SVGTextContentElement")}} 
 ## Syntax
 
 ```js
-SVGTextContentElement.getNumberOfChars()
+getNumberOfChars()
 ```
 
 ### Parameters

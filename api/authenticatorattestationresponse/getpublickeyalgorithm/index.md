@@ -16,7 +16,7 @@ The **`getPublicKeyAlgorithm()`** method of the {{domxref("AuthenticatorAttestat
 ## Syntax
 
 ```js
-AuthenticatorAttestationResponse.getPublicKeyAlgorithm()
+getPublicKeyAlgorithm()
 ```
 
 ### Parameters

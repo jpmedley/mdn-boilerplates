@@ -16,7 +16,7 @@ The **`()`** method of the {{domxref("CanvasCaptureMediaStreamTrack")}} interfac
 ## Syntax
 
 ```js
-CanvasCaptureMediaStreamTrack.()
+()
 ```
 
 ### Parameters

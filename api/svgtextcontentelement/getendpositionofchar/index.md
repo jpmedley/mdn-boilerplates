@@ -16,7 +16,7 @@ The **`getEndPositionOfChar()`** method of the {{domxref("SVGTextContentElement"
 ## Syntax
 
 ```js
-SVGTextContentElement.getEndPositionOfChar()
+getEndPositionOfChar()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`initialize()`** method of the {{domxref("SVGTransformList")}} interface
 ## Syntax
 
 ```js
-SVGTransformList.initialize()
+initialize()
 ```
 
 ### Parameters

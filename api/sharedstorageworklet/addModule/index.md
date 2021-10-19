@@ -16,7 +16,7 @@ The **`addModule()`** method of the {{domxref("SharedStorageWorklet")}} interfac
 ## Syntax
 
 ```js
-SharedStorageWorklet.addModule()
+addModule()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`toURL()`** method of the {{domxref("Entry")}} interface
 ## Syntax
 
 ```js
-Entry.toURL()
+toURL()
 ```
 
 ### Parameters

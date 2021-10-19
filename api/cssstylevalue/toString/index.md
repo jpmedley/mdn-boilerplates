@@ -16,7 +16,7 @@ The **`toString()`** method of the {{domxref("CSSStyleValue")}} interface
 ## Syntax
 
 ```js
-CSSStyleValue.toString()
+toString()
 ```
 
 ### Parameters

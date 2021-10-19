@@ -16,7 +16,7 @@ The **`toURL()`** method of the {{domxref("EntrySync")}} interface
 ## Syntax
 
 ```js
-EntrySync.toURL()
+toURL()
 ```
 
 ### Parameters

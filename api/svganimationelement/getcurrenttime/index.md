@@ -16,7 +16,7 @@ The **`getCurrentTime()`** method of the {{domxref("SVGAnimationElement")}} inte
 ## Syntax
 
 ```js
-SVGAnimationElement.getCurrentTime()
+getCurrentTime()
 ```
 
 ### Parameters

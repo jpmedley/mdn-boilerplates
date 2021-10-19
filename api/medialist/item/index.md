@@ -16,7 +16,7 @@ The **`item()`** method of the {{domxref("MediaList")}} interface
 ## Syntax
 
 ```js
-MediaList.item()
+item()
 ```
 
 ### Parameters

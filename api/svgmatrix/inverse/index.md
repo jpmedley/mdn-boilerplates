@@ -16,7 +16,7 @@ The **`inverse()`** method of the {{domxref("SVGMatrix")}} interface
 ## Syntax
 
 ```js
-SVGMatrix.inverse()
+inverse()
 ```
 
 ### Parameters

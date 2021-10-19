@@ -16,7 +16,7 @@ The **`forEach()`** method of the {{domxref("EventCounts")}} interface
 ## Syntax
 
 ```js
-EventCounts.forEach()
+forEach()
 ```
 
 ### Parameters

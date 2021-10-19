@@ -16,7 +16,7 @@ The **`open()`** method of the {{domxref("EyeDropper")}} interface
 ## Syntax
 
 ```js
-EyeDropper.open()
+open()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`setCaptureHandleConfig()`** method of the {{domxref("MediaDevices")}} int
 ## Syntax
 
 ```js
-MediaDevices.setCaptureHandleConfig()
+setCaptureHandleConfig()
 ```
 
 ### Parameters

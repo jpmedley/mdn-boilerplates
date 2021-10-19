@@ -16,7 +16,7 @@ The **`values()`** method of the {{domxref("MIDIOutputMap")}} interface
 ## Syntax
 
 ```js
-MIDIOutputMap.values()
+values()
 ```
 
 ### Parameters

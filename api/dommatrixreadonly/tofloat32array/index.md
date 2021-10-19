@@ -16,7 +16,7 @@ The **`toFloat32Array()`** method of the {{domxref("DOMMatrixReadOnly")}} interf
 ## Syntax
 
 ```js
-DOMMatrixReadOnly.toFloat32Array()
+toFloat32Array()
 ```
 
 ### Parameters

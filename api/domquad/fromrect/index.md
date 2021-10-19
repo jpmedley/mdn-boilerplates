@@ -16,7 +16,7 @@ The **`fromRect()`** method of the {{domxref("DOMQuad")}} interface
 ## Syntax
 
 ```js
-DOMQuad.fromRect()
+fromRect()
 ```
 
 ### Parameters

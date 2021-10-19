@@ -16,7 +16,7 @@ The **`readEntries()`** method of the {{domxref("DirectoryReaderSync")}} interfa
 ## Syntax
 
 ```js
-DirectoryReaderSync.readEntries()
+readEntries()
 ```
 
 ### Parameters

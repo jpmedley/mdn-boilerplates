@@ -16,7 +16,7 @@ The **`createLinearGradient()`** method of the {{domxref("PaintRenderingContext2
 ## Syntax
 
 ```js
-PaintRenderingContext2D.createLinearGradient()
+createLinearGradient()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`createSVGRect()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-SVGSVGElement.createSVGRect()
+createSVGRect()
 ```
 
 ### Parameters

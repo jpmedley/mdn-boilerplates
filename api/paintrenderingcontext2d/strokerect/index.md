@@ -16,7 +16,7 @@ The **`strokeRect()`** method of the {{domxref("PaintRenderingContext2D")}} inte
 ## Syntax
 
 ```js
-PaintRenderingContext2D.strokeRect()
+strokeRect()
 ```
 
 ### Parameters

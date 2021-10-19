@@ -16,7 +16,7 @@ The **`createImageBitmap()`** method of the {{domxref("Window")}} interface
 ## Syntax
 
 ```js
-Window.createImageBitmap()
+createImageBitmap()
 ```
 
 ### Parameters

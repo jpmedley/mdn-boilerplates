@@ -16,7 +16,7 @@ The **`size()`** method of the {{domxref("CustomStateSet")}} interface
 ## Syntax
 
 ```js
-CustomStateSet.size()
+size()
 ```
 
 ### Parameters

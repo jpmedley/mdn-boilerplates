@@ -16,7 +16,7 @@ The **`namedItem()`** method of the {{domxref("MimeTypeArray")}} interface
 ## Syntax
 
 ```js
-MimeTypeArray.namedItem()
+namedItem()
 ```
 
 ### Parameters

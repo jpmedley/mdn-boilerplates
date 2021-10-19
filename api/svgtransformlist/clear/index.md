@@ -16,7 +16,7 @@ The **`clear()`** method of the {{domxref("SVGTransformList")}} interface
 ## Syntax
 
 ```js
-SVGTransformList.clear()
+clear()
 ```
 
 ### Parameters

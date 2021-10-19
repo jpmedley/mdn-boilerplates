@@ -16,7 +16,7 @@ The **`size()`** method of the {{domxref("FontTableMap")}} interface
 ## Syntax
 
 ```js
-FontTableMap.size()
+size()
 ```
 
 ### Parameters

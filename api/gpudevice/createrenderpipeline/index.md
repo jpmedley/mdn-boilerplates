@@ -16,7 +16,7 @@ The **`createRenderPipeline()`** method of the {{domxref("GPUDevice")}} interfac
 ## Syntax
 
 ```js
-GPUDevice.createRenderPipeline()
+createRenderPipeline()
 ```
 
 ### Parameters

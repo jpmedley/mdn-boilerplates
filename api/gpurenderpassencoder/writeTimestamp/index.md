@@ -16,7 +16,7 @@ The **`writeTimestamp()`** method of the {{domxref("GPURenderPassEncoder")}} int
 ## Syntax
 
 ```js
-GPURenderPassEncoder.writeTimestamp()
+writeTimestamp()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`scaleSelf()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-DOMMatrix.scaleSelf()
+scaleSelf()
 ```
 
 ### Parameters

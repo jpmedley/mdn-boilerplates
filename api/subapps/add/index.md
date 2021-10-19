@@ -16,7 +16,7 @@ The **`add()`** method of the {{domxref("SubApps")}} interface
 ## Syntax
 
 ```js
-SubApps.add()
+add()
 ```
 
 ### Parameters

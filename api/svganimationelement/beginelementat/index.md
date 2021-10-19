@@ -16,7 +16,7 @@ The **`beginElementAt()`** method of the {{domxref("SVGAnimationElement")}} inte
 ## Syntax
 
 ```js
-SVGAnimationElement.beginElementAt()
+beginElementAt()
 ```
 
 ### Parameters

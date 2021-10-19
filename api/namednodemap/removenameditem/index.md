@@ -16,7 +16,7 @@ The **`removeNamedItem()`** method of the {{domxref("NamedNodeMap")}} interface
 ## Syntax
 
 ```js
-NamedNodeMap.removeNamedItem()
+removeNamedItem()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`readTransaction()`** method of the {{domxref("Database")}} interface
 ## Syntax
 
 ```js
-Database.readTransaction()
+readTransaction()
 ```
 
 ### Parameters

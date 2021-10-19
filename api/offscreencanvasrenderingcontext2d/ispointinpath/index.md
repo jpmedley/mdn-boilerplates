@@ -16,7 +16,7 @@ The **`isPointInPath()`** method of the {{domxref("OffscreenCanvasRenderingConte
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.isPointInPath()
+isPointInPath()
 ```
 
 ### Parameters

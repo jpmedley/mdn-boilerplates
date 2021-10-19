@@ -16,7 +16,7 @@ The **`insertRow()`** method of the {{domxref("HTMLTableSectionElement")}} inter
 ## Syntax
 
 ```js
-HTMLTableSectionElement.insertRow()
+insertRow()
 ```
 
 ### Parameters

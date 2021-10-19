@@ -16,7 +16,7 @@ The **`endPass()`** method of the {{domxref("GPURenderPassEncoder")}} interface
 ## Syntax
 
 ```js
-GPURenderPassEncoder.endPass()
+endPass()
 ```
 
 ### Parameters

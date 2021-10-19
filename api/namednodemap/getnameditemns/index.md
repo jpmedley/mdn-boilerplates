@@ -16,7 +16,7 @@ The **`getNamedItemNS()`** method of the {{domxref("NamedNodeMap")}} interface
 ## Syntax
 
 ```js
-NamedNodeMap.getNamedItemNS()
+getNamedItemNS()
 ```
 
 ### Parameters

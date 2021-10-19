@@ -16,7 +16,7 @@ The **`copyBufferToTexture()`** method of the {{domxref("GPUCommandEncoder")}} i
 ## Syntax
 
 ```js
-GPUCommandEncoder.copyBufferToTexture()
+copyBufferToTexture()
 ```
 
 ### Parameters

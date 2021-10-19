@@ -16,7 +16,7 @@ The **`forEach()`** method of the {{domxref("RTCStatsReport")}} interface
 ## Syntax
 
 ```js
-RTCStatsReport.forEach()
+forEach()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`isPointInPath()`** method of the {{domxref("PaintRenderingContext2D")}} i
 ## Syntax
 
 ```js
-PaintRenderingContext2D.isPointInPath()
+isPointInPath()
 ```
 
 ### Parameters

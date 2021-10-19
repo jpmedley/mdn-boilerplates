@@ -16,7 +16,7 @@ The **`blendEquationSeparateiOES()`** method of the {{domxref("OESDrawBuffersInd
 ## Syntax
 
 ```js
-OESDrawBuffersIndexed.blendEquationSeparateiOES()
+blendEquationSeparateiOES()
 ```
 
 ### Parameters

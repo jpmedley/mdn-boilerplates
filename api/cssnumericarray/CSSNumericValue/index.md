@@ -16,7 +16,7 @@ The **`CSSNumericValue()`** method of the {{domxref("CSSNumericArray")}} interfa
 ## Syntax
 
 ```js
-CSSNumericArray.CSSNumericValue()
+CSSNumericValue()
 ```
 
 ### Parameters

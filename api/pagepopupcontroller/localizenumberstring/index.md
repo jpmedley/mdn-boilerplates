@@ -16,7 +16,7 @@ The **`localizeNumberString()`** method of the {{domxref("PagePopupController")}
 ## Syntax
 
 ```js
-PagePopupController.localizeNumberString()
+localizeNumberString()
 ```
 
 ### Parameters

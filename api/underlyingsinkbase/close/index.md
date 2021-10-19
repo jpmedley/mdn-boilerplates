@@ -16,7 +16,7 @@ The **`close()`** method of the {{domxref("UnderlyingSinkBase")}} interface
 ## Syntax
 
 ```js
-UnderlyingSinkBase.close()
+close()
 ```
 
 ### Parameters

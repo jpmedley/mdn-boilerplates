@@ -16,7 +16,7 @@ The **`createRadialGradient()`** method of the {{domxref("PaintRenderingContext2
 ## Syntax
 
 ```js
-PaintRenderingContext2D.createRadialGradient()
+createRadialGradient()
 ```
 
 ### Parameters

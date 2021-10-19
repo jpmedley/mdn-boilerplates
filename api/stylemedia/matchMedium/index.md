@@ -16,7 +16,7 @@ The **`matchMedium()`** method of the {{domxref("StyleMedia")}} interface
 ## Syntax
 
 ```js
-StyleMedia.matchMedium()
+matchMedium()
 ```
 
 ### Parameters

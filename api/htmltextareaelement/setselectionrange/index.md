@@ -16,7 +16,7 @@ The **`setSelectionRange()`** method of the {{domxref("HTMLTextAreaElement")}} i
 ## Syntax
 
 ```js
-HTMLTextAreaElement.setSelectionRange()
+setSelectionRange()
 ```
 
 ### Parameters

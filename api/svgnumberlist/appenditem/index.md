@@ -16,7 +16,7 @@ The **`appendItem()`** method of the {{domxref("SVGNumberList")}} interface
 ## Syntax
 
 ```js
-SVGNumberList.appendItem()
+appendItem()
 ```
 
 ### Parameters

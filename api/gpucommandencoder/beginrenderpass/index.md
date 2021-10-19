@@ -16,7 +16,7 @@ The **`beginRenderPass()`** method of the {{domxref("GPUCommandEncoder")}} inter
 ## Syntax
 
 ```js
-GPUCommandEncoder.beginRenderPass()
+beginRenderPass()
 ```
 
 ### Parameters

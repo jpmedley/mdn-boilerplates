@@ -16,7 +16,7 @@ The **`remove()`** method of the {{domxref("HTMLOptionsCollection")}} interface
 ## Syntax
 
 ```js
-HTMLOptionsCollection.remove()
+remove()
 ```
 
 ### Parameters

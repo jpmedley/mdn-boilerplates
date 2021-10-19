@@ -16,7 +16,7 @@ The **`scale3dSelf()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-DOMMatrix.scale3dSelf()
+scale3dSelf()
 ```
 
 ### Parameters

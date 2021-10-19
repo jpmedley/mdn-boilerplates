@@ -16,7 +16,7 @@ The **`insertItemBefore()`** method of the {{domxref("SVGTransformList")}} inter
 ## Syntax
 
 ```js
-SVGTransformList.insertItemBefore()
+insertItemBefore()
 ```
 
 ### Parameters

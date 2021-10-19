@@ -16,7 +16,7 @@ The **`clear()`** method of the {{domxref("HighlightRegistry")}} interface
 ## Syntax
 
 ```js
-HighlightRegistry.clear()
+clear()
 ```
 
 ### Parameters

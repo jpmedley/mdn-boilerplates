@@ -16,7 +16,7 @@ The **`clear()`** method of the {{domxref("Highlight")}} interface
 ## Syntax
 
 ```js
-Highlight.clear()
+clear()
 ```
 
 ### Parameters

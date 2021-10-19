@@ -16,7 +16,7 @@ The **`size()`** method of the {{domxref("AudioParamMap")}} interface
 ## Syntax
 
 ```js
-AudioParamMap.size()
+size()
 ```
 
 ### Parameters

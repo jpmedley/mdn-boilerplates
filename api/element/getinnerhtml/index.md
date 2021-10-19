@@ -16,7 +16,7 @@ The **`getInnerHTML()`** method of the {{domxref("Element")}} interface
 ## Syntax
 
 ```js
-Element.getInnerHTML()
+getInnerHTML()
 ```
 
 ### Parameters

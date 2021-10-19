@@ -16,7 +16,7 @@ The **`stroke()`** method of the {{domxref("PaintRenderingContext2D")}} interfac
 ## Syntax
 
 ```js
-PaintRenderingContext2D.stroke()
+stroke()
 ```
 
 ### Parameters

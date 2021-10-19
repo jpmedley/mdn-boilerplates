@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("CoopAccessViolationReportBody")}} in
 ## Syntax
 
 ```js
-CoopAccessViolationReportBody.toJSON()
+toJSON()
 ```
 
 ### Parameters

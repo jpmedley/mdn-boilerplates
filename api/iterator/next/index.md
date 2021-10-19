@@ -16,7 +16,7 @@ The **`next()`** method of the {{domxref("Iterator")}} interface
 ## Syntax
 
 ```js
-Iterator.next()
+next()
 ```
 
 ### Parameters

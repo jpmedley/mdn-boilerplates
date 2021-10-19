@@ -16,7 +16,7 @@ The **`keys()`** method of the {{domxref("CustomStateSet")}} interface
 ## Syntax
 
 ```js
-CustomStateSet.keys()
+keys()
 ```
 
 ### Parameters

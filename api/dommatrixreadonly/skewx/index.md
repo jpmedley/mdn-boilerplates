@@ -16,7 +16,7 @@ The **`skewX()`** method of the {{domxref("DOMMatrixReadOnly")}} interface
 ## Syntax
 
 ```js
-DOMMatrixReadOnly.skewX()
+skewX()
 ```
 
 ### Parameters

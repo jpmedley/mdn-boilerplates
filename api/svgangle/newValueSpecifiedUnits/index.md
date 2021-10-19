@@ -16,7 +16,7 @@ The **`newValueSpecifiedUnits()`** method of the {{domxref("SVGAngle")}} interfa
 ## Syntax
 
 ```js
-SVGAngle.newValueSpecifiedUnits()
+newValueSpecifiedUnits()
 ```
 
 ### Parameters

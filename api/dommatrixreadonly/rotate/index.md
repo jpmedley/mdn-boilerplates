@@ -16,7 +16,7 @@ The **`rotate()`** method of the {{domxref("DOMMatrixReadOnly")}} interface
 ## Syntax
 
 ```js
-DOMMatrixReadOnly.rotate()
+rotate()
 ```
 
 ### Parameters

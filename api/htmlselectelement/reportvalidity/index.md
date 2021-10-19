@@ -16,7 +16,7 @@ The **`reportValidity()`** method of the {{domxref("HTMLSelectElement")}} interf
 ## Syntax
 
 ```js
-HTMLSelectElement.reportValidity()
+reportValidity()
 ```
 
 ### Parameters

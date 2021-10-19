@@ -16,7 +16,7 @@ The **`popDebugGroup()`** method of the {{domxref("GPUCommandEncoder")}} interfa
 ## Syntax
 
 ```js
-GPUCommandEncoder.popDebugGroup()
+popDebugGroup()
 ```
 
 ### Parameters

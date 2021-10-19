@@ -16,7 +16,7 @@ The **`rename()`** method of the {{domxref("NativeIOFileManager")}} interface
 ## Syntax
 
 ```js
-NativeIOFileManager.rename()
+rename()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`getSubStringLength()`** method of the {{domxref("SVGTextContentElement")}
 ## Syntax
 
 ```js
-SVGTextContentElement.getSubStringLength()
+getSubStringLength()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`webkitRequestFileSystem()`** method of the {{domxref("SharedWorkerGlobalS
 ## Syntax
 
 ```js
-SharedWorkerGlobalScope.webkitRequestFileSystem()
+webkitRequestFileSystem()
 ```
 
 ### Parameters

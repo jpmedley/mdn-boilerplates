@@ -16,7 +16,7 @@ The **`keys()`** method of the {{domxref("RTCStatsReport")}} interface
 ## Syntax
 
 ```js
-RTCStatsReport.keys()
+keys()
 ```
 
 ### Parameters

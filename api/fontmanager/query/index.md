@@ -16,7 +16,7 @@ The **`query()`** method of the {{domxref("FontManager")}} interface
 ## Syntax
 
 ```js
-FontManager.query()
+query()
 ```
 
 ### Parameters

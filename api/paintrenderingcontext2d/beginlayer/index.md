@@ -16,7 +16,7 @@ The **`beginLayer()`** method of the {{domxref("PaintRenderingContext2D")}} inte
 ## Syntax
 
 ```js
-PaintRenderingContext2D.beginLayer()
+beginLayer()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`createShaderModule()`** method of the {{domxref("GPUDevice")}} interface
 ## Syntax
 
 ```js
-GPUDevice.createShaderModule()
+createShaderModule()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`getCharacteristic()`** method of the {{domxref("BluetoothUUID")}} interfa
 ## Syntax
 
 ```js
-BluetoothUUID.getCharacteristic()
+getCharacteristic()
 ```
 
 ### Parameters

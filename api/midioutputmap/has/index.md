@@ -16,7 +16,7 @@ The **`has()`** method of the {{domxref("MIDIOutputMap")}} interface
 ## Syntax
 
 ```js
-MIDIOutputMap.has()
+has()
 ```
 
 ### Parameters

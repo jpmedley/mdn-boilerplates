@@ -16,7 +16,7 @@ The **`values()`** method of the {{domxref("AudioParamMap")}} interface
 ## Syntax
 
 ```js
-AudioParamMap.values()
+values()
 ```
 
 ### Parameters

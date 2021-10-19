@@ -16,7 +16,7 @@ The **`setCustomValidity()`** method of the {{domxref("HTMLInputElement")}} inte
 ## Syntax
 
 ```js
-HTMLInputElement.setCustomValidity()
+setCustomValidity()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`disable()`** method of the {{domxref("NavigationPreloadManager")}} interf
 ## Syntax
 
 ```js
-NavigationPreloadManager.disable()
+disable()
 ```
 
 ### Parameters

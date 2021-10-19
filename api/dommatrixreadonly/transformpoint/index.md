@@ -16,7 +16,7 @@ The **`transformPoint()`** method of the {{domxref("DOMMatrixReadOnly")}} interf
 ## Syntax
 
 ```js
-DOMMatrixReadOnly.transformPoint()
+transformPoint()
 ```
 
 ### Parameters

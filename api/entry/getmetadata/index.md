@@ -16,7 +16,7 @@ The **`getMetadata()`** method of the {{domxref("Entry")}} interface
 ## Syntax
 
 ```js
-Entry.getMetadata()
+getMetadata()
 ```
 
 ### Parameters

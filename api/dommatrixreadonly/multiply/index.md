@@ -16,7 +16,7 @@ The **`multiply()`** method of the {{domxref("DOMMatrixReadOnly")}} interface
 ## Syntax
 
 ```js
-DOMMatrixReadOnly.multiply()
+multiply()
 ```
 
 ### Parameters

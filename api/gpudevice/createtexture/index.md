@@ -16,7 +16,7 @@ The **`createTexture()`** method of the {{domxref("GPUDevice")}} interface
 ## Syntax
 
 ```js
-GPUDevice.createTexture()
+createTexture()
 ```
 
 ### Parameters

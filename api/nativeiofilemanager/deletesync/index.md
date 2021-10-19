@@ -16,7 +16,7 @@ The **`deleteSync()`** method of the {{domxref("NativeIOFileManager")}} interfac
 ## Syntax
 
 ```js
-NativeIOFileManager.deleteSync()
+deleteSync()
 ```
 
 ### Parameters

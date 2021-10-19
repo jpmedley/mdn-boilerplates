@@ -16,7 +16,7 @@ The **`createRadialGradient()`** method of the {{domxref("OffscreenCanvasRenderi
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.createRadialGradient()
+createRadialGradient()
 ```
 
 ### Parameters

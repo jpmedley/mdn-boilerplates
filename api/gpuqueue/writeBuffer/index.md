@@ -16,7 +16,7 @@ The **`writeBuffer()`** method of the {{domxref("GPUQueue")}} interface
 ## Syntax
 
 ```js
-GPUQueue.writeBuffer()
+writeBuffer()
 ```
 
 ### Parameters

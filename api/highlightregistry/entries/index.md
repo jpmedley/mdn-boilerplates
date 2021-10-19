@@ -16,7 +16,7 @@ The **`entries()`** method of the {{domxref("HighlightRegistry")}} interface
 ## Syntax
 
 ```js
-HighlightRegistry.entries()
+entries()
 ```
 
 ### Parameters

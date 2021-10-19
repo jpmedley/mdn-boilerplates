@@ -16,7 +16,7 @@ The **`remove()`** method of the {{domxref("Entry")}} interface
 ## Syntax
 
 ```js
-Entry.remove()
+remove()
 ```
 
 ### Parameters

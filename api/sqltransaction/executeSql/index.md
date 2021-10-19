@@ -16,7 +16,7 @@ The **`executeSql()`** method of the {{domxref("SQLTransaction")}} interface
 ## Syntax
 
 ```js
-SQLTransaction.executeSql()
+executeSql()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`focus()`** method of the {{domxref("FocusableMediaStreamTrack")}} interfa
 ## Syntax
 
 ```js
-FocusableMediaStreamTrack.focus()
+focus()
 ```
 
 ### Parameters

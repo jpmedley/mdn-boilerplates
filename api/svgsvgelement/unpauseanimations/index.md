@@ -16,7 +16,7 @@ The **`unpauseAnimations()`** method of the {{domxref("SVGSVGElement")}} interfa
 ## Syntax
 
 ```js
-SVGSVGElement.unpauseAnimations()
+unpauseAnimations()
 ```
 
 ### Parameters

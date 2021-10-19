@@ -16,7 +16,7 @@ The **`restore()`** method of the {{domxref("PaintRenderingContext2D")}} interfa
 ## Syntax
 
 ```js
-PaintRenderingContext2D.restore()
+restore()
 ```
 
 ### Parameters

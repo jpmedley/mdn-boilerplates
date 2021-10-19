@@ -16,7 +16,7 @@ The **`fromFloat32Array()`** method of the {{domxref("DOMMatrixReadOnly")}} inte
 ## Syntax
 
 ```js
-DOMMatrixReadOnly.fromFloat32Array()
+fromFloat32Array()
 ```
 
 ### Parameters

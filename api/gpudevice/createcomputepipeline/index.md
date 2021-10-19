@@ -16,7 +16,7 @@ The **`createComputePipeline()`** method of the {{domxref("GPUDevice")}} interfa
 ## Syntax
 
 ```js
-GPUDevice.createComputePipeline()
+createComputePipeline()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`webkitRequestFullscreen()`** method of the {{domxref("Element")}} interfa
 ## Syntax
 
 ```js
-Element.webkitRequestFullscreen()
+webkitRequestFullscreen()
 ```
 
 ### Parameters

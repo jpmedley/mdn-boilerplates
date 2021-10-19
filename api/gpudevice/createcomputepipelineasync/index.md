@@ -16,7 +16,7 @@ The **`createComputePipelineAsync()`** method of the {{domxref("GPUDevice")}} in
 ## Syntax
 
 ```js
-GPUDevice.createComputePipelineAsync()
+createComputePipelineAsync()
 ```
 
 ### Parameters

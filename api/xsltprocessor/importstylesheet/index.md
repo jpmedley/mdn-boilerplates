@@ -16,7 +16,7 @@ The **`importStylesheet()`** method of the {{domxref("XSLTProcessor")}} interfac
 ## Syntax
 
 ```js
-XSLTProcessor.importStylesheet()
+importStylesheet()
 ```
 
 ### Parameters

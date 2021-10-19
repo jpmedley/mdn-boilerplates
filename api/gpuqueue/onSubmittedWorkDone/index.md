@@ -16,7 +16,7 @@ The **`onSubmittedWorkDone()`** method of the {{domxref("GPUQueue")}} interface
 ## Syntax
 
 ```js
-GPUQueue.onSubmittedWorkDone()
+onSubmittedWorkDone()
 ```
 
 ### Parameters

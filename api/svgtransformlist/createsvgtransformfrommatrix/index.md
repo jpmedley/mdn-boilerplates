@@ -16,7 +16,7 @@ The **`createSVGTransformFromMatrix()`** method of the {{domxref("SVGTransformLi
 ## Syntax
 
 ```js
-SVGTransformList.createSVGTransformFromMatrix()
+createSVGTransformFromMatrix()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`preMultiplySelf()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-DOMMatrix.preMultiplySelf()
+preMultiplySelf()
 ```
 
 ### Parameters

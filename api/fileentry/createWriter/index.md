@@ -16,7 +16,7 @@ The **`createWriter()`** method of the {{domxref("FileEntry")}} interface
 ## Syntax
 
 ```js
-FileEntry.createWriter()
+createWriter()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`clearRect()`** method of the {{domxref("PaintRenderingContext2D")}} inter
 ## Syntax
 
 ```js
-PaintRenderingContext2D.clearRect()
+clearRect()
 ```
 
 ### Parameters

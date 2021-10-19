@@ -16,7 +16,7 @@ The **`values()`** method of the {{domxref("FontTableMap")}} interface
 ## Syntax
 
 ```js
-FontTableMap.values()
+values()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`abort()`** method of the {{domxref("FileWriter")}} interface
 ## Syntax
 
 ```js
-FileWriter.abort()
+abort()
 ```
 
 ### Parameters

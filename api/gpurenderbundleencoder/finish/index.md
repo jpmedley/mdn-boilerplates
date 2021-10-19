@@ -16,7 +16,7 @@ The **`finish()`** method of the {{domxref("GPURenderBundleEncoder")}} interface
 ## Syntax
 
 ```js
-GPURenderBundleEncoder.finish()
+finish()
 ```
 
 ### Parameters

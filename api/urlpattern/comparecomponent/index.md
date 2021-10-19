@@ -16,7 +16,7 @@ The **`compareComponent()`** method of the {{domxref("URLPattern")}} interface
 ## Syntax
 
 ```js
-URLPattern.compareComponent()
+compareComponent()
 ```
 
 ### Parameters

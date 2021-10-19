@@ -16,7 +16,7 @@ The **`add()`** method of the {{domxref("CustomStateSet")}} interface
 ## Syntax
 
 ```js
-CustomStateSet.add()
+add()
 ```
 
 ### Parameters

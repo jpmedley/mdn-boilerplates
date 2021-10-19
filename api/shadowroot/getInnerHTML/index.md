@@ -16,7 +16,7 @@ The **`getInnerHTML()`** method of the {{domxref("ShadowRoot")}} interface
 ## Syntax
 
 ```js
-ShadowRoot.getInnerHTML()
+getInnerHTML()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`transformToDocument()`** method of the {{domxref("XSLTProcessor")}} inter
 ## Syntax
 
 ```js
-XSLTProcessor.transformToDocument()
+transformToDocument()
 ```
 
 ### Parameters

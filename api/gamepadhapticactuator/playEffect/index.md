@@ -16,7 +16,7 @@ The **`playEffect()`** method of the {{domxref("GamepadHapticActuator")}} interf
 ## Syntax
 
 ```js
-GamepadHapticActuator.playEffect()
+playEffect()
 ```
 
 ### Parameters

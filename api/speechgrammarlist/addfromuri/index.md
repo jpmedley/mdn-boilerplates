@@ -16,7 +16,7 @@ The **`addFromUri()`** method of the {{domxref("SpeechGrammarList")}} interface
 ## Syntax
 
 ```js
-SpeechGrammarList.addFromUri()
+addFromUri()
 ```
 
 ### Parameters

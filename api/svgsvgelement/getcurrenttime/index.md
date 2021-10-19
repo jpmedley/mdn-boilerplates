@@ -16,7 +16,7 @@ The **`getCurrentTime()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-SVGSVGElement.getCurrentTime()
+getCurrentTime()
 ```
 
 ### Parameters

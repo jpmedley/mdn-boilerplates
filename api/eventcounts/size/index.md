@@ -16,7 +16,7 @@ The **`size()`** method of the {{domxref("EventCounts")}} interface
 ## Syntax
 
 ```js
-EventCounts.size()
+size()
 ```
 
 ### Parameters

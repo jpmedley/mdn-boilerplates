@@ -16,7 +16,7 @@ The **`requestAdapter()`** method of the {{domxref("GPU")}} interface
 ## Syntax
 
 ```js
-GPU.requestAdapter()
+requestAdapter()
 ```
 
 ### Parameters

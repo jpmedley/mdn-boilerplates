@@ -16,7 +16,7 @@ The **`forEach()`** method of the {{domxref("CustomStateSet")}} interface
 ## Syntax
 
 ```js
-CustomStateSet.forEach()
+forEach()
 ```
 
 ### Parameters

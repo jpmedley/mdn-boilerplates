@@ -16,7 +16,7 @@ The **`item()`** method of the {{domxref("FileList")}} interface
 ## Syntax
 
 ```js
-FileList.item()
+item()
 ```
 
 ### Parameters

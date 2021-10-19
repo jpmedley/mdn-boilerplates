@@ -16,7 +16,7 @@ The **`checkValidity()`** method of the {{domxref("HTMLButtonElement")}} interfa
 ## Syntax
 
 ```js
-HTMLButtonElement.checkValidity()
+checkValidity()
 ```
 
 ### Parameters

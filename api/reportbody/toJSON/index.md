@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("ReportBody")}} interface
 ## Syntax
 
 ```js
-ReportBody.toJSON()
+toJSON()
 ```
 
 ### Parameters

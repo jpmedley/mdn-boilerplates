@@ -16,7 +16,7 @@ The **`requestDevice()`** method of the {{domxref("GPUAdapter")}} interface
 ## Syntax
 
 ```js
-GPUAdapter.requestDevice()
+requestDevice()
 ```
 
 ### Parameters

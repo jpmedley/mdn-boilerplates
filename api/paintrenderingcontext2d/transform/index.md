@@ -16,7 +16,7 @@ The **`transform()`** method of the {{domxref("PaintRenderingContext2D")}} inter
 ## Syntax
 
 ```js
-PaintRenderingContext2D.transform()
+transform()
 ```
 
 ### Parameters

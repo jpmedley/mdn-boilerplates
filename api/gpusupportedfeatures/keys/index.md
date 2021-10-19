@@ -16,7 +16,7 @@ The **`keys()`** method of the {{domxref("GPUSupportedFeatures")}} interface
 ## Syntax
 
 ```js
-GPUSupportedFeatures.keys()
+keys()
 ```
 
 ### Parameters

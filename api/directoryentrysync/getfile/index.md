@@ -16,7 +16,7 @@ The **`getFile()`** method of the {{domxref("DirectoryEntrySync")}} interface
 ## Syntax
 
 ```js
-DirectoryEntrySync.getFile()
+getFile()
 ```
 
 ### Parameters

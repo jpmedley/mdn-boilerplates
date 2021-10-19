@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("TaskAttributionTiming")}} interface
 ## Syntax
 
 ```js
-TaskAttributionTiming.toJSON()
+toJSON()
 ```
 
 ### Parameters

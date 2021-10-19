@@ -16,7 +16,7 @@ The **`webkitExitFullscreen()`** method of the {{domxref("HTMLVideoElement")}} i
 ## Syntax
 
 ```js
-HTMLVideoElement.webkitExitFullscreen()
+webkitExitFullscreen()
 ```
 
 ### Parameters

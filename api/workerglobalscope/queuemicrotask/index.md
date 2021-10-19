@@ -16,7 +16,7 @@ The **`queueMicrotask()`** method of the {{domxref("WorkerGlobalScope")}} interf
 ## Syntax
 
 ```js
-WorkerGlobalScope.queueMicrotask()
+queueMicrotask()
 ```
 
 ### Parameters

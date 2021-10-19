@@ -16,7 +16,7 @@ The **`entries()`** method of the {{domxref("GPUSupportedFeatures")}} interface
 ## Syntax
 
 ```js
-GPUSupportedFeatures.entries()
+entries()
 ```
 
 ### Parameters

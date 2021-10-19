@@ -16,7 +16,7 @@ The **`toJSON()`** method of the {{domxref("DOMRectReadOnly")}} interface
 ## Syntax
 
 ```js
-DOMRectReadOnly.toJSON()
+toJSON()
 ```
 
 ### Parameters

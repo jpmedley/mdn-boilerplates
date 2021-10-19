@@ -16,7 +16,7 @@ The **`createPipelineLayout()`** method of the {{domxref("GPUDevice")}} interfac
 ## Syntax
 
 ```js
-GPUDevice.createPipelineLayout()
+createPipelineLayout()
 ```
 
 ### Parameters

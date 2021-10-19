@@ -16,7 +16,7 @@ The **`consolidate()`** method of the {{domxref("SVGTransformList")}} interface
 ## Syntax
 
 ```js
-SVGTransformList.consolidate()
+consolidate()
 ```
 
 ### Parameters

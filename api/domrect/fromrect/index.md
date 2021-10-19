@@ -16,7 +16,7 @@ The **`fromRect()`** method of the {{domxref("DOMRect")}} interface
 ## Syntax
 
 ```js
-DOMRect.fromRect()
+fromRect()
 ```
 
 ### Parameters

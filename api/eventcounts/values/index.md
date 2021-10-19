@@ -16,7 +16,7 @@ The **`values()`** method of the {{domxref("EventCounts")}} interface
 ## Syntax
 
 ```js
-EventCounts.values()
+values()
 ```
 
 ### Parameters

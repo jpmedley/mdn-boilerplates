@@ -16,7 +16,7 @@ The **`translate()`** method of the {{domxref("OffscreenCanvasRenderingContext2D
 ## Syntax
 
 ```js
-OffscreenCanvasRenderingContext2D.translate()
+translate()
 ```
 
 ### Parameters

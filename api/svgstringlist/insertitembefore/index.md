@@ -16,7 +16,7 @@ The **`insertItemBefore()`** method of the {{domxref("SVGStringList")}} interfac
 ## Syntax
 
 ```js
-SVGStringList.insertItemBefore()
+insertItemBefore()
 ```
 
 ### Parameters

@@ -16,7 +16,7 @@ The **`forEach()`** method of the {{domxref("AudioParamMap")}} interface
 ## Syntax
 
 ```js
-AudioParamMap.forEach()
+forEach()
 ```
 
 ### Parameters

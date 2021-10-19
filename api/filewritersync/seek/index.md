@@ -16,7 +16,7 @@ The **`seek()`** method of the {{domxref("FileWriterSync")}} interface
 ## Syntax
 
 ```js
-FileWriterSync.seek()
+seek()
 ```
 
 ### Parameters

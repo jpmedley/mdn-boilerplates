@@ -16,7 +16,7 @@ The **`createSVGNumber()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-SVGSVGElement.createSVGNumber()
+createSVGNumber()
 ```
 
 ### Parameters

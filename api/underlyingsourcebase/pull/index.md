@@ -16,7 +16,7 @@ The **`pull()`** method of the {{domxref("UnderlyingSourceBase")}} interface
 ## Syntax
 
 ```js
-UnderlyingSourceBase.pull()
+pull()
 ```
 
 ### Parameters
