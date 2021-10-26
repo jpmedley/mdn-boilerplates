@@ -2,10 +2,8 @@
 title: DeprecatedStorageInfo
 slug: Web/API/DeprecatedStorageInfo
 tags:
-  - API
   - Interface
   - Reference
-  - DeprecatedStorageInfo
 browser-compat: api.DeprecatedStorageInfo
 ---
 {{DefaultAPISidebar("")}}

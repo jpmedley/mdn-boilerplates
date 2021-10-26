@@ -2,11 +2,8 @@
 title: PortalHost.postMessage()
 slug: Web/API/PortalHost/postMessage
 tags:
-  - API
   - Method
   - Reference
-  - postMessage
-  - PortalHost
 browser-compat: api.PortalHost.postMessage
 ---
 {{DefaultAPISidebar("")}}

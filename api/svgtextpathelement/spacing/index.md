@@ -2,11 +2,8 @@
 title: SVGTextPathElement.spacing
 slug: Web/API/SVGTextPathElement/spacing
 tags:
-  - API
   - Property
   - Reference
-  - spacing
-  - SVGTextPathElement
 browser-compat: api.SVGTextPathElement.spacing
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Navigator.requestMIDIAccess()
 slug: Web/API/Navigator/requestMIDIAccess
 tags:
-  - API
   - Method
   - Reference
-  - requestMIDIAccess
-  - Navigator
 browser-compat: api.Navigator.requestMIDIAccess
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: FileSystemCallback.handleEvent()
 slug: Web/API/FileSystemCallback/handleEvent
 tags:
-  - API
   - Method
   - Reference
-  - handleEvent
-  - FileSystemCallback
 browser-compat: api.FileSystemCallback.handleEvent
 ---
 {{DefaultAPISidebar("")}}

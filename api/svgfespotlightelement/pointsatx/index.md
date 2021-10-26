@@ -2,11 +2,8 @@
 title: SVGFESpotLightElement.pointsAtX
 slug: Web/API/SVGFESpotLightElement/pointsAtX
 tags:
-  - API
   - Property
   - Reference
-  - pointsAtX
-  - SVGFESpotLightElement
 browser-compat: api.SVGFESpotLightElement.pointsAtX
 ---
 {{DefaultAPISidebar("")}}

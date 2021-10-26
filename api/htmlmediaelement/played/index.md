@@ -2,11 +2,8 @@
 title: HTMLMediaElement.played
 slug: Web/API/HTMLMediaElement/played
 tags:
-  - API
   - Property
   - Reference
-  - played
-  - HTMLMediaElement
 browser-compat: api.HTMLMediaElement.played
 ---
 {{DefaultAPISidebar("")}}

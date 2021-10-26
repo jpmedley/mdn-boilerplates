@@ -2,10 +2,8 @@
 title: EyeDropper
 slug: Web/API/EyeDropper
 tags:
-  - API
   - Interface
   - Reference
-  - EyeDropper
 browser-compat: api.EyeDropper
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

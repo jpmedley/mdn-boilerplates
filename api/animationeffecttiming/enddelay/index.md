@@ -2,11 +2,8 @@
 title: AnimationEffectTiming.endDelay
 slug: Web/API/AnimationEffectTiming/endDelay
 tags:
-  - API
   - Property
   - Reference
-  - endDelay
-  - AnimationEffectTiming
 browser-compat: api.AnimationEffectTiming.endDelay
 ---
 {{DefaultAPISidebar("")}}

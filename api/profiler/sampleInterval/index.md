@@ -2,11 +2,8 @@
 title: Profiler.sampleInterval
 slug: Web/API/Profiler/sampleInterval
 tags:
-  - API
   - Property
   - Reference
-  - sampleInterval
-  - Profiler
 browser-compat: api.Profiler.sampleInterval
 ---
 {{DefaultAPISidebar("")}}

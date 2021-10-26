@@ -2,11 +2,8 @@
 title: HTMLFrameElement.name
 slug: Web/API/HTMLFrameElement/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - HTMLFrameElement
 browser-compat: api.HTMLFrameElement.name
 ---
 {{DefaultAPISidebar("")}}

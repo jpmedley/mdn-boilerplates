@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.stroke()
 slug: Web/API/PaintRenderingContext2D/stroke
 tags:
-  - API
   - Method
   - Reference
-  - stroke
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.stroke
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLQuoteElement.cite
 slug: Web/API/HTMLQuoteElement/cite
 tags:
-  - API
   - Property
   - Reference
-  - cite
-  - HTMLQuoteElement
 browser-compat: api.HTMLQuoteElement.cite
 ---
 {{DefaultAPISidebar("")}}

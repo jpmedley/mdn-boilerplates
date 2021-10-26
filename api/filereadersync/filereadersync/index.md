@@ -2,10 +2,8 @@
 title: FileReaderSync.FileReaderSync()
 slug: Web/API/FileReaderSync/FileReaderSync
 tags:
-  - API
   - Constructor
   - Reference
-  - FileReaderSync
 browser-compat: api.FileReaderSync.FileReaderSync
 ---
 {{DefaultAPISidebar("")}}

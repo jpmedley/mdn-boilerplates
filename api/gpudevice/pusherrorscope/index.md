@@ -2,11 +2,8 @@
 title: GPUDevice.pushErrorScope()
 slug: Web/API/GPUDevice/pushErrorScope
 tags:
-  - API
   - Method
   - Reference
-  - pushErrorScope
-  - GPUDevice
 browser-compat: api.GPUDevice.pushErrorScope
 ---
 {{DefaultAPISidebar("")}}

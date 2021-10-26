@@ -2,10 +2,8 @@
 title: GamepadList
 slug: Web/API/GamepadList
 tags:
-  - API
   - Interface
   - Reference
-  - GamepadList
 browser-compat: api.GamepadList
 ---
 {{DefaultAPISidebar("")}}

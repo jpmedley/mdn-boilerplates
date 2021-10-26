@@ -2,11 +2,8 @@
 title: HTMLButtonElement.validationMessage
 slug: Web/API/HTMLButtonElement/validationMessage
 tags:
-  - API
   - Property
   - Reference
-  - validationMessage
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.validationMessage
 ---
 {{DefaultAPISidebar("")}}

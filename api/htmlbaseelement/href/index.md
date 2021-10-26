@@ -2,11 +2,8 @@
 title: HTMLBaseElement.href
 slug: Web/API/HTMLBaseElement/href
 tags:
-  - API
   - Property
   - Reference
-  - href
-  - HTMLBaseElement
 browser-compat: api.HTMLBaseElement.href
 ---
 {{DefaultAPISidebar("")}}

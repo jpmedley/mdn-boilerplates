@@ -2,11 +2,8 @@
 title: CoopAccessViolationReportBody.otherDocumentURL
 slug: Web/API/CoopAccessViolationReportBody/otherDocumentURL
 tags:
-  - API
   - Property
   - Reference
-  - otherDocumentURL
-  - CoopAccessViolationReportBody
 browser-compat: api.CoopAccessViolationReportBody.otherDocumentURL
 ---
 {{DefaultAPISidebar("")}}

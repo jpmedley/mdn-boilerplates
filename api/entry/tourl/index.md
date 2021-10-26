@@ -2,11 +2,8 @@
 title: Entry.toURL()
 slug: Web/API/Entry/toURL
 tags:
-  - API
   - Method
   - Reference
-  - toURL
-  - Entry
 browser-compat: api.Entry.toURL
 ---
 {{DefaultAPISidebar("")}}

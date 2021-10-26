@@ -2,11 +2,8 @@
 title: HTMLFieldSetElement.willValidate
 slug: Web/API/HTMLFieldSetElement/willValidate
 tags:
-  - API
   - Property
   - Reference
-  - willValidate
-  - HTMLFieldSetElement
 browser-compat: api.HTMLFieldSetElement.willValidate
 ---
 {{DefaultAPISidebar("")}}

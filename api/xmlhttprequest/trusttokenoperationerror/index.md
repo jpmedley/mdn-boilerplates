@@ -2,11 +2,8 @@
 title: XMLHttpRequest.trustTokenOperationError
 slug: Web/API/XMLHttpRequest/trustTokenOperationError
 tags:
-  - API
   - Property
   - Reference
-  - trustTokenOperationError
-  - XMLHttpRequest
 browser-compat: api.XMLHttpRequest.trustTokenOperationError
 ---
 {{DefaultAPISidebar("")}}

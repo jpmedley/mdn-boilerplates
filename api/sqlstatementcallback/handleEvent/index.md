@@ -2,11 +2,8 @@
 title: SQLStatementCallback.handleEvent()
 slug: Web/API/SQLStatementCallback/handleEvent
 tags:
-  - API
   - Method
   - Reference
-  - handleEvent
-  - SQLStatementCallback
 browser-compat: api.SQLStatementCallback.handleEvent
 ---
 {{DefaultAPISidebar("")}}

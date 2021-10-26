@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.marginHeight
 slug: Web/API/HTMLIFrameElement/marginHeight
 tags:
-  - API
   - Property
   - Reference
-  - marginHeight
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.marginHeight
 ---
 {{DefaultAPISidebar("")}}

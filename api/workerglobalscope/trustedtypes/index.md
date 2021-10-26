@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.trustedTypes
 slug: Web/API/WorkerGlobalScope/trustedTypes
 tags:
-  - API
   - Property
   - Reference
-  - trustedTypes
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.trustedTypes
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.frameBorder
 slug: Web/API/HTMLIFrameElement/frameBorder
 tags:
-  - API
   - Property
   - Reference
-  - frameBorder
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.frameBorder
 ---
 {{DefaultAPISidebar("")}}

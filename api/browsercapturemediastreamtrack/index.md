@@ -2,10 +2,8 @@
 title: BrowserCaptureMediaStreamTrack
 slug: Web/API/BrowserCaptureMediaStreamTrack
 tags:
-  - API
   - Interface
   - Reference
-  - BrowserCaptureMediaStreamTrack
 browser-compat: api.BrowserCaptureMediaStreamTrack
 ---
 {{DefaultAPISidebar("")}}

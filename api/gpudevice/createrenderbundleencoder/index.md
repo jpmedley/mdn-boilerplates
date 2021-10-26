@@ -2,11 +2,8 @@
 title: GPUDevice.createRenderBundleEncoder()
 slug: Web/API/GPUDevice/createRenderBundleEncoder
 tags:
-  - API
   - Method
   - Reference
-  - createRenderBundleEncoder
-  - GPUDevice
 browser-compat: api.GPUDevice.createRenderBundleEncoder
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.align
 slug: Web/API/HTMLIFrameElement/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.align
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGFECompositeElement.in1
 slug: Web/API/SVGFECompositeElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFECompositeElement
 browser-compat: api.SVGFECompositeElement.in1
 ---
 {{DefaultAPISidebar("")}}

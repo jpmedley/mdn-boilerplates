@@ -2,11 +2,8 @@
 title: HTMLInputElement.list
 slug: Web/API/HTMLInputElement/list
 tags:
-  - API
   - Property
   - Reference
-  - list
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.list
 ---
 {{DefaultAPISidebar("")}}

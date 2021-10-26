@@ -2,11 +2,8 @@
 title: SVGGradientElement.spreadMethod
 slug: Web/API/SVGGradientElement/spreadMethod
 tags:
-  - API
   - Property
   - Reference
-  - spreadMethod
-  - SVGGradientElement
 browser-compat: api.SVGGradientElement.spreadMethod
 ---
 {{DefaultAPISidebar("")}}

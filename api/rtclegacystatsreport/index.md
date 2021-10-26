@@ -2,10 +2,8 @@
 title: RTCLegacyStatsReport
 slug: Web/API/RTCLegacyStatsReport
 tags:
-  - API
   - Interface
   - Reference
-  - RTCLegacyStatsReport
 browser-compat: api.RTCLegacyStatsReport
 ---
 {{DefaultAPISidebar("")}}

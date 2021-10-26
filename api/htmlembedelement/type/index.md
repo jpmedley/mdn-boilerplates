@@ -2,11 +2,8 @@
 title: HTMLEmbedElement.type
 slug: Web/API/HTMLEmbedElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLEmbedElement
 browser-compat: api.HTMLEmbedElement.type
 ---
 {{DefaultAPISidebar("")}}

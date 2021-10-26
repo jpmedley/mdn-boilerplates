@@ -2,11 +2,8 @@
 title: HTMLSelectElement.required
 slug: Web/API/HTMLSelectElement/required
 tags:
-  - API
   - Property
   - Reference
-  - required
-  - HTMLSelectElement
 browser-compat: api.HTMLSelectElement.required
 ---
 {{DefaultAPISidebar("")}}

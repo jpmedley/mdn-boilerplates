@@ -2,11 +2,8 @@
 title: HTMLFencedFrameElement.src
 slug: Web/API/HTMLFencedFrameElement/src
 tags:
-  - API
   - Property
   - Reference
-  - src
-  - HTMLFencedFrameElement
 browser-compat: api.HTMLFencedFrameElement.src
 ---
 {{DefaultAPISidebar("")}}

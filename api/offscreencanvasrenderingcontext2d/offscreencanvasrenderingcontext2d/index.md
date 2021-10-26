@@ -2,10 +2,8 @@
 title: OffscreenCanvasRenderingContext2D
 slug: Web/API/OffscreenCanvasRenderingContext2D
 tags:
-  - API
   - Interface
   - Reference
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D
 ---
 {{DefaultAPISidebar("")}}

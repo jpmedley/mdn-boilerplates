@@ -2,11 +2,8 @@
 title: HTMLInputElement.max
 slug: Web/API/HTMLInputElement/max
 tags:
-  - API
   - Property
   - Reference
-  - max
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.max
 ---
 {{DefaultAPISidebar("")}}

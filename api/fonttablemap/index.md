@@ -2,10 +2,8 @@
 title: FontTableMap
 slug: Web/API/FontTableMap
 tags:
-  - API
   - Interface
   - Reference
-  - FontTableMap
 browser-compat: api.FontTableMap
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

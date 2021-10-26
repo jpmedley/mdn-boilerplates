@@ -2,10 +2,8 @@
 title: HighlightRegistry
 slug: Web/API/HighlightRegistry
 tags:
-  - API
   - Interface
   - Reference
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry
 ---
 {{DefaultAPISidebar("")}}

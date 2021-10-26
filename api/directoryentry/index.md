@@ -2,10 +2,8 @@
 title: DirectoryEntry
 slug: Web/API/DirectoryEntry
 tags:
-  - API
   - Interface
   - Reference
-  - DirectoryEntry
 browser-compat: api.DirectoryEntry
 ---
 {{DefaultAPISidebar("")}}

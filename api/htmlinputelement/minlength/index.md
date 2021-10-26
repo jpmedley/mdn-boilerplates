@@ -2,11 +2,8 @@
 title: HTMLInputElement.minLength
 slug: Web/API/HTMLInputElement/minLength
 tags:
-  - API
   - Property
   - Reference
-  - minLength
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.minLength
 ---
 {{DefaultAPISidebar("")}}

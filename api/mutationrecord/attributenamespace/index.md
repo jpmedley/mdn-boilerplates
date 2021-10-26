@@ -2,11 +2,8 @@
 title: MutationRecord.attributeNamespace
 slug: Web/API/MutationRecord/attributeNamespace
 tags:
-  - API
   - Property
   - Reference
-  - attributeNamespace
-  - MutationRecord
 browser-compat: api.MutationRecord.attributeNamespace
 ---
 {{DefaultAPISidebar("")}}

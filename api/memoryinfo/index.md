@@ -2,10 +2,8 @@
 title: MemoryInfo
 slug: Web/API/MemoryInfo
 tags:
-  - API
   - Interface
   - Reference
-  - MemoryInfo
 browser-compat: api.MemoryInfo
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLLinkElement.integrity
 slug: Web/API/HTMLLinkElement/integrity
 tags:
-  - API
   - Property
   - Reference
-  - integrity
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.integrity
 ---
 {{DefaultAPISidebar("")}}

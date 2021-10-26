@@ -2,11 +2,8 @@
 title: ShadowRoot.StringContext=TrustedHTML
 slug: Web/API/ShadowRoot/StringContext=TrustedHTML
 tags:
-  - API
   - Property
   - Reference
-  - StringContext=TrustedHTML
-  - ShadowRoot
 browser-compat: api.ShadowRoot.StringContext=TrustedHTML
 ---
 {{DefaultAPISidebar("")}}

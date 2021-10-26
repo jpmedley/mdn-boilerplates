@@ -2,11 +2,8 @@
 title: ByteLengthQueuingStrategy.highWaterMark
 slug: Web/API/ByteLengthQueuingStrategy/highWaterMark
 tags:
-  - API
   - Property
   - Reference
-  - highWaterMark
-  - ByteLengthQueuingStrategy
 browser-compat: api.ByteLengthQueuingStrategy.highWaterMark
 ---
 {{DefaultAPISidebar("")}}

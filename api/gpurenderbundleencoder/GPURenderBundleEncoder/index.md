@@ -2,10 +2,8 @@
 title: GPURenderBundleEncoder
 slug: Web/API/GPURenderBundleEncoder
 tags:
-  - API
   - Interface
   - Reference
-  - GPURenderBundleEncoder
 browser-compat: api.GPURenderBundleEncoder
 ---
 {{DefaultAPISidebar("")}}

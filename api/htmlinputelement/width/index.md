@@ -2,11 +2,8 @@
 title: HTMLInputElement.width
 slug: Web/API/HTMLInputElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.width
 ---
 {{DefaultAPISidebar("")}}

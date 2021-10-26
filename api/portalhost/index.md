@@ -2,10 +2,8 @@
 title: PortalHost
 slug: Web/API/PortalHost
 tags:
-  - API
   - Interface
   - Reference
-  - PortalHost
 browser-compat: api.PortalHost
 ---
 {{DefaultAPISidebar("")}}

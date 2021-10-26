@@ -2,11 +2,8 @@
 title: SVGTransformList.getItem()
 slug: Web/API/SVGTransformList/getItem
 tags:
-  - API
   - Method
   - Reference
-  - getItem
-  - SVGTransformList
 browser-compat: api.SVGTransformList.getItem
 ---
 {{DefaultAPISidebar("")}}

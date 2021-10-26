@@ -2,10 +2,8 @@
 title: PermissionsPolicyViolationReportBody
 slug: Web/API/PermissionsPolicyViolationReportBody
 tags:
-  - API
   - Interface
   - Reference
-  - PermissionsPolicyViolationReportBody
 browser-compat: api.PermissionsPolicyViolationReportBody
 ---
 {{DefaultAPISidebar("")}}

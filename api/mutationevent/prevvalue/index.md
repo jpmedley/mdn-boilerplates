@@ -2,11 +2,8 @@
 title: MutationEvent.prevValue
 slug: Web/API/MutationEvent/prevValue
 tags:
-  - API
   - Property
   - Reference
-  - prevValue
-  - MutationEvent
 browser-compat: api.MutationEvent.prevValue
 ---
 {{DefaultAPISidebar("")}}

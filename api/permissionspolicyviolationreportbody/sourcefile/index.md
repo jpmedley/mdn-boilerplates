@@ -2,11 +2,8 @@
 title: PermissionsPolicyViolationReportBody.sourceFile
 slug: Web/API/PermissionsPolicyViolationReportBody/sourceFile
 tags:
-  - API
   - Property
   - Reference
-  - sourceFile
-  - PermissionsPolicyViolationReportBody
 browser-compat: api.PermissionsPolicyViolationReportBody.sourceFile
 ---
 {{DefaultAPISidebar("")}}

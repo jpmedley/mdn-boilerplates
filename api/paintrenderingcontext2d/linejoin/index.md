@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.lineJoin
 slug: Web/API/PaintRenderingContext2D/lineJoin
 tags:
-  - API
   - Property
   - Reference
-  - lineJoin
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.lineJoin
 ---
 {{DefaultAPISidebar("")}}

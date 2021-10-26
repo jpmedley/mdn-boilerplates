@@ -2,11 +2,8 @@
 title: RTCEncodedVideoFrame.timestamp
 slug: Web/API/RTCEncodedVideoFrame/timestamp
 tags:
-  - API
   - Property
   - Reference
-  - timestamp
-  - RTCEncodedVideoFrame
 browser-compat: api.RTCEncodedVideoFrame.timestamp
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLImageElement.importance
 slug: Web/API/HTMLImageElement/importance
 tags:
-  - API
   - Property
   - Reference
-  - importance
-  - HTMLImageElement
 browser-compat: api.HTMLImageElement.importance
 ---
 {{DefaultAPISidebar("")}}

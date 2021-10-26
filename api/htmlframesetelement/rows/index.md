@@ -2,11 +2,8 @@
 title: HTMLFrameSetElement.rows
 slug: Web/API/HTMLFrameSetElement/rows
 tags:
-  - API
   - Property
   - Reference
-  - rows
-  - HTMLFrameSetElement
 browser-compat: api.HTMLFrameSetElement.rows
 ---
 {{DefaultAPISidebar("")}}

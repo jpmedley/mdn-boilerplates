@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.performance
 slug: Web/API/WorkerGlobalScope/performance
 tags:
-  - API
   - Property
   - Reference
-  - performance
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.performance
 ---
 {{DefaultAPISidebar("")}}

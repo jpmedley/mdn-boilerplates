@@ -2,11 +2,8 @@
 title: Navigator.updateAdInterestGroups()
 slug: Web/API/Navigator/updateAdInterestGroups
 tags:
-  - API
   - Method
   - Reference
-  - updateAdInterestGroups
-  - Navigator
 browser-compat: api.Navigator.updateAdInterestGroups
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Internals.collectSample()
 slug: Web/API/Internals/collectSample
 tags:
-  - API
   - Method
   - Reference
-  - collectSample
-  - Internals
 browser-compat: api.Internals.collectSample
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.filter
 slug: Web/API/PaintRenderingContext2D/filter
 tags:
-  - API
   - Property
   - Reference
-  - filter
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.filter
 ---
 {{DefaultAPISidebar("")}}

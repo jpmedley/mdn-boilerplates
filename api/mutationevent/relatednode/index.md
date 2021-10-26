@@ -2,11 +2,8 @@
 title: MutationEvent.relatedNode
 slug: Web/API/MutationEvent/relatedNode
 tags:
-  - API
   - Property
   - Reference
-  - relatedNode
-  - MutationEvent
 browser-compat: api.MutationEvent.relatedNode
 ---
 {{DefaultAPISidebar("")}}

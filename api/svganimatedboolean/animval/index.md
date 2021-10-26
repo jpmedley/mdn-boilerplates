@@ -2,11 +2,8 @@
 title: SVGAnimatedBoolean.animVal
 slug: Web/API/SVGAnimatedBoolean/animVal
 tags:
-  - API
   - Property
   - Reference
-  - animVal
-  - SVGAnimatedBoolean
 browser-compat: api.SVGAnimatedBoolean.animVal
 ---
 {{DefaultAPISidebar("")}}

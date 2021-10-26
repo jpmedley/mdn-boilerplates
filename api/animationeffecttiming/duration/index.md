@@ -2,11 +2,8 @@
 title: AnimationEffectTiming.duration
 slug: Web/API/AnimationEffectTiming/duration
 tags:
-  - API
   - Property
   - Reference
-  - duration
-  - AnimationEffectTiming
 browser-compat: api.AnimationEffectTiming.duration
 ---
 {{DefaultAPISidebar("")}}

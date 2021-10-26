@@ -2,11 +2,8 @@
 title: HTMLFrameSetElement.onerror
 slug: Web/API/HTMLFrameSetElement/onerror
 tags:
-  - API
   - Property
   - Reference
-  - onerror
-  - HTMLFrameSetElement
 browser-compat: api.HTMLFrameSetElement.onerror
 ---
 {{DefaultAPISidebar("")}}

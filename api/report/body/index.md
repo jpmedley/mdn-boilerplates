@@ -2,11 +2,8 @@
 title: Report.body
 slug: Web/API/Report/body
 tags:
-  - API
   - Property
   - Reference
-  - body
-  - Report
 browser-compat: api.Report.body
 ---
 {{DefaultAPISidebar("")}}

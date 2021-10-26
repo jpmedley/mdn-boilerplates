@@ -2,11 +2,8 @@
 title: GPUQueue.onSubmittedWorkDone()
 slug: Web/API/GPUQueue/onSubmittedWorkDone
 tags:
-  - API
   - Method
   - Reference
-  - onSubmittedWorkDone
-  - GPUQueue
 browser-compat: api.GPUQueue.onSubmittedWorkDone
 ---
 {{DefaultAPISidebar("")}}

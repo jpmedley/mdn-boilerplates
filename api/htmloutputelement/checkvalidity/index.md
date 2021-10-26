@@ -2,11 +2,8 @@
 title: HTMLOutputElement.checkValidity()
 slug: Web/API/HTMLOutputElement/checkValidity
 tags:
-  - API
   - Method
   - Reference
-  - checkValidity
-  - HTMLOutputElement
 browser-compat: api.HTMLOutputElement.checkValidity
 ---
 {{DefaultAPISidebar("")}}

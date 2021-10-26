@@ -2,11 +2,8 @@
 title: HTMLUListElement.type
 slug: Web/API/HTMLUListElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLUListElement
 browser-compat: api.HTMLUListElement.type
 ---
 {{DefaultAPISidebar("")}}

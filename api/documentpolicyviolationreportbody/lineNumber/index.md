@@ -2,11 +2,8 @@
 title: DocumentPolicyViolationReportBody.lineNumber
 slug: Web/API/DocumentPolicyViolationReportBody/lineNumber
 tags:
-  - API
   - Property
   - Reference
-  - lineNumber
-  - DocumentPolicyViolationReportBody
 browser-compat: api.DocumentPolicyViolationReportBody.lineNumber
 ---
 {{DefaultAPISidebar("")}}

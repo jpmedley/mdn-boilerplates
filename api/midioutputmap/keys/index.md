@@ -2,11 +2,8 @@
 title: MIDIOutputMap.keys()
 slug: Web/API/MIDIOutputMap/keys
 tags:
-  - API
   - Method
   - Reference
-  - keys
-  - MIDIOutputMap
 browser-compat: api.MIDIOutputMap.keys
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Document.onwebkitfullscreenchange
 slug: Web/API/Document/onwebkitfullscreenchange
 tags:
-  - API
   - Property
   - Reference
-  - onwebkitfullscreenchange
-  - Document
 browser-compat: api.Document.onwebkitfullscreenchange
 ---
 {{DefaultAPISidebar("")}}

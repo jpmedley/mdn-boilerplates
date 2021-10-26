@@ -2,11 +2,8 @@
 title: HTMLScriptElement.async
 slug: Web/API/HTMLScriptElement/async
 tags:
-  - API
   - Property
   - Reference
-  - async
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.async
 ---
 {{DefaultAPISidebar("")}}

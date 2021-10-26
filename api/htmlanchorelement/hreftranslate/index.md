@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.hrefTranslate
 slug: Web/API/HTMLAnchorElement/hrefTranslate
 tags:
-  - API
   - Property
   - Reference
-  - hrefTranslate
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.hrefTranslate
 ---
 {{DefaultAPISidebar("")}}

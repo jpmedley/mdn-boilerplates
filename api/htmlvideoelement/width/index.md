@@ -2,11 +2,8 @@
 title: HTMLVideoElement.width
 slug: Web/API/HTMLVideoElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.width
 ---
 {{DefaultAPISidebar("")}}

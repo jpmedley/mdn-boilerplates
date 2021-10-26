@@ -2,11 +2,8 @@
 title: SVGStyleElement.type
 slug: Web/API/SVGStyleElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - SVGStyleElement
 browser-compat: api.SVGStyleElement.type
 ---
 {{DefaultAPISidebar("")}}

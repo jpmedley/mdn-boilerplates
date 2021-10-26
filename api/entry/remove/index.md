@@ -2,11 +2,8 @@
 title: Entry.remove()
 slug: Web/API/Entry/remove
 tags:
-  - API
   - Method
   - Reference
-  - remove
-  - Entry
 browser-compat: api.Entry.remove
 ---
 {{DefaultAPISidebar("")}}

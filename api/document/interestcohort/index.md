@@ -2,11 +2,8 @@
 title: Document.interestCohort()
 slug: Web/API/Document/interestCohort
 tags:
-  - API
   - Method
   - Reference
-  - interestCohort
-  - Document
 browser-compat: api.Document.interestCohort
 ---
 {{DefaultAPISidebar("")}}

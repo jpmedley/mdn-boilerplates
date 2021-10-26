@@ -2,11 +2,8 @@
 title: SVGAnimatedRect.baseVal
 slug: Web/API/SVGAnimatedRect/baseVal
 tags:
-  - API
   - Property
   - Reference
-  - baseVal
-  - SVGAnimatedRect
 browser-compat: api.SVGAnimatedRect.baseVal
 ---
 {{DefaultAPISidebar("")}}

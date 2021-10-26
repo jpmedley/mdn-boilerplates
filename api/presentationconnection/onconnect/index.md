@@ -2,11 +2,8 @@
 title: PresentationConnection.onconnect
 slug: Web/API/PresentationConnection/onconnect
 tags:
-  - API
   - Property
   - Reference
-  - onconnect
-  - PresentationConnection
 browser-compat: api.PresentationConnection.onconnect
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

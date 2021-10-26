@@ -2,11 +2,8 @@
 title: IdleDetector.start()
 slug: Web/API/IdleDetector/start
 tags:
-  - API
   - Method
   - Reference
-  - start
-  - IdleDetector
 browser-compat: api.IdleDetector.start
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

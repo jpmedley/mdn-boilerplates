@@ -2,11 +2,8 @@
 title: ServiceWorkerRegistration.cookies
 slug: Web/API/ServiceWorkerRegistration/cookies
 tags:
-  - API
   - Property
   - Reference
-  - cookies
-  - ServiceWorkerRegistration
 browser-compat: api.ServiceWorkerRegistration.cookies
 ---
 {{DefaultAPISidebar("")}}

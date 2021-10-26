@@ -2,11 +2,8 @@
 title: HTMLProgressElement.max
 slug: Web/API/HTMLProgressElement/max
 tags:
-  - API
   - Property
   - Reference
-  - max
-  - HTMLProgressElement
 browser-compat: api.HTMLProgressElement.max
 ---
 {{DefaultAPISidebar("")}}

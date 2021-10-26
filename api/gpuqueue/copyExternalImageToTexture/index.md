@@ -2,11 +2,8 @@
 title: GPUQueue.copyExternalImageToTexture()
 slug: Web/API/GPUQueue/copyExternalImageToTexture
 tags:
-  - API
   - Method
   - Reference
-  - copyExternalImageToTexture
-  - GPUQueue
 browser-compat: api.GPUQueue.copyExternalImageToTexture
 ---
 {{DefaultAPISidebar("")}}

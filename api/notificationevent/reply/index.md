@@ -2,11 +2,8 @@
 title: NotificationEvent.reply
 slug: Web/API/NotificationEvent/reply
 tags:
-  - API
   - Property
   - Reference
-  - reply
-  - NotificationEvent
 browser-compat: api.NotificationEvent.reply
 ---
 {{DefaultAPISidebar("")}}

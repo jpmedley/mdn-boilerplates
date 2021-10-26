@@ -2,11 +2,8 @@
 title: SVGSVGElement.checkIntersection()
 slug: Web/API/SVGSVGElement/checkIntersection
 tags:
-  - API
   - Method
   - Reference
-  - checkIntersection
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.checkIntersection
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Document.webkitExitFullscreen()
 slug: Web/API/Document/webkitExitFullscreen
 tags:
-  - API
   - Method
   - Reference
-  - webkitExitFullscreen
-  - Document
 browser-compat: api.Document.webkitExitFullscreen
 ---
 {{DefaultAPISidebar("")}}

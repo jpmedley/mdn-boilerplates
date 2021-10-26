@@ -2,11 +2,8 @@
 title: HTMLInputElement.pattern
 slug: Web/API/HTMLInputElement/pattern
 tags:
-  - API
   - Property
   - Reference
-  - pattern
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.pattern
 ---
 {{DefaultAPISidebar("")}}

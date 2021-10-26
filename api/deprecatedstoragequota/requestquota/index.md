@@ -2,11 +2,8 @@
 title: DeprecatedStorageQuota.requestQuota()
 slug: Web/API/DeprecatedStorageQuota/requestQuota
 tags:
-  - API
   - Method
   - Reference
-  - requestQuota
-  - DeprecatedStorageQuota
 browser-compat: api.DeprecatedStorageQuota.requestQuota
 ---
 {{DefaultAPISidebar("")}}

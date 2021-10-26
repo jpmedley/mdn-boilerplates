@@ -2,11 +2,8 @@
 title: HTMLBodyElement.aLink
 slug: Web/API/HTMLBodyElement/aLink
 tags:
-  - API
   - Property
   - Reference
-  - aLink
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.aLink
 ---
 {{DefaultAPISidebar("")}}

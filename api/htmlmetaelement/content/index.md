@@ -2,11 +2,8 @@
 title: HTMLMetaElement.content
 slug: Web/API/HTMLMetaElement/content
 tags:
-  - API
   - Property
   - Reference
-  - content
-  - HTMLMetaElement
 browser-compat: api.HTMLMetaElement.content
 ---
 {{DefaultAPISidebar("")}}

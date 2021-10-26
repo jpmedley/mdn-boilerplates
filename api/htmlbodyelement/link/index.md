@@ -2,11 +2,8 @@
 title: HTMLBodyElement.link
 slug: Web/API/HTMLBodyElement/link
 tags:
-  - API
   - Property
   - Reference
-  - link
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.link
 ---
 {{DefaultAPISidebar("")}}

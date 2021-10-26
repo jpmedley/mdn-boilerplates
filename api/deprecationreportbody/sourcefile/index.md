@@ -2,11 +2,8 @@
 title: DeprecationReportBody.sourceFile
 slug: Web/API/DeprecationReportBody/sourceFile
 tags:
-  - API
   - Property
   - Reference
-  - sourceFile
-  - DeprecationReportBody
 browser-compat: api.DeprecationReportBody.sourceFile
 ---
 {{DefaultAPISidebar("")}}

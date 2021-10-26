@@ -2,10 +2,8 @@
 title: GPUPipelineLayout
 slug: Web/API/GPUPipelineLayout
 tags:
-  - API
   - Interface
   - Reference
-  - GPUPipelineLayout
 browser-compat: api.GPUPipelineLayout
 ---
 {{DefaultAPISidebar("")}}

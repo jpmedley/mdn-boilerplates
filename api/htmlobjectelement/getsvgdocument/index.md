@@ -2,11 +2,8 @@
 title: HTMLObjectElement.getSVGDocument()
 slug: Web/API/HTMLObjectElement/getSVGDocument
 tags:
-  - API
   - Method
   - Reference
-  - getSVGDocument
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.getSVGDocument
 ---
 {{DefaultAPISidebar("")}}

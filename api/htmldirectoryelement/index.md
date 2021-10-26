@@ -2,10 +2,8 @@
 title: HTMLDirectoryElement
 slug: Web/API/HTMLDirectoryElement
 tags:
-  - API
   - Interface
   - Reference
-  - HTMLDirectoryElement
 browser-compat: api.HTMLDirectoryElement
 ---
 {{DefaultAPISidebar("")}}

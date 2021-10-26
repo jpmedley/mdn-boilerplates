@@ -2,11 +2,8 @@
 title: SVGUseElement.y
 slug: Web/API/SVGUseElement/y
 tags:
-  - API
   - Property
   - Reference
-  - y
-  - SVGUseElement
 browser-compat: api.SVGUseElement.y
 ---
 {{DefaultAPISidebar("")}}

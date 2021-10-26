@@ -2,11 +2,8 @@
 title: SVGFEDropShadowElement.dx
 slug: Web/API/SVGFEDropShadowElement/dx
 tags:
-  - API
   - Property
   - Reference
-  - dx
-  - SVGFEDropShadowElement
 browser-compat: api.SVGFEDropShadowElement.dx
 ---
 {{DefaultAPISidebar("")}}

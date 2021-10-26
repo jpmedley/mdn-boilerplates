@@ -2,11 +2,8 @@
 title: DOMMatrix.fromMatrix()
 slug: Web/API/DOMMatrix/fromMatrix
 tags:
-  - API
   - Method
   - Reference
-  - fromMatrix
-  - DOMMatrix
 browser-compat: api.DOMMatrix.fromMatrix
 ---
 {{DefaultAPISidebar("")}}

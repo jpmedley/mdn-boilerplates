@@ -2,11 +2,8 @@
 title: DOMMatrix.fromFloat32Array()
 slug: Web/API/DOMMatrix/fromFloat32Array
 tags:
-  - API
   - Method
   - Reference
-  - fromFloat32Array
-  - DOMMatrix
 browser-compat: api.DOMMatrix.fromFloat32Array
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: USBIsochronousOutTransferPacket.USBIsochronousOutTransferPacket()
 slug: Web/API/USBIsochronousOutTransferPacket/USBIsochronousOutTransferPacket
 tags:
-  - API
   - Constructor
   - Reference
-  - USBIsochronousOutTransferPacket
 browser-compat: api.USBIsochronousOutTransferPacket.USBIsochronousOutTransferPacket
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

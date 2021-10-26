@@ -2,10 +2,8 @@
 title: PagePopupController
 slug: Web/API/PagePopupController
 tags:
-  - API
   - Interface
   - Reference
-  - PagePopupController
 browser-compat: api.PagePopupController
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGPatternElement.width
 slug: Web/API/SVGPatternElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - SVGPatternElement
 browser-compat: api.SVGPatternElement.width
 ---
 {{DefaultAPISidebar("")}}

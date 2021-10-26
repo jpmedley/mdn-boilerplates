@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.hspace
 slug: Web/API/HTMLMarqueeElement/hspace
 tags:
-  - API
   - Property
   - Reference
-  - hspace
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.hspace
 ---
 {{DefaultAPISidebar("")}}

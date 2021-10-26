@@ -2,11 +2,8 @@
 title: WebTransport.ready
 slug: Web/API/WebTransport/ready
 tags:
-  - API
   - Property
   - Reference
-  - ready
-  - WebTransport
 browser-compat: api.WebTransport.ready
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

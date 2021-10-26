@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.chOff
 slug: Web/API/HTMLTableCellElement/chOff
 tags:
-  - API
   - Property
   - Reference
-  - chOff
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.chOff
 ---
 {{DefaultAPISidebar("")}}

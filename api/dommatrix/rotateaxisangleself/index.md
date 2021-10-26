@@ -2,11 +2,8 @@
 title: DOMMatrix.rotateAxisAngleSelf()
 slug: Web/API/DOMMatrix/rotateAxisAngleSelf
 tags:
-  - API
   - Method
   - Reference
-  - rotateAxisAngleSelf
-  - DOMMatrix
 browser-compat: api.DOMMatrix.rotateAxisAngleSelf
 ---
 {{DefaultAPISidebar("")}}

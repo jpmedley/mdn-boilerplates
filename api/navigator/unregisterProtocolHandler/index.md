@@ -2,11 +2,8 @@
 title: Navigator.unregisterProtocolHandler()
 slug: Web/API/Navigator/unregisterProtocolHandler
 tags:
-  - API
   - Method
   - Reference
-  - unregisterProtocolHandler
-  - Navigator
 browser-compat: api.Navigator.unregisterProtocolHandler
 ---
 {{DefaultAPISidebar("")}}

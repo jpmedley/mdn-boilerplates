@@ -2,11 +2,8 @@
 title: HTMLBodyElement.onerror
 slug: Web/API/HTMLBodyElement/onerror
 tags:
-  - API
   - Property
   - Reference
-  - onerror
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.onerror
 ---
 {{DefaultAPISidebar("")}}

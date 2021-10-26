@@ -2,11 +2,8 @@
 title: Document.onpointerlockchange
 slug: Web/API/Document/onpointerlockchange
 tags:
-  - API
   - Property
   - Reference
-  - onpointerlockchange
-  - Document
 browser-compat: api.Document.onpointerlockchange
 ---
 {{DefaultAPISidebar("")}}

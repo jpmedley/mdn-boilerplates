@@ -2,11 +2,8 @@
 title: DOMRectList.length
 slug: Web/API/DOMRectList/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - DOMRectList
 browser-compat: api.DOMRectList.length
 ---
 {{DefaultAPISidebar("")}}

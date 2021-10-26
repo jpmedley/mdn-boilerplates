@@ -2,11 +2,8 @@
 title: GamepadHapticActuator.reset()
 slug: Web/API/GamepadHapticActuator/reset
 tags:
-  - API
   - Method
   - Reference
-  - reset
-  - GamepadHapticActuator
 browser-compat: api.GamepadHapticActuator.reset
 ---
 {{DefaultAPISidebar("")}}

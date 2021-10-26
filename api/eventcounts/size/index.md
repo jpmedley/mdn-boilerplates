@@ -2,11 +2,8 @@
 title: EventCounts.size()
 slug: Web/API/EventCounts/size
 tags:
-  - API
   - Method
   - Reference
-  - size
-  - EventCounts
 browser-compat: api.EventCounts.size
 ---
 {{DefaultAPISidebar("")}}

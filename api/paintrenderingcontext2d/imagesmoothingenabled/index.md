@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.imageSmoothingEnabled
 slug: Web/API/PaintRenderingContext2D/imageSmoothingEnabled
 tags:
-  - API
   - Property
   - Reference
-  - imageSmoothingEnabled
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.imageSmoothingEnabled
 ---
 {{DefaultAPISidebar("")}}

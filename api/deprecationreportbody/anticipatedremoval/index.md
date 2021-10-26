@@ -2,11 +2,8 @@
 title: DeprecationReportBody.anticipatedRemoval
 slug: Web/API/DeprecationReportBody/anticipatedRemoval
 tags:
-  - API
   - Property
   - Reference
-  - anticipatedRemoval
-  - DeprecationReportBody
 browser-compat: api.DeprecationReportBody.anticipatedRemoval
 ---
 {{DefaultAPISidebar("")}}

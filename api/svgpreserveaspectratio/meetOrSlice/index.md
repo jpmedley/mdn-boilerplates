@@ -2,11 +2,8 @@
 title: SVGPreserveAspectRatio.meetOrSlice
 slug: Web/API/SVGPreserveAspectRatio/meetOrSlice
 tags:
-  - API
   - Property
   - Reference
-  - meetOrSlice
-  - SVGPreserveAspectRatio
 browser-compat: api.SVGPreserveAspectRatio.meetOrSlice
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: VirtualKeyboard.overlaysContent
 slug: Web/API/VirtualKeyboard/overlaysContent
 tags:
-  - API
   - Property
   - Reference
-  - overlaysContent
-  - VirtualKeyboard
 browser-compat: api.VirtualKeyboard.overlaysContent
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

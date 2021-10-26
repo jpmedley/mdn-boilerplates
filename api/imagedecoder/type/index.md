@@ -2,11 +2,8 @@
 title: ImageDecoder.type
 slug: Web/API/ImageDecoder/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - ImageDecoder
 browser-compat: api.ImageDecoder.type
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

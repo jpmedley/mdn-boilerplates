@@ -2,11 +2,8 @@
 title: FileWriter.error
 slug: Web/API/FileWriter/error
 tags:
-  - API
   - Property
   - Reference
-  - error
-  - FileWriter
 browser-compat: api.FileWriter.error
 ---
 {{DefaultAPISidebar("")}}

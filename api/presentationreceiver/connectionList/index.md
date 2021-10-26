@@ -2,11 +2,8 @@
 title: PresentationReceiver.connectionList
 slug: Web/API/PresentationReceiver/connectionList
 tags:
-  - API
   - Property
   - Reference
-  - connectionList
-  - PresentationReceiver
 browser-compat: api.PresentationReceiver.connectionList
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

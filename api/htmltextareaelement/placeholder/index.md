@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.placeholder
 slug: Web/API/HTMLTextAreaElement/placeholder
 tags:
-  - API
   - Property
   - Reference
-  - placeholder
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.placeholder
 ---
 {{DefaultAPISidebar("")}}

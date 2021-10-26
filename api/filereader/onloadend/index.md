@@ -2,11 +2,8 @@
 title: FileReader.onloadend
 slug: Web/API/FileReader/onloadend
 tags:
-  - API
   - Property
   - Reference
-  - onloadend
-  - FileReader
 browser-compat: api.FileReader.onloadend
 ---
 {{DefaultAPISidebar("")}}

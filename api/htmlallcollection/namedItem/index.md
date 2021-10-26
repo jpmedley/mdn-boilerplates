@@ -2,11 +2,8 @@
 title: HTMLAllCollection.namedItem()
 slug: Web/API/HTMLAllCollection/namedItem
 tags:
-  - API
   - Method
   - Reference
-  - namedItem
-  - HTMLAllCollection
 browser-compat: api.HTMLAllCollection.namedItem
 ---
 {{DefaultAPISidebar("")}}

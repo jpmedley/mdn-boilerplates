@@ -2,11 +2,8 @@
 title: Entry.copyTo()
 slug: Web/API/Entry/copyTo
 tags:
-  - API
   - Method
   - Reference
-  - copyTo
-  - Entry
 browser-compat: api.Entry.copyTo
 ---
 {{DefaultAPISidebar("")}}

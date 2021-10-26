@@ -2,11 +2,8 @@
 title: RTCDtlsTransport.onstatechange
 slug: Web/API/RTCDtlsTransport/onstatechange
 tags:
-  - API
   - Property
   - Reference
-  - onstatechange
-  - RTCDtlsTransport
 browser-compat: api.RTCDtlsTransport.onstatechange
 ---
 {{DefaultAPISidebar("")}}

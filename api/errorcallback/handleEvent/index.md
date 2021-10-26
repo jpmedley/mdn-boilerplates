@@ -2,11 +2,8 @@
 title: ErrorCallback.handleEvent()
 slug: Web/API/ErrorCallback/handleEvent
 tags:
-  - API
   - Method
   - Reference
-  - handleEvent
-  - ErrorCallback
 browser-compat: api.ErrorCallback.handleEvent
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGLength.newValueSpecifiedUnits()
 slug: Web/API/SVGLength/newValueSpecifiedUnits
 tags:
-  - API
   - Method
   - Reference
-  - newValueSpecifiedUnits
-  - SVGLength
 browser-compat: api.SVGLength.newValueSpecifiedUnits
 ---
 {{DefaultAPISidebar("")}}

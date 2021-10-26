@@ -2,10 +2,8 @@
 title: TrackEvent.TrackEvent()
 slug: Web/API/TrackEvent/TrackEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - TrackEvent
 browser-compat: api.TrackEvent.TrackEvent
 ---
 {{DefaultAPISidebar("")}}

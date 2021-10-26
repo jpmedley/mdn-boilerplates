@@ -2,11 +2,8 @@
 title: SVGFEBlendElement.in1
 slug: Web/API/SVGFEBlendElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEBlendElement
 browser-compat: api.SVGFEBlendElement.in1
 ---
 {{DefaultAPISidebar("")}}

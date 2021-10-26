@@ -2,11 +2,8 @@
 title: DOMMatrix.m24
 slug: Web/API/DOMMatrix/m24
 tags:
-  - API
   - Property
   - Reference
-  - m24
-  - DOMMatrix
 browser-compat: api.DOMMatrix.m24
 ---
 {{DefaultAPISidebar("")}}

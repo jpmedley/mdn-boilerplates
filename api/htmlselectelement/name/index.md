@@ -2,11 +2,8 @@
 title: HTMLSelectElement.name
 slug: Web/API/HTMLSelectElement/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - HTMLSelectElement
 browser-compat: api.HTMLSelectElement.name
 ---
 {{DefaultAPISidebar("")}}

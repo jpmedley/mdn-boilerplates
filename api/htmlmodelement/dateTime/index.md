@@ -2,11 +2,8 @@
 title: HTMLModElement.dateTime
 slug: Web/API/HTMLModElement/dateTime
 tags:
-  - API
   - Property
   - Reference
-  - dateTime
-  - HTMLModElement
 browser-compat: api.HTMLModElement.dateTime
 ---
 {{DefaultAPISidebar("")}}

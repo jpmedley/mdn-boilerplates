@@ -2,11 +2,8 @@
 title: SVGComponentTransferFunctionElement.tableValues
 slug: Web/API/SVGComponentTransferFunctionElement/tableValues
 tags:
-  - API
   - Property
   - Reference
-  - tableValues
-  - SVGComponentTransferFunctionElement
 browser-compat: api.SVGComponentTransferFunctionElement.tableValues
 ---
 {{DefaultAPISidebar("")}}

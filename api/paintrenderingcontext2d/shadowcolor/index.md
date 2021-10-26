@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.shadowColor
 slug: Web/API/PaintRenderingContext2D/shadowColor
 tags:
-  - API
   - Property
   - Reference
-  - shadowColor
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.shadowColor
 ---
 {{DefaultAPISidebar("")}}

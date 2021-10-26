@@ -2,11 +2,8 @@
 title: SVGFEMorphologyElement.operator
 slug: Web/API/SVGFEMorphologyElement/operator
 tags:
-  - API
   - Property
   - Reference
-  - operator
-  - SVGFEMorphologyElement
 browser-compat: api.SVGFEMorphologyElement.operator
 ---
 {{DefaultAPISidebar("")}}

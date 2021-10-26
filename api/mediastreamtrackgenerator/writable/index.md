@@ -2,11 +2,8 @@
 title: MediaStreamTrackGenerator.writable
 slug: Web/API/MediaStreamTrackGenerator/writable
 tags:
-  - API
   - Property
   - Reference
-  - writable
-  - MediaStreamTrackGenerator
 browser-compat: api.MediaStreamTrackGenerator.writable
 ---
 {{DefaultAPISidebar("")}}

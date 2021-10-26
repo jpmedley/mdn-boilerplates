@@ -2,11 +2,8 @@
 title: Navigator.getInstalledRelatedApps()
 slug: Web/API/Navigator/getInstalledRelatedApps
 tags:
-  - API
   - Method
   - Reference
-  - getInstalledRelatedApps
-  - Navigator
 browser-compat: api.Navigator.getInstalledRelatedApps
 ---
 {{DefaultAPISidebar("")}}

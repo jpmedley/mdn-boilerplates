@@ -2,11 +2,8 @@
 title: PresentationConnectionCloseEvent.reason
 slug: Web/API/PresentationConnectionCloseEvent/reason
 tags:
-  - API
   - Property
   - Reference
-  - reason
-  - PresentationConnectionCloseEvent
 browser-compat: api.PresentationConnectionCloseEvent.reason
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

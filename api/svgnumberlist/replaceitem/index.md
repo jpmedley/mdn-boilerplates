@@ -2,11 +2,8 @@
 title: SVGNumberList.replaceItem()
 slug: Web/API/SVGNumberList/replaceItem
 tags:
-  - API
   - Method
   - Reference
-  - replaceItem
-  - SVGNumberList
 browser-compat: api.SVGNumberList.replaceItem
 ---
 {{DefaultAPISidebar("")}}

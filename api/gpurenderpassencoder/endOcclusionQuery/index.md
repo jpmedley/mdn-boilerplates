@@ -2,11 +2,8 @@
 title: GPURenderPassEncoder.endOcclusionQuery()
 slug: Web/API/GPURenderPassEncoder/endOcclusionQuery
 tags:
-  - API
   - Method
   - Reference
-  - endOcclusionQuery
-  - GPURenderPassEncoder
 browser-compat: api.GPURenderPassEncoder.endOcclusionQuery
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: DOMMatrix.translateSelf()
 slug: Web/API/DOMMatrix/translateSelf
 tags:
-  - API
   - Method
   - Reference
-  - translateSelf
-  - DOMMatrix
 browser-compat: api.DOMMatrix.translateSelf
 ---
 {{DefaultAPISidebar("")}}

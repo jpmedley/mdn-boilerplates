@@ -2,11 +2,8 @@
 title: Window.styleMedia
 slug: Web/API/Window/styleMedia
 tags:
-  - API
   - Property
   - Reference
-  - styleMedia
-  - Window
 browser-compat: api.Window.styleMedia
 ---
 {{DefaultAPISidebar("")}}

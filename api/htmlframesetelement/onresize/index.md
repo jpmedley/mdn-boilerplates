@@ -2,11 +2,8 @@
 title: HTMLFrameSetElement.onresize
 slug: Web/API/HTMLFrameSetElement/onresize
 tags:
-  - API
   - Property
   - Reference
-  - onresize
-  - HTMLFrameSetElement
 browser-compat: api.HTMLFrameSetElement.onresize
 ---
 {{DefaultAPISidebar("")}}

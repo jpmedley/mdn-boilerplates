@@ -2,11 +2,8 @@
 title: FileList.item()
 slug: Web/API/FileList/item
 tags:
-  - API
   - Method
   - Reference
-  - item
-  - FileList
 browser-compat: api.FileList.item
 ---
 {{DefaultAPISidebar("")}}

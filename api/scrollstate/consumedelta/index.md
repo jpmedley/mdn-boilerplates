@@ -2,11 +2,8 @@
 title: ScrollState.consumeDelta()
 slug: Web/API/ScrollState/consumeDelta
 tags:
-  - API
   - Method
   - Reference
-  - consumeDelta
-  - ScrollState
 browser-compat: api.ScrollState.consumeDelta
 ---
 {{DefaultAPISidebar("")}}

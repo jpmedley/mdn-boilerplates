@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.start()
 slug: Web/API/HTMLMarqueeElement/start
 tags:
-  - API
   - Method
   - Reference
-  - start
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.start
 ---
 {{DefaultAPISidebar("")}}

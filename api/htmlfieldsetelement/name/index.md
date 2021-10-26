@@ -2,11 +2,8 @@
 title: HTMLFieldSetElement.name
 slug: Web/API/HTMLFieldSetElement/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - HTMLFieldSetElement
 browser-compat: api.HTMLFieldSetElement.name
 ---
 {{DefaultAPISidebar("")}}

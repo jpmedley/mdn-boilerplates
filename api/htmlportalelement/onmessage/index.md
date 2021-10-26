@@ -2,11 +2,8 @@
 title: HTMLPortalElement.onmessage
 slug: Web/API/HTMLPortalElement/onmessage
 tags:
-  - API
   - Property
   - Reference
-  - onmessage
-  - HTMLPortalElement
 browser-compat: api.HTMLPortalElement.onmessage
 ---
 {{DefaultAPISidebar("")}}

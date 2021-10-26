@@ -2,11 +2,8 @@
 title: Performance.measureUserAgentSpecificMemory()
 slug: Web/API/Performance/measureUserAgentSpecificMemory
 tags:
-  - API
   - Method
   - Reference
-  - measureUserAgentSpecificMemory
-  - Performance
 browser-compat: api.Performance.measureUserAgentSpecificMemory
 ---
 {{DefaultAPISidebar("")}}

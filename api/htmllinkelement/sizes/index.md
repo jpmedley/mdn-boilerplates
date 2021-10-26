@@ -2,11 +2,8 @@
 title: HTMLLinkElement.sizes
 slug: Web/API/HTMLLinkElement/sizes
 tags:
-  - API
   - Property
   - Reference
-  - sizes
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.sizes
 ---
 {{DefaultAPISidebar("")}}

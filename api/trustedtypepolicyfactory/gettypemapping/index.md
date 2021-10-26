@@ -2,11 +2,8 @@
 title: TrustedTypePolicyFactory.getTypeMapping()
 slug: Web/API/TrustedTypePolicyFactory/getTypeMapping
 tags:
-  - API
   - Method
   - Reference
-  - getTypeMapping
-  - TrustedTypePolicyFactory
 browser-compat: api.TrustedTypePolicyFactory.getTypeMapping
 ---
 {{DefaultAPISidebar("")}}

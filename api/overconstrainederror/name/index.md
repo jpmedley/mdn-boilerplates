@@ -2,11 +2,8 @@
 title: OverconstrainedError.name
 slug: Web/API/OverconstrainedError/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - OverconstrainedError
 browser-compat: api.OverconstrainedError.name
 ---
 {{DefaultAPISidebar("")}}

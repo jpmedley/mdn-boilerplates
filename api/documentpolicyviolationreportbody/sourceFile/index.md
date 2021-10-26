@@ -2,11 +2,8 @@
 title: DocumentPolicyViolationReportBody.sourceFile
 slug: Web/API/DocumentPolicyViolationReportBody/sourceFile
 tags:
-  - API
   - Property
   - Reference
-  - sourceFile
-  - DocumentPolicyViolationReportBody
 browser-compat: api.DocumentPolicyViolationReportBody.sourceFile
 ---
 {{DefaultAPISidebar("")}}

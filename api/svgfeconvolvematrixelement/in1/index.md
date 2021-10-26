@@ -2,11 +2,8 @@
 title: SVGFEConvolveMatrixElement.in1
 slug: Web/API/SVGFEConvolveMatrixElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEConvolveMatrixElement
 browser-compat: api.SVGFEConvolveMatrixElement.in1
 ---
 {{DefaultAPISidebar("")}}

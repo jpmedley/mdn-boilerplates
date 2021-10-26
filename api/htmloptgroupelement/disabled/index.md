@@ -2,11 +2,8 @@
 title: HTMLOptGroupElement.disabled
 slug: Web/API/HTMLOptGroupElement/disabled
 tags:
-  - API
   - Property
   - Reference
-  - disabled
-  - HTMLOptGroupElement
 browser-compat: api.HTMLOptGroupElement.disabled
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGComponentTransferFunctionElement.amplitude
 slug: Web/API/SVGComponentTransferFunctionElement/amplitude
 tags:
-  - API
   - Property
   - Reference
-  - amplitude
-  - SVGComponentTransferFunctionElement
 browser-compat: api.SVGComponentTransferFunctionElement.amplitude
 ---
 {{DefaultAPISidebar("")}}

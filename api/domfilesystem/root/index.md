@@ -2,11 +2,8 @@
 title: DOMFileSystem.root
 slug: Web/API/DOMFileSystem/root
 tags:
-  - API
   - Property
   - Reference
-  - root
-  - DOMFileSystem
 browser-compat: api.DOMFileSystem.root
 ---
 {{DefaultAPISidebar("")}}

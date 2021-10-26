@@ -2,11 +2,8 @@
 title: HTMLFrameElement.src
 slug: Web/API/HTMLFrameElement/src
 tags:
-  - API
   - Property
   - Reference
-  - src
-  - HTMLFrameElement
 browser-compat: api.HTMLFrameElement.src
 ---
 {{DefaultAPISidebar("")}}

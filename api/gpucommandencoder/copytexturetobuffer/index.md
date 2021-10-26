@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.copyTextureToBuffer()
 slug: Web/API/GPUCommandEncoder/copyTextureToBuffer
 tags:
-  - API
   - Method
   - Reference
-  - copyTextureToBuffer
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.copyTextureToBuffer
 ---
 {{DefaultAPISidebar("")}}

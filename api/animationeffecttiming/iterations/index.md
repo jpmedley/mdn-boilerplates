@@ -2,11 +2,8 @@
 title: AnimationEffectTiming.iterations
 slug: Web/API/AnimationEffectTiming/iterations
 tags:
-  - API
   - Property
   - Reference
-  - iterations
-  - AnimationEffectTiming
 browser-compat: api.AnimationEffectTiming.iterations
 ---
 {{DefaultAPISidebar("")}}

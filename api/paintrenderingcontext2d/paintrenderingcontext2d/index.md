@@ -2,10 +2,8 @@
 title: PaintRenderingContext2D
 slug: Web/API/PaintRenderingContext2D
 tags:
-  - API
   - Interface
   - Reference
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D
 ---
 {{DefaultAPISidebar("")}}

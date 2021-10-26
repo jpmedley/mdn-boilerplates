@@ -2,11 +2,8 @@
 title: SVGLengthList.initialize()
 slug: Web/API/SVGLengthList/initialize
 tags:
-  - API
   - Method
   - Reference
-  - initialize
-  - SVGLengthList
 browser-compat: api.SVGLengthList.initialize
 ---
 {{DefaultAPISidebar("")}}

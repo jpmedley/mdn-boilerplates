@@ -2,11 +2,8 @@
 title: Report.url
 slug: Web/API/Report/url
 tags:
-  - API
   - Property
   - Reference
-  - url
-  - Report
 browser-compat: api.Report.url
 ---
 {{DefaultAPISidebar("")}}

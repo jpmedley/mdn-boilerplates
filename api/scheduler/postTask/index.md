@@ -2,11 +2,8 @@
 title: Scheduler.postTask()
 slug: Web/API/Scheduler/postTask
 tags:
-  - API
   - Method
   - Reference
-  - postTask
-  - Scheduler
 browser-compat: api.Scheduler.postTask
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.scale3d()
 slug: Web/API/DOMMatrixReadOnly/scale3d
 tags:
-  - API
   - Method
   - Reference
-  - scale3d
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.scale3d
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: WebGLTimerQueryEXT
 slug: Web/API/WebGLTimerQueryEXT
 tags:
-  - API
   - Interface
   - Reference
-  - WebGLTimerQueryEXT
 browser-compat: api.WebGLTimerQueryEXT
 ---
 {{DefaultAPISidebar("")}}

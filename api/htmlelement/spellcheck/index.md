@@ -2,11 +2,8 @@
 title: HTMLElement.spellcheck
 slug: Web/API/HTMLElement/spellcheck
 tags:
-  - API
   - Property
   - Reference
-  - spellcheck
-  - HTMLElement
 browser-compat: api.HTMLElement.spellcheck
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: GPUBindGroup
 slug: Web/API/GPUBindGroup
 tags:
-  - API
   - Interface
   - Reference
-  - GPUBindGroup
 browser-compat: api.GPUBindGroup
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLObjectElement.align
 slug: Web/API/HTMLObjectElement/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.align
 ---
 {{DefaultAPISidebar("")}}

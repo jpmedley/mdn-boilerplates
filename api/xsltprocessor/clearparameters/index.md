@@ -2,11 +2,8 @@
 title: XSLTProcessor.clearParameters()
 slug: Web/API/XSLTProcessor/clearParameters
 tags:
-  - API
   - Method
   - Reference
-  - clearParameters
-  - XSLTProcessor
 browser-compat: api.XSLTProcessor.clearParameters
 ---
 {{DefaultAPISidebar("")}}

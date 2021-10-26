@@ -2,11 +2,8 @@
 title: HTMLBodyElement.onload
 slug: Web/API/HTMLBodyElement/onload
 tags:
-  - API
   - Property
   - Reference
-  - onload
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.onload
 ---
 {{DefaultAPISidebar("")}}

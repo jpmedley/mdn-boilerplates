@@ -2,11 +2,8 @@
 title: SVGGraphicsElement.farthestViewportElement
 slug: Web/API/SVGGraphicsElement/farthestViewportElement
 tags:
-  - API
   - Property
   - Reference
-  - farthestViewportElement
-  - SVGGraphicsElement
 browser-compat: api.SVGGraphicsElement.farthestViewportElement
 ---
 {{DefaultAPISidebar("")}}

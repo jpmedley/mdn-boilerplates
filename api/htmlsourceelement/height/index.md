@@ -2,11 +2,8 @@
 title: HTMLSourceElement.height
 slug: Web/API/HTMLSourceElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - HTMLSourceElement
 browser-compat: api.HTMLSourceElement.height
 ---
 {{DefaultAPISidebar("")}}

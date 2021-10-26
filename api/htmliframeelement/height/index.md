@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.height
 slug: Web/API/HTMLIFrameElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.height
 ---
 {{DefaultAPISidebar("")}}

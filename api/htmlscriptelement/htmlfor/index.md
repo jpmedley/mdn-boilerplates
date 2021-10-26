@@ -2,11 +2,8 @@
 title: HTMLScriptElement.htmlFor
 slug: Web/API/HTMLScriptElement/htmlFor
 tags:
-  - API
   - Property
   - Reference
-  - htmlFor
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.htmlFor
 ---
 {{DefaultAPISidebar("")}}

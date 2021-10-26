@@ -2,11 +2,8 @@
 title: HighlightRegistry.keys()
 slug: Web/API/HighlightRegistry/keys
 tags:
-  - API
   - Method
   - Reference
-  - keys
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry.keys
 ---
 {{DefaultAPISidebar("")}}

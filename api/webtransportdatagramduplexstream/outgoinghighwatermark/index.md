@@ -2,11 +2,8 @@
 title: WebTransportDatagramDuplexStream.outgoingHighWaterMark
 slug: Web/API/WebTransportDatagramDuplexStream/outgoingHighWaterMark
 tags:
-  - API
   - Property
   - Reference
-  - outgoingHighWaterMark
-  - WebTransportDatagramDuplexStream
 browser-compat: api.WebTransportDatagramDuplexStream.outgoingHighWaterMark
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

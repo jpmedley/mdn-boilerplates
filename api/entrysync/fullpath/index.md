@@ -2,11 +2,8 @@
 title: EntrySync.fullPath
 slug: Web/API/EntrySync/fullPath
 tags:
-  - API
   - Property
   - Reference
-  - fullPath
-  - EntrySync
 browser-compat: api.EntrySync.fullPath
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGTextPositioningElement.rotate
 slug: Web/API/SVGTextPositioningElement/rotate
 tags:
-  - API
   - Property
   - Reference
-  - rotate
-  - SVGTextPositioningElement
 browser-compat: api.SVGTextPositioningElement.rotate
 ---
 {{DefaultAPISidebar("")}}

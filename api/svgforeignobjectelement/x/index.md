@@ -2,11 +2,8 @@
 title: SVGForeignObjectElement.x
 slug: Web/API/SVGForeignObjectElement/x
 tags:
-  - API
   - Property
   - Reference
-  - x
-  - SVGForeignObjectElement
 browser-compat: api.SVGForeignObjectElement.x
 ---
 {{DefaultAPISidebar("")}}

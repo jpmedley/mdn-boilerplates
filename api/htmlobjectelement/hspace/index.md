@@ -2,11 +2,8 @@
 title: HTMLObjectElement.hspace
 slug: Web/API/HTMLObjectElement/hspace
 tags:
-  - API
   - Property
   - Reference
-  - hspace
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.hspace
 ---
 {{DefaultAPISidebar("")}}

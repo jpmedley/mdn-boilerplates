@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.allowFullscreen
 slug: Web/API/HTMLIFrameElement/allowFullscreen
 tags:
-  - API
   - Property
   - Reference
-  - allowFullscreen
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.allowFullscreen
 ---
 {{DefaultAPISidebar("")}}

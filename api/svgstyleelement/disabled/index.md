@@ -2,11 +2,8 @@
 title: SVGStyleElement.disabled
 slug: Web/API/SVGStyleElement/disabled
 tags:
-  - API
   - Property
   - Reference
-  - disabled
-  - SVGStyleElement
 browser-compat: api.SVGStyleElement.disabled
 ---
 {{DefaultAPISidebar("")}}

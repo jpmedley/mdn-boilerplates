@@ -2,10 +2,8 @@
 title: Internals
 slug: Web/API/Internals
 tags:
-  - API
   - Interface
   - Reference
-  - Internals
 browser-compat: api.Internals
 ---
 {{DefaultAPISidebar("")}}

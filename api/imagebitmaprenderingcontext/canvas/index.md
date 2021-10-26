@@ -2,11 +2,8 @@
 title: ImageBitmapRenderingContext.canvas
 slug: Web/API/ImageBitmapRenderingContext/canvas
 tags:
-  - API
   - Property
   - Reference
-  - canvas
-  - ImageBitmapRenderingContext
 browser-compat: api.ImageBitmapRenderingContext.canvas
 ---
 {{DefaultAPISidebar("")}}

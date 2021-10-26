@@ -2,11 +2,8 @@
 title: HTMLAreaElement.target
 slug: Web/API/HTMLAreaElement/target
 tags:
-  - API
   - Property
   - Reference
-  - target
-  - HTMLAreaElement
 browser-compat: api.HTMLAreaElement.target
 ---
 {{DefaultAPISidebar("")}}

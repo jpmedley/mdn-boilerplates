@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.fillStyle
 slug: Web/API/PaintRenderingContext2D/fillStyle
 tags:
-  - API
   - Property
   - Reference
-  - fillStyle
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.fillStyle
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLAreaElement.download
 slug: Web/API/HTMLAreaElement/download
 tags:
-  - API
   - Property
   - Reference
-  - download
-  - HTMLAreaElement
 browser-compat: api.HTMLAreaElement.download
 ---
 {{DefaultAPISidebar("")}}

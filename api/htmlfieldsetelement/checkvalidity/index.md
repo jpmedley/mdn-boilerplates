@@ -2,11 +2,8 @@
 title: HTMLFieldSetElement.checkValidity()
 slug: Web/API/HTMLFieldSetElement/checkValidity
 tags:
-  - API
   - Method
   - Reference
-  - checkValidity
-  - HTMLFieldSetElement
 browser-compat: api.HTMLFieldSetElement.checkValidity
 ---
 {{DefaultAPISidebar("")}}

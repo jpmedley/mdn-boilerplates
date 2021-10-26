@@ -2,11 +2,8 @@
 title: SVGNumberList.length
 slug: Web/API/SVGNumberList/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - SVGNumberList
 browser-compat: api.SVGNumberList.length
 ---
 {{DefaultAPISidebar("")}}

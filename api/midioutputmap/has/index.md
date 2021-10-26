@@ -2,11 +2,8 @@
 title: MIDIOutputMap.has()
 slug: Web/API/MIDIOutputMap/has
 tags:
-  - API
   - Method
   - Reference
-  - has
-  - MIDIOutputMap
 browser-compat: api.MIDIOutputMap.has
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

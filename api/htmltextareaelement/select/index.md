@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.select()
 slug: Web/API/HTMLTextAreaElement/select
 tags:
-  - API
   - Method
   - Reference
-  - select
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.select
 ---
 {{DefaultAPISidebar("")}}

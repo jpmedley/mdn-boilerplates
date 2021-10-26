@@ -2,11 +2,8 @@
 title: FileWriter.onwriteend
 slug: Web/API/FileWriter/onwriteend
 tags:
-  - API
   - Property
   - Reference
-  - onwriteend
-  - FileWriter
 browser-compat: api.FileWriter.onwriteend
 ---
 {{DefaultAPISidebar("")}}

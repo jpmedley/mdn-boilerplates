@@ -2,11 +2,8 @@
 title: HTMLInputElement.formNoValidate
 slug: Web/API/HTMLInputElement/formNoValidate
 tags:
-  - API
   - Property
   - Reference
-  - formNoValidate
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.formNoValidate
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGTransform.setMatrix()
 slug: Web/API/SVGTransform/setMatrix
 tags:
-  - API
   - Method
   - Reference
-  - setMatrix
-  - SVGTransform
 browser-compat: api.SVGTransform.setMatrix
 ---
 {{DefaultAPISidebar("")}}

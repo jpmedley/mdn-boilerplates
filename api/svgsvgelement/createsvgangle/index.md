@@ -2,11 +2,8 @@
 title: SVGSVGElement.createSVGAngle()
 slug: Web/API/SVGSVGElement/createSVGAngle
 tags:
-  - API
   - Method
   - Reference
-  - createSVGAngle
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.createSVGAngle
 ---
 {{DefaultAPISidebar("")}}

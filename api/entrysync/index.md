@@ -2,10 +2,8 @@
 title: EntrySync
 slug: Web/API/EntrySync
 tags:
-  - API
   - Interface
   - Reference
-  - EntrySync
 browser-compat: api.EntrySync
 ---
 {{DefaultAPISidebar("")}}

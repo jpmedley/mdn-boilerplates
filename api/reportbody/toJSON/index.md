@@ -2,11 +2,8 @@
 title: ReportBody.toJSON()
 slug: Web/API/ReportBody/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - ReportBody
 browser-compat: api.ReportBody.toJSON
 ---
 {{DefaultAPISidebar("")}}

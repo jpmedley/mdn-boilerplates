@@ -2,11 +2,8 @@
 title: HTMLFormElement.checkValidity()
 slug: Web/API/HTMLFormElement/checkValidity
 tags:
-  - API
   - Method
   - Reference
-  - checkValidity
-  - HTMLFormElement
 browser-compat: api.HTMLFormElement.checkValidity
 ---
 {{DefaultAPISidebar("")}}

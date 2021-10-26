@@ -2,10 +2,8 @@
 title: WebGLContextEvent.WebGLContextEvent()
 slug: Web/API/WebGLContextEvent/WebGLContextEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - WebGLContextEvent
 browser-compat: api.WebGLContextEvent.WebGLContextEvent
 ---
 {{DefaultAPISidebar("")}}

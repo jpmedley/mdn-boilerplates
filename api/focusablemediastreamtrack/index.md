@@ -2,10 +2,8 @@
 title: FocusableMediaStreamTrack
 slug: Web/API/FocusableMediaStreamTrack
 tags:
-  - API
   - Interface
   - Reference
-  - FocusableMediaStreamTrack
 browser-compat: api.FocusableMediaStreamTrack
 ---
 {{DefaultAPISidebar("")}}

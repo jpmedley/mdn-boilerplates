@@ -2,11 +2,8 @@
 title: DOMMatrix.m11
 slug: Web/API/DOMMatrix/m11
 tags:
-  - API
   - Property
   - Reference
-  - m11
-  - DOMMatrix
 browser-compat: api.DOMMatrix.m11
 ---
 {{DefaultAPISidebar("")}}

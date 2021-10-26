@@ -2,11 +2,8 @@
 title: RTCSctpTransport.transport
 slug: Web/API/RTCSctpTransport/transport
 tags:
-  - API
   - Property
   - Reference
-  - transport
-  - RTCSctpTransport
 browser-compat: api.RTCSctpTransport.transport
 ---
 {{DefaultAPISidebar("")}}

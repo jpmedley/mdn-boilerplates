@@ -2,10 +2,8 @@
 title: CoopAccessViolationReportBody
 slug: Web/API/CoopAccessViolationReportBody
 tags:
-  - API
   - Interface
   - Reference
-  - CoopAccessViolationReportBody
 browser-compat: api.CoopAccessViolationReportBody
 ---
 {{DefaultAPISidebar("")}}

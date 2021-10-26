@@ -2,11 +2,8 @@
 title: OESDrawBuffersIndexed.enableiOES()
 slug: Web/API/OESDrawBuffersIndexed/enableiOES
 tags:
-  - API
   - Method
   - Reference
-  - enableiOES
-  - OESDrawBuffersIndexed
 browser-compat: api.OESDrawBuffersIndexed.enableiOES
 ---
 {{DefaultAPISidebar("")}}

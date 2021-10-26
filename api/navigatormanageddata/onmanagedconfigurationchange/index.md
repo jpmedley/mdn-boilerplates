@@ -2,11 +2,8 @@
 title: NavigatorManagedData.onmanagedconfigurationchange
 slug: Web/API/NavigatorManagedData/onmanagedconfigurationchange
 tags:
-  - API
   - Property
   - Reference
-  - onmanagedconfigurationchange
-  - NavigatorManagedData
 browser-compat: api.NavigatorManagedData.onmanagedconfigurationchange
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

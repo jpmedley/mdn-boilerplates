@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.miterLimit
 slug: Web/API/OffscreenCanvasRenderingContext2D/miterLimit
 tags:
-  - API
   - Property
   - Reference
-  - miterLimit
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.miterLimit
 ---
 {{DefaultAPISidebar("")}}

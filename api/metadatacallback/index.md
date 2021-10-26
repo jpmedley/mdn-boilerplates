@@ -2,10 +2,8 @@
 title: MetadataCallback
 slug: Web/API/MetadataCallback
 tags:
-  - API
   - Interface
   - Reference
-  - MetadataCallback
 browser-compat: api.MetadataCallback
 ---
 {{DefaultAPISidebar("")}}

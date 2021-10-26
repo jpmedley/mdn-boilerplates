@@ -2,11 +2,8 @@
 title: HTMLButtonElement.formAction
 slug: Web/API/HTMLButtonElement/formAction
 tags:
-  - API
   - Property
   - Reference
-  - formAction
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.formAction
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.effectiveDirective
 slug: Web/API/CSPViolationReportBody/effectiveDirective
 tags:
-  - API
   - Property
   - Reference
-  - effectiveDirective
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.effectiveDirective
 ---
 {{DefaultAPISidebar("")}}

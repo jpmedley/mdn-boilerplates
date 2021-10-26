@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.shadowBlur
 slug: Web/API/OffscreenCanvasRenderingContext2D/shadowBlur
 tags:
-  - API
   - Property
   - Reference
-  - shadowBlur
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.shadowBlur
 ---
 {{DefaultAPISidebar("")}}

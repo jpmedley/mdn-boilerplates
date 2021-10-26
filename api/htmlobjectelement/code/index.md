@@ -2,11 +2,8 @@
 title: HTMLObjectElement.code
 slug: Web/API/HTMLObjectElement/code
 tags:
-  - API
   - Property
   - Reference
-  - code
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.code
 ---
 {{DefaultAPISidebar("")}}

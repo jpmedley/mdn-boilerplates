@@ -2,10 +2,8 @@
 title: ColorPagePopupController
 slug: Web/API/ColorPagePopupController
 tags:
-  - API
   - Interface
   - Reference
-  - ColorPagePopupController
 browser-compat: api.ColorPagePopupController
 ---
 {{DefaultAPISidebar("")}}

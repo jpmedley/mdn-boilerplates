@@ -2,10 +2,8 @@
 title: ErrorEvent.ErrorEvent()
 slug: Web/API/ErrorEvent/ErrorEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - ErrorEvent
 browser-compat: api.ErrorEvent.ErrorEvent
 ---
 {{DefaultAPISidebar("")}}

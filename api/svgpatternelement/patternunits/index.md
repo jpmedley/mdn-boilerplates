@@ -2,11 +2,8 @@
 title: SVGPatternElement.patternUnits
 slug: Web/API/SVGPatternElement/patternUnits
 tags:
-  - API
   - Property
   - Reference
-  - patternUnits
-  - SVGPatternElement
 browser-compat: api.SVGPatternElement.patternUnits
 ---
 {{DefaultAPISidebar("")}}

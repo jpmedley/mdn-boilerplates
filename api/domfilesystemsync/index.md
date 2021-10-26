@@ -2,10 +2,8 @@
 title: DOMFileSystemSync
 slug: Web/API/DOMFileSystemSync
 tags:
-  - API
   - Interface
   - Reference
-  - DOMFileSystemSync
 browser-compat: api.DOMFileSystemSync
 ---
 {{DefaultAPISidebar("")}}

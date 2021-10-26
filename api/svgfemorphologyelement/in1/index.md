@@ -2,11 +2,8 @@
 title: SVGFEMorphologyElement.in1
 slug: Web/API/SVGFEMorphologyElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEMorphologyElement
 browser-compat: api.SVGFEMorphologyElement.in1
 ---
 {{DefaultAPISidebar("")}}

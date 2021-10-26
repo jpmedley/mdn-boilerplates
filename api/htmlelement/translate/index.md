@@ -2,11 +2,8 @@
 title: HTMLElement.translate
 slug: Web/API/HTMLElement/translate
 tags:
-  - API
   - Property
   - Reference
-  - translate
-  - HTMLElement
 browser-compat: api.HTMLElement.translate
 ---
 {{DefaultAPISidebar("")}}

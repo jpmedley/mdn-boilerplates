@@ -2,11 +2,8 @@
 title: HTMLFieldSetElement.form
 slug: Web/API/HTMLFieldSetElement/form
 tags:
-  - API
   - Property
   - Reference
-  - form
-  - HTMLFieldSetElement
 browser-compat: api.HTMLFieldSetElement.form
 ---
 {{DefaultAPISidebar("")}}

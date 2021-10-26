@@ -2,10 +2,8 @@
 title: XRDOMOverlayState
 slug: Web/API/XRDOMOverlayState
 tags:
-  - API
   - Interface
   - Reference
-  - XRDOMOverlayState
 browser-compat: api.XRDOMOverlayState
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

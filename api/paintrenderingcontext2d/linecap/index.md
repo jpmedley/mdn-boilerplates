@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.lineCap
 slug: Web/API/PaintRenderingContext2D/lineCap
 tags:
-  - API
   - Property
   - Reference
-  - lineCap
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.lineCap
 ---
 {{DefaultAPISidebar("")}}

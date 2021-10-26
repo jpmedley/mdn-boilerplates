@@ -2,11 +2,8 @@
 title: SQLTransaction.executeSql()
 slug: Web/API/SQLTransaction/executeSql
 tags:
-  - API
   - Method
   - Reference
-  - executeSql
-  - SQLTransaction
 browser-compat: api.SQLTransaction.executeSql
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLInputElement.selectionEnd
 slug: Web/API/HTMLInputElement/selectionEnd
 tags:
-  - API
   - Property
   - Reference
-  - selectionEnd
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.selectionEnd
 ---
 {{DefaultAPISidebar("")}}

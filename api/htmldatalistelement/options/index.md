@@ -2,11 +2,8 @@
 title: HTMLDataListElement.options
 slug: Web/API/HTMLDataListElement/options
 tags:
-  - API
   - Property
   - Reference
-  - options
-  - HTMLDataListElement
 browser-compat: api.HTMLDataListElement.options
 ---
 {{DefaultAPISidebar("")}}

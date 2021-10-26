@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.behavior
 slug: Web/API/HTMLMarqueeElement/behavior
 tags:
-  - API
   - Property
   - Reference
-  - behavior
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.behavior
 ---
 {{DefaultAPISidebar("")}}

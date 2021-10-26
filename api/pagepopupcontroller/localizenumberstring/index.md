@@ -2,11 +2,8 @@
 title: PagePopupController.localizeNumberString()
 slug: Web/API/PagePopupController/localizeNumberString
 tags:
-  - API
   - Method
   - Reference
-  - localizeNumberString
-  - PagePopupController
 browser-compat: api.PagePopupController.localizeNumberString
 ---
 {{DefaultAPISidebar("")}}

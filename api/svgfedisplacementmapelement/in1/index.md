@@ -2,11 +2,8 @@
 title: SVGFEDisplacementMapElement.in1
 slug: Web/API/SVGFEDisplacementMapElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEDisplacementMapElement
 browser-compat: api.SVGFEDisplacementMapElement.in1
 ---
 {{DefaultAPISidebar("")}}

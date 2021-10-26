@@ -2,11 +2,8 @@
 title: SVGFETileElement.in1
 slug: Web/API/SVGFETileElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFETileElement
 browser-compat: api.SVGFETileElement.in1
 ---
 {{DefaultAPISidebar("")}}

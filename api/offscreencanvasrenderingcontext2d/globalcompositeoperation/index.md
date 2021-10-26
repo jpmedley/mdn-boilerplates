@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.globalCompositeOperation
 slug: Web/API/OffscreenCanvasRenderingContext2D/globalCompositeOperation
 tags:
-  - API
   - Property
   - Reference
-  - globalCompositeOperation
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.globalCompositeOperation
 ---
 {{DefaultAPISidebar("")}}

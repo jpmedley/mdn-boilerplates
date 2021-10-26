@@ -2,11 +2,8 @@
 title: HTMLEmbedElement.getSVGDocument()
 slug: Web/API/HTMLEmbedElement/getSVGDocument
 tags:
-  - API
   - Method
   - Reference
-  - getSVGDocument
-  - HTMLEmbedElement
 browser-compat: api.HTMLEmbedElement.getSVGDocument
 ---
 {{DefaultAPISidebar("")}}

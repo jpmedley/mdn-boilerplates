@@ -2,11 +2,8 @@
 title: XRDOMOverlayState.type
 slug: Web/API/XRDOMOverlayState/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - XRDOMOverlayState
 browser-compat: api.XRDOMOverlayState.type
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

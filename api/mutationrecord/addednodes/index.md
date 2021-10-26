@@ -2,11 +2,8 @@
 title: MutationRecord.addedNodes
 slug: Web/API/MutationRecord/addedNodes
 tags:
-  - API
   - Property
   - Reference
-  - addedNodes
-  - MutationRecord
 browser-compat: api.MutationRecord.addedNodes
 ---
 {{DefaultAPISidebar("")}}

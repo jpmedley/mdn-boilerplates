@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.fillStyle
 slug: Web/API/OffscreenCanvasRenderingContext2D/fillStyle
 tags:
-  - API
   - Property
   - Reference
-  - fillStyle
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.fillStyle
 ---
 {{DefaultAPISidebar("")}}

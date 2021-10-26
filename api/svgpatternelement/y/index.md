@@ -2,11 +2,8 @@
 title: SVGPatternElement.y
 slug: Web/API/SVGPatternElement/y
 tags:
-  - API
   - Property
   - Reference
-  - y
-  - SVGPatternElement
 browser-compat: api.SVGPatternElement.y
 ---
 {{DefaultAPISidebar("")}}

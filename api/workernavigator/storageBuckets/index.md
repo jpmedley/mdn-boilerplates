@@ -2,11 +2,8 @@
 title: WorkerNavigator.storageBuckets
 slug: Web/API/WorkerNavigator/storageBuckets
 tags:
-  - API
   - Property
   - Reference
-  - storageBuckets
-  - WorkerNavigator
 browser-compat: api.WorkerNavigator.storageBuckets
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: MimeType.suffixes
 slug: Web/API/MimeType/suffixes
 tags:
-  - API
   - Property
   - Reference
-  - suffixes
-  - MimeType
 browser-compat: api.MimeType.suffixes
 ---
 {{DefaultAPISidebar("")}}

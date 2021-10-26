@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.toJSON()
 slug: Web/API/CSPViolationReportBody/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.toJSON
 ---
 {{DefaultAPISidebar("")}}

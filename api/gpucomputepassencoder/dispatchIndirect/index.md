@@ -2,11 +2,8 @@
 title: GPUComputePassEncoder.dispatchIndirect()
 slug: Web/API/GPUComputePassEncoder/dispatchIndirect
 tags:
-  - API
   - Method
   - Reference
-  - dispatchIndirect
-  - GPUComputePassEncoder
 browser-compat: api.GPUComputePassEncoder.dispatchIndirect
 ---
 {{DefaultAPISidebar("")}}

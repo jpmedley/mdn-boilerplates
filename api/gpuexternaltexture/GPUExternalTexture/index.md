@@ -2,10 +2,8 @@
 title: GPUExternalTexture
 slug: Web/API/GPUExternalTexture
 tags:
-  - API
   - Interface
   - Reference
-  - GPUExternalTexture
 browser-compat: api.GPUExternalTexture
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLInputElement.capture
 slug: Web/API/HTMLInputElement/capture
 tags:
-  - API
   - Property
   - Reference
-  - capture
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.capture
 ---
 {{DefaultAPISidebar("")}}

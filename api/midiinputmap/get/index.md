@@ -2,11 +2,8 @@
 title: MIDIInputMap.get()
 slug: Web/API/MIDIInputMap/get
 tags:
-  - API
   - Method
   - Reference
-  - get
-  - MIDIInputMap
 browser-compat: api.MIDIInputMap.get
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

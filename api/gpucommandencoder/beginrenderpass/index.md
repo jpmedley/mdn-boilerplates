@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.beginRenderPass()
 slug: Web/API/GPUCommandEncoder/beginRenderPass
 tags:
-  - API
   - Method
   - Reference
-  - beginRenderPass
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.beginRenderPass
 ---
 {{DefaultAPISidebar("")}}

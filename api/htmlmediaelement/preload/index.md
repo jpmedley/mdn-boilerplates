@@ -2,11 +2,8 @@
 title: HTMLMediaElement.preload
 slug: Web/API/HTMLMediaElement/preload
 tags:
-  - API
   - Property
   - Reference
-  - preload
-  - HTMLMediaElement
 browser-compat: api.HTMLMediaElement.preload
 ---
 {{DefaultAPISidebar("")}}

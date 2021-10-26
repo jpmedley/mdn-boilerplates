@@ -2,10 +2,8 @@
 title: UserActivation
 slug: Web/API/UserActivation
 tags:
-  - API
   - Interface
   - Reference
-  - UserActivation
 browser-compat: api.UserActivation
 ---
 {{DefaultAPISidebar("")}}

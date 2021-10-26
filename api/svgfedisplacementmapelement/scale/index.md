@@ -2,11 +2,8 @@
 title: SVGFEDisplacementMapElement.scale
 slug: Web/API/SVGFEDisplacementMapElement/scale
 tags:
-  - API
   - Property
   - Reference
-  - scale
-  - SVGFEDisplacementMapElement
 browser-compat: api.SVGFEDisplacementMapElement.scale
 ---
 {{DefaultAPISidebar("")}}

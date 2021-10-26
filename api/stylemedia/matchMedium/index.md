@@ -2,11 +2,8 @@
 title: StyleMedia.matchMedium()
 slug: Web/API/StyleMedia/matchMedium
 tags:
-  - API
   - Method
   - Reference
-  - matchMedium
-  - StyleMedia
 browser-compat: api.StyleMedia.matchMedium
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: XRSystem.supportsSession()
 slug: Web/API/XRSystem/supportsSession
 tags:
-  - API
   - Method
   - Reference
-  - supportsSession
-  - XRSystem
 browser-compat: api.XRSystem.supportsSession
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

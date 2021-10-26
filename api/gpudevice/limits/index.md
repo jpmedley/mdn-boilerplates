@@ -2,11 +2,8 @@
 title: GPUDevice.limits
 slug: Web/API/GPUDevice/limits
 tags:
-  - API
   - Property
   - Reference
-  - limits
-  - GPUDevice
 browser-compat: api.GPUDevice.limits
 ---
 {{DefaultAPISidebar("")}}

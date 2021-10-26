@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.setSelectionRange()
 slug: Web/API/HTMLTextAreaElement/setSelectionRange
 tags:
-  - API
   - Method
   - Reference
-  - setSelectionRange
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.setSelectionRange
 ---
 {{DefaultAPISidebar("")}}

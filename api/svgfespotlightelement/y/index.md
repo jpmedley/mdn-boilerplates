@@ -2,11 +2,8 @@
 title: SVGFESpotLightElement.y
 slug: Web/API/SVGFESpotLightElement/y
 tags:
-  - API
   - Property
   - Reference
-  - y
-  - SVGFESpotLightElement
 browser-compat: api.SVGFESpotLightElement.y
 ---
 {{DefaultAPISidebar("")}}

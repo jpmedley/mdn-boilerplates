@@ -2,11 +2,8 @@
 title: GPUTexture.createView()
 slug: Web/API/GPUTexture/createView
 tags:
-  - API
   - Method
   - Reference
-  - createView
-  - GPUTexture
 browser-compat: api.GPUTexture.createView
 ---
 {{DefaultAPISidebar("")}}

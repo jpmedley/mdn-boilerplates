@@ -2,11 +2,8 @@
 title: CloseEvent.code
 slug: Web/API/CloseEvent/code
 tags:
-  - API
   - Property
   - Reference
-  - code
-  - CloseEvent
 browser-compat: api.CloseEvent.code
 ---
 {{DefaultAPISidebar("")}}

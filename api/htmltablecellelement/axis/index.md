@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.axis
 slug: Web/API/HTMLTableCellElement/axis
 tags:
-  - API
   - Property
   - Reference
-  - axis
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.axis
 ---
 {{DefaultAPISidebar("")}}

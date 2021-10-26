@@ -2,11 +2,8 @@
 title: USBAlternateInterface.alternateSetting
 slug: Web/API/USBAlternateInterface/alternateSetting
 tags:
-  - API
   - Property
   - Reference
-  - alternateSetting
-  - USBAlternateInterface
 browser-compat: api.USBAlternateInterface.alternateSetting
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

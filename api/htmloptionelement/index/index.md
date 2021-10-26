@@ -2,11 +2,8 @@
 title: HTMLOptionElement.index
 slug: Web/API/HTMLOptionElement/index
 tags:
-  - API
   - Property
   - Reference
-  - index
-  - HTMLOptionElement
 browser-compat: api.HTMLOptionElement.index
 ---
 {{DefaultAPISidebar("")}}

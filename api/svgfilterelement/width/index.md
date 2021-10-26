@@ -2,11 +2,8 @@
 title: SVGFilterElement.width
 slug: Web/API/SVGFilterElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - SVGFilterElement
 browser-compat: api.SVGFilterElement.width
 ---
 {{DefaultAPISidebar("")}}

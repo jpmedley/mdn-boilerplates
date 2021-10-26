@@ -2,11 +2,8 @@
 title: HTMLElement.onbeforexrselect
 slug: Web/API/HTMLElement/onbeforexrselect
 tags:
-  - API
   - Property
   - Reference
-  - onbeforexrselect
-  - HTMLElement
 browser-compat: api.HTMLElement.onbeforexrselect
 ---
 {{DefaultAPISidebar("")}}

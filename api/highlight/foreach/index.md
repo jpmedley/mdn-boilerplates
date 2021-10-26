@@ -2,11 +2,8 @@
 title: Highlight.forEach()
 slug: Web/API/Highlight/forEach
 tags:
-  - API
   - Method
   - Reference
-  - forEach
-  - Highlight
 browser-compat: api.Highlight.forEach
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGFEDistantLightElement.elevation
 slug: Web/API/SVGFEDistantLightElement/elevation
 tags:
-  - API
   - Property
   - Reference
-  - elevation
-  - SVGFEDistantLightElement
 browser-compat: api.SVGFEDistantLightElement.elevation
 ---
 {{DefaultAPISidebar("")}}

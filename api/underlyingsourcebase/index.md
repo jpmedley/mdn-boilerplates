@@ -2,10 +2,8 @@
 title: UnderlyingSourceBase
 slug: Web/API/UnderlyingSourceBase
 tags:
-  - API
   - Interface
   - Reference
-  - UnderlyingSourceBase
 browser-compat: api.UnderlyingSourceBase
 ---
 {{DefaultAPISidebar("")}}

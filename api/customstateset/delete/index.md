@@ -2,11 +2,8 @@
 title: CustomStateSet.delete()
 slug: Web/API/CustomStateSet/delete
 tags:
-  - API
   - Method
   - Reference
-  - delete
-  - CustomStateSet
 browser-compat: api.CustomStateSet.delete
 ---
 {{DefaultAPISidebar("")}}

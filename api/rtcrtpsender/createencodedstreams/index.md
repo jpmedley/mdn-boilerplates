@@ -2,11 +2,8 @@
 title: RTCRtpSender.createEncodedStreams()
 slug: Web/API/RTCRtpSender/createEncodedStreams
 tags:
-  - API
   - Method
   - Reference
-  - createEncodedStreams
-  - RTCRtpSender
 browser-compat: api.RTCRtpSender.createEncodedStreams
 ---
 {{DefaultAPISidebar("")}}

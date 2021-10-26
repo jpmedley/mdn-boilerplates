@@ -2,11 +2,8 @@
 title: SVGFEMorphologyElement.radiusX
 slug: Web/API/SVGFEMorphologyElement/radiusX
 tags:
-  - API
   - Property
   - Reference
-  - radiusX
-  - SVGFEMorphologyElement
 browser-compat: api.SVGFEMorphologyElement.radiusX
 ---
 {{DefaultAPISidebar("")}}

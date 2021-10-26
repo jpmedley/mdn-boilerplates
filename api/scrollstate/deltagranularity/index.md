@@ -2,11 +2,8 @@
 title: ScrollState.deltaGranularity
 slug: Web/API/ScrollState/deltaGranularity
 tags:
-  - API
   - Property
   - Reference
-  - deltaGranularity
-  - ScrollState
 browser-compat: api.ScrollState.deltaGranularity
 ---
 {{DefaultAPISidebar("")}}

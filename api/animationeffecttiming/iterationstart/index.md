@@ -2,11 +2,8 @@
 title: AnimationEffectTiming.iterationStart
 slug: Web/API/AnimationEffectTiming/iterationStart
 tags:
-  - API
   - Property
   - Reference
-  - iterationStart
-  - AnimationEffectTiming
 browser-compat: api.AnimationEffectTiming.iterationStart
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: WebTransport.WebTransport()
 slug: Web/API/WebTransport/WebTransport
 tags:
-  - API
   - Constructor
   - Reference
-  - WebTransport
 browser-compat: api.WebTransport.WebTransport
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

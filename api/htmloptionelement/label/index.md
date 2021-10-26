@@ -2,11 +2,8 @@
 title: HTMLOptionElement.label
 slug: Web/API/HTMLOptionElement/label
 tags:
-  - API
   - Property
   - Reference
-  - label
-  - HTMLOptionElement
 browser-compat: api.HTMLOptionElement.label
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.restore()
 slug: Web/API/OffscreenCanvasRenderingContext2D/restore
 tags:
-  - API
   - Method
   - Reference
-  - restore
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.restore
 ---
 {{DefaultAPISidebar("")}}

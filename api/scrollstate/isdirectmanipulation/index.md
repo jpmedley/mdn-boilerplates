@@ -2,11 +2,8 @@
 title: ScrollState.isDirectManipulation
 slug: Web/API/ScrollState/isDirectManipulation
 tags:
-  - API
   - Property
   - Reference
-  - isDirectManipulation
-  - ScrollState
 browser-compat: api.ScrollState.isDirectManipulation
 ---
 {{DefaultAPISidebar("")}}

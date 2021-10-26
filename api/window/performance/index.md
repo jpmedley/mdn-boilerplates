@@ -2,11 +2,8 @@
 title: Window.performance
 slug: Web/API/Window/performance
 tags:
-  - API
   - Property
   - Reference
-  - performance
-  - Window
 browser-compat: api.Window.performance
 ---
 {{DefaultAPISidebar("")}}

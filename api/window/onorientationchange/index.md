@@ -2,11 +2,8 @@
 title: Window.onorientationchange
 slug: Web/API/Window/onorientationchange
 tags:
-  - API
   - Property
   - Reference
-  - onorientationchange
-  - Window
 browser-compat: api.Window.onorientationchange
 ---
 {{DefaultAPISidebar("")}}

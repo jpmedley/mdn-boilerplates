@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.shadowOffsetX
 slug: Web/API/PaintRenderingContext2D/shadowOffsetX
 tags:
-  - API
   - Property
   - Reference
-  - shadowOffsetX
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.shadowOffsetX
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.filter
 slug: Web/API/OffscreenCanvasRenderingContext2D/filter
 tags:
-  - API
   - Property
   - Reference
-  - filter
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.filter
 ---
 {{DefaultAPISidebar("")}}

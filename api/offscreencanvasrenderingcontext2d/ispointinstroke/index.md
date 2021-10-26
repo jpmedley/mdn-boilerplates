@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.isPointInStroke()
 slug: Web/API/OffscreenCanvasRenderingContext2D/isPointInStroke
 tags:
-  - API
   - Method
   - Reference
-  - isPointInStroke
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.isPointInStroke
 ---
 {{DefaultAPISidebar("")}}

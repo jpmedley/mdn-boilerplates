@@ -2,10 +2,8 @@
 title: XSLTProcessor.XSLTProcessor()
 slug: Web/API/XSLTProcessor/XSLTProcessor
 tags:
-  - API
   - Constructor
   - Reference
-  - XSLTProcessor
 browser-compat: api.XSLTProcessor.XSLTProcessor
 ---
 {{DefaultAPISidebar("")}}

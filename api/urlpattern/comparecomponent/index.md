@@ -2,11 +2,8 @@
 title: URLPattern.compareComponent()
 slug: Web/API/URLPattern/compareComponent
 tags:
-  - API
   - Method
   - Reference
-  - compareComponent
-  - URLPattern
 browser-compat: api.URLPattern.compareComponent
 ---
 {{DefaultAPISidebar("")}}

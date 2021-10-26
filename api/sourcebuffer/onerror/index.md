@@ -2,11 +2,8 @@
 title: SourceBuffer.onerror
 slug: Web/API/SourceBuffer/onerror
 tags:
-  - API
   - Property
   - Reference
-  - onerror
-  - SourceBuffer
 browser-compat: api.SourceBuffer.onerror
 ---
 {{DefaultAPISidebar("")}}

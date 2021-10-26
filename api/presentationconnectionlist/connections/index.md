@@ -2,11 +2,8 @@
 title: PresentationConnectionList.connections
 slug: Web/API/PresentationConnectionList/connections
 tags:
-  - API
   - Property
   - Reference
-  - connections
-  - PresentationConnectionList
 browser-compat: api.PresentationConnectionList.connections
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

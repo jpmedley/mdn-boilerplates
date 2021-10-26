@@ -2,11 +2,8 @@
 title: MutationRecord.type
 slug: Web/API/MutationRecord/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - MutationRecord
 browser-compat: api.MutationRecord.type
 ---
 {{DefaultAPISidebar("")}}

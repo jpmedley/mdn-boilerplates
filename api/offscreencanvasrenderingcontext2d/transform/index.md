@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.transform()
 slug: Web/API/OffscreenCanvasRenderingContext2D/transform
 tags:
-  - API
   - Method
   - Reference
-  - transform
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.transform
 ---
 {{DefaultAPISidebar("")}}

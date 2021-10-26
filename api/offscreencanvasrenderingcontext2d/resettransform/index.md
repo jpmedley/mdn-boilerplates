@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.resetTransform()
 slug: Web/API/OffscreenCanvasRenderingContext2D/resetTransform
 tags:
-  - API
   - Method
   - Reference
-  - resetTransform
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.resetTransform
 ---
 {{DefaultAPISidebar("")}}

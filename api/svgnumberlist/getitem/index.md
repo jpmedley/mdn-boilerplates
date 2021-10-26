@@ -2,11 +2,8 @@
 title: SVGNumberList.getItem()
 slug: Web/API/SVGNumberList/getItem
 tags:
-  - API
   - Method
   - Reference
-  - getItem
-  - SVGNumberList
 browser-compat: api.SVGNumberList.getItem
 ---
 {{DefaultAPISidebar("")}}

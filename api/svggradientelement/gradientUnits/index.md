@@ -2,11 +2,8 @@
 title: SVGGradientElement.gradientUnits
 slug: Web/API/SVGGradientElement/gradientUnits
 tags:
-  - API
   - Property
   - Reference
-  - gradientUnits
-  - SVGGradientElement
 browser-compat: api.SVGGradientElement.gradientUnits
 ---
 {{DefaultAPISidebar("")}}

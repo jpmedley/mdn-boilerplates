@@ -2,11 +2,8 @@
 title: Window.webkitStorageInfo
 slug: Web/API/Window/webkitStorageInfo
 tags:
-  - API
   - Property
   - Reference
-  - webkitStorageInfo
-  - Window
 browser-compat: api.Window.webkitStorageInfo
 ---
 {{DefaultAPISidebar("")}}

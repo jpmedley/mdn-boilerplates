@@ -2,11 +2,8 @@
 title: NamedNodeMap.item()
 slug: Web/API/NamedNodeMap/item
 tags:
-  - API
   - Method
   - Reference
-  - item
-  - NamedNodeMap
 browser-compat: api.NamedNodeMap.item
 ---
 {{DefaultAPISidebar("")}}

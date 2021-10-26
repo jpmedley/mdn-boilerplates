@@ -2,11 +2,8 @@
 title: StorageEvent.newValue
 slug: Web/API/StorageEvent/newValue
 tags:
-  - API
   - Property
   - Reference
-  - newValue
-  - StorageEvent
 browser-compat: api.StorageEvent.newValue
 ---
 {{DefaultAPISidebar("")}}

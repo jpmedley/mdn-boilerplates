@@ -2,10 +2,8 @@
 title: HashChangeEvent.HashChangeEvent()
 slug: Web/API/HashChangeEvent/HashChangeEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - HashChangeEvent
 browser-compat: api.HashChangeEvent.HashChangeEvent
 ---
 {{DefaultAPISidebar("")}}

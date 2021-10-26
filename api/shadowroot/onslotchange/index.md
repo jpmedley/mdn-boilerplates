@@ -2,11 +2,8 @@
 title: ShadowRoot.onslotchange
 slug: Web/API/ShadowRoot/onslotchange
 tags:
-  - API
   - Property
   - Reference
-  - onslotchange
-  - ShadowRoot
 browser-compat: api.ShadowRoot.onslotchange
 ---
 {{DefaultAPISidebar("")}}

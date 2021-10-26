@@ -2,11 +2,8 @@
 title: NamedNodeMap.setNamedItemNS()
 slug: Web/API/NamedNodeMap/setNamedItemNS
 tags:
-  - API
   - Method
   - Reference
-  - setNamedItemNS
-  - NamedNodeMap
 browser-compat: api.NamedNodeMap.setNamedItemNS
 ---
 {{DefaultAPISidebar("")}}

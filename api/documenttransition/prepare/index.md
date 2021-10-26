@@ -2,11 +2,8 @@
 title: DocumentTransition.prepare()
 slug: Web/API/DocumentTransition/prepare
 tags:
-  - API
   - Method
   - Reference
-  - prepare
-  - DocumentTransition
 browser-compat: api.DocumentTransition.prepare
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: FileEntry.file()
 slug: Web/API/FileEntry/file
 tags:
-  - API
   - Method
   - Reference
-  - file
-  - FileEntry
 browser-compat: api.FileEntry.file
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLParamElement.value
 slug: Web/API/HTMLParamElement/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - HTMLParamElement
 browser-compat: api.HTMLParamElement.value
 ---
 {{DefaultAPISidebar("")}}

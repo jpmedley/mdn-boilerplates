@@ -2,11 +2,8 @@
 title: ServiceWorkerGlobalScope.onpaymentrequest
 slug: Web/API/ServiceWorkerGlobalScope/onpaymentrequest
 tags:
-  - API
   - Property
   - Reference
-  - onpaymentrequest
-  - ServiceWorkerGlobalScope
 browser-compat: api.ServiceWorkerGlobalScope.onpaymentrequest
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.copyBufferToBuffer()
 slug: Web/API/GPUCommandEncoder/copyBufferToBuffer
 tags:
-  - API
   - Method
   - Reference
-  - copyBufferToBuffer
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.copyBufferToBuffer
 ---
 {{DefaultAPISidebar("")}}

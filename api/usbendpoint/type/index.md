@@ -2,11 +2,8 @@
 title: USBEndpoint.type
 slug: Web/API/USBEndpoint/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - USBEndpoint
 browser-compat: api.USBEndpoint.type
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

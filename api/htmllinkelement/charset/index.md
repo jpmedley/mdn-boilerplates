@@ -2,11 +2,8 @@
 title: HTMLLinkElement.charset
 slug: Web/API/HTMLLinkElement/charset
 tags:
-  - API
   - Property
   - Reference
-  - charset
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.charset
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGAnimationElement.beginElement()
 slug: Web/API/SVGAnimationElement/beginElement
 tags:
-  - API
   - Method
   - Reference
-  - beginElement
-  - SVGAnimationElement
 browser-compat: api.SVGAnimationElement.beginElement
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: MediaKeys.getStatusForPolicy()
 slug: Web/API/MediaKeys/getStatusForPolicy
 tags:
-  - API
   - Method
   - Reference
-  - getStatusForPolicy
-  - MediaKeys
 browser-compat: api.MediaKeys.getStatusForPolicy
 ---
 {{DefaultAPISidebar("")}}

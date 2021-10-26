@@ -2,11 +2,8 @@
 title: DOMFileSystemSync.root
 slug: Web/API/DOMFileSystemSync/root
 tags:
-  - API
   - Property
   - Reference
-  - root
-  - DOMFileSystemSync
 browser-compat: api.DOMFileSystemSync.root
 ---
 {{DefaultAPISidebar("")}}

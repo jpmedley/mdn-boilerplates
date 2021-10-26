@@ -2,11 +2,8 @@
 title: SVGMatrix.translate()
 slug: Web/API/SVGMatrix/translate
 tags:
-  - API
   - Method
   - Reference
-  - translate
-  - SVGMatrix
 browser-compat: api.SVGMatrix.translate
 ---
 {{DefaultAPISidebar("")}}

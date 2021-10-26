@@ -2,11 +2,8 @@
 title: FontTableMap.size()
 slug: Web/API/FontTableMap/size
 tags:
-  - API
   - Method
   - Reference
-  - size
-  - FontTableMap
 browser-compat: api.FontTableMap.size
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

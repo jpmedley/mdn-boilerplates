@@ -2,11 +2,8 @@
 title: HTMLElement.draggable
 slug: Web/API/HTMLElement/draggable
 tags:
-  - API
   - Property
   - Reference
-  - draggable
-  - HTMLElement
 browser-compat: api.HTMLElement.draggable
 ---
 {{DefaultAPISidebar("")}}

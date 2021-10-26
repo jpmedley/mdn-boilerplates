@@ -2,11 +2,8 @@
 title: PresentationConnection.onterminate
 slug: Web/API/PresentationConnection/onterminate
 tags:
-  - API
   - Property
   - Reference
-  - onterminate
-  - PresentationConnection
 browser-compat: api.PresentationConnection.onterminate
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

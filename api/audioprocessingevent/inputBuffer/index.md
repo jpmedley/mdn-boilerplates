@@ -2,11 +2,8 @@
 title: AudioProcessingEvent.inputBuffer
 slug: Web/API/AudioProcessingEvent/inputBuffer
 tags:
-  - API
   - Property
   - Reference
-  - inputBuffer
-  - AudioProcessingEvent
 browser-compat: api.AudioProcessingEvent.inputBuffer
 ---
 {{DefaultAPISidebar("")}}

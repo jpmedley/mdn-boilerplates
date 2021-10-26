@@ -2,10 +2,8 @@
 title: MediaEncryptedEvent.MediaEncryptedEvent()
 slug: Web/API/MediaEncryptedEvent/MediaEncryptedEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - MediaEncryptedEvent
 browser-compat: api.MediaEncryptedEvent.MediaEncryptedEvent
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Database.version
 slug: Web/API/Database/version
 tags:
-  - API
   - Property
   - Reference
-  - version
-  - Database
 browser-compat: api.Database.version
 ---
 {{DefaultAPISidebar("")}}

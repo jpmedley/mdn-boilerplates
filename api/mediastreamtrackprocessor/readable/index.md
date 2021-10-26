@@ -2,11 +2,8 @@
 title: MediaStreamTrackProcessor.readable
 slug: Web/API/MediaStreamTrackProcessor/readable
 tags:
-  - API
   - Property
   - Reference
-  - readable
-  - MediaStreamTrackProcessor
 browser-compat: api.MediaStreamTrackProcessor.readable
 ---
 {{DefaultAPISidebar("")}}

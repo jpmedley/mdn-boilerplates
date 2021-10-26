@@ -2,11 +2,8 @@
 title: Window.openDatabase()
 slug: Web/API/Window/openDatabase
 tags:
-  - API
   - Method
   - Reference
-  - openDatabase
-  - Window
 browser-compat: api.Window.openDatabase
 ---
 {{DefaultAPISidebar("")}}

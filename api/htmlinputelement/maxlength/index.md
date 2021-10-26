@@ -2,11 +2,8 @@
 title: HTMLInputElement.maxLength
 slug: Web/API/HTMLInputElement/maxLength
 tags:
-  - API
   - Property
   - Reference
-  - maxLength
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.maxLength
 ---
 {{DefaultAPISidebar("")}}

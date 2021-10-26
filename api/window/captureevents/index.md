@@ -2,11 +2,8 @@
 title: Window.captureEvents()
 slug: Web/API/Window/captureEvents
 tags:
-  - API
   - Method
   - Reference
-  - captureEvents
-  - Window
 browser-compat: api.Window.captureEvents
 ---
 {{DefaultAPISidebar("")}}

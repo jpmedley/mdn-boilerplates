@@ -2,11 +2,8 @@
 title: SVGSVGElement.createSVGTransformFromMatrix()
 slug: Web/API/SVGSVGElement/createSVGTransformFromMatrix
 tags:
-  - API
   - Method
   - Reference
-  - createSVGTransformFromMatrix
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.createSVGTransformFromMatrix
 ---
 {{DefaultAPISidebar("")}}

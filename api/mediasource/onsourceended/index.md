@@ -2,11 +2,8 @@
 title: MediaSource.onsourceended
 slug: Web/API/MediaSource/onsourceended
 tags:
-  - API
   - Property
   - Reference
-  - onsourceended
-  - MediaSource
 browser-compat: api.MediaSource.onsourceended
 ---
 {{DefaultAPISidebar("")}}

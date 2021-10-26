@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.is2D
 slug: Web/API/DOMMatrixReadOnly/is2D
 tags:
-  - API
   - Property
   - Reference
-  - is2D
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.is2D
 ---
 {{DefaultAPISidebar("")}}

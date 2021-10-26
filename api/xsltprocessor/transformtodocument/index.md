@@ -2,11 +2,8 @@
 title: XSLTProcessor.transformToDocument()
 slug: Web/API/XSLTProcessor/transformToDocument
 tags:
-  - API
   - Method
   - Reference
-  - transformToDocument
-  - XSLTProcessor
 browser-compat: api.XSLTProcessor.transformToDocument
 ---
 {{DefaultAPISidebar("")}}

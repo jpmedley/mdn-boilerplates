@@ -2,11 +2,8 @@
 title: UnderlyingSinkBase.close()
 slug: Web/API/UnderlyingSinkBase/close
 tags:
-  - API
   - Method
   - Reference
-  - close
-  - UnderlyingSinkBase
 browser-compat: api.UnderlyingSinkBase.close
 ---
 {{DefaultAPISidebar("")}}

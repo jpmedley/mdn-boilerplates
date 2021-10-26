@@ -2,11 +2,8 @@
 title: CoopAccessViolationReportBody.openeeURL
 slug: Web/API/CoopAccessViolationReportBody/openeeURL
 tags:
-  - API
   - Property
   - Reference
-  - openeeURL
-  - CoopAccessViolationReportBody
 browser-compat: api.CoopAccessViolationReportBody.openeeURL
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: EntrySync.copyTo()
 slug: Web/API/EntrySync/copyTo
 tags:
-  - API
   - Method
   - Reference
-  - copyTo
-  - EntrySync
 browser-compat: api.EntrySync.copyTo
 ---
 {{DefaultAPISidebar("")}}

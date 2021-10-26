@@ -2,11 +2,8 @@
 title: XRAnchorSet.has()
 slug: Web/API/XRAnchorSet/has
 tags:
-  - API
   - Method
   - Reference
-  - has
-  - XRAnchorSet
 browser-compat: api.XRAnchorSet.has
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

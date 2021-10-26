@@ -2,11 +2,8 @@
 title: Element.StringContext=TrustedHTML
 slug: Web/API/Element/StringContext=TrustedHTML
 tags:
-  - API
   - Property
   - Reference
-  - StringContext=TrustedHTML
-  - Element
 browser-compat: api.Element.StringContext=TrustedHTML
 ---
 {{DefaultAPISidebar("")}}

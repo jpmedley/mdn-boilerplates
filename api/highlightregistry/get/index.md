@@ -2,11 +2,8 @@
 title: HighlightRegistry.get()
 slug: Web/API/HighlightRegistry/get
 tags:
-  - API
   - Method
   - Reference
-  - get
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry.get
 ---
 {{DefaultAPISidebar("")}}

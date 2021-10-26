@@ -2,11 +2,8 @@
 title: SVGAnimationElement.getCurrentTime()
 slug: Web/API/SVGAnimationElement/getCurrentTime
 tags:
-  - API
   - Method
   - Reference
-  - getCurrentTime
-  - SVGAnimationElement
 browser-compat: api.SVGAnimationElement.getCurrentTime
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLSourceElement.src
 slug: Web/API/HTMLSourceElement/src
 tags:
-  - API
   - Property
   - Reference
-  - src
-  - HTMLSourceElement
 browser-compat: api.HTMLSourceElement.src
 ---
 {{DefaultAPISidebar("")}}

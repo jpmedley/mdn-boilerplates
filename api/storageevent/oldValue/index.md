@@ -2,11 +2,8 @@
 title: StorageEvent.oldValue
 slug: Web/API/StorageEvent/oldValue
 tags:
-  - API
   - Property
   - Reference
-  - oldValue
-  - StorageEvent
 browser-compat: api.StorageEvent.oldValue
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SourceBuffer.trackDefaults
 slug: Web/API/SourceBuffer/trackDefaults
 tags:
-  - API
   - Property
   - Reference
-  - trackDefaults
-  - SourceBuffer
 browser-compat: api.SourceBuffer.trackDefaults
 ---
 {{DefaultAPISidebar("")}}

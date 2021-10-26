@@ -2,10 +2,8 @@
 title: XMLHttpRequestUpload
 slug: Web/API/XMLHttpRequestUpload
 tags:
-  - API
   - Interface
   - Reference
-  - XMLHttpRequestUpload
 browser-compat: api.XMLHttpRequestUpload
 ---
 {{DefaultAPISidebar("")}}

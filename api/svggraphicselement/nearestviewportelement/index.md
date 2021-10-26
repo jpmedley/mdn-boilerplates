@@ -2,11 +2,8 @@
 title: SVGGraphicsElement.nearestViewportElement
 slug: Web/API/SVGGraphicsElement/nearestViewportElement
 tags:
-  - API
   - Property
   - Reference
-  - nearestViewportElement
-  - SVGGraphicsElement
 browser-compat: api.SVGGraphicsElement.nearestViewportElement
 ---
 {{DefaultAPISidebar("")}}

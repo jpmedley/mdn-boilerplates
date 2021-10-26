@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.scrollDelay
 slug: Web/API/HTMLMarqueeElement/scrollDelay
 tags:
-  - API
   - Property
   - Reference
-  - scrollDelay
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.scrollDelay
 ---
 {{DefaultAPISidebar("")}}

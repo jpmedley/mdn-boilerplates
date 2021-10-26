@@ -2,11 +2,8 @@
 title: FileWriter.onprogress
 slug: Web/API/FileWriter/onprogress
 tags:
-  - API
   - Property
   - Reference
-  - onprogress
-  - FileWriter
 browser-compat: api.FileWriter.onprogress
 ---
 {{DefaultAPISidebar("")}}

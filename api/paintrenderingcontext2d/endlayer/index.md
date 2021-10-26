@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.endLayer()
 slug: Web/API/PaintRenderingContext2D/endLayer
 tags:
-  - API
   - Method
   - Reference
-  - endLayer
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.endLayer
 ---
 {{DefaultAPISidebar("")}}

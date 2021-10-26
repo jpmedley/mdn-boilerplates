@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.ping
 slug: Web/API/HTMLAnchorElement/ping
 tags:
-  - API
   - Property
   - Reference
-  - ping
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.ping
 ---
 {{DefaultAPISidebar("")}}

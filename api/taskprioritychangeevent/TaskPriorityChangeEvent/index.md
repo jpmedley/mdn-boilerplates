@@ -2,10 +2,8 @@
 title: TaskPriorityChangeEvent.TaskPriorityChangeEvent()
 slug: Web/API/TaskPriorityChangeEvent/TaskPriorityChangeEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - TaskPriorityChangeEvent
 browser-compat: api.TaskPriorityChangeEvent.TaskPriorityChangeEvent
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGTransform.angle
 slug: Web/API/SVGTransform/angle
 tags:
-  - API
   - Property
   - Reference
-  - angle
-  - SVGTransform
 browser-compat: api.SVGTransform.angle
 ---
 {{DefaultAPISidebar("")}}

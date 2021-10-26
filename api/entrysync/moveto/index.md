@@ -2,11 +2,8 @@
 title: EntrySync.moveTo()
 slug: Web/API/EntrySync/moveTo
 tags:
-  - API
   - Method
   - Reference
-  - moveTo
-  - EntrySync
 browser-compat: api.EntrySync.moveTo
 ---
 {{DefaultAPISidebar("")}}

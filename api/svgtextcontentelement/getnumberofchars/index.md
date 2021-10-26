@@ -2,11 +2,8 @@
 title: SVGTextContentElement.getNumberOfChars()
 slug: Web/API/SVGTextContentElement/getNumberOfChars
 tags:
-  - API
   - Method
   - Reference
-  - getNumberOfChars
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.getNumberOfChars
 ---
 {{DefaultAPISidebar("")}}

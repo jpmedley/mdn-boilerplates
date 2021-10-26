@@ -2,10 +2,8 @@
 title: Highlight.Highlight()
 slug: Web/API/Highlight/Highlight
 tags:
-  - API
   - Constructor
   - Reference
-  - Highlight
 browser-compat: api.Highlight.Highlight
 ---
 {{DefaultAPISidebar("")}}

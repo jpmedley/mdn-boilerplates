@@ -2,11 +2,8 @@
 title: InterventionReportBody.id
 slug: Web/API/InterventionReportBody/id
 tags:
-  - API
   - Property
   - Reference
-  - id
-  - InterventionReportBody
 browser-compat: api.InterventionReportBody.id
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SQLResultSet.rowsAffected
 slug: Web/API/SQLResultSet/rowsAffected
 tags:
-  - API
   - Property
   - Reference
-  - rowsAffected
-  - SQLResultSet
 browser-compat: api.SQLResultSet.rowsAffected
 ---
 {{DefaultAPISidebar("")}}

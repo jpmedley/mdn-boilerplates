@@ -2,11 +2,8 @@
 title: HTMLAreaElement.alt
 slug: Web/API/HTMLAreaElement/alt
 tags:
-  - API
   - Property
   - Reference
-  - alt
-  - HTMLAreaElement
 browser-compat: api.HTMLAreaElement.alt
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: FontTableMap.forEach()
 slug: Web/API/FontTableMap/forEach
 tags:
-  - API
   - Method
   - Reference
-  - forEach
-  - FontTableMap
 browser-compat: api.FontTableMap.forEach
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

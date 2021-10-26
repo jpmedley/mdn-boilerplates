@@ -2,11 +2,8 @@
 title: SVGFEColorMatrixElement.type
 slug: Web/API/SVGFEColorMatrixElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - SVGFEColorMatrixElement
 browser-compat: api.SVGFEColorMatrixElement.type
 ---
 {{DefaultAPISidebar("")}}

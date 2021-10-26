@@ -2,11 +2,8 @@
 title: HTMLOptionsCollection.length
 slug: Web/API/HTMLOptionsCollection/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - HTMLOptionsCollection
 browser-compat: api.HTMLOptionsCollection.length
 ---
 {{DefaultAPISidebar("")}}

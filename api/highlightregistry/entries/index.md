@@ -2,11 +2,8 @@
 title: HighlightRegistry.entries()
 slug: Web/API/HighlightRegistry/entries
 tags:
-  - API
   - Method
   - Reference
-  - entries
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry.entries
 ---
 {{DefaultAPISidebar("")}}

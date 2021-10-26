@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.width
 slug: Web/API/HTMLIFrameElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.width
 ---
 {{DefaultAPISidebar("")}}

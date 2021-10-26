@@ -2,11 +2,8 @@
 title: Window.launchQueue
 slug: Web/API/Window/launchQueue
 tags:
-  - API
   - Property
   - Reference
-  - launchQueue
-  - Window
 browser-compat: api.Window.launchQueue
 ---
 {{DefaultAPISidebar("")}}

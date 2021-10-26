@@ -2,10 +2,8 @@
 title: GPUBindGroupLayout
 slug: Web/API/GPUBindGroupLayout
 tags:
-  - API
   - Interface
   - Reference
-  - GPUBindGroupLayout
 browser-compat: api.GPUBindGroupLayout
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLLinkElement.media
 slug: Web/API/HTMLLinkElement/media
 tags:
-  - API
   - Property
   - Reference
-  - media
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.media
 ---
 {{DefaultAPISidebar("")}}

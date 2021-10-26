@@ -2,11 +2,8 @@
 title: SVGStringList.removeItem()
 slug: Web/API/SVGStringList/removeItem
 tags:
-  - API
   - Method
   - Reference
-  - removeItem
-  - SVGStringList
 browser-compat: api.SVGStringList.removeItem
 ---
 {{DefaultAPISidebar("")}}

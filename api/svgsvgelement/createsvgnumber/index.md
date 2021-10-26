@@ -2,11 +2,8 @@
 title: SVGSVGElement.createSVGNumber()
 slug: Web/API/SVGSVGElement/createSVGNumber
 tags:
-  - API
   - Method
   - Reference
-  - createSVGNumber
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.createSVGNumber
 ---
 {{DefaultAPISidebar("")}}

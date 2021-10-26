@@ -2,11 +2,8 @@
 title: HTMLStyleElement.sheet
 slug: Web/API/HTMLStyleElement/sheet
 tags:
-  - API
   - Property
   - Reference
-  - sheet
-  - HTMLStyleElement
 browser-compat: api.HTMLStyleElement.sheet
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Document.webkitVisibilityState
 slug: Web/API/Document/webkitVisibilityState
 tags:
-  - API
   - Property
   - Reference
-  - webkitVisibilityState
-  - Document
 browser-compat: api.Document.webkitVisibilityState
 ---
 {{DefaultAPISidebar("")}}

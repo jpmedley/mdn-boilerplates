@@ -2,11 +2,8 @@
 title: SVGLength.valueInSpecifiedUnits
 slug: Web/API/SVGLength/valueInSpecifiedUnits
 tags:
-  - API
   - Property
   - Reference
-  - valueInSpecifiedUnits
-  - SVGLength
 browser-compat: api.SVGLength.valueInSpecifiedUnits
 ---
 {{DefaultAPISidebar("")}}

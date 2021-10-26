@@ -2,11 +2,8 @@
 title: StyleMedia.type
 slug: Web/API/StyleMedia/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - StyleMedia
 browser-compat: api.StyleMedia.type
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLOptionsCollection.selectedIndex
 slug: Web/API/HTMLOptionsCollection/selectedIndex
 tags:
-  - API
   - Property
   - Reference
-  - selectedIndex
-  - HTMLOptionsCollection
 browser-compat: api.HTMLOptionsCollection.selectedIndex
 ---
 {{DefaultAPISidebar("")}}

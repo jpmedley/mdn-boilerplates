@@ -2,11 +2,8 @@
 title: SVGFEDistantLightElement.azimuth
 slug: Web/API/SVGFEDistantLightElement/azimuth
 tags:
-  - API
   - Property
   - Reference
-  - azimuth
-  - SVGFEDistantLightElement
 browser-compat: api.SVGFEDistantLightElement.azimuth
 ---
 {{DefaultAPISidebar("")}}

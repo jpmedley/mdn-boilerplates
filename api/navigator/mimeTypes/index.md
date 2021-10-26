@@ -2,11 +2,8 @@
 title: Navigator.mimeTypes
 slug: Web/API/Navigator/mimeTypes
 tags:
-  - API
   - Property
   - Reference
-  - mimeTypes
-  - Navigator
 browser-compat: api.Navigator.mimeTypes
 ---
 {{DefaultAPISidebar("")}}

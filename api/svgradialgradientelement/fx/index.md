@@ -2,11 +2,8 @@
 title: SVGRadialGradientElement.fx
 slug: Web/API/SVGRadialGradientElement/fx
 tags:
-  - API
   - Property
   - Reference
-  - fx
-  - SVGRadialGradientElement
 browser-compat: api.SVGRadialGradientElement.fx
 ---
 {{DefaultAPISidebar("")}}

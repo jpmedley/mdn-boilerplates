@@ -2,11 +2,8 @@
 title: ScrollState.positionX
 slug: Web/API/ScrollState/positionX
 tags:
-  - API
   - Property
   - Reference
-  - positionX
-  - ScrollState
 browser-compat: api.ScrollState.positionX
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: ScrollState.velocityX
 slug: Web/API/ScrollState/velocityX
 tags:
-  - API
   - Property
   - Reference
-  - velocityX
-  - ScrollState
 browser-compat: api.ScrollState.velocityX
 ---
 {{DefaultAPISidebar("")}}

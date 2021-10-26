@@ -2,11 +2,8 @@
 title: DOMTokenList.toString()
 slug: Web/API/DOMTokenList/toString
 tags:
-  - API
   - Method
   - Reference
-  - toString
-  - DOMTokenList
 browser-compat: api.DOMTokenList.toString
 ---
 {{DefaultAPISidebar("")}}

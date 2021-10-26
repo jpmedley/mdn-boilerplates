@@ -2,11 +2,8 @@
 title: TaskPriorityChangeEvent.previousPriority
 slug: Web/API/TaskPriorityChangeEvent/previousPriority
 tags:
-  - API
   - Property
   - Reference
-  - previousPriority
-  - TaskPriorityChangeEvent
 browser-compat: api.TaskPriorityChangeEvent.previousPriority
 ---
 {{DefaultAPISidebar("")}}

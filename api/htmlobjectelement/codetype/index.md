@@ -2,11 +2,8 @@
 title: HTMLObjectElement.codeType
 slug: Web/API/HTMLObjectElement/codeType
 tags:
-  - API
   - Property
   - Reference
-  - codeType
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.codeType
 ---
 {{DefaultAPISidebar("")}}

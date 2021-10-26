@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.restore()
 slug: Web/API/PaintRenderingContext2D/restore
 tags:
-  - API
   - Method
   - Reference
-  - restore
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.restore
 ---
 {{DefaultAPISidebar("")}}

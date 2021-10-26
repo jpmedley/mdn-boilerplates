@@ -2,11 +2,8 @@
 title: SVGSVGElement.createSVGTransform()
 slug: Web/API/SVGSVGElement/createSVGTransform
 tags:
-  - API
   - Method
   - Reference
-  - createSVGTransform
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.createSVGTransform
 ---
 {{DefaultAPISidebar("")}}

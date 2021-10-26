@@ -2,10 +2,8 @@
 title: ErrorCallback
 slug: Web/API/ErrorCallback
 tags:
-  - API
   - Interface
   - Reference
-  - ErrorCallback
 browser-compat: api.ErrorCallback
 ---
 {{DefaultAPISidebar("")}}

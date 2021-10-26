@@ -2,11 +2,8 @@
 title: SVGTextPathElement.startOffset
 slug: Web/API/SVGTextPathElement/startOffset
 tags:
-  - API
   - Property
   - Reference
-  - startOffset
-  - SVGTextPathElement
 browser-compat: api.SVGTextPathElement.startOffset
 ---
 {{DefaultAPISidebar("")}}

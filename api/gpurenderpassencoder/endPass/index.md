@@ -2,11 +2,8 @@
 title: GPURenderPassEncoder.endPass()
 slug: Web/API/GPURenderPassEncoder/endPass
 tags:
-  - API
   - Method
   - Reference
-  - endPass
-  - GPURenderPassEncoder
 browser-compat: api.GPURenderPassEncoder.endPass
 ---
 {{DefaultAPISidebar("")}}

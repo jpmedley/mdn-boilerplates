@@ -2,11 +2,8 @@
 title: FontMetadata.blob()
 slug: Web/API/FontMetadata/blob
 tags:
-  - API
   - Method
   - Reference
-  - blob
-  - FontMetadata
 browser-compat: api.FontMetadata.blob
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

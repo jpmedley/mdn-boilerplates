@@ -2,11 +2,8 @@
 title: SVGEllipseElement.ry
 slug: Web/API/SVGEllipseElement/ry
 tags:
-  - API
   - Property
   - Reference
-  - ry
-  - SVGEllipseElement
 browser-compat: api.SVGEllipseElement.ry
 ---
 {{DefaultAPISidebar("")}}

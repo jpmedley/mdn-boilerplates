@@ -2,11 +2,8 @@
 title: USBAlternateInterface.interfaceClass
 slug: Web/API/USBAlternateInterface/interfaceClass
 tags:
-  - API
   - Property
   - Reference
-  - interfaceClass
-  - USBAlternateInterface
 browser-compat: api.USBAlternateInterface.interfaceClass
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

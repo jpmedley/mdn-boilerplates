@@ -2,11 +2,8 @@
 title: WebGLTexture.lastUploadedVideoWidth
 slug: Web/API/WebGLTexture/lastUploadedVideoWidth
 tags:
-  - API
   - Property
   - Reference
-  - lastUploadedVideoWidth
-  - WebGLTexture
 browser-compat: api.WebGLTexture.lastUploadedVideoWidth
 ---
 {{DefaultAPISidebar("")}}

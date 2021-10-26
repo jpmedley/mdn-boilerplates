@@ -2,11 +2,8 @@
 title: GPURenderPassEncoder.writeTimestamp()
 slug: Web/API/GPURenderPassEncoder/writeTimestamp
 tags:
-  - API
   - Method
   - Reference
-  - writeTimestamp
-  - GPURenderPassEncoder
 browser-compat: api.GPURenderPassEncoder.writeTimestamp
 ---
 {{DefaultAPISidebar("")}}

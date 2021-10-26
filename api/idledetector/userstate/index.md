@@ -2,11 +2,8 @@
 title: IdleDetector.userState
 slug: Web/API/IdleDetector/userState
 tags:
-  - API
   - Property
   - Reference
-  - userState
-  - IdleDetector
 browser-compat: api.IdleDetector.userState
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

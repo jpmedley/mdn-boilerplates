@@ -2,11 +2,8 @@
 title: EXTDisjointTimerQueryWebGL2.queryCounterEXT()
 slug: Web/API/EXTDisjointTimerQueryWebGL2/queryCounterEXT
 tags:
-  - API
   - Method
   - Reference
-  - queryCounterEXT
-  - EXTDisjointTimerQueryWebGL2
 browser-compat: api.EXTDisjointTimerQueryWebGL2.queryCounterEXT
 ---
 {{DefaultAPISidebar("")}}

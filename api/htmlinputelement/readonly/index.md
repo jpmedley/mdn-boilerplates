@@ -2,11 +2,8 @@
 title: HTMLInputElement.readOnly
 slug: Web/API/HTMLInputElement/readOnly
 tags:
-  - API
   - Property
   - Reference
-  - readOnly
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.readOnly
 ---
 {{DefaultAPISidebar("")}}

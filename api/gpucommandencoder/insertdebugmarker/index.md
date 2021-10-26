@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.insertDebugMarker()
 slug: Web/API/GPUCommandEncoder/insertDebugMarker
 tags:
-  - API
   - Method
   - Reference
-  - insertDebugMarker
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.insertDebugMarker
 ---
 {{DefaultAPISidebar("")}}

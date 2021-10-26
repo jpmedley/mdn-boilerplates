@@ -2,11 +2,8 @@
 title: HTMLFrameElement.contentDocument
 slug: Web/API/HTMLFrameElement/contentDocument
 tags:
-  - API
   - Property
   - Reference
-  - contentDocument
-  - HTMLFrameElement
 browser-compat: api.HTMLFrameElement.contentDocument
 ---
 {{DefaultAPISidebar("")}}

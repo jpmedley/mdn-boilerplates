@@ -2,11 +2,8 @@
 title: HTMLPortalElement.onmessageerror
 slug: Web/API/HTMLPortalElement/onmessageerror
 tags:
-  - API
   - Property
   - Reference
-  - onmessageerror
-  - HTMLPortalElement
 browser-compat: api.HTMLPortalElement.onmessageerror
 ---
 {{DefaultAPISidebar("")}}

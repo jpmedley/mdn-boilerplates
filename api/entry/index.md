@@ -2,10 +2,8 @@
 title: Entry
 slug: Web/API/Entry
 tags:
-  - API
   - Interface
   - Reference
-  - Entry
 browser-compat: api.Entry
 ---
 {{DefaultAPISidebar("")}}

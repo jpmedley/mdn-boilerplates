@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.putImageData()
 slug: Web/API/OffscreenCanvasRenderingContext2D/putImageData
 tags:
-  - API
   - Method
   - Reference
-  - putImageData
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.putImageData
 ---
 {{DefaultAPISidebar("")}}

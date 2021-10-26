@@ -2,11 +2,8 @@
 title: AudioParamMap.forEach()
 slug: Web/API/AudioParamMap/forEach
 tags:
-  - API
   - Method
   - Reference
-  - forEach
-  - AudioParamMap
 browser-compat: api.AudioParamMap.forEach
 ---
 {{DefaultAPISidebar("")}}

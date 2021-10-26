@@ -2,11 +2,8 @@
 title: DOMQuad.getBounds()
 slug: Web/API/DOMQuad/getBounds
 tags:
-  - API
   - Method
   - Reference
-  - getBounds
-  - DOMQuad
 browser-compat: api.DOMQuad.getBounds
 ---
 {{DefaultAPISidebar("")}}

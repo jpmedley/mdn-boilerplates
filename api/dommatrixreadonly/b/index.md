@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.b
 slug: Web/API/DOMMatrixReadOnly/b
 tags:
-  - API
   - Property
   - Reference
-  - b
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.b
 ---
 {{DefaultAPISidebar("")}}

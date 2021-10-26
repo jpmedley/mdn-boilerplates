@@ -2,11 +2,8 @@
 title: EntrySync.isFile
 slug: Web/API/EntrySync/isFile
 tags:
-  - API
   - Property
   - Reference
-  - isFile
-  - EntrySync
 browser-compat: api.EntrySync.isFile
 ---
 {{DefaultAPISidebar("")}}

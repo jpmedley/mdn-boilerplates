@@ -2,11 +2,8 @@
 title: CSSStyleValue.toString()
 slug: Web/API/CSSStyleValue/toString
 tags:
-  - API
   - Method
   - Reference
-  - toString
-  - CSSStyleValue
 browser-compat: api.CSSStyleValue.toString
 ---
 {{DefaultAPISidebar("")}}

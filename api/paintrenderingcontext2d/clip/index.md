@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.clip()
 slug: Web/API/PaintRenderingContext2D/clip
 tags:
-  - API
   - Method
   - Reference
-  - clip
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.clip
 ---
 {{DefaultAPISidebar("")}}

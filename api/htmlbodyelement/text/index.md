@@ -2,11 +2,8 @@
 title: HTMLBodyElement.text
 slug: Web/API/HTMLBodyElement/text
 tags:
-  - API
   - Property
   - Reference
-  - text
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.text
 ---
 {{DefaultAPISidebar("")}}

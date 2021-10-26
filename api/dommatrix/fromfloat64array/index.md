@@ -2,11 +2,8 @@
 title: DOMMatrix.fromFloat64Array()
 slug: Web/API/DOMMatrix/fromFloat64Array
 tags:
-  - API
   - Method
   - Reference
-  - fromFloat64Array
-  - DOMMatrix
 browser-compat: api.DOMMatrix.fromFloat64Array
 ---
 {{DefaultAPISidebar("")}}

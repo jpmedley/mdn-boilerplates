@@ -2,11 +2,8 @@
 title: PortalHost.onmessage
 slug: Web/API/PortalHost/onmessage
 tags:
-  - API
   - Property
   - Reference
-  - onmessage
-  - PortalHost
 browser-compat: api.PortalHost.onmessage
 ---
 {{DefaultAPISidebar("")}}

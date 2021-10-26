@@ -2,11 +2,8 @@
 title: HTMLScriptElement.noModule
 slug: Web/API/HTMLScriptElement/noModule
 tags:
-  - API
   - Property
   - Reference
-  - noModule
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.noModule
 ---
 {{DefaultAPISidebar("")}}

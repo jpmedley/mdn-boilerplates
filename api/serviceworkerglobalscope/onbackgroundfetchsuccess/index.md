@@ -2,11 +2,8 @@
 title: ServiceWorkerGlobalScope.onbackgroundfetchsuccess
 slug: Web/API/ServiceWorkerGlobalScope/onbackgroundfetchsuccess
 tags:
-  - API
   - Property
   - Reference
-  - onbackgroundfetchsuccess
-  - ServiceWorkerGlobalScope
 browser-compat: api.ServiceWorkerGlobalScope.onbackgroundfetchsuccess
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Plugin.length
 slug: Web/API/Plugin/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - Plugin
 browser-compat: api.Plugin.length
 ---
 {{DefaultAPISidebar("")}}

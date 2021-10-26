@@ -2,11 +2,8 @@
 title: HTMLBodyElement.vLink
 slug: Web/API/HTMLBodyElement/vLink
 tags:
-  - API
   - Property
   - Reference
-  - vLink
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.vLink
 ---
 {{DefaultAPISidebar("")}}

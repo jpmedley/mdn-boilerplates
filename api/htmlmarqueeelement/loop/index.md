@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.loop
 slug: Web/API/HTMLMarqueeElement/loop
 tags:
-  - API
   - Property
   - Reference
-  - loop
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.loop
 ---
 {{DefaultAPISidebar("")}}

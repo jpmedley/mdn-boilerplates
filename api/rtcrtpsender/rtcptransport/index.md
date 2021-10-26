@@ -2,11 +2,8 @@
 title: RTCRtpSender.rtcpTransport
 slug: Web/API/RTCRtpSender/rtcpTransport
 tags:
-  - API
   - Property
   - Reference
-  - rtcpTransport
-  - RTCRtpSender
 browser-compat: api.RTCRtpSender.rtcpTransport
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLHRElement.size
 slug: Web/API/HTMLHRElement/size
 tags:
-  - API
   - Property
   - Reference
-  - size
-  - HTMLHRElement
 browser-compat: api.HTMLHRElement.size
 ---
 {{DefaultAPISidebar("")}}

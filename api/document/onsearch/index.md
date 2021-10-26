@@ -2,11 +2,8 @@
 title: Document.onsearch
 slug: Web/API/Document/onsearch
 tags:
-  - API
   - Property
   - Reference
-  - onsearch
-  - Document
 browser-compat: api.Document.onsearch
 ---
 {{DefaultAPISidebar("")}}

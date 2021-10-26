@@ -2,11 +2,8 @@
 title: HTMLMapElement.name
 slug: Web/API/HTMLMapElement/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - HTMLMapElement
 browser-compat: api.HTMLMapElement.name
 ---
 {{DefaultAPISidebar("")}}

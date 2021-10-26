@@ -2,11 +2,8 @@
 title: AnimationEffectTimingReadOnly.iterations
 slug: Web/API/AnimationEffectTimingReadOnly/iterations
 tags:
-  - API
   - Property
   - Reference
-  - iterations
-  - AnimationEffectTimingReadOnly
 browser-compat: api.AnimationEffectTimingReadOnly.iterations
 ---
 {{DefaultAPISidebar("")}}

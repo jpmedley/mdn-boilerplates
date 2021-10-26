@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.rotate()
 slug: Web/API/DOMMatrixReadOnly/rotate
 tags:
-  - API
   - Method
   - Reference
-  - rotate
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.rotate
 ---
 {{DefaultAPISidebar("")}}

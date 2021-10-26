@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.scrolling
 slug: Web/API/HTMLIFrameElement/scrolling
 tags:
-  - API
   - Property
   - Reference
-  - scrolling
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.scrolling
 ---
 {{DefaultAPISidebar("")}}

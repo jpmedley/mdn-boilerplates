@@ -2,11 +2,8 @@
 title: DOMMatrix.scaleSelf()
 slug: Web/API/DOMMatrix/scaleSelf
 tags:
-  - API
   - Method
   - Reference
-  - scaleSelf
-  - DOMMatrix
 browser-compat: api.DOMMatrix.scaleSelf
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Window.storageFoundation
 slug: Web/API/Window/storageFoundation
 tags:
-  - API
   - Property
   - Reference
-  - storageFoundation
-  - Window
 browser-compat: api.Window.storageFoundation
 ---
 {{DefaultAPISidebar("")}}

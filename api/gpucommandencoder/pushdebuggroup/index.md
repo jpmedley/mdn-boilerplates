@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.pushDebugGroup()
 slug: Web/API/GPUCommandEncoder/pushDebugGroup
 tags:
-  - API
   - Method
   - Reference
-  - pushDebugGroup
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.pushDebugGroup
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: DevToolsHost
 slug: Web/API/DevToolsHost
 tags:
-  - API
   - Interface
   - Reference
-  - DevToolsHost
 browser-compat: api.DevToolsHost
 ---
 {{DefaultAPISidebar("")}}

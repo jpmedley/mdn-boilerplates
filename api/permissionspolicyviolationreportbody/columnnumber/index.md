@@ -2,11 +2,8 @@
 title: PermissionsPolicyViolationReportBody.columnNumber
 slug: Web/API/PermissionsPolicyViolationReportBody/columnNumber
 tags:
-  - API
   - Property
   - Reference
-  - columnNumber
-  - PermissionsPolicyViolationReportBody
 browser-compat: api.PermissionsPolicyViolationReportBody.columnNumber
 ---
 {{DefaultAPISidebar("")}}

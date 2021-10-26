@@ -2,11 +2,8 @@
 title: SVGAnimatedPreserveAspectRatio.baseVal
 slug: Web/API/SVGAnimatedPreserveAspectRatio/baseVal
 tags:
-  - API
   - Property
   - Reference
-  - baseVal
-  - SVGAnimatedPreserveAspectRatio
 browser-compat: api.SVGAnimatedPreserveAspectRatio.baseVal
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HighlightRegistry.set()
 slug: Web/API/HighlightRegistry/set
 tags:
-  - API
   - Method
   - Reference
-  - set
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry.set
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Attr.value
 slug: Web/API/Attr/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - Attr
 browser-compat: api.Attr.value
 ---
 {{DefaultAPISidebar("")}}

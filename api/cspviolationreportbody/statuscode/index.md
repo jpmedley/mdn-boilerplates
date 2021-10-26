@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.statusCode
 slug: Web/API/CSPViolationReportBody/statusCode
 tags:
-  - API
   - Property
   - Reference
-  - statusCode
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.statusCode
 ---
 {{DefaultAPISidebar("")}}

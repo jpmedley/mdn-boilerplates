@@ -2,11 +2,8 @@
 title: DocumentType.name
 slug: Web/API/DocumentType/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - DocumentType
 browser-compat: api.DocumentType.name
 ---
 {{DefaultAPISidebar("")}}

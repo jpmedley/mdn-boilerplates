@@ -2,11 +2,8 @@
 title: FileWriterSync.position
 slug: Web/API/FileWriterSync/position
 tags:
-  - API
   - Property
   - Reference
-  - position
-  - FileWriterSync
 browser-compat: api.FileWriterSync.position
 ---
 {{DefaultAPISidebar("")}}

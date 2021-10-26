@@ -2,11 +2,8 @@
 title: XRAnchorSet.values()
 slug: Web/API/XRAnchorSet/values
 tags:
-  - API
   - Method
   - Reference
-  - values
-  - XRAnchorSet
 browser-compat: api.XRAnchorSet.values
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

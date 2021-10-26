@@ -2,11 +2,8 @@
 title: RTCLegacyStatsReport.stat()
 slug: Web/API/RTCLegacyStatsReport/stat
 tags:
-  - API
   - Method
   - Reference
-  - stat
-  - RTCLegacyStatsReport
 browser-compat: api.RTCLegacyStatsReport.stat
 ---
 {{DefaultAPISidebar("")}}

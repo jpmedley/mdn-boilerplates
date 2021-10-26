@@ -2,11 +2,8 @@
 title: HTMLBodyElement.onscroll
 slug: Web/API/HTMLBodyElement/onscroll
 tags:
-  - API
   - Property
   - Reference
-  - onscroll
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.onscroll
 ---
 {{DefaultAPISidebar("")}}

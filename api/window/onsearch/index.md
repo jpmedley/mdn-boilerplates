@@ -2,11 +2,8 @@
 title: Window.onsearch
 slug: Web/API/Window/onsearch
 tags:
-  - API
   - Property
   - Reference
-  - onsearch
-  - Window
 browser-compat: api.Window.onsearch
 ---
 {{DefaultAPISidebar("")}}

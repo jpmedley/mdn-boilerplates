@@ -2,11 +2,8 @@
 title: USBIsochronousInTransferPacket.status
 slug: Web/API/USBIsochronousInTransferPacket/status
 tags:
-  - API
   - Property
   - Reference
-  - status
-  - USBIsochronousInTransferPacket
 browser-compat: api.USBIsochronousInTransferPacket.status
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

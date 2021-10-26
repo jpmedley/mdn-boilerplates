@@ -2,11 +2,8 @@
 title: PresentationConnectionCloseEvent.message
 slug: Web/API/PresentationConnectionCloseEvent/message
 tags:
-  - API
   - Property
   - Reference
-  - message
-  - PresentationConnectionCloseEvent
 browser-compat: api.PresentationConnectionCloseEvent.message
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

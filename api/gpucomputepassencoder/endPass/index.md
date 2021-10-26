@@ -2,11 +2,8 @@
 title: GPUComputePassEncoder.endPass()
 slug: Web/API/GPUComputePassEncoder/endPass
 tags:
-  - API
   - Method
   - Reference
-  - endPass
-  - GPUComputePassEncoder
 browser-compat: api.GPUComputePassEncoder.endPass
 ---
 {{DefaultAPISidebar("")}}

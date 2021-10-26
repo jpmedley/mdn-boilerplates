@@ -2,11 +2,8 @@
 title: HTMLPreElement.width
 slug: Web/API/HTMLPreElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - HTMLPreElement
 browser-compat: api.HTMLPreElement.width
 ---
 {{DefaultAPISidebar("")}}

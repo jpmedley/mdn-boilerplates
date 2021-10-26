@@ -2,11 +2,8 @@
 title: SVGMatrix.rotate()
 slug: Web/API/SVGMatrix/rotate
 tags:
-  - API
   - Method
   - Reference
-  - rotate
-  - SVGMatrix
 browser-compat: api.SVGMatrix.rotate
 ---
 {{DefaultAPISidebar("")}}

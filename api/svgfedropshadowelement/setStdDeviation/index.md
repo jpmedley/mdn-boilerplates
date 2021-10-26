@@ -2,11 +2,8 @@
 title: SVGFEDropShadowElement.setStdDeviation()
 slug: Web/API/SVGFEDropShadowElement/setStdDeviation
 tags:
-  - API
   - Method
   - Reference
-  - setStdDeviation
-  - SVGFEDropShadowElement
 browser-compat: api.SVGFEDropShadowElement.setStdDeviation
 ---
 {{DefaultAPISidebar("")}}

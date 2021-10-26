@@ -2,11 +2,8 @@
 title: SVGFECompositeElement.k4
 slug: Web/API/SVGFECompositeElement/k4
 tags:
-  - API
   - Property
   - Reference
-  - k4
-  - SVGFECompositeElement
 browser-compat: api.SVGFECompositeElement.k4
 ---
 {{DefaultAPISidebar("")}}

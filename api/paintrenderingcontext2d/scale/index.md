@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.scale()
 slug: Web/API/PaintRenderingContext2D/scale
 tags:
-  - API
   - Method
   - Reference
-  - scale
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.scale
 ---
 {{DefaultAPISidebar("")}}

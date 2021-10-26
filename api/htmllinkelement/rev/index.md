@@ -2,11 +2,8 @@
 title: HTMLLinkElement.rev
 slug: Web/API/HTMLLinkElement/rev
 tags:
-  - API
   - Property
   - Reference
-  - rev
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.rev
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLOptionElement.disabled
 slug: Web/API/HTMLOptionElement/disabled
 tags:
-  - API
   - Property
   - Reference
-  - disabled
-  - HTMLOptionElement
 browser-compat: api.HTMLOptionElement.disabled
 ---
 {{DefaultAPISidebar("")}}

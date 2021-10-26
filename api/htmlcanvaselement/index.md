@@ -2,11 +2,8 @@
 title: HTMLCanvasElement.()
 slug: Web/API/HTMLCanvasElement/
 tags:
-  - API
   - Method
   - Reference
-  - 
-  - HTMLCanvasElement
 browser-compat: api.HTMLCanvasElement.
 ---
 {{DefaultAPISidebar("")}}

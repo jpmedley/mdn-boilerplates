@@ -2,11 +2,8 @@
 title: Selection.extentNode
 slug: Web/API/Selection/extentNode
 tags:
-  - API
   - Property
   - Reference
-  - extentNode
-  - Selection
 browser-compat: api.Selection.extentNode
 ---
 {{DefaultAPISidebar("")}}

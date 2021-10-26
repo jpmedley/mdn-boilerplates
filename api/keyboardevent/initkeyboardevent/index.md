@@ -2,11 +2,8 @@
 title: KeyboardEvent.initKeyboardEvent()
 slug: Web/API/KeyboardEvent/initKeyboardEvent
 tags:
-  - API
   - Method
   - Reference
-  - initKeyboardEvent
-  - KeyboardEvent
 browser-compat: api.KeyboardEvent.initKeyboardEvent
 ---
 {{DefaultAPISidebar("")}}

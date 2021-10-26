@@ -2,11 +2,8 @@
 title: RTCEncodedVideoFrame.getMetadata()
 slug: Web/API/RTCEncodedVideoFrame/getMetadata
 tags:
-  - API
   - Method
   - Reference
-  - getMetadata
-  - RTCEncodedVideoFrame
 browser-compat: api.RTCEncodedVideoFrame.getMetadata
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Navigator.fonts
 slug: Web/API/Navigator/fonts
 tags:
-  - API
   - Property
   - Reference
-  - fonts
-  - Navigator
 browser-compat: api.Navigator.fonts
 ---
 {{DefaultAPISidebar("")}}

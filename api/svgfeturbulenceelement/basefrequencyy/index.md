@@ -2,11 +2,8 @@
 title: SVGFETurbulenceElement.baseFrequencyY
 slug: Web/API/SVGFETurbulenceElement/baseFrequencyY
 tags:
-  - API
   - Property
   - Reference
-  - baseFrequencyY
-  - SVGFETurbulenceElement
 browser-compat: api.SVGFETurbulenceElement.baseFrequencyY
 ---
 {{DefaultAPISidebar("")}}

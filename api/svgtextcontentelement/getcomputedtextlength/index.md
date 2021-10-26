@@ -2,11 +2,8 @@
 title: SVGTextContentElement.getComputedTextLength()
 slug: Web/API/SVGTextContentElement/getComputedTextLength
 tags:
-  - API
   - Method
   - Reference
-  - getComputedTextLength
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.getComputedTextLength
 ---
 {{DefaultAPISidebar("")}}

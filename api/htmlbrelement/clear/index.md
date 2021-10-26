@@ -2,11 +2,8 @@
 title: HTMLBRElement.clear
 slug: Web/API/HTMLBRElement/clear
 tags:
-  - API
   - Property
   - Reference
-  - clear
-  - HTMLBRElement
 browser-compat: api.HTMLBRElement.clear
 ---
 {{DefaultAPISidebar("")}}

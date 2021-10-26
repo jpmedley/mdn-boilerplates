@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.createLinearGradient()
 slug: Web/API/OffscreenCanvasRenderingContext2D/createLinearGradient
 tags:
-  - API
   - Method
   - Reference
-  - createLinearGradient
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.createLinearGradient
 ---
 {{DefaultAPISidebar("")}}

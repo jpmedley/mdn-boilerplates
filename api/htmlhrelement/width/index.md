@@ -2,11 +2,8 @@
 title: HTMLHRElement.width
 slug: Web/API/HTMLHRElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - HTMLHRElement
 browser-compat: api.HTMLHRElement.width
 ---
 {{DefaultAPISidebar("")}}

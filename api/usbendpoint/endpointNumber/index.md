@@ -2,11 +2,8 @@
 title: USBEndpoint.endpointNumber
 slug: Web/API/USBEndpoint/endpointNumber
 tags:
-  - API
   - Property
   - Reference
-  - endpointNumber
-  - USBEndpoint
 browser-compat: api.USBEndpoint.endpointNumber
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

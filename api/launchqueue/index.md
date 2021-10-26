@@ -2,10 +2,8 @@
 title: LaunchQueue
 slug: Web/API/LaunchQueue
 tags:
-  - API
   - Interface
   - Reference
-  - LaunchQueue
 browser-compat: api.LaunchQueue
 ---
 {{DefaultAPISidebar("")}}

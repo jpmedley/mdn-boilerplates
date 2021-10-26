@@ -2,10 +2,8 @@
 title: Scheduler
 slug: Web/API/Scheduler
 tags:
-  - API
   - Interface
   - Reference
-  - Scheduler
 browser-compat: api.Scheduler
 ---
 {{DefaultAPISidebar("")}}

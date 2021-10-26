@@ -2,11 +2,8 @@
 title: CoopAccessViolationReportBody.openerURL
 slug: Web/API/CoopAccessViolationReportBody/openerURL
 tags:
-  - API
   - Property
   - Reference
-  - openerURL
-  - CoopAccessViolationReportBody
 browser-compat: api.CoopAccessViolationReportBody.openerURL
 ---
 {{DefaultAPISidebar("")}}

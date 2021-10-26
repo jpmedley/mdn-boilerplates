@@ -2,11 +2,8 @@
 title: HTMLButtonElement.setCustomValidity()
 slug: Web/API/HTMLButtonElement/setCustomValidity
 tags:
-  - API
   - Method
   - Reference
-  - setCustomValidity
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.setCustomValidity
 ---
 {{DefaultAPISidebar("")}}

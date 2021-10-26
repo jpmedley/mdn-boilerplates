@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.globalAlpha
 slug: Web/API/PaintRenderingContext2D/globalAlpha
 tags:
-  - API
   - Property
   - Reference
-  - globalAlpha
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.globalAlpha
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: MediaSource.onsourceopen
 slug: Web/API/MediaSource/onsourceopen
 tags:
-  - API
   - Property
   - Reference
-  - onsourceopen
-  - MediaSource
 browser-compat: api.MediaSource.onsourceopen
 ---
 {{DefaultAPISidebar("")}}

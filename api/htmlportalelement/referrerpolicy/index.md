@@ -2,11 +2,8 @@
 title: HTMLPortalElement.referrerPolicy
 slug: Web/API/HTMLPortalElement/referrerPolicy
 tags:
-  - API
   - Property
   - Reference
-  - referrerPolicy
-  - HTMLPortalElement
 browser-compat: api.HTMLPortalElement.referrerPolicy
 ---
 {{DefaultAPISidebar("")}}

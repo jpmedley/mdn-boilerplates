@@ -2,11 +2,8 @@
 title: VoidCallback.handleEvent()
 slug: Web/API/VoidCallback/handleEvent
 tags:
-  - API
   - Method
   - Reference
-  - handleEvent
-  - VoidCallback
 browser-compat: api.VoidCallback.handleEvent
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: PerformanceEventTiming.processingStart
 slug: Web/API/PerformanceEventTiming/processingStart
 tags:
-  - API
   - Property
   - Reference
-  - processingStart
-  - PerformanceEventTiming
 browser-compat: api.PerformanceEventTiming.processingStart
 ---
 {{DefaultAPISidebar("")}}

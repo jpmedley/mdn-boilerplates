@@ -2,11 +2,8 @@
 title: NavigatorUAData.brands
 slug: Web/API/NavigatorUAData/brands
 tags:
-  - API
   - Property
   - Reference
-  - brands
-  - NavigatorUAData
 browser-compat: api.NavigatorUAData.brands
 ---
 {{DefaultAPISidebar("")}}

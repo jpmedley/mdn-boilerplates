@@ -2,11 +2,8 @@
 title: Profiler.stop()
 slug: Web/API/Profiler/stop
 tags:
-  - API
   - Method
   - Reference
-  - stop
-  - Profiler
 browser-compat: api.Profiler.stop
 ---
 {{DefaultAPISidebar("")}}

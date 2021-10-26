@@ -2,11 +2,8 @@
 title: SVGAngle.newValueSpecifiedUnits()
 slug: Web/API/SVGAngle/newValueSpecifiedUnits
 tags:
-  - API
   - Method
   - Reference
-  - newValueSpecifiedUnits
-  - SVGAngle
 browser-compat: api.SVGAngle.newValueSpecifiedUnits
 ---
 {{DefaultAPISidebar("")}}

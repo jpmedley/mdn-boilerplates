@@ -2,11 +2,8 @@
 title: SVGNumberList.initialize()
 slug: Web/API/SVGNumberList/initialize
 tags:
-  - API
   - Method
   - Reference
-  - initialize
-  - SVGNumberList
 browser-compat: api.SVGNumberList.initialize
 ---
 {{DefaultAPISidebar("")}}

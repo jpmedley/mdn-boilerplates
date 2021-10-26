@@ -2,11 +2,8 @@
 title: InterventionReportBody.lineNumber
 slug: Web/API/InterventionReportBody/lineNumber
 tags:
-  - API
   - Property
   - Reference
-  - lineNumber
-  - InterventionReportBody
 browser-compat: api.InterventionReportBody.lineNumber
 ---
 {{DefaultAPISidebar("")}}

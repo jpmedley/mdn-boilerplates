@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.shadowColor
 slug: Web/API/OffscreenCanvasRenderingContext2D/shadowColor
 tags:
-  - API
   - Property
   - Reference
-  - shadowColor
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.shadowColor
 ---
 {{DefaultAPISidebar("")}}

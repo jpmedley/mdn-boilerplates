@@ -2,11 +2,8 @@
 title: Document.xmlStandalone
 slug: Web/API/Document/xmlStandalone
 tags:
-  - API
   - Property
   - Reference
-  - xmlStandalone
-  - Document
 browser-compat: api.Document.xmlStandalone
 ---
 {{DefaultAPISidebar("")}}

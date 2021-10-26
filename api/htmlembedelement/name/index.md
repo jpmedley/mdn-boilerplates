@@ -2,11 +2,8 @@
 title: HTMLEmbedElement.name
 slug: Web/API/HTMLEmbedElement/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - HTMLEmbedElement
 browser-compat: api.HTMLEmbedElement.name
 ---
 {{DefaultAPISidebar("")}}

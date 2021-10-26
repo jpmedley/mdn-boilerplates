@@ -2,11 +2,8 @@
 title: HTMLOptGroupElement.label
 slug: Web/API/HTMLOptGroupElement/label
 tags:
-  - API
   - Property
   - Reference
-  - label
-  - HTMLOptGroupElement
 browser-compat: api.HTMLOptGroupElement.label
 ---
 {{DefaultAPISidebar("")}}

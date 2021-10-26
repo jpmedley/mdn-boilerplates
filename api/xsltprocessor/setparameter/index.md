@@ -2,11 +2,8 @@
 title: XSLTProcessor.setParameter()
 slug: Web/API/XSLTProcessor/setParameter
 tags:
-  - API
   - Method
   - Reference
-  - setParameter
-  - XSLTProcessor
 browser-compat: api.XSLTProcessor.setParameter
 ---
 {{DefaultAPISidebar("")}}

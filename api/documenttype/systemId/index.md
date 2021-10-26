@@ -2,11 +2,8 @@
 title: DocumentType.systemId
 slug: Web/API/DocumentType/systemId
 tags:
-  - API
   - Property
   - Reference
-  - systemId
-  - DocumentType
 browser-compat: api.DocumentType.systemId
 ---
 {{DefaultAPISidebar("")}}

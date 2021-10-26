@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.createRadialGradient()
 slug: Web/API/PaintRenderingContext2D/createRadialGradient
 tags:
-  - API
   - Method
   - Reference
-  - createRadialGradient
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.createRadialGradient
 ---
 {{DefaultAPISidebar("")}}

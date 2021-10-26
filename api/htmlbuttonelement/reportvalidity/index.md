@@ -2,11 +2,8 @@
 title: HTMLButtonElement.reportValidity()
 slug: Web/API/HTMLButtonElement/reportValidity
 tags:
-  - API
   - Method
   - Reference
-  - reportValidity
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.reportValidity
 ---
 {{DefaultAPISidebar("")}}

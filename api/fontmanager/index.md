@@ -2,10 +2,8 @@
 title: FontManager
 slug: Web/API/FontManager
 tags:
-  - API
   - Interface
   - Reference
-  - FontManager
 browser-compat: api.FontManager
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

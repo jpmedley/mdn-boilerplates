@@ -2,11 +2,8 @@
 title: FileWriter.seek()
 slug: Web/API/FileWriter/seek
 tags:
-  - API
   - Method
   - Reference
-  - seek
-  - FileWriter
 browser-compat: api.FileWriter.seek
 ---
 {{DefaultAPISidebar("")}}

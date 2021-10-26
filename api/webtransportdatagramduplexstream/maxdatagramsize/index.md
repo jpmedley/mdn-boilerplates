@@ -2,11 +2,8 @@
 title: WebTransportDatagramDuplexStream.maxDatagramSize
 slug: Web/API/WebTransportDatagramDuplexStream/maxDatagramSize
 tags:
-  - API
   - Property
   - Reference
-  - maxDatagramSize
-  - WebTransportDatagramDuplexStream
 browser-compat: api.WebTransportDatagramDuplexStream.maxDatagramSize
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

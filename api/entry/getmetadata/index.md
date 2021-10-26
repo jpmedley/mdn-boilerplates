@@ -2,11 +2,8 @@
 title: Entry.getMetadata()
 slug: Web/API/Entry/getMetadata
 tags:
-  - API
   - Method
   - Reference
-  - getMetadata
-  - Entry
 browser-compat: api.Entry.getMetadata
 ---
 {{DefaultAPISidebar("")}}

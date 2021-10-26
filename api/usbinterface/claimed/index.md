@@ -2,11 +2,8 @@
 title: USBInterface.claimed
 slug: Web/API/USBInterface/claimed
 tags:
-  - API
   - Property
   - Reference
-  - claimed
-  - USBInterface
 browser-compat: api.USBInterface.claimed
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

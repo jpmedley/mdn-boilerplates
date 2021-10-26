@@ -2,11 +2,8 @@
 title: Navigator.leaveAdInterestGroup()
 slug: Web/API/Navigator/leaveAdInterestGroup
 tags:
-  - API
   - Method
   - Reference
-  - leaveAdInterestGroup
-  - Navigator
 browser-compat: api.Navigator.leaveAdInterestGroup
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGMaskElement.width
 slug: Web/API/SVGMaskElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - SVGMaskElement
 browser-compat: api.SVGMaskElement.width
 ---
 {{DefaultAPISidebar("")}}

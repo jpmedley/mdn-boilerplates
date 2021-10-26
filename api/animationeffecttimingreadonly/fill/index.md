@@ -2,11 +2,8 @@
 title: AnimationEffectTimingReadOnly.fill
 slug: Web/API/AnimationEffectTimingReadOnly/fill
 tags:
-  - API
   - Property
   - Reference
-  - fill
-  - AnimationEffectTimingReadOnly
 browser-compat: api.AnimationEffectTimingReadOnly.fill
 ---
 {{DefaultAPISidebar("")}}

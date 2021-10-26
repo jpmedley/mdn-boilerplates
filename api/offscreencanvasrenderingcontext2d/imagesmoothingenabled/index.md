@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.imageSmoothingEnabled
 slug: Web/API/OffscreenCanvasRenderingContext2D/imageSmoothingEnabled
 tags:
-  - API
   - Property
   - Reference
-  - imageSmoothingEnabled
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.imageSmoothingEnabled
 ---
 {{DefaultAPISidebar("")}}

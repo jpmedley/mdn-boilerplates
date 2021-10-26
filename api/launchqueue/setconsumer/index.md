@@ -2,11 +2,8 @@
 title: LaunchQueue.setConsumer()
 slug: Web/API/LaunchQueue/setConsumer
 tags:
-  - API
   - Method
   - Reference
-  - setConsumer
-  - LaunchQueue
 browser-compat: api.LaunchQueue.setConsumer
 ---
 {{DefaultAPISidebar("")}}

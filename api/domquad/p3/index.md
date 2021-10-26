@@ -2,11 +2,8 @@
 title: DOMQuad.p3
 slug: Web/API/DOMQuad/p3
 tags:
-  - API
   - Property
   - Reference
-  - p3
-  - DOMQuad
 browser-compat: api.DOMQuad.p3
 ---
 {{DefaultAPISidebar("")}}

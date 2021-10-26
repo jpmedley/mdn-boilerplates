@@ -2,11 +2,8 @@
 title: WorkerNavigator.mediaCapabilities
 slug: Web/API/WorkerNavigator/mediaCapabilities
 tags:
-  - API
   - Property
   - Reference
-  - mediaCapabilities
-  - WorkerNavigator
 browser-compat: api.WorkerNavigator.mediaCapabilities
 ---
 {{DefaultAPISidebar("")}}

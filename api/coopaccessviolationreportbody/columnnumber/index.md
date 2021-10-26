@@ -2,11 +2,8 @@
 title: CoopAccessViolationReportBody.columnNumber
 slug: Web/API/CoopAccessViolationReportBody/columnNumber
 tags:
-  - API
   - Property
   - Reference
-  - columnNumber
-  - CoopAccessViolationReportBody
 browser-compat: api.CoopAccessViolationReportBody.columnNumber
 ---
 {{DefaultAPISidebar("")}}

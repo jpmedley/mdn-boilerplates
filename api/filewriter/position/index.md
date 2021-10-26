@@ -2,11 +2,8 @@
 title: FileWriter.position
 slug: Web/API/FileWriter/position
 tags:
-  - API
   - Property
   - Reference
-  - position
-  - FileWriter
 browser-compat: api.FileWriter.position
 ---
 {{DefaultAPISidebar("")}}

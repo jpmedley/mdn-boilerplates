@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.shadowOffsetX
 slug: Web/API/OffscreenCanvasRenderingContext2D/shadowOffsetX
 tags:
-  - API
   - Property
   - Reference
-  - shadowOffsetX
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.shadowOffsetX
 ---
 {{DefaultAPISidebar("")}}

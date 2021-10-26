@@ -2,11 +2,8 @@
 title: Database.changeVersion()
 slug: Web/API/Database/changeVersion
 tags:
-  - API
   - Method
   - Reference
-  - changeVersion
-  - Database
 browser-compat: api.Database.changeVersion
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGTransformList.appendItem()
 slug: Web/API/SVGTransformList/appendItem
 tags:
-  - API
   - Method
   - Reference
-  - appendItem
-  - SVGTransformList
 browser-compat: api.SVGTransformList.appendItem
 ---
 {{DefaultAPISidebar("")}}

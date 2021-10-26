@@ -2,11 +2,8 @@
 title: SVGTransform.setSkewX()
 slug: Web/API/SVGTransform/setSkewX
 tags:
-  - API
   - Method
   - Reference
-  - setSkewX
-  - SVGTransform
 browser-compat: api.SVGTransform.setSkewX
 ---
 {{DefaultAPISidebar("")}}

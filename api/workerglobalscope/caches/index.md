@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.caches
 slug: Web/API/WorkerGlobalScope/caches
 tags:
-  - API
   - Property
   - Reference
-  - caches
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.caches
 ---
 {{DefaultAPISidebar("")}}

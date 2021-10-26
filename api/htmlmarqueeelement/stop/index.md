@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.stop()
 slug: Web/API/HTMLMarqueeElement/stop
 tags:
-  - API
   - Method
   - Reference
-  - stop
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.stop
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: RTCError.httpRequestStatusCode
 slug: Web/API/RTCError/httpRequestStatusCode
 tags:
-  - API
   - Property
   - Reference
-  - httpRequestStatusCode
-  - RTCError
 browser-compat: api.RTCError.httpRequestStatusCode
 ---
 {{DefaultAPISidebar("")}}

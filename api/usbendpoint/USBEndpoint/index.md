@@ -2,10 +2,8 @@
 title: USBEndpoint.USBEndpoint()
 slug: Web/API/USBEndpoint/USBEndpoint
 tags:
-  - API
   - Constructor
   - Reference
-  - USBEndpoint
 browser-compat: api.USBEndpoint.USBEndpoint
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

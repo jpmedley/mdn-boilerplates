@@ -2,11 +2,8 @@
 title: RTCEncodedAudioFrame.toString()
 slug: Web/API/RTCEncodedAudioFrame/toString
 tags:
-  - API
   - Method
   - Reference
-  - toString
-  - RTCEncodedAudioFrame
 browser-compat: api.RTCEncodedAudioFrame.toString
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGSVGElement.currentScale
 slug: Web/API/SVGSVGElement/currentScale
 tags:
-  - API
   - Property
   - Reference
-  - currentScale
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.currentScale
 ---
 {{DefaultAPISidebar("")}}

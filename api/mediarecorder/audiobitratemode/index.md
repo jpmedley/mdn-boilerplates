@@ -2,11 +2,8 @@
 title: MediaRecorder.audioBitrateMode
 slug: Web/API/MediaRecorder/audioBitrateMode
 tags:
-  - API
   - Property
   - Reference
-  - audioBitrateMode
-  - MediaRecorder
 browser-compat: api.MediaRecorder.audioBitrateMode
 ---
 {{DefaultAPISidebar("")}}

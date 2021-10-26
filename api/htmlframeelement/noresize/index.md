@@ -2,11 +2,8 @@
 title: HTMLFrameElement.noResize
 slug: Web/API/HTMLFrameElement/noResize
 tags:
-  - API
   - Property
   - Reference
-  - noResize
-  - HTMLFrameElement
 browser-compat: api.HTMLFrameElement.noResize
 ---
 {{DefaultAPISidebar("")}}

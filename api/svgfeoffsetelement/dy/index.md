@@ -2,11 +2,8 @@
 title: SVGFEOffsetElement.dy
 slug: Web/API/SVGFEOffsetElement/dy
 tags:
-  - API
   - Property
   - Reference
-  - dy
-  - SVGFEOffsetElement
 browser-compat: api.SVGFEOffsetElement.dy
 ---
 {{DefaultAPISidebar("")}}

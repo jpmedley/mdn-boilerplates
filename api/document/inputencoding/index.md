@@ -2,11 +2,8 @@
 title: Document.inputEncoding
 slug: Web/API/Document/inputEncoding
 tags:
-  - API
   - Property
   - Reference
-  - inputEncoding
-  - Document
 browser-compat: api.Document.inputEncoding
 ---
 {{DefaultAPISidebar("")}}

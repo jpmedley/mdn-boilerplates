@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.createImageBitmap()
 slug: Web/API/WorkerGlobalScope/createImageBitmap
 tags:
-  - API
   - Method
   - Reference
-  - createImageBitmap
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.createImageBitmap
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Plugin.name
 slug: Web/API/Plugin/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - Plugin
 browser-compat: api.Plugin.name
 ---
 {{DefaultAPISidebar("")}}

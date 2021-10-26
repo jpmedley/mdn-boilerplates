@@ -2,11 +2,8 @@
 title: GPUDevice.createPipelineLayout()
 slug: Web/API/GPUDevice/createPipelineLayout
 tags:
-  - API
   - Method
   - Reference
-  - createPipelineLayout
-  - GPUDevice
 browser-compat: api.GPUDevice.createPipelineLayout
 ---
 {{DefaultAPISidebar("")}}

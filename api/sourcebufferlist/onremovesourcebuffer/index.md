@@ -2,11 +2,8 @@
 title: SourceBufferList.onremovesourcebuffer
 slug: Web/API/SourceBufferList/onremovesourcebuffer
 tags:
-  - API
   - Property
   - Reference
-  - onremovesourcebuffer
-  - SourceBufferList
 browser-compat: api.SourceBufferList.onremovesourcebuffer
 ---
 {{DefaultAPISidebar("")}}

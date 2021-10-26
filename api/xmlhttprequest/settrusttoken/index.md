@@ -2,11 +2,8 @@
 title: XMLHttpRequest.setTrustToken()
 slug: Web/API/XMLHttpRequest/setTrustToken
 tags:
-  - API
   - Method
   - Reference
-  - setTrustToken
-  - XMLHttpRequest
 browser-compat: api.XMLHttpRequest.setTrustToken
 ---
 {{DefaultAPISidebar("")}}

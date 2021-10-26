@@ -2,11 +2,8 @@
 title: SVGMatrix.skewY()
 slug: Web/API/SVGMatrix/skewY
 tags:
-  - API
   - Method
   - Reference
-  - skewY
-  - SVGMatrix
 browser-compat: api.SVGMatrix.skewY
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLSelectElement.willValidate
 slug: Web/API/HTMLSelectElement/willValidate
 tags:
-  - API
   - Property
   - Reference
-  - willValidate
-  - HTMLSelectElement
 browser-compat: api.HTMLSelectElement.willValidate
 ---
 {{DefaultAPISidebar("")}}

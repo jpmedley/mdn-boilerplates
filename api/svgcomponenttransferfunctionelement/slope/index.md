@@ -2,11 +2,8 @@
 title: SVGComponentTransferFunctionElement.slope
 slug: Web/API/SVGComponentTransferFunctionElement/slope
 tags:
-  - API
   - Property
   - Reference
-  - slope
-  - SVGComponentTransferFunctionElement
 browser-compat: api.SVGComponentTransferFunctionElement.slope
 ---
 {{DefaultAPISidebar("")}}

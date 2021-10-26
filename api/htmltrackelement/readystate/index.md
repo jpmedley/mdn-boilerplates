@@ -2,11 +2,8 @@
 title: HTMLTrackElement.readyState
 slug: Web/API/HTMLTrackElement/readyState
 tags:
-  - API
   - Property
   - Reference
-  - readyState
-  - HTMLTrackElement
 browser-compat: api.HTMLTrackElement.readyState
 ---
 {{DefaultAPISidebar("")}}

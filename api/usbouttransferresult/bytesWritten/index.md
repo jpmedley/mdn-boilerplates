@@ -2,11 +2,8 @@
 title: USBOutTransferResult.bytesWritten
 slug: Web/API/USBOutTransferResult/bytesWritten
 tags:
-  - API
   - Property
   - Reference
-  - bytesWritten
-  - USBOutTransferResult
 browser-compat: api.USBOutTransferResult.bytesWritten
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

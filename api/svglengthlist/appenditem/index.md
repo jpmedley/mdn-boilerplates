@@ -2,11 +2,8 @@
 title: SVGLengthList.appendItem()
 slug: Web/API/SVGLengthList/appendItem
 tags:
-  - API
   - Method
   - Reference
-  - appendItem
-  - SVGLengthList
 browser-compat: api.SVGLengthList.appendItem
 ---
 {{DefaultAPISidebar("")}}

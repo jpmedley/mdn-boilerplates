@@ -2,11 +2,8 @@
 title: TaskSignal.onprioritychange
 slug: Web/API/TaskSignal/onprioritychange
 tags:
-  - API
   - Property
   - Reference
-  - onprioritychange
-  - TaskSignal
 browser-compat: api.TaskSignal.onprioritychange
 ---
 {{DefaultAPISidebar("")}}

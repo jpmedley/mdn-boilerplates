@@ -2,11 +2,8 @@
 title: SVGSVGElement.setCurrentTime()
 slug: Web/API/SVGSVGElement/setCurrentTime
 tags:
-  - API
   - Method
   - Reference
-  - setCurrentTime
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.setCurrentTime
 ---
 {{DefaultAPISidebar("")}}

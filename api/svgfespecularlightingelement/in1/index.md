@@ -2,11 +2,8 @@
 title: SVGFESpecularLightingElement.in1
 slug: Web/API/SVGFESpecularLightingElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFESpecularLightingElement
 browser-compat: api.SVGFESpecularLightingElement.in1
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: ValidityState.valueMissing
 slug: Web/API/ValidityState/valueMissing
 tags:
-  - API
   - Property
   - Reference
-  - valueMissing
-  - ValidityState
 browser-compat: api.ValidityState.valueMissing
 ---
 {{DefaultAPISidebar("")}}

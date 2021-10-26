@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.lineNumber
 slug: Web/API/CSPViolationReportBody/lineNumber
 tags:
-  - API
   - Property
   - Reference
-  - lineNumber
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.lineNumber
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGElement.style
 slug: Web/API/SVGElement/style
 tags:
-  - API
   - Property
   - Reference
-  - style
-  - SVGElement
 browser-compat: api.SVGElement.style
 ---
 {{DefaultAPISidebar("")}}

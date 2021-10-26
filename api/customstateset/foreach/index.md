@@ -2,11 +2,8 @@
 title: CustomStateSet.forEach()
 slug: Web/API/CustomStateSet/forEach
 tags:
-  - API
   - Method
   - Reference
-  - forEach
-  - CustomStateSet
 browser-compat: api.CustomStateSet.forEach
 ---
 {{DefaultAPISidebar("")}}

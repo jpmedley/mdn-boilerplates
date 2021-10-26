@@ -2,11 +2,8 @@
 title: SVGStyleElement.sheet
 slug: Web/API/SVGStyleElement/sheet
 tags:
-  - API
   - Property
   - Reference
-  - sheet
-  - SVGStyleElement
 browser-compat: api.SVGStyleElement.sheet
 ---
 {{DefaultAPISidebar("")}}

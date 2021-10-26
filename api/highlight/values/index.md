@@ -2,11 +2,8 @@
 title: Highlight.values()
 slug: Web/API/Highlight/values
 tags:
-  - API
   - Method
   - Reference
-  - values
-  - Highlight
 browser-compat: api.Highlight.values
 ---
 {{DefaultAPISidebar("")}}

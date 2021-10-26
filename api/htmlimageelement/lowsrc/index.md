@@ -2,11 +2,8 @@
 title: HTMLImageElement.lowsrc
 slug: Web/API/HTMLImageElement/lowsrc
 tags:
-  - API
   - Property
   - Reference
-  - lowsrc
-  - HTMLImageElement
 browser-compat: api.HTMLImageElement.lowsrc
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGGraphicsElement.getCTM()
 slug: Web/API/SVGGraphicsElement/getCTM
 tags:
-  - API
   - Method
   - Reference
-  - getCTM
-  - SVGGraphicsElement
 browser-compat: api.SVGGraphicsElement.getCTM
 ---
 {{DefaultAPISidebar("")}}

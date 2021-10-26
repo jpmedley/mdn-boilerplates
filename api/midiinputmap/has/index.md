@@ -2,11 +2,8 @@
 title: MIDIInputMap.has()
 slug: Web/API/MIDIInputMap/has
 tags:
-  - API
   - Method
   - Reference
-  - has
-  - MIDIInputMap
 browser-compat: api.MIDIInputMap.has
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

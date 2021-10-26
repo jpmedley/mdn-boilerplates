@@ -2,11 +2,8 @@
 title: SVGTransformList.consolidate()
 slug: Web/API/SVGTransformList/consolidate
 tags:
-  - API
   - Method
   - Reference
-  - consolidate
-  - SVGTransformList
 browser-compat: api.SVGTransformList.consolidate
 ---
 {{DefaultAPISidebar("")}}

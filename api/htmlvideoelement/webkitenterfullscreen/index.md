@@ -2,11 +2,8 @@
 title: HTMLVideoElement.webkitEnterFullscreen()
 slug: Web/API/HTMLVideoElement/webkitEnterFullscreen
 tags:
-  - API
   - Method
   - Reference
-  - webkitEnterFullscreen
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.webkitEnterFullscreen
 ---
 {{DefaultAPISidebar("")}}

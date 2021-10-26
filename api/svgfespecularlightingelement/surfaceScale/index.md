@@ -2,11 +2,8 @@
 title: SVGFESpecularLightingElement.surfaceScale
 slug: Web/API/SVGFESpecularLightingElement/surfaceScale
 tags:
-  - API
   - Property
   - Reference
-  - surfaceScale
-  - SVGFESpecularLightingElement
 browser-compat: api.SVGFESpecularLightingElement.surfaceScale
 ---
 {{DefaultAPISidebar("")}}

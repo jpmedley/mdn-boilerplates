@@ -2,11 +2,8 @@
 title: Window.getScreens()
 slug: Web/API/Window/getScreens
 tags:
-  - API
   - Method
   - Reference
-  - getScreens
-  - Window
 browser-compat: api.Window.getScreens
 ---
 {{DefaultAPISidebar("")}}

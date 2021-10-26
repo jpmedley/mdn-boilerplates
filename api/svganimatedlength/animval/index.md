@@ -2,11 +2,8 @@
 title: SVGAnimatedLength.animVal
 slug: Web/API/SVGAnimatedLength/animVal
 tags:
-  - API
   - Property
   - Reference
-  - animVal
-  - SVGAnimatedLength
 browser-compat: api.SVGAnimatedLength.animVal
 ---
 {{DefaultAPISidebar("")}}

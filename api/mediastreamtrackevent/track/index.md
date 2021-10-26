@@ -2,11 +2,8 @@
 title: MediaStreamTrackEvent.track
 slug: Web/API/MediaStreamTrackEvent/track
 tags:
-  - API
   - Property
   - Reference
-  - track
-  - MediaStreamTrackEvent
 browser-compat: api.MediaStreamTrackEvent.track
 ---
 {{DefaultAPISidebar("")}}

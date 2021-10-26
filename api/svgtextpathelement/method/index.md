@@ -2,11 +2,8 @@
 title: SVGTextPathElement.method
 slug: Web/API/SVGTextPathElement/method
 tags:
-  - API
   - Property
   - Reference
-  - method
-  - SVGTextPathElement
 browser-compat: api.SVGTextPathElement.method
 ---
 {{DefaultAPISidebar("")}}

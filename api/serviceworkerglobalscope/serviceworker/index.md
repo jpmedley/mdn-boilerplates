@@ -2,11 +2,8 @@
 title: ServiceWorkerGlobalScope.serviceWorker
 slug: Web/API/ServiceWorkerGlobalScope/serviceWorker
 tags:
-  - API
   - Property
   - Reference
-  - serviceWorker
-  - ServiceWorkerGlobalScope
 browser-compat: api.ServiceWorkerGlobalScope.serviceWorker
 ---
 {{DefaultAPISidebar("")}}

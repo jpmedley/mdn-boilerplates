@@ -2,11 +2,8 @@
 title: USBEndpoint.packetSize
 slug: Web/API/USBEndpoint/packetSize
 tags:
-  - API
   - Property
   - Reference
-  - packetSize
-  - USBEndpoint
 browser-compat: api.USBEndpoint.packetSize
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

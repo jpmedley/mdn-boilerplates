@@ -2,11 +2,8 @@
 title: WebTransportError.streamErrorCode
 slug: Web/API/WebTransportError/streamErrorCode
 tags:
-  - API
   - Property
   - Reference
-  - streamErrorCode
-  - WebTransportError
 browser-compat: api.WebTransportError.streamErrorCode
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: TaskSignal
 slug: Web/API/TaskSignal
 tags:
-  - API
   - Interface
   - Reference
-  - TaskSignal
 browser-compat: api.TaskSignal
 ---
 {{DefaultAPISidebar("")}}

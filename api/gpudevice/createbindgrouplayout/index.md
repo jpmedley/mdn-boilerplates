@@ -2,11 +2,8 @@
 title: GPUDevice.createBindGroupLayout()
 slug: Web/API/GPUDevice/createBindGroupLayout
 tags:
-  - API
   - Method
   - Reference
-  - createBindGroupLayout
-  - GPUDevice
 browser-compat: api.GPUDevice.createBindGroupLayout
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLOptionsCollection.remove()
 slug: Web/API/HTMLOptionsCollection/remove
 tags:
-  - API
   - Method
   - Reference
-  - remove
-  - HTMLOptionsCollection
 browser-compat: api.HTMLOptionsCollection.remove
 ---
 {{DefaultAPISidebar("")}}

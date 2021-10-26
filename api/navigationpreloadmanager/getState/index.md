@@ -2,11 +2,8 @@
 title: NavigationPreloadManager.getState()
 slug: Web/API/NavigationPreloadManager/getState
 tags:
-  - API
   - Method
   - Reference
-  - getState
-  - NavigationPreloadManager
 browser-compat: api.NavigationPreloadManager.getState
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

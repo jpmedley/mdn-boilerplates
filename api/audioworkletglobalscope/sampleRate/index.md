@@ -2,11 +2,8 @@
 title: AudioWorkletGlobalScope.sampleRate
 slug: Web/API/AudioWorkletGlobalScope/sampleRate
 tags:
-  - API
   - Property
   - Reference
-  - sampleRate
-  - AudioWorkletGlobalScope
 browser-compat: api.AudioWorkletGlobalScope.sampleRate
 ---
 {{DefaultAPISidebar("")}}

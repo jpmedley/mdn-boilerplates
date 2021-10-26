@@ -2,11 +2,8 @@
 title: SVGFETurbulenceElement.stitchTiles
 slug: Web/API/SVGFETurbulenceElement/stitchTiles
 tags:
-  - API
   - Property
   - Reference
-  - stitchTiles
-  - SVGFETurbulenceElement
 browser-compat: api.SVGFETurbulenceElement.stitchTiles
 ---
 {{DefaultAPISidebar("")}}

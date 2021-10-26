@@ -2,11 +2,8 @@
 title: StorageEvent.url
 slug: Web/API/StorageEvent/url
 tags:
-  - API
   - Property
   - Reference
-  - url
-  - StorageEvent
 browser-compat: api.StorageEvent.url
 ---
 {{DefaultAPISidebar("")}}

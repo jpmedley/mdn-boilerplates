@@ -2,11 +2,8 @@
 title: LayoutShift.lastInputTime
 slug: Web/API/LayoutShift/lastInputTime
 tags:
-  - API
   - Property
   - Reference
-  - lastInputTime
-  - LayoutShift
 browser-compat: api.LayoutShift.lastInputTime
 ---
 {{DefaultAPISidebar("")}}

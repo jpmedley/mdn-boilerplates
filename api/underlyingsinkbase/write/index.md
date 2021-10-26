@@ -2,11 +2,8 @@
 title: UnderlyingSinkBase.write()
 slug: Web/API/UnderlyingSinkBase/write
 tags:
-  - API
   - Method
   - Reference
-  - write
-  - UnderlyingSinkBase
 browser-compat: api.UnderlyingSinkBase.write
 ---
 {{DefaultAPISidebar("")}}

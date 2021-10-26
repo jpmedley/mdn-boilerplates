@@ -2,11 +2,8 @@
 title: SVGFEConvolveMatrixElement.preserveAlpha
 slug: Web/API/SVGFEConvolveMatrixElement/preserveAlpha
 tags:
-  - API
   - Property
   - Reference
-  - preserveAlpha
-  - SVGFEConvolveMatrixElement
 browser-compat: api.SVGFEConvolveMatrixElement.preserveAlpha
 ---
 {{DefaultAPISidebar("")}}

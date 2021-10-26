@@ -2,10 +2,8 @@
 title: SQLStatementCallback
 slug: Web/API/SQLStatementCallback
 tags:
-  - API
   - Interface
   - Reference
-  - SQLStatementCallback
 browser-compat: api.SQLStatementCallback
 ---
 {{DefaultAPISidebar("")}}

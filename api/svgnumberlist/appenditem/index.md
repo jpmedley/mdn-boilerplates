@@ -2,11 +2,8 @@
 title: SVGNumberList.appendItem()
 slug: Web/API/SVGNumberList/appendItem
 tags:
-  - API
   - Method
   - Reference
-  - appendItem
-  - SVGNumberList
 browser-compat: api.SVGNumberList.appendItem
 ---
 {{DefaultAPISidebar("")}}

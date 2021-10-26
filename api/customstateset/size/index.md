@@ -2,11 +2,8 @@
 title: CustomStateSet.size()
 slug: Web/API/CustomStateSet/size
 tags:
-  - API
   - Method
   - Reference
-  - size
-  - CustomStateSet
 browser-compat: api.CustomStateSet.size
 ---
 {{DefaultAPISidebar("")}}

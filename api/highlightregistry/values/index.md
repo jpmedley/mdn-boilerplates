@@ -2,11 +2,8 @@
 title: HighlightRegistry.values()
 slug: Web/API/HighlightRegistry/values
 tags:
-  - API
   - Method
   - Reference
-  - values
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry.values
 ---
 {{DefaultAPISidebar("")}}

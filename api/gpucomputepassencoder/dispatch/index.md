@@ -2,11 +2,8 @@
 title: GPUComputePassEncoder.dispatch()
 slug: Web/API/GPUComputePassEncoder/dispatch
 tags:
-  - API
   - Method
   - Reference
-  - dispatch
-  - GPUComputePassEncoder
 browser-compat: api.GPUComputePassEncoder.dispatch
 ---
 {{DefaultAPISidebar("")}}

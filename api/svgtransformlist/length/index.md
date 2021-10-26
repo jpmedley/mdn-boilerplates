@@ -2,11 +2,8 @@
 title: SVGTransformList.length
 slug: Web/API/SVGTransformList/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - SVGTransformList
 browser-compat: api.SVGTransformList.length
 ---
 {{DefaultAPISidebar("")}}

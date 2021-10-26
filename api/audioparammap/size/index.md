@@ -2,11 +2,8 @@
 title: AudioParamMap.size()
 slug: Web/API/AudioParamMap/size
 tags:
-  - API
   - Method
   - Reference
-  - size
-  - AudioParamMap
 browser-compat: api.AudioParamMap.size
 ---
 {{DefaultAPISidebar("")}}

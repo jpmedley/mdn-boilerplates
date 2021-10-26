@@ -2,10 +2,8 @@
 title: SpeechRecognitionErrorEvent.SpeechRecognitionErrorEvent()
 slug: Web/API/SpeechRecognitionErrorEvent/SpeechRecognitionErrorEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - SpeechRecognitionErrorEvent
 browser-compat: api.SpeechRecognitionErrorEvent.SpeechRecognitionErrorEvent
 ---
 {{DefaultAPISidebar("")}}

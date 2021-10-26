@@ -2,11 +2,8 @@
 title: SVGRadialGradientElement.fy
 slug: Web/API/SVGRadialGradientElement/fy
 tags:
-  - API
   - Property
   - Reference
-  - fy
-  - SVGRadialGradientElement
 browser-compat: api.SVGRadialGradientElement.fy
 ---
 {{DefaultAPISidebar("")}}

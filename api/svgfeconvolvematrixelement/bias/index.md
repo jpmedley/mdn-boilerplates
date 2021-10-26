@@ -2,11 +2,8 @@
 title: SVGFEConvolveMatrixElement.bias
 slug: Web/API/SVGFEConvolveMatrixElement/bias
 tags:
-  - API
   - Property
   - Reference
-  - bias
-  - SVGFEConvolveMatrixElement
 browser-compat: api.SVGFEConvolveMatrixElement.bias
 ---
 {{DefaultAPISidebar("")}}

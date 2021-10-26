@@ -2,11 +2,8 @@
 title: SVGFEOffsetElement.dx
 slug: Web/API/SVGFEOffsetElement/dx
 tags:
-  - API
   - Property
   - Reference
-  - dx
-  - SVGFEOffsetElement
 browser-compat: api.SVGFEOffsetElement.dx
 ---
 {{DefaultAPISidebar("")}}

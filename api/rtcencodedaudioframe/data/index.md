@@ -2,11 +2,8 @@
 title: RTCEncodedAudioFrame.data
 slug: Web/API/RTCEncodedAudioFrame/data
 tags:
-  - API
   - Property
   - Reference
-  - data
-  - RTCEncodedAudioFrame
 browser-compat: api.RTCEncodedAudioFrame.data
 ---
 {{DefaultAPISidebar("")}}

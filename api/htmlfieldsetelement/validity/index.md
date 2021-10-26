@@ -2,11 +2,8 @@
 title: HTMLFieldSetElement.validity
 slug: Web/API/HTMLFieldSetElement/validity
 tags:
-  - API
   - Property
   - Reference
-  - validity
-  - HTMLFieldSetElement
 browser-compat: api.HTMLFieldSetElement.validity
 ---
 {{DefaultAPISidebar("")}}

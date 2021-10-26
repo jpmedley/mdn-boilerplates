@@ -2,10 +2,8 @@
 title: BeforeInstallPromptEvent.BeforeInstallPromptEvent()
 slug: Web/API/BeforeInstallPromptEvent/BeforeInstallPromptEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - BeforeInstallPromptEvent
 browser-compat: api.BeforeInstallPromptEvent.BeforeInstallPromptEvent
 ---
 {{DefaultAPISidebar("")}}

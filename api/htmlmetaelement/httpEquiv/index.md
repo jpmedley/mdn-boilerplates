@@ -2,11 +2,8 @@
 title: HTMLMetaElement.httpEquiv
 slug: Web/API/HTMLMetaElement/httpEquiv
 tags:
-  - API
   - Property
   - Reference
-  - httpEquiv
-  - HTMLMetaElement
 browser-compat: api.HTMLMetaElement.httpEquiv
 ---
 {{DefaultAPISidebar("")}}

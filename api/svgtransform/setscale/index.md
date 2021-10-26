@@ -2,11 +2,8 @@
 title: SVGTransform.setScale()
 slug: Web/API/SVGTransform/setScale
 tags:
-  - API
   - Method
   - Reference
-  - setScale
-  - SVGTransform
 browser-compat: api.SVGTransform.setScale
 ---
 {{DefaultAPISidebar("")}}

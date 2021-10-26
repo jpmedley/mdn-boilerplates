@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.popDebugGroup()
 slug: Web/API/GPUCommandEncoder/popDebugGroup
 tags:
-  - API
   - Method
   - Reference
-  - popDebugGroup
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.popDebugGroup
 ---
 {{DefaultAPISidebar("")}}

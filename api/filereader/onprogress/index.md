@@ -2,11 +2,8 @@
 title: FileReader.onprogress
 slug: Web/API/FileReader/onprogress
 tags:
-  - API
   - Property
   - Reference
-  - onprogress
-  - FileReader
 browser-compat: api.FileReader.onprogress
 ---
 {{DefaultAPISidebar("")}}

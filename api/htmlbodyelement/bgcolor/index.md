@@ -2,11 +2,8 @@
 title: HTMLBodyElement.bgColor
 slug: Web/API/HTMLBodyElement/bgColor
 tags:
-  - API
   - Property
   - Reference
-  - bgColor
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.bgColor
 ---
 {{DefaultAPISidebar("")}}

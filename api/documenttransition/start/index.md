@@ -2,11 +2,8 @@
 title: DocumentTransition.start()
 slug: Web/API/DocumentTransition/start
 tags:
-  - API
   - Method
   - Reference
-  - start
-  - DocumentTransition
 browser-compat: api.DocumentTransition.start
 ---
 {{DefaultAPISidebar("")}}

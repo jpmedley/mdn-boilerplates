@@ -2,11 +2,8 @@
 title: HTMLTableRowElement.align
 slug: Web/API/HTMLTableRowElement/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - HTMLTableRowElement
 browser-compat: api.HTMLTableRowElement.align
 ---
 {{DefaultAPISidebar("")}}

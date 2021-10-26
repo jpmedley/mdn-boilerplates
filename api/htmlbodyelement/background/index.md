@@ -2,11 +2,8 @@
 title: HTMLBodyElement.background
 slug: Web/API/HTMLBodyElement/background
 tags:
-  - API
   - Property
   - Reference
-  - background
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.background
 ---
 {{DefaultAPISidebar("")}}

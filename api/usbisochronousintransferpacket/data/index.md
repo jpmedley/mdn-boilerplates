@@ -2,11 +2,8 @@
 title: USBIsochronousInTransferPacket.data
 slug: Web/API/USBIsochronousInTransferPacket/data
 tags:
-  - API
   - Property
   - Reference
-  - data
-  - USBIsochronousInTransferPacket
 browser-compat: api.USBIsochronousInTransferPacket.data
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

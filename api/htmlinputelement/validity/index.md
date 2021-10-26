@@ -2,11 +2,8 @@
 title: HTMLInputElement.validity
 slug: Web/API/HTMLInputElement/validity
 tags:
-  - API
   - Property
   - Reference
-  - validity
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.validity
 ---
 {{DefaultAPISidebar("")}}

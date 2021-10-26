@@ -2,11 +2,8 @@
 title: AnimationEffectTiming.delay
 slug: Web/API/AnimationEffectTiming/delay
 tags:
-  - API
   - Property
   - Reference
-  - delay
-  - AnimationEffectTiming
 browser-compat: api.AnimationEffectTiming.delay
 ---
 {{DefaultAPISidebar("")}}

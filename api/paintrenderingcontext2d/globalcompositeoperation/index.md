@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.globalCompositeOperation
 slug: Web/API/PaintRenderingContext2D/globalCompositeOperation
 tags:
-  - API
   - Property
   - Reference
-  - globalCompositeOperation
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.globalCompositeOperation
 ---
 {{DefaultAPISidebar("")}}

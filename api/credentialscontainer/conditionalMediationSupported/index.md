@@ -2,11 +2,8 @@
 title: CredentialsContainer.conditionalMediationSupported
 slug: Web/API/CredentialsContainer/conditionalMediationSupported
 tags:
-  - API
   - Property
   - Reference
-  - conditionalMediationSupported
-  - CredentialsContainer
 browser-compat: api.CredentialsContainer.conditionalMediationSupported
 ---
 {{DefaultAPISidebar("")}}

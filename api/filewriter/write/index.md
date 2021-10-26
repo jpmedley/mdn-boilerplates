@@ -2,11 +2,8 @@
 title: FileWriter.write()
 slug: Web/API/FileWriter/write
 tags:
-  - API
   - Method
   - Reference
-  - write
-  - FileWriter
 browser-compat: api.FileWriter.write
 ---
 {{DefaultAPISidebar("")}}

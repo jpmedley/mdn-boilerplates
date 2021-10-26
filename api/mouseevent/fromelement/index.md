@@ -2,11 +2,8 @@
 title: MouseEvent.fromElement
 slug: Web/API/MouseEvent/fromElement
 tags:
-  - API
   - Property
   - Reference
-  - fromElement
-  - MouseEvent
 browser-compat: api.MouseEvent.fromElement
 ---
 {{DefaultAPISidebar("")}}

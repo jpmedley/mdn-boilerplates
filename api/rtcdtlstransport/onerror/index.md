@@ -2,11 +2,8 @@
 title: RTCDtlsTransport.onerror
 slug: Web/API/RTCDtlsTransport/onerror
 tags:
-  - API
   - Property
   - Reference
-  - onerror
-  - RTCDtlsTransport
 browser-compat: api.RTCDtlsTransport.onerror
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: RTCPeerConnection.getLocalStreams()
 slug: Web/API/RTCPeerConnection/getLocalStreams
 tags:
-  - API
   - Method
   - Reference
-  - getLocalStreams
-  - RTCPeerConnection
 browser-compat: api.RTCPeerConnection.getLocalStreams
 ---
 {{DefaultAPISidebar("")}}

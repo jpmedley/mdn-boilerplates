@@ -2,10 +2,8 @@
 title: RTCTrackEvent.RTCTrackEvent()
 slug: Web/API/RTCTrackEvent/RTCTrackEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - RTCTrackEvent
 browser-compat: api.RTCTrackEvent.RTCTrackEvent
 ---
 {{DefaultAPISidebar("")}}

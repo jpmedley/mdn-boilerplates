@@ -2,11 +2,8 @@
 title: PagePopupController.setWindowRect()
 slug: Web/API/PagePopupController/setWindowRect
 tags:
-  - API
   - Method
   - Reference
-  - setWindowRect
-  - PagePopupController
 browser-compat: api.PagePopupController.setWindowRect
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLInputElement.height
 slug: Web/API/HTMLInputElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.height
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGElement.className
 slug: Web/API/SVGElement/className
 tags:
-  - API
   - Property
   - Reference
-  - className
-  - SVGElement
 browser-compat: api.SVGElement.className
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Element.onbeforecut
 slug: Web/API/Element/onbeforecut
 tags:
-  - API
   - Property
   - Reference
-  - onbeforecut
-  - Element
 browser-compat: api.Element.onbeforecut
 ---
 {{DefaultAPISidebar("")}}

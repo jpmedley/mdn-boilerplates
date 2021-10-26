@@ -2,11 +2,8 @@
 title: Node.setApplyScroll()
 slug: Web/API/Node/setApplyScroll
 tags:
-  - API
   - Method
   - Reference
-  - setApplyScroll
-  - Node
 browser-compat: api.Node.setApplyScroll
 ---
 {{DefaultAPISidebar("")}}

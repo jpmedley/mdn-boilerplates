@@ -2,10 +2,8 @@
 title: EntriesCallback
 slug: Web/API/EntriesCallback
 tags:
-  - API
   - Interface
   - Reference
-  - EntriesCallback
 browser-compat: api.EntriesCallback
 ---
 {{DefaultAPISidebar("")}}

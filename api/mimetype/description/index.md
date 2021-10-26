@@ -2,11 +2,8 @@
 title: MimeType.description
 slug: Web/API/MimeType/description
 tags:
-  - API
   - Property
   - Reference
-  - description
-  - MimeType
 browser-compat: api.MimeType.description
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.writeTimestamp()
 slug: Web/API/GPUCommandEncoder/writeTimestamp
 tags:
-  - API
   - Method
   - Reference
-  - writeTimestamp
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.writeTimestamp
 ---
 {{DefaultAPISidebar("")}}

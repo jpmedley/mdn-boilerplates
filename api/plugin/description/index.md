@@ -2,11 +2,8 @@
 title: Plugin.description
 slug: Web/API/Plugin/description
 tags:
-  - API
   - Property
   - Reference
-  - description
-  - Plugin
 browser-compat: api.Plugin.description
 ---
 {{DefaultAPISidebar("")}}

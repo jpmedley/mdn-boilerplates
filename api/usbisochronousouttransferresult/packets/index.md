@@ -2,11 +2,8 @@
 title: USBIsochronousOutTransferResult.packets
 slug: Web/API/USBIsochronousOutTransferResult/packets
 tags:
-  - API
   - Property
   - Reference
-  - packets
-  - USBIsochronousOutTransferResult
 browser-compat: api.USBIsochronousOutTransferResult.packets
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

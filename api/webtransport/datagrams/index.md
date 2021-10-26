@@ -2,11 +2,8 @@
 title: WebTransport.datagrams
 slug: Web/API/WebTransport/datagrams
 tags:
-  - API
   - Property
   - Reference
-  - datagrams
-  - WebTransport
 browser-compat: api.WebTransport.datagrams
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

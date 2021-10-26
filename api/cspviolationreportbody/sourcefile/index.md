@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.sourceFile
 slug: Web/API/CSPViolationReportBody/sourceFile
 tags:
-  - API
   - Property
   - Reference
-  - sourceFile
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.sourceFile
 ---
 {{DefaultAPISidebar("")}}

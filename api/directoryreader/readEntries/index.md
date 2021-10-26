@@ -2,11 +2,8 @@
 title: DirectoryReader.readEntries()
 slug: Web/API/DirectoryReader/readEntries
 tags:
-  - API
   - Method
   - Reference
-  - readEntries
-  - DirectoryReader
 browser-compat: api.DirectoryReader.readEntries
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: FontFace.sizeAdjust
 slug: Web/API/FontFace/sizeAdjust
 tags:
-  - API
   - Property
   - Reference
-  - sizeAdjust
-  - FontFace
 browser-compat: api.FontFace.sizeAdjust
 ---
 {{DefaultAPISidebar("")}}

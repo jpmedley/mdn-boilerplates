@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.bgColor
 slug: Web/API/HTMLTableCellElement/bgColor
 tags:
-  - API
   - Property
   - Reference
-  - bgColor
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.bgColor
 ---
 {{DefaultAPISidebar("")}}

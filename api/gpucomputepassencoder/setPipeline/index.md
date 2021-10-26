@@ -2,11 +2,8 @@
 title: GPUComputePassEncoder.setPipeline()
 slug: Web/API/GPUComputePassEncoder/setPipeline
 tags:
-  - API
   - Method
   - Reference
-  - setPipeline
-  - GPUComputePassEncoder
 browser-compat: api.GPUComputePassEncoder.setPipeline
 ---
 {{DefaultAPISidebar("")}}

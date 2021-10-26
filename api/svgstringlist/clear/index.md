@@ -2,11 +2,8 @@
 title: SVGStringList.clear()
 slug: Web/API/SVGStringList/clear
 tags:
-  - API
   - Method
   - Reference
-  - clear
-  - SVGStringList
 browser-compat: api.SVGStringList.clear
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: FontManager.query()
 slug: Web/API/FontManager/query
 tags:
-  - API
   - Method
   - Reference
-  - query
-  - FontManager
 browser-compat: api.FontManager.query
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

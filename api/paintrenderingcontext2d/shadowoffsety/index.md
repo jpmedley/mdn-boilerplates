@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.shadowOffsetY
 slug: Web/API/PaintRenderingContext2D/shadowOffsetY
 tags:
-  - API
   - Property
   - Reference
-  - shadowOffsetY
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.shadowOffsetY
 ---
 {{DefaultAPISidebar("")}}

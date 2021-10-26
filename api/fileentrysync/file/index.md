@@ -2,11 +2,8 @@
 title: FileEntrySync.file()
 slug: Web/API/FileEntrySync/file
 tags:
-  - API
   - Method
   - Reference
-  - file
-  - FileEntrySync
 browser-compat: api.FileEntrySync.file
 ---
 {{DefaultAPISidebar("")}}

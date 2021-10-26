@@ -2,11 +2,8 @@
 title: PaintSize.width
 slug: Web/API/PaintSize/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - PaintSize
 browser-compat: api.PaintSize.width
 ---
 {{DefaultAPISidebar("")}}

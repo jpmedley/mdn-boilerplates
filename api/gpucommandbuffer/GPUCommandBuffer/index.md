@@ -2,10 +2,8 @@
 title: GPUCommandBuffer
 slug: Web/API/GPUCommandBuffer
 tags:
-  - API
   - Interface
   - Reference
-  - GPUCommandBuffer
 browser-compat: api.GPUCommandBuffer
 ---
 {{DefaultAPISidebar("")}}

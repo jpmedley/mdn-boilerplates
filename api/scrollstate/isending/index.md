@@ -2,11 +2,8 @@
 title: ScrollState.isEnding
 slug: Web/API/ScrollState/isEnding
 tags:
-  - API
   - Property
   - Reference
-  - isEnding
-  - ScrollState
 browser-compat: api.ScrollState.isEnding
 ---
 {{DefaultAPISidebar("")}}

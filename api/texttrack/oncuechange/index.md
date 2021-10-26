@@ -2,11 +2,8 @@
 title: TextTrack.oncuechange
 slug: Web/API/TextTrack/oncuechange
 tags:
-  - API
   - Property
   - Reference
-  - oncuechange
-  - TextTrack
 browser-compat: api.TextTrack.oncuechange
 ---
 {{DefaultAPISidebar("")}}

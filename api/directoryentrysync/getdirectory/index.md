@@ -2,11 +2,8 @@
 title: DirectoryEntrySync.getDirectory()
 slug: Web/API/DirectoryEntrySync/getDirectory
 tags:
-  - API
   - Method
   - Reference
-  - getDirectory
-  - DirectoryEntrySync
 browser-compat: api.DirectoryEntrySync.getDirectory
 ---
 {{DefaultAPISidebar("")}}

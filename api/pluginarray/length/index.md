@@ -2,11 +2,8 @@
 title: PluginArray.length
 slug: Web/API/PluginArray/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - PluginArray
 browser-compat: api.PluginArray.length
 ---
 {{DefaultAPISidebar("")}}

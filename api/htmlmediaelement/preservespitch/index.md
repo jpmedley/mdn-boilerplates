@@ -2,11 +2,8 @@
 title: HTMLMediaElement.preservesPitch
 slug: Web/API/HTMLMediaElement/preservesPitch
 tags:
-  - API
   - Property
   - Reference
-  - preservesPitch
-  - HTMLMediaElement
 browser-compat: api.HTMLMediaElement.preservesPitch
 ---
 {{DefaultAPISidebar("")}}

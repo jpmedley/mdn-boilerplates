@@ -2,11 +2,8 @@
 title: XSLTProcessor.reset()
 slug: Web/API/XSLTProcessor/reset
 tags:
-  - API
   - Method
   - Reference
-  - reset
-  - XSLTProcessor
 browser-compat: api.XSLTProcessor.reset
 ---
 {{DefaultAPISidebar("")}}

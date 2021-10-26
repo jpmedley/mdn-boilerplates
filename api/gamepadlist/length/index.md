@@ -2,11 +2,8 @@
 title: GamepadList.length
 slug: Web/API/GamepadList/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - GamepadList
 browser-compat: api.GamepadList.length
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Navigator.devicePosture
 slug: Web/API/Navigator/devicePosture
 tags:
-  - API
   - Property
   - Reference
-  - devicePosture
-  - Navigator
 browser-compat: api.Navigator.devicePosture
 ---
 {{DefaultAPISidebar("")}}

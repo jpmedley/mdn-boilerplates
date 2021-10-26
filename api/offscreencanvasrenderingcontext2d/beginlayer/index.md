@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.beginLayer()
 slug: Web/API/OffscreenCanvasRenderingContext2D/beginLayer
 tags:
-  - API
   - Method
   - Reference
-  - beginLayer
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.beginLayer
 ---
 {{DefaultAPISidebar("")}}

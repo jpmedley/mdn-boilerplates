@@ -2,11 +2,8 @@
 title: SharedStorageWorklet.addModule()
 slug: Web/API/SharedStorageWorklet/addModule
 tags:
-  - API
   - Method
   - Reference
-  - addModule
-  - SharedStorageWorklet
 browser-compat: api.SharedStorageWorklet.addModule
 ---
 {{DefaultAPISidebar("")}}

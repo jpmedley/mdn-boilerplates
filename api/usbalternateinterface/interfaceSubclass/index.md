@@ -2,11 +2,8 @@
 title: USBAlternateInterface.interfaceSubclass
 slug: Web/API/USBAlternateInterface/interfaceSubclass
 tags:
-  - API
   - Property
   - Reference
-  - interfaceSubclass
-  - USBAlternateInterface
 browser-compat: api.USBAlternateInterface.interfaceSubclass
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

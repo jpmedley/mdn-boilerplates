@@ -2,11 +2,8 @@
 title: DOMFileSystemSync.name
 slug: Web/API/DOMFileSystemSync/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - DOMFileSystemSync
 browser-compat: api.DOMFileSystemSync.name
 ---
 {{DefaultAPISidebar("")}}

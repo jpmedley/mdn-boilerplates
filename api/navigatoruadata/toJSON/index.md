@@ -2,11 +2,8 @@
 title: NavigatorUAData.toJSON()
 slug: Web/API/NavigatorUAData/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - NavigatorUAData
 browser-compat: api.NavigatorUAData.toJSON
 ---
 {{DefaultAPISidebar("")}}

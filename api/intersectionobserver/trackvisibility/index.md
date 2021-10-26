@@ -2,11 +2,8 @@
 title: IntersectionObserver.trackVisibility
 slug: Web/API/IntersectionObserver/trackVisibility
 tags:
-  - API
   - Property
   - Reference
-  - trackVisibility
-  - IntersectionObserver
 browser-compat: api.IntersectionObserver.trackVisibility
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: FontMetadata.fullName
 slug: Web/API/FontMetadata/fullName
 tags:
-  - API
   - Property
   - Reference
-  - fullName
-  - FontMetadata
 browser-compat: api.FontMetadata.fullName
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

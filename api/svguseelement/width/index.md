@@ -2,11 +2,8 @@
 title: SVGUseElement.width
 slug: Web/API/SVGUseElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - SVGUseElement
 browser-compat: api.SVGUseElement.width
 ---
 {{DefaultAPISidebar("")}}

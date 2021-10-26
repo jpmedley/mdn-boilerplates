@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.sample
 slug: Web/API/CSPViolationReportBody/sample
 tags:
-  - API
   - Property
   - Reference
-  - sample
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.sample
 ---
 {{DefaultAPISidebar("")}}

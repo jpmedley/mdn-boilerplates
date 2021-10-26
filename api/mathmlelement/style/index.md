@@ -2,11 +2,8 @@
 title: MathMLElement.style
 slug: Web/API/MathMLElement/style
 tags:
-  - API
   - Property
   - Reference
-  - style
-  - MathMLElement
 browser-compat: api.MathMLElement.style
 ---
 {{DefaultAPISidebar("")}}

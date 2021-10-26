@@ -2,11 +2,8 @@
 title: DOMRectList.item()
 slug: Web/API/DOMRectList/item
 tags:
-  - API
   - Method
   - Reference
-  - item
-  - DOMRectList
 browser-compat: api.DOMRectList.item
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: RTCPeerConnectionIceErrorEvent.port
 slug: Web/API/RTCPeerConnectionIceErrorEvent/port
 tags:
-  - API
   - Property
   - Reference
-  - port
-  - RTCPeerConnectionIceErrorEvent
 browser-compat: api.RTCPeerConnectionIceErrorEvent.port
 ---
 {{DefaultAPISidebar("")}}

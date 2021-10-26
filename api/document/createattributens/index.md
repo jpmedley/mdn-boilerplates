@@ -2,11 +2,8 @@
 title: Document.createAttributeNS()
 slug: Web/API/Document/createAttributeNS
 tags:
-  - API
   - Method
   - Reference
-  - createAttributeNS
-  - Document
 browser-compat: api.Document.createAttributeNS
 ---
 {{DefaultAPISidebar("")}}

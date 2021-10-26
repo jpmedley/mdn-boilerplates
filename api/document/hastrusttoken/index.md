@@ -2,11 +2,8 @@
 title: Document.hasTrustToken()
 slug: Web/API/Document/hasTrustToken
 tags:
-  - API
   - Method
   - Reference
-  - hasTrustToken
-  - Document
 browser-compat: api.Document.hasTrustToken
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: DOMMatrix.invertSelf()
 slug: Web/API/DOMMatrix/invertSelf
 tags:
-  - API
   - Method
   - Reference
-  - invertSelf
-  - DOMMatrix
 browser-compat: api.DOMMatrix.invertSelf
 ---
 {{DefaultAPISidebar("")}}

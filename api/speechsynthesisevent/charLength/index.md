@@ -2,11 +2,8 @@
 title: SpeechSynthesisEvent.charLength
 slug: Web/API/SpeechSynthesisEvent/charLength
 tags:
-  - API
   - Property
   - Reference
-  - charLength
-  - SpeechSynthesisEvent
 browser-compat: api.SpeechSynthesisEvent.charLength
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLTemplateElement.shadowRoot
 slug: Web/API/HTMLTemplateElement/shadowRoot
 tags:
-  - API
   - Property
   - Reference
-  - shadowRoot
-  - HTMLTemplateElement
 browser-compat: api.HTMLTemplateElement.shadowRoot
 ---
 {{DefaultAPISidebar("")}}

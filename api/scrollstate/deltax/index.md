@@ -2,11 +2,8 @@
 title: ScrollState.deltaX
 slug: Web/API/ScrollState/deltaX
 tags:
-  - API
   - Property
   - Reference
-  - deltaX
-  - ScrollState
 browser-compat: api.ScrollState.deltaX
 ---
 {{DefaultAPISidebar("")}}

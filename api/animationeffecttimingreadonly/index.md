@@ -2,10 +2,8 @@
 title: AnimationEffectTimingReadOnly
 slug: Web/API/AnimationEffectTimingReadOnly
 tags:
-  - API
   - Interface
   - Reference
-  - AnimationEffectTimingReadOnly
 browser-compat: api.AnimationEffectTimingReadOnly
 ---
 {{DefaultAPISidebar("")}}

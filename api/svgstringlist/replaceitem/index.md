@@ -2,11 +2,8 @@
 title: SVGStringList.replaceItem()
 slug: Web/API/SVGStringList/replaceItem
 tags:
-  - API
   - Method
   - Reference
-  - replaceItem
-  - SVGStringList
 browser-compat: api.SVGStringList.replaceItem
 ---
 {{DefaultAPISidebar("")}}

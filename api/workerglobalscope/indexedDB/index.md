@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.indexedDB
 slug: Web/API/WorkerGlobalScope/indexedDB
 tags:
-  - API
   - Property
   - Reference
-  - indexedDB
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.indexedDB
 ---
 {{DefaultAPISidebar("")}}

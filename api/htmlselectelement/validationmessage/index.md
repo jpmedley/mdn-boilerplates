@@ -2,11 +2,8 @@
 title: HTMLSelectElement.validationMessage
 slug: Web/API/HTMLSelectElement/validationMessage
 tags:
-  - API
   - Property
   - Reference
-  - validationMessage
-  - HTMLSelectElement
 browser-compat: api.HTMLSelectElement.validationMessage
 ---
 {{DefaultAPISidebar("")}}

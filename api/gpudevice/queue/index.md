@@ -2,11 +2,8 @@
 title: GPUDevice.queue
 slug: Web/API/GPUDevice/queue
 tags:
-  - API
   - Property
   - Reference
-  - queue
-  - GPUDevice
 browser-compat: api.GPUDevice.queue
 ---
 {{DefaultAPISidebar("")}}

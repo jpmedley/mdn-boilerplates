@@ -2,11 +2,8 @@
 title: SVGFEDiffuseLightingElement.in1
 slug: Web/API/SVGFEDiffuseLightingElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEDiffuseLightingElement
 browser-compat: api.SVGFEDiffuseLightingElement.in1
 ---
 {{DefaultAPISidebar("")}}

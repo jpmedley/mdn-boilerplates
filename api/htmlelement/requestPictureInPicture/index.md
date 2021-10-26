@@ -2,11 +2,8 @@
 title: HTMLElement.requestPictureInPicture()
 slug: Web/API/HTMLElement/requestPictureInPicture
 tags:
-  - API
   - Method
   - Reference
-  - requestPictureInPicture
-  - HTMLElement
 browser-compat: api.HTMLElement.requestPictureInPicture
 ---
 {{DefaultAPISidebar("")}}

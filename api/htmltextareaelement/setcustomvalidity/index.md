@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.setCustomValidity()
 slug: Web/API/HTMLTextAreaElement/setCustomValidity
 tags:
-  - API
   - Method
   - Reference
-  - setCustomValidity
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.setCustomValidity
 ---
 {{DefaultAPISidebar("")}}

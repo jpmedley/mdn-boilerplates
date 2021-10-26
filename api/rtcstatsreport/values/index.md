@@ -2,11 +2,8 @@
 title: RTCStatsReport.values()
 slug: Web/API/RTCStatsReport/values
 tags:
-  - API
   - Method
   - Reference
-  - values
-  - RTCStatsReport
 browser-compat: api.RTCStatsReport.values
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SQLError.message
 slug: Web/API/SQLError/message
 tags:
-  - API
   - Property
   - Reference
-  - message
-  - SQLError
 browser-compat: api.SQLError.message
 ---
 {{DefaultAPISidebar("")}}

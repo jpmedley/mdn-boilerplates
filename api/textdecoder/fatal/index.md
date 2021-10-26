@@ -2,11 +2,8 @@
 title: TextDecoder.fatal
 slug: Web/API/TextDecoder/fatal
 tags:
-  - API
   - Property
   - Reference
-  - fatal
-  - TextDecoder
 browser-compat: api.TextDecoder.fatal
 ---
 {{DefaultAPISidebar("")}}

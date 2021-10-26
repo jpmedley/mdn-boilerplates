@@ -2,11 +2,8 @@
 title: AudioWorkletGlobalScope.currentTime
 slug: Web/API/AudioWorkletGlobalScope/currentTime
 tags:
-  - API
   - Property
   - Reference
-  - currentTime
-  - AudioWorkletGlobalScope
 browser-compat: api.AudioWorkletGlobalScope.currentTime
 ---
 {{DefaultAPISidebar("")}}

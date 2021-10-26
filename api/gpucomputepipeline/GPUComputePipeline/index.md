@@ -2,10 +2,8 @@
 title: GPUComputePipeline
 slug: Web/API/GPUComputePipeline
 tags:
-  - API
   - Interface
   - Reference
-  - GPUComputePipeline
 browser-compat: api.GPUComputePipeline
 ---
 {{DefaultAPISidebar("")}}

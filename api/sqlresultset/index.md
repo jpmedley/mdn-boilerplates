@@ -2,10 +2,8 @@
 title: SQLResultSet
 slug: Web/API/SQLResultSet
 tags:
-  - API
   - Interface
   - Reference
-  - SQLResultSet
 browser-compat: api.SQLResultSet
 ---
 {{DefaultAPISidebar("")}}

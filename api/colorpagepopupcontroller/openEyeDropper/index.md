@@ -2,11 +2,8 @@
 title: ColorPagePopupController.openEyeDropper()
 slug: Web/API/ColorPagePopupController/openEyeDropper
 tags:
-  - API
   - Method
   - Reference
-  - openEyeDropper
-  - ColorPagePopupController
 browser-compat: api.ColorPagePopupController.openEyeDropper
 ---
 {{DefaultAPISidebar("")}}

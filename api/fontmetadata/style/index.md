@@ -2,11 +2,8 @@
 title: FontMetadata.style
 slug: Web/API/FontMetadata/style
 tags:
-  - API
   - Property
   - Reference
-  - style
-  - FontMetadata
 browser-compat: api.FontMetadata.style
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

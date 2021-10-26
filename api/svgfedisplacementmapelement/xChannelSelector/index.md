@@ -2,11 +2,8 @@
 title: SVGFEDisplacementMapElement.xChannelSelector
 slug: Web/API/SVGFEDisplacementMapElement/xChannelSelector
 tags:
-  - API
   - Property
   - Reference
-  - xChannelSelector
-  - SVGFEDisplacementMapElement
 browser-compat: api.SVGFEDisplacementMapElement.xChannelSelector
 ---
 {{DefaultAPISidebar("")}}

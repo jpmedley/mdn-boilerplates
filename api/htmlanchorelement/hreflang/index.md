@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.hreflang
 slug: Web/API/HTMLAnchorElement/hreflang
 tags:
-  - API
   - Property
   - Reference
-  - hreflang
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.hreflang
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.registerAttributionSource
 slug: Web/API/HTMLAnchorElement/registerAttributionSource
 tags:
-  - API
   - Property
   - Reference
-  - registerAttributionSource
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.registerAttributionSource
 ---
 {{DefaultAPISidebar("")}}

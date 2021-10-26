@@ -2,11 +2,8 @@
 title: USBInterface.alternates
 slug: Web/API/USBInterface/alternates
 tags:
-  - API
   - Property
   - Reference
-  - alternates
-  - USBInterface
 browser-compat: api.USBInterface.alternates
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

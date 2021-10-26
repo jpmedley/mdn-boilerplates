@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.minLength
 slug: Web/API/HTMLTextAreaElement/minLength
 tags:
-  - API
   - Property
   - Reference
-  - minLength
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.minLength
 ---
 {{DefaultAPISidebar("")}}

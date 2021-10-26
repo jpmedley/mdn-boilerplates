@@ -2,11 +2,8 @@
 title: Scheduling.isInputPending()
 slug: Web/API/Scheduling/isInputPending
 tags:
-  - API
   - Method
   - Reference
-  - isInputPending
-  - Scheduling
 browser-compat: api.Scheduling.isInputPending
 ---
 {{DefaultAPISidebar("")}}

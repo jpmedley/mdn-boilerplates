@@ -2,11 +2,8 @@
 title: VirtualKeyboard.show()
 slug: Web/API/VirtualKeyboard/show
 tags:
-  - API
   - Method
   - Reference
-  - show
-  - VirtualKeyboard
 browser-compat: api.VirtualKeyboard.show
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

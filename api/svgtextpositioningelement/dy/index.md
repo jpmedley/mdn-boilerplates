@@ -2,11 +2,8 @@
 title: SVGTextPositioningElement.dy
 slug: Web/API/SVGTextPositioningElement/dy
 tags:
-  - API
   - Property
   - Reference
-  - dy
-  - SVGTextPositioningElement
 browser-compat: api.SVGTextPositioningElement.dy
 ---
 {{DefaultAPISidebar("")}}

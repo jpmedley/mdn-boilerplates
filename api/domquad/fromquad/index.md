@@ -2,11 +2,8 @@
 title: DOMQuad.fromQuad()
 slug: Web/API/DOMQuad/fromQuad
 tags:
-  - API
   - Method
   - Reference
-  - fromQuad
-  - DOMQuad
 browser-compat: api.DOMQuad.fromQuad
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLButtonElement.willValidate
 slug: Web/API/HTMLButtonElement/willValidate
 tags:
-  - API
   - Property
   - Reference
-  - willValidate
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.willValidate
 ---
 {{DefaultAPISidebar("")}}

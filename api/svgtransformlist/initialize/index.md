@@ -2,11 +2,8 @@
 title: SVGTransformList.initialize()
 slug: Web/API/SVGTransformList/initialize
 tags:
-  - API
   - Method
   - Reference
-  - initialize
-  - SVGTransformList
 browser-compat: api.SVGTransformList.initialize
 ---
 {{DefaultAPISidebar("")}}

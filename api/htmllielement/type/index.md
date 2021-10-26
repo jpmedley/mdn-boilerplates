@@ -2,11 +2,8 @@
 title: HTMLLIElement.type
 slug: Web/API/HTMLLIElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLLIElement
 browser-compat: api.HTMLLIElement.type
 ---
 {{DefaultAPISidebar("")}}

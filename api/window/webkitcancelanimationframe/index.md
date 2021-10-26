@@ -2,11 +2,8 @@
 title: Window.webkitCancelAnimationFrame()
 slug: Web/API/Window/webkitCancelAnimationFrame
 tags:
-  - API
   - Method
   - Reference
-  - webkitCancelAnimationFrame
-  - Window
 browser-compat: api.Window.webkitCancelAnimationFrame
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: PopStateEvent.PopStateEvent()
 slug: Web/API/PopStateEvent/PopStateEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - PopStateEvent
 browser-compat: api.PopStateEvent.PopStateEvent
 ---
 {{DefaultAPISidebar("")}}

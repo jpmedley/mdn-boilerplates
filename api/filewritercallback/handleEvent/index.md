@@ -2,11 +2,8 @@
 title: FileWriterCallback.handleEvent()
 slug: Web/API/FileWriterCallback/handleEvent
 tags:
-  - API
   - Method
   - Reference
-  - handleEvent
-  - FileWriterCallback
 browser-compat: api.FileWriterCallback.handleEvent
 ---
 {{DefaultAPISidebar("")}}

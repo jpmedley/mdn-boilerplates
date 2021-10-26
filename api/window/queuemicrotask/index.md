@@ -2,11 +2,8 @@
 title: Window.queueMicrotask()
 slug: Web/API/Window/queueMicrotask
 tags:
-  - API
   - Method
   - Reference
-  - queueMicrotask
-  - Window
 browser-compat: api.Window.queueMicrotask
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: DOMRect.x
 slug: Web/API/DOMRect/x
 tags:
-  - API
   - Property
   - Reference
-  - x
-  - DOMRect
 browser-compat: api.DOMRect.x
 ---
 {{DefaultAPISidebar("")}}

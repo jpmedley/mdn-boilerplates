@@ -2,11 +2,8 @@
 title: SVGSVGElement.currentTranslate
 slug: Web/API/SVGSVGElement/currentTranslate
 tags:
-  - API
   - Property
   - Reference
-  - currentTranslate
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.currentTranslate
 ---
 {{DefaultAPISidebar("")}}

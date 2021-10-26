@@ -2,11 +2,8 @@
 title: GPURenderPassEncoder.setScissorRect()
 slug: Web/API/GPURenderPassEncoder/setScissorRect
 tags:
-  - API
   - Method
   - Reference
-  - setScissorRect
-  - GPURenderPassEncoder
 browser-compat: api.GPURenderPassEncoder.setScissorRect
 ---
 {{DefaultAPISidebar("")}}

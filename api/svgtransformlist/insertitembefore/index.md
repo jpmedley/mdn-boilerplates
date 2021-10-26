@@ -2,11 +2,8 @@
 title: SVGTransformList.insertItemBefore()
 slug: Web/API/SVGTransformList/insertItemBefore
 tags:
-  - API
   - Method
   - Reference
-  - insertItemBefore
-  - SVGTransformList
 browser-compat: api.SVGTransformList.insertItemBefore
 ---
 {{DefaultAPISidebar("")}}

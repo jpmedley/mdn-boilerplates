@@ -2,11 +2,8 @@
 title: HTMLOutputElement.validity
 slug: Web/API/HTMLOutputElement/validity
 tags:
-  - API
   - Property
   - Reference
-  - validity
-  - HTMLOutputElement
 browser-compat: api.HTMLOutputElement.validity
 ---
 {{DefaultAPISidebar("")}}

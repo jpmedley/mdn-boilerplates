@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.queueMicrotask()
 slug: Web/API/WorkerGlobalScope/queueMicrotask
 tags:
-  - API
   - Method
   - Reference
-  - queueMicrotask
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.queueMicrotask
 ---
 {{DefaultAPISidebar("")}}

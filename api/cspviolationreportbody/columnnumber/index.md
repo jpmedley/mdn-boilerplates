@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.columnNumber
 slug: Web/API/CSPViolationReportBody/columnNumber
 tags:
-  - API
   - Property
   - Reference
-  - columnNumber
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.columnNumber
 ---
 {{DefaultAPISidebar("")}}

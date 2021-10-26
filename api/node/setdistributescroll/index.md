@@ -2,11 +2,8 @@
 title: Node.setDistributeScroll()
 slug: Web/API/Node/setDistributeScroll
 tags:
-  - API
   - Method
   - Reference
-  - setDistributeScroll
-  - Node
 browser-compat: api.Node.setDistributeScroll
 ---
 {{DefaultAPISidebar("")}}

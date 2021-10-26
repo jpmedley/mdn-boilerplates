@@ -2,11 +2,8 @@
 title: XSLTProcessor.getParameter()
 slug: Web/API/XSLTProcessor/getParameter
 tags:
-  - API
   - Method
   - Reference
-  - getParameter
-  - XSLTProcessor
 browser-compat: api.XSLTProcessor.getParameter
 ---
 {{DefaultAPISidebar("")}}

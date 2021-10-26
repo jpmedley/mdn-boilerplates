@@ -2,10 +2,8 @@
 title: Ink
 slug: Web/API/Ink
 tags:
-  - API
   - Interface
   - Reference
-  - Ink
 browser-compat: api.Ink
 ---
 {{DefaultAPISidebar("")}}

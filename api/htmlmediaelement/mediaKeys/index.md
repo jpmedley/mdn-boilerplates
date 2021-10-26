@@ -2,11 +2,8 @@
 title: HTMLMediaElement.mediaKeys
 slug: Web/API/HTMLMediaElement/mediaKeys
 tags:
-  - API
   - Property
   - Reference
-  - mediaKeys
-  - HTMLMediaElement
 browser-compat: api.HTMLMediaElement.mediaKeys
 ---
 {{DefaultAPISidebar("")}}

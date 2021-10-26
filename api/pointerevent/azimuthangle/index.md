@@ -2,11 +2,8 @@
 title: PointerEvent.azimuthAngle
 slug: Web/API/PointerEvent/azimuthAngle
 tags:
-  - API
   - Property
   - Reference
-  - azimuthAngle
-  - PointerEvent
 browser-compat: api.PointerEvent.azimuthAngle
 ---
 {{DefaultAPISidebar("")}}

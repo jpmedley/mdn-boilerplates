@@ -2,11 +2,8 @@
 title: Range.expand()
 slug: Web/API/Range/expand
 tags:
-  - API
   - Method
   - Reference
-  - expand
-  - Range
 browser-compat: api.Range.expand
 ---
 {{DefaultAPISidebar("")}}

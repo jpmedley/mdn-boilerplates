@@ -2,11 +2,8 @@
 title: MetadataCallback.handleEvent()
 slug: Web/API/MetadataCallback/handleEvent
 tags:
-  - API
   - Method
   - Reference
-  - handleEvent
-  - MetadataCallback
 browser-compat: api.MetadataCallback.handleEvent
 ---
 {{DefaultAPISidebar("")}}

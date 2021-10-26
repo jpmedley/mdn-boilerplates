@@ -2,11 +2,8 @@
 title: SVGFEDisplacementMapElement.yChannelSelector
 slug: Web/API/SVGFEDisplacementMapElement/yChannelSelector
 tags:
-  - API
   - Property
   - Reference
-  - yChannelSelector
-  - SVGFEDisplacementMapElement
 browser-compat: api.SVGFEDisplacementMapElement.yChannelSelector
 ---
 {{DefaultAPISidebar("")}}

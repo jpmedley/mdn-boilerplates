@@ -2,11 +2,8 @@
 title: HTMLProgressElement.position
 slug: Web/API/HTMLProgressElement/position
 tags:
-  - API
   - Property
   - Reference
-  - position
-  - HTMLProgressElement
 browser-compat: api.HTMLProgressElement.position
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLScriptElement.integrity
 slug: Web/API/HTMLScriptElement/integrity
 tags:
-  - API
   - Property
   - Reference
-  - integrity
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.integrity
 ---
 {{DefaultAPISidebar("")}}

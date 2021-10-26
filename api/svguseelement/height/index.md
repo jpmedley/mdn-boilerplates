@@ -2,11 +2,8 @@
 title: SVGUseElement.height
 slug: Web/API/SVGUseElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - SVGUseElement
 browser-compat: api.SVGUseElement.height
 ---
 {{DefaultAPISidebar("")}}

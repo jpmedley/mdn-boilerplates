@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.translate()
 slug: Web/API/PaintRenderingContext2D/translate
 tags:
-  - API
   - Method
   - Reference
-  - translate
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.translate
 ---
 {{DefaultAPISidebar("")}}

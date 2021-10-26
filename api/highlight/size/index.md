@@ -2,11 +2,8 @@
 title: Highlight.size()
 slug: Web/API/Highlight/size
 tags:
-  - API
   - Method
   - Reference
-  - size
-  - Highlight
 browser-compat: api.Highlight.size
 ---
 {{DefaultAPISidebar("")}}

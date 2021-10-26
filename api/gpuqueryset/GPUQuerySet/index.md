@@ -2,10 +2,8 @@
 title: GPUQuerySet
 slug: Web/API/GPUQuerySet
 tags:
-  - API
   - Interface
   - Reference
-  - GPUQuerySet
 browser-compat: api.GPUQuerySet
 ---
 {{DefaultAPISidebar("")}}

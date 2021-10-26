@@ -2,11 +2,8 @@
 title: USBAlternateInterface.endpoints
 slug: Web/API/USBAlternateInterface/endpoints
 tags:
-  - API
   - Property
   - Reference
-  - endpoints
-  - USBAlternateInterface
 browser-compat: api.USBAlternateInterface.endpoints
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

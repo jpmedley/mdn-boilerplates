@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.lineDashOffset
 slug: Web/API/PaintRenderingContext2D/lineDashOffset
 tags:
-  - API
   - Property
   - Reference
-  - lineDashOffset
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.lineDashOffset
 ---
 {{DefaultAPISidebar("")}}

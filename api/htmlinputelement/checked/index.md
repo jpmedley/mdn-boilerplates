@@ -2,11 +2,8 @@
 title: HTMLInputElement.checked
 slug: Web/API/HTMLInputElement/checked
 tags:
-  - API
   - Property
   - Reference
-  - checked
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.checked
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLBaseElement.target
 slug: Web/API/HTMLBaseElement/target
 tags:
-  - API
   - Property
   - Reference
-  - target
-  - HTMLBaseElement
 browser-compat: api.HTMLBaseElement.target
 ---
 {{DefaultAPISidebar("")}}

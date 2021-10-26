@@ -2,11 +2,8 @@
 title: RTCStatsReport.keys()
 slug: Web/API/RTCStatsReport/keys
 tags:
-  - API
   - Method
   - Reference
-  - keys
-  - RTCStatsReport
 browser-compat: api.RTCStatsReport.keys
 ---
 {{DefaultAPISidebar("")}}

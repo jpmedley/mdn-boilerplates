@@ -2,11 +2,8 @@
 title: SQLResultSetRowList.item()
 slug: Web/API/SQLResultSetRowList/item
 tags:
-  - API
   - Method
   - Reference
-  - item
-  - SQLResultSetRowList
 browser-compat: api.SQLResultSetRowList.item
 ---
 {{DefaultAPISidebar("")}}

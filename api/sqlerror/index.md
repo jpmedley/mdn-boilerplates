@@ -2,10 +2,8 @@
 title: SQLError
 slug: Web/API/SQLError
 tags:
-  - API
   - Interface
   - Reference
-  - SQLError
 browser-compat: api.SQLError
 ---
 {{DefaultAPISidebar("")}}

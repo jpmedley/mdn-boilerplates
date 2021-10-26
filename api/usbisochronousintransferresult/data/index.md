@@ -2,11 +2,8 @@
 title: USBIsochronousInTransferResult.data
 slug: Web/API/USBIsochronousInTransferResult/data
 tags:
-  - API
   - Property
   - Reference
-  - data
-  - USBIsochronousInTransferResult
 browser-compat: api.USBIsochronousInTransferResult.data
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

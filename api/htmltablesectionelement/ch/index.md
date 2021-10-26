@@ -2,11 +2,8 @@
 title: HTMLTableSectionElement.ch
 slug: Web/API/HTMLTableSectionElement/ch
 tags:
-  - API
   - Property
   - Reference
-  - ch
-  - HTMLTableSectionElement
 browser-compat: api.HTMLTableSectionElement.ch
 ---
 {{DefaultAPISidebar("")}}

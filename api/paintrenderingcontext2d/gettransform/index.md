@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.getTransform()
 slug: Web/API/PaintRenderingContext2D/getTransform
 tags:
-  - API
   - Method
   - Reference
-  - getTransform
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.getTransform
 ---
 {{DefaultAPISidebar("")}}

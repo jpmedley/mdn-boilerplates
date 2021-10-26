@@ -2,10 +2,8 @@
 title: RTCEncodedVideoFrame
 slug: Web/API/RTCEncodedVideoFrame
 tags:
-  - API
   - Interface
   - Reference
-  - RTCEncodedVideoFrame
 browser-compat: api.RTCEncodedVideoFrame
 ---
 {{DefaultAPISidebar("")}}

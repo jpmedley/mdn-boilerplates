@@ -2,11 +2,8 @@
 title: SVGTextContentElement.getRotationOfChar()
 slug: Web/API/SVGTextContentElement/getRotationOfChar
 tags:
-  - API
   - Method
   - Reference
-  - getRotationOfChar
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.getRotationOfChar
 ---
 {{DefaultAPISidebar("")}}

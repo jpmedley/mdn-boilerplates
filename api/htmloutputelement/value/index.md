@@ -2,11 +2,8 @@
 title: HTMLOutputElement.value
 slug: Web/API/HTMLOutputElement/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - HTMLOutputElement
 browser-compat: api.HTMLOutputElement.value
 ---
 {{DefaultAPISidebar("")}}

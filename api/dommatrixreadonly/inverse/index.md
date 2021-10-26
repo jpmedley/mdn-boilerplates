@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.inverse()
 slug: Web/API/DOMMatrixReadOnly/inverse
 tags:
-  - API
   - Method
   - Reference
-  - inverse
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.inverse
 ---
 {{DefaultAPISidebar("")}}

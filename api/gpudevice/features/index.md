@@ -2,11 +2,8 @@
 title: GPUDevice.features
 slug: Web/API/GPUDevice/features
 tags:
-  - API
   - Property
   - Reference
-  - features
-  - GPUDevice
 browser-compat: api.GPUDevice.features
 ---
 {{DefaultAPISidebar("")}}

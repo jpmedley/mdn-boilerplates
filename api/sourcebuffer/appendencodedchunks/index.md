@@ -2,11 +2,8 @@
 title: SourceBuffer.appendEncodedChunks()
 slug: Web/API/SourceBuffer/appendEncodedChunks
 tags:
-  - API
   - Method
   - Reference
-  - appendEncodedChunks
-  - SourceBuffer
 browser-compat: api.SourceBuffer.appendEncodedChunks
 ---
 {{DefaultAPISidebar("")}}

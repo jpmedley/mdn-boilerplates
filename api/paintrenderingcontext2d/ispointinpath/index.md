@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.isPointInPath()
 slug: Web/API/PaintRenderingContext2D/isPointInPath
 tags:
-  - API
   - Method
   - Reference
-  - isPointInPath
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.isPointInPath
 ---
 {{DefaultAPISidebar("")}}

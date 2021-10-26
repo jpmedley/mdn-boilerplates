@@ -2,11 +2,8 @@
 title: SVGMatrix.f
 slug: Web/API/SVGMatrix/f
 tags:
-  - API
   - Property
   - Reference
-  - f
-  - SVGMatrix
 browser-compat: api.SVGMatrix.f
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Selection.baseOffset
 slug: Web/API/Selection/baseOffset
 tags:
-  - API
   - Property
   - Reference
-  - baseOffset
-  - Selection
 browser-compat: api.Selection.baseOffset
 ---
 {{DefaultAPISidebar("")}}

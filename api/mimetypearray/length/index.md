@@ -2,11 +2,8 @@
 title: MimeTypeArray.length
 slug: Web/API/MimeTypeArray/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - MimeTypeArray
 browser-compat: api.MimeTypeArray.length
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Navigator.pdfViewerEnabled
 slug: Web/API/Navigator/pdfViewerEnabled
 tags:
-  - API
   - Property
   - Reference
-  - pdfViewerEnabled
-  - Navigator
 browser-compat: api.Navigator.pdfViewerEnabled
 ---
 {{DefaultAPISidebar("")}}

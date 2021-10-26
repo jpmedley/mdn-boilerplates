@@ -2,11 +2,8 @@
 title: SVGTextContentElement.selectSubString()
 slug: Web/API/SVGTextContentElement/selectSubString
 tags:
-  - API
   - Method
   - Reference
-  - selectSubString
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.selectSubString
 ---
 {{DefaultAPISidebar("")}}

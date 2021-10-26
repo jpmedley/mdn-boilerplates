@@ -2,11 +2,8 @@
 title: MutationRecord.oldValue
 slug: Web/API/MutationRecord/oldValue
 tags:
-  - API
   - Property
   - Reference
-  - oldValue
-  - MutationRecord
 browser-compat: api.MutationRecord.oldValue
 ---
 {{DefaultAPISidebar("")}}

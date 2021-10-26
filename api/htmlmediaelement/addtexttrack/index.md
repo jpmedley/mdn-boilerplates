@@ -2,11 +2,8 @@
 title: HTMLMediaElement.addTextTrack()
 slug: Web/API/HTMLMediaElement/addTextTrack
 tags:
-  - API
   - Method
   - Reference
-  - addTextTrack
-  - HTMLMediaElement
 browser-compat: api.HTMLMediaElement.addTextTrack
 ---
 {{DefaultAPISidebar("")}}

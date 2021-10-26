@@ -2,11 +2,8 @@
 title: MutationRecord.removedNodes
 slug: Web/API/MutationRecord/removedNodes
 tags:
-  - API
   - Property
   - Reference
-  - removedNodes
-  - MutationRecord
 browser-compat: api.MutationRecord.removedNodes
 ---
 {{DefaultAPISidebar("")}}

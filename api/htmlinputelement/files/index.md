@@ -2,11 +2,8 @@
 title: HTMLInputElement.files
 slug: Web/API/HTMLInputElement/files
 tags:
-  - API
   - Property
   - Reference
-  - files
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.files
 ---
 {{DefaultAPISidebar("")}}

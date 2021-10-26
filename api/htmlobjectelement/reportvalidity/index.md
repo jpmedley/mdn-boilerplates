@@ -2,11 +2,8 @@
 title: HTMLObjectElement.reportValidity()
 slug: Web/API/HTMLObjectElement/reportValidity
 tags:
-  - API
   - Method
   - Reference
-  - reportValidity
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.reportValidity
 ---
 {{DefaultAPISidebar("")}}

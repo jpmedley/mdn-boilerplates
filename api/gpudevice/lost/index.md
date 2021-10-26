@@ -2,11 +2,8 @@
 title: GPUDevice.lost
 slug: Web/API/GPUDevice/lost
 tags:
-  - API
   - Property
   - Reference
-  - lost
-  - GPUDevice
 browser-compat: api.GPUDevice.lost
 ---
 {{DefaultAPISidebar("")}}

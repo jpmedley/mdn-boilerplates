@@ -2,11 +2,8 @@
 title: Document.fragmentDirective
 slug: Web/API/Document/fragmentDirective
 tags:
-  - API
   - Property
   - Reference
-  - fragmentDirective
-  - Document
 browser-compat: api.Document.fragmentDirective
 ---
 {{DefaultAPISidebar("")}}

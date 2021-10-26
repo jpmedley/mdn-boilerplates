@@ -2,11 +2,8 @@
 title: SVGClipPathElement.clipPathUnits
 slug: Web/API/SVGClipPathElement/clipPathUnits
 tags:
-  - API
   - Property
   - Reference
-  - clipPathUnits
-  - SVGClipPathElement
 browser-compat: api.SVGClipPathElement.clipPathUnits
 ---
 {{DefaultAPISidebar("")}}

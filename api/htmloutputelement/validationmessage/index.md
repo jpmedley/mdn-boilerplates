@@ -2,11 +2,8 @@
 title: HTMLOutputElement.validationMessage
 slug: Web/API/HTMLOutputElement/validationMessage
 tags:
-  - API
   - Property
   - Reference
-  - validationMessage
-  - HTMLOutputElement
 browser-compat: api.HTMLOutputElement.validationMessage
 ---
 {{DefaultAPISidebar("")}}

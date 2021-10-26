@@ -2,11 +2,8 @@
 title: HTMLTableColElement.ch
 slug: Web/API/HTMLTableColElement/ch
 tags:
-  - API
   - Property
   - Reference
-  - ch
-  - HTMLTableColElement
 browser-compat: api.HTMLTableColElement.ch
 ---
 {{DefaultAPISidebar("")}}

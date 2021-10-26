@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.miterLimit
 slug: Web/API/PaintRenderingContext2D/miterLimit
 tags:
-  - API
   - Property
   - Reference
-  - miterLimit
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.miterLimit
 ---
 {{DefaultAPISidebar("")}}

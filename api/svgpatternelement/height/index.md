@@ -2,11 +2,8 @@
 title: SVGPatternElement.height
 slug: Web/API/SVGPatternElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - SVGPatternElement
 browser-compat: api.SVGPatternElement.height
 ---
 {{DefaultAPISidebar("")}}

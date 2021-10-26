@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.clip()
 slug: Web/API/OffscreenCanvasRenderingContext2D/clip
 tags:
-  - API
   - Method
   - Reference
-  - clip
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.clip
 ---
 {{DefaultAPISidebar("")}}

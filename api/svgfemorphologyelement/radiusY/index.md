@@ -2,11 +2,8 @@
 title: SVGFEMorphologyElement.radiusY
 slug: Web/API/SVGFEMorphologyElement/radiusY
 tags:
-  - API
   - Property
   - Reference
-  - radiusY
-  - SVGFEMorphologyElement
 browser-compat: api.SVGFEMorphologyElement.radiusY
 ---
 {{DefaultAPISidebar("")}}

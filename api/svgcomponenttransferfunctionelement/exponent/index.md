@@ -2,11 +2,8 @@
 title: SVGComponentTransferFunctionElement.exponent
 slug: Web/API/SVGComponentTransferFunctionElement/exponent
 tags:
-  - API
   - Property
   - Reference
-  - exponent
-  - SVGComponentTransferFunctionElement
 browser-compat: api.SVGComponentTransferFunctionElement.exponent
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.text
 slug: Web/API/HTMLAnchorElement/text
 tags:
-  - API
   - Property
   - Reference
-  - text
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.text
 ---
 {{DefaultAPISidebar("")}}

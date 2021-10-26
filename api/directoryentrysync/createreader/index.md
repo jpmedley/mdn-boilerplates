@@ -2,11 +2,8 @@
 title: DirectoryEntrySync.createReader()
 slug: Web/API/DirectoryEntrySync/createReader
 tags:
-  - API
   - Method
   - Reference
-  - createReader
-  - DirectoryEntrySync
 browser-compat: api.DirectoryEntrySync.createReader
 ---
 {{DefaultAPISidebar("")}}

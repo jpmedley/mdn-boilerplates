@@ -2,11 +2,8 @@
 title: SVGStringList.appendItem()
 slug: Web/API/SVGStringList/appendItem
 tags:
-  - API
   - Method
   - Reference
-  - appendItem
-  - SVGStringList
 browser-compat: api.SVGStringList.appendItem
 ---
 {{DefaultAPISidebar("")}}

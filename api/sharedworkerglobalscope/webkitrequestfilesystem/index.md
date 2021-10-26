@@ -2,11 +2,8 @@
 title: SharedWorkerGlobalScope.webkitRequestFileSystem()
 slug: Web/API/SharedWorkerGlobalScope/webkitRequestFileSystem
 tags:
-  - API
   - Method
   - Reference
-  - webkitRequestFileSystem
-  - SharedWorkerGlobalScope
 browser-compat: api.SharedWorkerGlobalScope.webkitRequestFileSystem
 ---
 {{DefaultAPISidebar("")}}

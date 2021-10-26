@@ -2,11 +2,8 @@
 title: HTMLVideoElement.requestVideoFrameCallback()
 slug: Web/API/HTMLVideoElement/requestVideoFrameCallback
 tags:
-  - API
   - Method
   - Reference
-  - requestVideoFrameCallback
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.requestVideoFrameCallback
 ---
 {{DefaultAPISidebar("")}}

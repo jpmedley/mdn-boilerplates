@@ -2,11 +2,8 @@
 title: EntrySync.getMetadata()
 slug: Web/API/EntrySync/getMetadata
 tags:
-  - API
   - Method
   - Reference
-  - getMetadata
-  - EntrySync
 browser-compat: api.EntrySync.getMetadata
 ---
 {{DefaultAPISidebar("")}}

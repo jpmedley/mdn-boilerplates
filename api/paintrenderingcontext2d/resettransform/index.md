@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.resetTransform()
 slug: Web/API/PaintRenderingContext2D/resetTransform
 tags:
-  - API
   - Method
   - Reference
-  - resetTransform
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.resetTransform
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: AnimationEffectTimingReadOnly.endDelay
 slug: Web/API/AnimationEffectTimingReadOnly/endDelay
 tags:
-  - API
   - Property
   - Reference
-  - endDelay
-  - AnimationEffectTimingReadOnly
 browser-compat: api.AnimationEffectTimingReadOnly.endDelay
 ---
 {{DefaultAPISidebar("")}}

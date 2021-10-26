@@ -2,10 +2,8 @@
 title: CanvasFilter.CanvasFilter()
 slug: Web/API/CanvasFilter/CanvasFilter
 tags:
-  - API
   - Constructor
   - Reference
-  - CanvasFilter
 browser-compat: api.CanvasFilter.CanvasFilter
 ---
 {{DefaultAPISidebar("")}}

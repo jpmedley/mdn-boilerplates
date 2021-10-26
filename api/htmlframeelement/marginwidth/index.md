@@ -2,11 +2,8 @@
 title: HTMLFrameElement.marginWidth
 slug: Web/API/HTMLFrameElement/marginWidth
 tags:
-  - API
   - Property
   - Reference
-  - marginWidth
-  - HTMLFrameElement
 browser-compat: api.HTMLFrameElement.marginWidth
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGRadialGradientElement.cx
 slug: Web/API/SVGRadialGradientElement/cx
 tags:
-  - API
   - Property
   - Reference
-  - cx
-  - SVGRadialGradientElement
 browser-compat: api.SVGRadialGradientElement.cx
 ---
 {{DefaultAPISidebar("")}}

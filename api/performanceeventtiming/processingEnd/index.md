@@ -2,11 +2,8 @@
 title: PerformanceEventTiming.processingEnd
 slug: Web/API/PerformanceEventTiming/processingEnd
 tags:
-  - API
   - Property
   - Reference
-  - processingEnd
-  - PerformanceEventTiming
 browser-compat: api.PerformanceEventTiming.processingEnd
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: HTMLPortalElement
 slug: Web/API/HTMLPortalElement
 tags:
-  - API
   - Interface
   - Reference
-  - HTMLPortalElement
 browser-compat: api.HTMLPortalElement
 ---
 {{DefaultAPISidebar("")}}

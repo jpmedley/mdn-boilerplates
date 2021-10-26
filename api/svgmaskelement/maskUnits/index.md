@@ -2,11 +2,8 @@
 title: SVGMaskElement.maskUnits
 slug: Web/API/SVGMaskElement/maskUnits
 tags:
-  - API
   - Property
   - Reference
-  - maskUnits
-  - SVGMaskElement
 browser-compat: api.SVGMaskElement.maskUnits
 ---
 {{DefaultAPISidebar("")}}

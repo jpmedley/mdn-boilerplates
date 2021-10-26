@@ -2,11 +2,8 @@
 title: ScrollState.positionY
 slug: Web/API/ScrollState/positionY
 tags:
-  - API
   - Property
   - Reference
-  - positionY
-  - ScrollState
 browser-compat: api.ScrollState.positionY
 ---
 {{DefaultAPISidebar("")}}

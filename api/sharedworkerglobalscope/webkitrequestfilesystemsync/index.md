@@ -2,11 +2,8 @@
 title: SharedWorkerGlobalScope.webkitRequestFileSystemSync()
 slug: Web/API/SharedWorkerGlobalScope/webkitRequestFileSystemSync
 tags:
-  - API
   - Method
   - Reference
-  - webkitRequestFileSystemSync
-  - SharedWorkerGlobalScope
 browser-compat: api.SharedWorkerGlobalScope.webkitRequestFileSystemSync
 ---
 {{DefaultAPISidebar("")}}

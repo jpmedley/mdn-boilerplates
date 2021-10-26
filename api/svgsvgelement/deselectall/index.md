@@ -2,11 +2,8 @@
 title: SVGSVGElement.deselectAll()
 slug: Web/API/SVGSVGElement/deselectAll
 tags:
-  - API
   - Method
   - Reference
-  - deselectAll
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.deselectAll
 ---
 {{DefaultAPISidebar("")}}

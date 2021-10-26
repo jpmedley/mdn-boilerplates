@@ -2,11 +2,8 @@
 title: HTMLLinkElement.crossOrigin
 slug: Web/API/HTMLLinkElement/crossOrigin
 tags:
-  - API
   - Property
   - Reference
-  - crossOrigin
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.crossOrigin
 ---
 {{DefaultAPISidebar("")}}

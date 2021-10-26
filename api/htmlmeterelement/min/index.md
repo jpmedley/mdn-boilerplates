@@ -2,11 +2,8 @@
 title: HTMLMeterElement.min
 slug: Web/API/HTMLMeterElement/min
 tags:
-  - API
   - Property
   - Reference
-  - min
-  - HTMLMeterElement
 browser-compat: api.HTMLMeterElement.min
 ---
 {{DefaultAPISidebar("")}}

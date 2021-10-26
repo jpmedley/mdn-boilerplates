@@ -2,11 +2,8 @@
 title: HTMLInputElement.valueAsDate
 slug: Web/API/HTMLInputElement/valueAsDate
 tags:
-  - API
   - Property
   - Reference
-  - valueAsDate
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.valueAsDate
 ---
 {{DefaultAPISidebar("")}}

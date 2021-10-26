@@ -2,11 +2,8 @@
 title: DOMMatrix.rotateSelf()
 slug: Web/API/DOMMatrix/rotateSelf
 tags:
-  - API
   - Method
   - Reference
-  - rotateSelf
-  - DOMMatrix
 browser-compat: api.DOMMatrix.rotateSelf
 ---
 {{DefaultAPISidebar("")}}

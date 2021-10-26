@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.fetch()
 slug: Web/API/WorkerGlobalScope/fetch
 tags:
-  - API
   - Method
   - Reference
-  - fetch
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.fetch
 ---
 {{DefaultAPISidebar("")}}

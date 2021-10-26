@@ -2,11 +2,8 @@
 title: SVGFETurbulenceElement.numOctaves
 slug: Web/API/SVGFETurbulenceElement/numOctaves
 tags:
-  - API
   - Property
   - Reference
-  - numOctaves
-  - SVGFETurbulenceElement
 browser-compat: api.SVGFETurbulenceElement.numOctaves
 ---
 {{DefaultAPISidebar("")}}

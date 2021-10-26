@@ -2,11 +2,8 @@
 title: HTMLBodyElement.onblur
 slug: Web/API/HTMLBodyElement/onblur
 tags:
-  - API
   - Property
   - Reference
-  - onblur
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.onblur
 ---
 {{DefaultAPISidebar("")}}

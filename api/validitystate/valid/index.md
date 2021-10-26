@@ -2,11 +2,8 @@
 title: ValidityState.valid
 slug: Web/API/ValidityState/valid
 tags:
-  - API
   - Property
   - Reference
-  - valid
-  - ValidityState
 browser-compat: api.ValidityState.valid
 ---
 {{DefaultAPISidebar("")}}

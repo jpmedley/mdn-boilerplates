@@ -2,11 +2,8 @@
 title: HTMLElement.inputMode
 slug: Web/API/HTMLElement/inputMode
 tags:
-  - API
   - Property
   - Reference
-  - inputMode
-  - HTMLElement
 browser-compat: api.HTMLElement.inputMode
 ---
 {{DefaultAPISidebar("")}}

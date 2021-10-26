@@ -2,11 +2,8 @@
 title: CSSNumericArray.CSSNumericValue()
 slug: Web/API/CSSNumericArray/CSSNumericValue
 tags:
-  - API
   - Method
   - Reference
-  - CSSNumericValue
-  - CSSNumericArray
 browser-compat: api.CSSNumericArray.CSSNumericValue
 ---
 {{DefaultAPISidebar("")}}

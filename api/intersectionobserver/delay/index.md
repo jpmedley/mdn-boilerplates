@@ -2,11 +2,8 @@
 title: IntersectionObserver.delay
 slug: Web/API/IntersectionObserver/delay
 tags:
-  - API
   - Property
   - Reference
-  - delay
-  - IntersectionObserver
 browser-compat: api.IntersectionObserver.delay
 ---
 {{DefaultAPISidebar("")}}

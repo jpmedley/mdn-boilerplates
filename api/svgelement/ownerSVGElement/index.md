@@ -2,11 +2,8 @@
 title: SVGElement.ownerSVGElement
 slug: Web/API/SVGElement/ownerSVGElement
 tags:
-  - API
   - Property
   - Reference
-  - ownerSVGElement
-  - SVGElement
 browser-compat: api.SVGElement.ownerSVGElement
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: WebTransportBidirectionalStream.readable
 slug: Web/API/WebTransportBidirectionalStream/readable
 tags:
-  - API
   - Property
   - Reference
-  - readable
-  - WebTransportBidirectionalStream
 browser-compat: api.WebTransportBidirectionalStream.readable
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

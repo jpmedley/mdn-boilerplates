@@ -2,11 +2,8 @@
 title: NamedNodeMap.getNamedItemNS()
 slug: Web/API/NamedNodeMap/getNamedItemNS
 tags:
-  - API
   - Method
   - Reference
-  - getNamedItemNS
-  - NamedNodeMap
 browser-compat: api.NamedNodeMap.getNamedItemNS
 ---
 {{DefaultAPISidebar("")}}

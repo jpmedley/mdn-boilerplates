@@ -2,11 +2,8 @@
 title: Highlight.has()
 slug: Web/API/Highlight/has
 tags:
-  - API
   - Method
   - Reference
-  - has
-  - Highlight
 browser-compat: api.Highlight.has
 ---
 {{DefaultAPISidebar("")}}

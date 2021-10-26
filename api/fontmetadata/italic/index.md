@@ -2,11 +2,8 @@
 title: FontMetadata.italic
 slug: Web/API/FontMetadata/italic
 tags:
-  - API
   - Property
   - Reference
-  - italic
-  - FontMetadata
 browser-compat: api.FontMetadata.italic
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

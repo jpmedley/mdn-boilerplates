@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.blockedURL
 slug: Web/API/CSPViolationReportBody/blockedURL
 tags:
-  - API
   - Property
   - Reference
-  - blockedURL
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.blockedURL
 ---
 {{DefaultAPISidebar("")}}

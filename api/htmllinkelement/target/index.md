@@ -2,11 +2,8 @@
 title: HTMLLinkElement.target
 slug: Web/API/HTMLLinkElement/target
 tags:
-  - API
   - Property
   - Reference
-  - target
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.target
 ---
 {{DefaultAPISidebar("")}}

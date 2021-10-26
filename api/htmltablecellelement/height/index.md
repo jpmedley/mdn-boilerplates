@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.height
 slug: Web/API/HTMLTableCellElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.height
 ---
 {{DefaultAPISidebar("")}}

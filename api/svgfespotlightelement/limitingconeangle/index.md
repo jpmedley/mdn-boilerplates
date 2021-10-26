@@ -2,11 +2,8 @@
 title: SVGFESpotLightElement.limitingConeAngle
 slug: Web/API/SVGFESpotLightElement/limitingConeAngle
 tags:
-  - API
   - Property
   - Reference
-  - limitingConeAngle
-  - SVGFESpotLightElement
 browser-compat: api.SVGFESpotLightElement.limitingConeAngle
 ---
 {{DefaultAPISidebar("")}}

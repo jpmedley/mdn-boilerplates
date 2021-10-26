@@ -2,11 +2,8 @@
 title: SVGTextContentElement.getSubStringLength()
 slug: Web/API/SVGTextContentElement/getSubStringLength
 tags:
-  - API
   - Method
   - Reference
-  - getSubStringLength
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.getSubStringLength
 ---
 {{DefaultAPISidebar("")}}

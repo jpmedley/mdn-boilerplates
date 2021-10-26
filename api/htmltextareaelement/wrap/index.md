@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.wrap
 slug: Web/API/HTMLTextAreaElement/wrap
 tags:
-  - API
   - Property
   - Reference
-  - wrap
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.wrap
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: DeprecationReportBody.columnNumber
 slug: Web/API/DeprecationReportBody/columnNumber
 tags:
-  - API
   - Property
   - Reference
-  - columnNumber
-  - DeprecationReportBody
 browser-compat: api.DeprecationReportBody.columnNumber
 ---
 {{DefaultAPISidebar("")}}

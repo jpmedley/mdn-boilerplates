@@ -2,11 +2,8 @@
 title: HTMLEmbedElement.align
 slug: Web/API/HTMLEmbedElement/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - HTMLEmbedElement
 browser-compat: api.HTMLEmbedElement.align
 ---
 {{DefaultAPISidebar("")}}

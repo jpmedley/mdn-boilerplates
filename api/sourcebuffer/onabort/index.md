@@ -2,11 +2,8 @@
 title: SourceBuffer.onabort
 slug: Web/API/SourceBuffer/onabort
 tags:
-  - API
   - Property
   - Reference
-  - onabort
-  - SourceBuffer
 browser-compat: api.SourceBuffer.onabort
 ---
 {{DefaultAPISidebar("")}}

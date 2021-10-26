@@ -2,11 +2,8 @@
 title: FileList.length
 slug: Web/API/FileList/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - FileList
 browser-compat: api.FileList.length
 ---
 {{DefaultAPISidebar("")}}

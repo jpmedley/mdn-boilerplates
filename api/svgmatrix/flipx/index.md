@@ -2,11 +2,8 @@
 title: SVGMatrix.flipX()
 slug: Web/API/SVGMatrix/flipX
 tags:
-  - API
   - Method
   - Reference
-  - flipX
-  - SVGMatrix
 browser-compat: api.SVGMatrix.flipX
 ---
 {{DefaultAPISidebar("")}}

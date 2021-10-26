@@ -2,11 +2,8 @@
 title: HTMLLinkElement.sheet
 slug: Web/API/HTMLLinkElement/sheet
 tags:
-  - API
   - Property
   - Reference
-  - sheet
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.sheet
 ---
 {{DefaultAPISidebar("")}}

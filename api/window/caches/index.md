@@ -2,11 +2,8 @@
 title: Window.caches
 slug: Web/API/Window/caches
 tags:
-  - API
   - Property
   - Reference
-  - caches
-  - Window
 browser-compat: api.Window.caches
 ---
 {{DefaultAPISidebar("")}}

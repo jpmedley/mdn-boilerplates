@@ -2,11 +2,8 @@
 title: RTCPeerConnectionIceErrorEvent.hostCandidate
 slug: Web/API/RTCPeerConnectionIceErrorEvent/hostCandidate
 tags:
-  - API
   - Property
   - Reference
-  - hostCandidate
-  - RTCPeerConnectionIceErrorEvent
 browser-compat: api.RTCPeerConnectionIceErrorEvent.hostCandidate
 ---
 {{DefaultAPISidebar("")}}

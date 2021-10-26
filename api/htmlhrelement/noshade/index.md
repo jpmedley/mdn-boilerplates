@@ -2,11 +2,8 @@
 title: HTMLHRElement.noShade
 slug: Web/API/HTMLHRElement/noShade
 tags:
-  - API
   - Property
   - Reference
-  - noShade
-  - HTMLHRElement
 browser-compat: api.HTMLHRElement.noShade
 ---
 {{DefaultAPISidebar("")}}

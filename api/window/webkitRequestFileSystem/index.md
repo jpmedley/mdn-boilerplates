@@ -2,11 +2,8 @@
 title: Window.webkitRequestFileSystem()
 slug: Web/API/Window/webkitRequestFileSystem
 tags:
-  - API
   - Method
   - Reference
-  - webkitRequestFileSystem
-  - Window
 browser-compat: api.Window.webkitRequestFileSystem
 ---
 {{DefaultAPISidebar("")}}

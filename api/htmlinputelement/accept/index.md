@@ -2,11 +2,8 @@
 title: HTMLInputElement.accept
 slug: Web/API/HTMLInputElement/accept
 tags:
-  - API
   - Property
   - Reference
-  - accept
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.accept
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: AuthenticatorAttestationResponse.getPublicKey()
 slug: Web/API/AuthenticatorAttestationResponse/getPublicKey
 tags:
-  - API
   - Method
   - Reference
-  - getPublicKey
-  - AuthenticatorAttestationResponse
 browser-compat: api.AuthenticatorAttestationResponse.getPublicKey
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

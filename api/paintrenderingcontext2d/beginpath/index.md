@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.beginPath()
 slug: Web/API/PaintRenderingContext2D/beginPath
 tags:
-  - API
   - Method
   - Reference
-  - beginPath
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.beginPath
 ---
 {{DefaultAPISidebar("")}}

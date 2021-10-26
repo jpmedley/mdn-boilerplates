@@ -2,11 +2,8 @@
 title: HTMLElement.virtualKeyboardPolicy
 slug: Web/API/HTMLElement/virtualKeyboardPolicy
 tags:
-  - API
   - Property
   - Reference
-  - virtualKeyboardPolicy
-  - HTMLElement
 browser-compat: api.HTMLElement.virtualKeyboardPolicy
 ---
 {{DefaultAPISidebar("")}}

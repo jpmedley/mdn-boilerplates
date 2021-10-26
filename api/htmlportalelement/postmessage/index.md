@@ -2,11 +2,8 @@
 title: HTMLPortalElement.postMessage()
 slug: Web/API/HTMLPortalElement/postMessage
 tags:
-  - API
   - Method
   - Reference
-  - postMessage
-  - HTMLPortalElement
 browser-compat: api.HTMLPortalElement.postMessage
 ---
 {{DefaultAPISidebar("")}}

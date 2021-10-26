@@ -2,11 +2,8 @@
 title: ServiceWorkerGlobalScope.onbackgroundfetchabort
 slug: Web/API/ServiceWorkerGlobalScope/onbackgroundfetchabort
 tags:
-  - API
   - Property
   - Reference
-  - onbackgroundfetchabort
-  - ServiceWorkerGlobalScope
 browser-compat: api.ServiceWorkerGlobalScope.onbackgroundfetchabort
 ---
 {{DefaultAPISidebar("")}}

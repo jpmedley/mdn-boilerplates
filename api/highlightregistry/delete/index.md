@@ -2,11 +2,8 @@
 title: HighlightRegistry.delete()
 slug: Web/API/HighlightRegistry/delete
 tags:
-  - API
   - Method
   - Reference
-  - delete
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry.delete
 ---
 {{DefaultAPISidebar("")}}

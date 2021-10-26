@@ -2,11 +2,8 @@
 title: DOMQuad.fromRect()
 slug: Web/API/DOMQuad/fromRect
 tags:
-  - API
   - Method
   - Reference
-  - fromRect
-  - DOMQuad
 browser-compat: api.DOMQuad.fromRect
 ---
 {{DefaultAPISidebar("")}}

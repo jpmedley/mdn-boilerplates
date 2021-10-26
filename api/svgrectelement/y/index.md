@@ -2,11 +2,8 @@
 title: SVGRectElement.y
 slug: Web/API/SVGRectElement/y
 tags:
-  - API
   - Property
   - Reference
-  - y
-  - SVGRectElement
 browser-compat: api.SVGRectElement.y
 ---
 {{DefaultAPISidebar("")}}

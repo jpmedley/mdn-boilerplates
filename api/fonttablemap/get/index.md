@@ -2,11 +2,8 @@
 title: FontTableMap.get()
 slug: Web/API/FontTableMap/get
 tags:
-  - API
   - Method
   - Reference
-  - get
-  - FontTableMap
 browser-compat: api.FontTableMap.get
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

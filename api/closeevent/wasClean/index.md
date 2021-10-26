@@ -2,11 +2,8 @@
 title: CloseEvent.wasClean
 slug: Web/API/CloseEvent/wasClean
 tags:
-  - API
   - Property
   - Reference
-  - wasClean
-  - CloseEvent
 browser-compat: api.CloseEvent.wasClean
 ---
 {{DefaultAPISidebar("")}}

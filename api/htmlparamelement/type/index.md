@@ -2,11 +2,8 @@
 title: HTMLParamElement.type
 slug: Web/API/HTMLParamElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLParamElement
 browser-compat: api.HTMLParamElement.type
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: ImageTrackList.ImageTrack()
 slug: Web/API/ImageTrackList/ImageTrack
 tags:
-  - API
   - Method
   - Reference
-  - ImageTrack
-  - ImageTrackList
 browser-compat: api.ImageTrackList.ImageTrack
 ---
 {{DefaultAPISidebar("")}}

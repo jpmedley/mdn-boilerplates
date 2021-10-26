@@ -2,11 +2,8 @@
 title: HTMLVideoElement.cancelVideoFrameCallback()
 slug: Web/API/HTMLVideoElement/cancelVideoFrameCallback
 tags:
-  - API
   - Method
   - Reference
-  - cancelVideoFrameCallback
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.cancelVideoFrameCallback
 ---
 {{DefaultAPISidebar("")}}

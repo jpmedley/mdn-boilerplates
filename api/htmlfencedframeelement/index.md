@@ -2,10 +2,8 @@
 title: HTMLFencedFrameElement
 slug: Web/API/HTMLFencedFrameElement
 tags:
-  - API
   - Interface
   - Reference
-  - HTMLFencedFrameElement
 browser-compat: api.HTMLFencedFrameElement
 ---
 {{DefaultAPISidebar("")}}

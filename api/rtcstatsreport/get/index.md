@@ -2,11 +2,8 @@
 title: RTCStatsReport.get()
 slug: Web/API/RTCStatsReport/get
 tags:
-  - API
   - Method
   - Reference
-  - get
-  - RTCStatsReport
 browser-compat: api.RTCStatsReport.get
 ---
 {{DefaultAPISidebar("")}}

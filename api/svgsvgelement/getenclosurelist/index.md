@@ -2,11 +2,8 @@
 title: SVGSVGElement.getEnclosureList()
 slug: Web/API/SVGSVGElement/getEnclosureList
 tags:
-  - API
   - Method
   - Reference
-  - getEnclosureList
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.getEnclosureList
 ---
 {{DefaultAPISidebar("")}}

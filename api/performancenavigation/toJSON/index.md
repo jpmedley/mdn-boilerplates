@@ -2,11 +2,8 @@
 title: PerformanceNavigation.toJSON()
 slug: Web/API/PerformanceNavigation/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - PerformanceNavigation
 browser-compat: api.PerformanceNavigation.toJSON
 ---
 {{DefaultAPISidebar("")}}

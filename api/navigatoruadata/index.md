@@ -2,10 +2,8 @@
 title: NavigatorUAData
 slug: Web/API/NavigatorUAData
 tags:
-  - API
   - Interface
   - Reference
-  - NavigatorUAData
 browser-compat: api.NavigatorUAData
 ---
 {{DefaultAPISidebar("")}}

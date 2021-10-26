@@ -2,11 +2,8 @@
 title: PerformanceEventTiming.interactionId
 slug: Web/API/PerformanceEventTiming/interactionId
 tags:
-  - API
   - Property
   - Reference
-  - interactionId
-  - PerformanceEventTiming
 browser-compat: api.PerformanceEventTiming.interactionId
 ---
 {{DefaultAPISidebar("")}}

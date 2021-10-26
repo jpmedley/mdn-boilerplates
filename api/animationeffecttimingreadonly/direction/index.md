@@ -2,11 +2,8 @@
 title: AnimationEffectTimingReadOnly.direction
 slug: Web/API/AnimationEffectTimingReadOnly/direction
 tags:
-  - API
   - Property
   - Reference
-  - direction
-  - AnimationEffectTimingReadOnly
 browser-compat: api.AnimationEffectTimingReadOnly.direction
 ---
 {{DefaultAPISidebar("")}}

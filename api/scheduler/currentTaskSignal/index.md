@@ -2,11 +2,8 @@
 title: Scheduler.currentTaskSignal
 slug: Web/API/Scheduler/currentTaskSignal
 tags:
-  - API
   - Property
   - Reference
-  - currentTaskSignal
-  - Scheduler
 browser-compat: api.Scheduler.currentTaskSignal
 ---
 {{DefaultAPISidebar("")}}

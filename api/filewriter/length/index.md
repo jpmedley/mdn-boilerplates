@@ -2,11 +2,8 @@
 title: FileWriter.length
 slug: Web/API/FileWriter/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - FileWriter
 browser-compat: api.FileWriter.length
 ---
 {{DefaultAPISidebar("")}}

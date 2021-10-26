@@ -2,11 +2,8 @@
 title: SVGRadialGradientElement.r
 slug: Web/API/SVGRadialGradientElement/r
 tags:
-  - API
   - Property
   - Reference
-  - r
-  - SVGRadialGradientElement
 browser-compat: api.SVGRadialGradientElement.r
 ---
 {{DefaultAPISidebar("")}}

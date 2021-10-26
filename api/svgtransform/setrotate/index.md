@@ -2,11 +2,8 @@
 title: SVGTransform.setRotate()
 slug: Web/API/SVGTransform/setRotate
 tags:
-  - API
   - Method
   - Reference
-  - setRotate
-  - SVGTransform
 browser-compat: api.SVGTransform.setRotate
 ---
 {{DefaultAPISidebar("")}}

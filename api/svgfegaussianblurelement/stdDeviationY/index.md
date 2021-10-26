@@ -2,11 +2,8 @@
 title: SVGFEGaussianBlurElement.stdDeviationY
 slug: Web/API/SVGFEGaussianBlurElement/stdDeviationY
 tags:
-  - API
   - Property
   - Reference
-  - stdDeviationY
-  - SVGFEGaussianBlurElement
 browser-compat: api.SVGFEGaussianBlurElement.stdDeviationY
 ---
 {{DefaultAPISidebar("")}}

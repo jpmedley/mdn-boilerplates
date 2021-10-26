@@ -2,10 +2,8 @@
 title: PageTransitionEvent.PageTransitionEvent()
 slug: Web/API/PageTransitionEvent/PageTransitionEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - PageTransitionEvent
 browser-compat: api.PageTransitionEvent.PageTransitionEvent
 ---
 {{DefaultAPISidebar("")}}

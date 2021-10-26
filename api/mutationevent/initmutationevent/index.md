@@ -2,11 +2,8 @@
 title: MutationEvent.initMutationEvent()
 slug: Web/API/MutationEvent/initMutationEvent
 tags:
-  - API
   - Method
   - Reference
-  - initMutationEvent
-  - MutationEvent
 browser-compat: api.MutationEvent.initMutationEvent
 ---
 {{DefaultAPISidebar("")}}

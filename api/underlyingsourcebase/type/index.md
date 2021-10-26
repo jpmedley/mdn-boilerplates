@@ -2,11 +2,8 @@
 title: UnderlyingSourceBase.type
 slug: Web/API/UnderlyingSourceBase/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - UnderlyingSourceBase
 browser-compat: api.UnderlyingSourceBase.type
 ---
 {{DefaultAPISidebar("")}}

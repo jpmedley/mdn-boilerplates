@@ -2,11 +2,8 @@
 title: FontMetadata.stretch
 slug: Web/API/FontMetadata/stretch
 tags:
-  - API
   - Property
   - Reference
-  - stretch
-  - FontMetadata
 browser-compat: api.FontMetadata.stretch
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

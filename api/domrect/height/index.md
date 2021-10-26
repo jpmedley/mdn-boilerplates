@@ -2,11 +2,8 @@
 title: DOMRect.height
 slug: Web/API/DOMRect/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - DOMRect
 browser-compat: api.DOMRect.height
 ---
 {{DefaultAPISidebar("")}}

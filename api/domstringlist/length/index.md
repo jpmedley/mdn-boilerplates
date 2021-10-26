@@ -2,11 +2,8 @@
 title: DOMStringList.length
 slug: Web/API/DOMStringList/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - DOMStringList
 browser-compat: api.DOMStringList.length
 ---
 {{DefaultAPISidebar("")}}

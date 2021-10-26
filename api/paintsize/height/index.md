@@ -2,11 +2,8 @@
 title: PaintSize.height
 slug: Web/API/PaintSize/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - PaintSize
 browser-compat: api.PaintSize.height
 ---
 {{DefaultAPISidebar("")}}

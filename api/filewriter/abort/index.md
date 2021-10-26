@@ -2,11 +2,8 @@
 title: FileWriter.abort()
 slug: Web/API/FileWriter/abort
 tags:
-  - API
   - Method
   - Reference
-  - abort
-  - FileWriter
 browser-compat: api.FileWriter.abort
 ---
 {{DefaultAPISidebar("")}}

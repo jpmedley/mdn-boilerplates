@@ -2,10 +2,8 @@
 title: FileWriter
 slug: Web/API/FileWriter
 tags:
-  - API
   - Interface
   - Reference
-  - FileWriter
 browser-compat: api.FileWriter
 ---
 {{DefaultAPISidebar("")}}

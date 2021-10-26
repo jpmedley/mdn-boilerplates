@@ -2,11 +2,8 @@
 title: WebTransportError.source
 slug: Web/API/WebTransportError/source
 tags:
-  - API
   - Property
   - Reference
-  - source
-  - WebTransportError
 browser-compat: api.WebTransportError.source
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

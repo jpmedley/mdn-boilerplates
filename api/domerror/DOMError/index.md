@@ -2,10 +2,8 @@
 title: DOMError.DOMError()
 slug: Web/API/DOMError/DOMError
 tags:
-  - API
   - Constructor
   - Reference
-  - DOMError
 browser-compat: api.DOMError.DOMError
 ---
 {{DefaultAPISidebar("")}}

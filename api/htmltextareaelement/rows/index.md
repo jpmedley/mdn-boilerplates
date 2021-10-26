@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.rows
 slug: Web/API/HTMLTextAreaElement/rows
 tags:
-  - API
   - Property
   - Reference
-  - rows
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.rows
 ---
 {{DefaultAPISidebar("")}}

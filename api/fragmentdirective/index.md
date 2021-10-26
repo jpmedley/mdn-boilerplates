@@ -2,10 +2,8 @@
 title: FragmentDirective
 slug: Web/API/FragmentDirective
 tags:
-  - API
   - Interface
   - Reference
-  - FragmentDirective
 browser-compat: api.FragmentDirective
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.rotateFromVector()
 slug: Web/API/DOMMatrixReadOnly/rotateFromVector
 tags:
-  - API
   - Method
   - Reference
-  - rotateFromVector
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.rotateFromVector
 ---
 {{DefaultAPISidebar("")}}

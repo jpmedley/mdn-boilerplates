@@ -2,10 +2,8 @@
 title: PresentationConnectionCloseEvent.PresentationConnectionCloseEvent()
 slug: Web/API/PresentationConnectionCloseEvent/PresentationConnectionCloseEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - PresentationConnectionCloseEvent
 browser-compat: api.PresentationConnectionCloseEvent.PresentationConnectionCloseEvent
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

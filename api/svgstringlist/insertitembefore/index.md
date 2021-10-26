@@ -2,11 +2,8 @@
 title: SVGStringList.insertItemBefore()
 slug: Web/API/SVGStringList/insertItemBefore
 tags:
-  - API
   - Method
   - Reference
-  - insertItemBefore
-  - SVGStringList
 browser-compat: api.SVGStringList.insertItemBefore
 ---
 {{DefaultAPISidebar("")}}

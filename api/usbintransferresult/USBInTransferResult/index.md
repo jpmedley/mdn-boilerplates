@@ -2,10 +2,8 @@
 title: USBInTransferResult.USBInTransferResult()
 slug: Web/API/USBInTransferResult/USBInTransferResult
 tags:
-  - API
   - Constructor
   - Reference
-  - USBInTransferResult
 browser-compat: api.USBInTransferResult.USBInTransferResult
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

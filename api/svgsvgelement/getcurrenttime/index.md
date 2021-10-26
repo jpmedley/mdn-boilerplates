@@ -2,11 +2,8 @@
 title: SVGSVGElement.getCurrentTime()
 slug: Web/API/SVGSVGElement/getCurrentTime
 tags:
-  - API
   - Method
   - Reference
-  - getCurrentTime
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.getCurrentTime
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLMenuElement.compact
 slug: Web/API/HTMLMenuElement/compact
 tags:
-  - API
   - Property
   - Reference
-  - compact
-  - HTMLMenuElement
 browser-compat: api.HTMLMenuElement.compact
 ---
 {{DefaultAPISidebar("")}}

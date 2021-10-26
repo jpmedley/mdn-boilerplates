@@ -2,11 +2,8 @@
 title: Window.indexedDB
 slug: Web/API/Window/indexedDB
 tags:
-  - API
   - Property
   - Reference
-  - indexedDB
-  - Window
 browser-compat: api.Window.indexedDB
 ---
 {{DefaultAPISidebar("")}}

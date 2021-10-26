@@ -2,11 +2,8 @@
 title: HTMLMapElement.areas
 slug: Web/API/HTMLMapElement/areas
 tags:
-  - API
   - Property
   - Reference
-  - areas
-  - HTMLMapElement
 browser-compat: api.HTMLMapElement.areas
 ---
 {{DefaultAPISidebar("")}}

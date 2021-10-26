@@ -2,11 +2,8 @@
 title: Element.getInnerHTML()
 slug: Web/API/Element/getInnerHTML
 tags:
-  - API
   - Method
   - Reference
-  - getInnerHTML
-  - Element
 browser-compat: api.Element.getInnerHTML
 ---
 {{DefaultAPISidebar("")}}

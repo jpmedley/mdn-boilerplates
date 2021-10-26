@@ -2,11 +2,8 @@
 title: FontMetadata.family
 slug: Web/API/FontMetadata/family
 tags:
-  - API
   - Property
   - Reference
-  - family
-  - FontMetadata
 browser-compat: api.FontMetadata.family
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

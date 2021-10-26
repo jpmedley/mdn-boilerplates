@@ -2,11 +2,8 @@
 title: Document.webkitFullscreenElement
 slug: Web/API/Document/webkitFullscreenElement
 tags:
-  - API
   - Property
   - Reference
-  - webkitFullscreenElement
-  - Document
 browser-compat: api.Document.webkitFullscreenElement
 ---
 {{DefaultAPISidebar("")}}

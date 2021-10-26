@@ -2,11 +2,8 @@
 title: ErrorEvent.colno
 slug: Web/API/ErrorEvent/colno
 tags:
-  - API
   - Property
   - Reference
-  - colno
-  - ErrorEvent
 browser-compat: api.ErrorEvent.colno
 ---
 {{DefaultAPISidebar("")}}

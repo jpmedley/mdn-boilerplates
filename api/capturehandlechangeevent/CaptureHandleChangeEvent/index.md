@@ -2,10 +2,8 @@
 title: CaptureHandleChangeEvent.CaptureHandleChangeEvent()
 slug: Web/API/CaptureHandleChangeEvent/CaptureHandleChangeEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - CaptureHandleChangeEvent
 browser-compat: api.CaptureHandleChangeEvent.CaptureHandleChangeEvent
 ---
 {{DefaultAPISidebar("")}}

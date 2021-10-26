@@ -2,11 +2,8 @@
 title: SVGStyleElement.media
 slug: Web/API/SVGStyleElement/media
 tags:
-  - API
   - Property
   - Reference
-  - media
-  - SVGStyleElement
 browser-compat: api.SVGStyleElement.media
 ---
 {{DefaultAPISidebar("")}}

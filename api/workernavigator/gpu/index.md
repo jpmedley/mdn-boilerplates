@@ -2,11 +2,8 @@
 title: WorkerNavigator.gpu
 slug: Web/API/WorkerNavigator/gpu
 tags:
-  - API
   - Property
   - Reference
-  - gpu
-  - WorkerNavigator
 browser-compat: api.WorkerNavigator.gpu
 ---
 {{DefaultAPISidebar("")}}

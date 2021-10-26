@@ -2,11 +2,8 @@
 title: HTMLTrackElement.default
 slug: Web/API/HTMLTrackElement/default
 tags:
-  - API
   - Property
   - Reference
-  - default
-  - HTMLTrackElement
 browser-compat: api.HTMLTrackElement.default
 ---
 {{DefaultAPISidebar("")}}

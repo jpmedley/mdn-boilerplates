@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.clearRect()
 slug: Web/API/PaintRenderingContext2D/clearRect
 tags:
-  - API
   - Method
   - Reference
-  - clearRect
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.clearRect
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: RTCSctpTransport.maxMessageSize
 slug: Web/API/RTCSctpTransport/maxMessageSize
 tags:
-  - API
   - Property
   - Reference
-  - maxMessageSize
-  - RTCSctpTransport
 browser-compat: api.RTCSctpTransport.maxMessageSize
 ---
 {{DefaultAPISidebar("")}}

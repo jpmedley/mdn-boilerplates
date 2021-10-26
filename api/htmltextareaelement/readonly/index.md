@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.readOnly
 slug: Web/API/HTMLTextAreaElement/readOnly
 tags:
-  - API
   - Property
   - Reference
-  - readOnly
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.readOnly
 ---
 {{DefaultAPISidebar("")}}

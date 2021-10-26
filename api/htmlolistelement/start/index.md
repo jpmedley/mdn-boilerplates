@@ -2,11 +2,8 @@
 title: HTMLOListElement.start
 slug: Web/API/HTMLOListElement/start
 tags:
-  - API
   - Property
   - Reference
-  - start
-  - HTMLOListElement
 browser-compat: api.HTMLOListElement.start
 ---
 {{DefaultAPISidebar("")}}

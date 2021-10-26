@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.fillRect()
 slug: Web/API/OffscreenCanvasRenderingContext2D/fillRect
 tags:
-  - API
   - Method
   - Reference
-  - fillRect
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.fillRect
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: VirtualKeyboard
 slug: Web/API/VirtualKeyboard
 tags:
-  - API
   - Interface
   - Reference
-  - VirtualKeyboard
 browser-compat: api.VirtualKeyboard
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

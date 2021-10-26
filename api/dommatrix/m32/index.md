@@ -2,11 +2,8 @@
 title: DOMMatrix.m32
 slug: Web/API/DOMMatrix/m32
 tags:
-  - API
   - Property
   - Reference
-  - m32
-  - DOMMatrix
 browser-compat: api.DOMMatrix.m32
 ---
 {{DefaultAPISidebar("")}}

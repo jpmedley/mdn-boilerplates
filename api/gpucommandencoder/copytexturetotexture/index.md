@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.copyTextureToTexture()
 slug: Web/API/GPUCommandEncoder/copyTextureToTexture
 tags:
-  - API
   - Method
   - Reference
-  - copyTextureToTexture
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.copyTextureToTexture
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLInputElement.validationMessage
 slug: Web/API/HTMLInputElement/validationMessage
 tags:
-  - API
   - Property
   - Reference
-  - validationMessage
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.validationMessage
 ---
 {{DefaultAPISidebar("")}}

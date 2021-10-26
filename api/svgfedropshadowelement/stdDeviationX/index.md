@@ -2,11 +2,8 @@
 title: SVGFEDropShadowElement.stdDeviationX
 slug: Web/API/SVGFEDropShadowElement/stdDeviationX
 tags:
-  - API
   - Property
   - Reference
-  - stdDeviationX
-  - SVGFEDropShadowElement
 browser-compat: api.SVGFEDropShadowElement.stdDeviationX
 ---
 {{DefaultAPISidebar("")}}

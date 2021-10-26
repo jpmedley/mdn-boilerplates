@@ -2,11 +2,8 @@
 title: PermissionsPolicyViolationReportBody.toJSON()
 slug: Web/API/PermissionsPolicyViolationReportBody/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - PermissionsPolicyViolationReportBody
 browser-compat: api.PermissionsPolicyViolationReportBody.toJSON
 ---
 {{DefaultAPISidebar("")}}

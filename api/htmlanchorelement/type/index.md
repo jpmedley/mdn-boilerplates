@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.type
 slug: Web/API/HTMLAnchorElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.type
 ---
 {{DefaultAPISidebar("")}}

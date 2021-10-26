@@ -2,11 +2,8 @@
 title: GPURenderPassEncoder.setStencilReference()
 slug: Web/API/GPURenderPassEncoder/setStencilReference
 tags:
-  - API
   - Method
   - Reference
-  - setStencilReference
-  - GPURenderPassEncoder
 browser-compat: api.GPURenderPassEncoder.setStencilReference
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: AudioParamMap.keys()
 slug: Web/API/AudioParamMap/keys
 tags:
-  - API
   - Method
   - Reference
-  - keys
-  - AudioParamMap
 browser-compat: api.AudioParamMap.keys
 ---
 {{DefaultAPISidebar("")}}

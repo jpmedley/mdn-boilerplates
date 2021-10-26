@@ -2,11 +2,8 @@
 title: SQLError.code
 slug: Web/API/SQLError/code
 tags:
-  - API
   - Property
   - Reference
-  - code
-  - SQLError
 browser-compat: api.SQLError.code
 ---
 {{DefaultAPISidebar("")}}

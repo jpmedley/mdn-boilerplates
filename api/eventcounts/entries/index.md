@@ -2,11 +2,8 @@
 title: EventCounts.entries()
 slug: Web/API/EventCounts/entries
 tags:
-  - API
   - Method
   - Reference
-  - entries
-  - EventCounts
 browser-compat: api.EventCounts.entries
 ---
 {{DefaultAPISidebar("")}}

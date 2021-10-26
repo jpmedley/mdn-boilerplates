@@ -2,11 +2,8 @@
 title: HTMLOutputElement.form
 slug: Web/API/HTMLOutputElement/form
 tags:
-  - API
   - Property
   - Reference
-  - form
-  - HTMLOutputElement
 browser-compat: api.HTMLOutputElement.form
 ---
 {{DefaultAPISidebar("")}}

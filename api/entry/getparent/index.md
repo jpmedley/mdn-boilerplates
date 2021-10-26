@@ -2,11 +2,8 @@
 title: Entry.getParent()
 slug: Web/API/Entry/getParent
 tags:
-  - API
   - Method
   - Reference
-  - getParent
-  - Entry
 browser-compat: api.Entry.getParent
 ---
 {{DefaultAPISidebar("")}}

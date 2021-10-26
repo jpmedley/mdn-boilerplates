@@ -2,11 +2,8 @@
 title: WheelEvent.wheelDeltaX
 slug: Web/API/WheelEvent/wheelDeltaX
 tags:
-  - API
   - Property
   - Reference
-  - wheelDeltaX
-  - WheelEvent
 browser-compat: api.WheelEvent.wheelDeltaX
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLVideoElement.webkitExitFullscreen()
 slug: Web/API/HTMLVideoElement/webkitExitFullscreen
 tags:
-  - API
   - Method
   - Reference
-  - webkitExitFullscreen
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.webkitExitFullscreen
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGEllipseElement.cy
 slug: Web/API/SVGEllipseElement/cy
 tags:
-  - API
   - Property
   - Reference
-  - cy
-  - SVGEllipseElement
 browser-compat: api.SVGEllipseElement.cy
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLAreaElement.ping
 slug: Web/API/HTMLAreaElement/ping
 tags:
-  - API
   - Property
   - Reference
-  - ping
-  - HTMLAreaElement
 browser-compat: api.HTMLAreaElement.ping
 ---
 {{DefaultAPISidebar("")}}

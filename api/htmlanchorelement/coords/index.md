@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.coords
 slug: Web/API/HTMLAnchorElement/coords
 tags:
-  - API
   - Property
   - Reference
-  - coords
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.coords
 ---
 {{DefaultAPISidebar("")}}

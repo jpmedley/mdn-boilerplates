@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.trustToken
 slug: Web/API/HTMLIFrameElement/trustToken
 tags:
-  - API
   - Property
   - Reference
-  - trustToken
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.trustToken
 ---
 {{DefaultAPISidebar("")}}

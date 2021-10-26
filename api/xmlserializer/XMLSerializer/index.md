@@ -2,10 +2,8 @@
 title: XMLSerializer.XMLSerializer()
 slug: Web/API/XMLSerializer/XMLSerializer
 tags:
-  - API
   - Constructor
   - Reference
-  - XMLSerializer
 browser-compat: api.XMLSerializer.XMLSerializer
 ---
 {{DefaultAPISidebar("")}}

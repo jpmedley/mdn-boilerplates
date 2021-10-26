@@ -2,11 +2,8 @@
 title: PluginArray.item()
 slug: Web/API/PluginArray/item
 tags:
-  - API
   - Method
   - Reference
-  - item
-  - PluginArray
 browser-compat: api.PluginArray.item
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: VirtualKeyboardGeometryChangeEvent
 slug: Web/API/VirtualKeyboardGeometryChangeEvent
 tags:
-  - API
   - Interface
   - Reference
-  - VirtualKeyboardGeometryChangeEvent
 browser-compat: api.VirtualKeyboardGeometryChangeEvent
 ---
 {{DefaultAPISidebar("")}}

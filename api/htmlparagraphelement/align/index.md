@@ -2,11 +2,8 @@
 title: HTMLParagraphElement.align
 slug: Web/API/HTMLParagraphElement/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - HTMLParagraphElement
 browser-compat: api.HTMLParagraphElement.align
 ---
 {{DefaultAPISidebar("")}}

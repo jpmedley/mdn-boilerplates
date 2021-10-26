@@ -2,11 +2,8 @@
 title: DelegatedInkTrailPresenter.expectedImprovement
 slug: Web/API/DelegatedInkTrailPresenter/expectedImprovement
 tags:
-  - API
   - Property
   - Reference
-  - expectedImprovement
-  - DelegatedInkTrailPresenter
 browser-compat: api.DelegatedInkTrailPresenter.expectedImprovement
 ---
 {{DefaultAPISidebar("")}}

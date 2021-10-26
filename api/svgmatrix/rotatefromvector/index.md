@@ -2,11 +2,8 @@
 title: SVGMatrix.rotateFromVector()
 slug: Web/API/SVGMatrix/rotateFromVector
 tags:
-  - API
   - Method
   - Reference
-  - rotateFromVector
-  - SVGMatrix
 browser-compat: api.SVGMatrix.rotateFromVector
 ---
 {{DefaultAPISidebar("")}}

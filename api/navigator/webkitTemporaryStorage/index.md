@@ -2,11 +2,8 @@
 title: Navigator.webkitTemporaryStorage
 slug: Web/API/Navigator/webkitTemporaryStorage
 tags:
-  - API
   - Property
   - Reference
-  - webkitTemporaryStorage
-  - Navigator
 browser-compat: api.Navigator.webkitTemporaryStorage
 ---
 {{DefaultAPISidebar("")}}

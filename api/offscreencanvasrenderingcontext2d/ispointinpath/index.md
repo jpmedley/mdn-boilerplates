@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.isPointInPath()
 slug: Web/API/OffscreenCanvasRenderingContext2D/isPointInPath
 tags:
-  - API
   - Method
   - Reference
-  - isPointInPath
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.isPointInPath
 ---
 {{DefaultAPISidebar("")}}

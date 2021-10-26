@@ -2,11 +2,8 @@
 title: SVGFEGaussianBlurElement.in1
 slug: Web/API/SVGFEGaussianBlurElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEGaussianBlurElement
 browser-compat: api.SVGFEGaussianBlurElement.in1
 ---
 {{DefaultAPISidebar("")}}

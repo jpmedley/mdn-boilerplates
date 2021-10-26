@@ -2,11 +2,8 @@
 title: HighlightRegistry.clear()
 slug: Web/API/HighlightRegistry/clear
 tags:
-  - API
   - Method
   - Reference
-  - clear
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry.clear
 ---
 {{DefaultAPISidebar("")}}

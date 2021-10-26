@@ -2,11 +2,8 @@
 title: SVGSVGElement.suspendRedraw()
 slug: Web/API/SVGSVGElement/suspendRedraw
 tags:
-  - API
   - Method
   - Reference
-  - suspendRedraw
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.suspendRedraw
 ---
 {{DefaultAPISidebar("")}}

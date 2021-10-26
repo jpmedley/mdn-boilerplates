@@ -2,11 +2,8 @@
 title: CustomStateSet.add()
 slug: Web/API/CustomStateSet/add
 tags:
-  - API
   - Method
   - Reference
-  - add
-  - CustomStateSet
 browser-compat: api.CustomStateSet.add
 ---
 {{DefaultAPISidebar("")}}

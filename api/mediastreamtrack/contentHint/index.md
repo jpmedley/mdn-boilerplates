@@ -2,11 +2,8 @@
 title: MediaStreamTrack.contentHint
 slug: Web/API/MediaStreamTrack/contentHint
 tags:
-  - API
   - Property
   - Reference
-  - contentHint
-  - MediaStreamTrack
 browser-compat: api.MediaStreamTrack.contentHint
 ---
 {{DefaultAPISidebar("")}}

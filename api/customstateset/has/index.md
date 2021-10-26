@@ -2,11 +2,8 @@
 title: CustomStateSet.has()
 slug: Web/API/CustomStateSet/has
 tags:
-  - API
   - Method
   - Reference
-  - has
-  - CustomStateSet
 browser-compat: api.CustomStateSet.has
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGTextContentElement.lengthAdjust
 slug: Web/API/SVGTextContentElement/lengthAdjust
 tags:
-  - API
   - Property
   - Reference
-  - lengthAdjust
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.lengthAdjust
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: FileWriterSync.seek()
 slug: Web/API/FileWriterSync/seek
 tags:
-  - API
   - Method
   - Reference
-  - seek
-  - FileWriterSync
 browser-compat: api.FileWriterSync.seek
 ---
 {{DefaultAPISidebar("")}}

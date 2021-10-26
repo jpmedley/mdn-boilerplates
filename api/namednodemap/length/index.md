@@ -2,11 +2,8 @@
 title: NamedNodeMap.length
 slug: Web/API/NamedNodeMap/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - NamedNodeMap
 browser-compat: api.NamedNodeMap.length
 ---
 {{DefaultAPISidebar("")}}

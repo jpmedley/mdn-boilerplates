@@ -2,11 +2,8 @@
 title: Document.webkitCancelFullScreen()
 slug: Web/API/Document/webkitCancelFullScreen
 tags:
-  - API
   - Method
   - Reference
-  - webkitCancelFullScreen
-  - Document
 browser-compat: api.Document.webkitCancelFullScreen
 ---
 {{DefaultAPISidebar("")}}

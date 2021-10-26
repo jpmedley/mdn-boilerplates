@@ -2,11 +2,8 @@
 title: SVGTextPositioningElement.x
 slug: Web/API/SVGTextPositioningElement/x
 tags:
-  - API
   - Property
   - Reference
-  - x
-  - SVGTextPositioningElement
 browser-compat: api.SVGTextPositioningElement.x
 ---
 {{DefaultAPISidebar("")}}

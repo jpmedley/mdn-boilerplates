@@ -2,11 +2,8 @@
 title: HTMLTableRowElement.cells
 slug: Web/API/HTMLTableRowElement/cells
 tags:
-  - API
   - Property
   - Reference
-  - cells
-  - HTMLTableRowElement
 browser-compat: api.HTMLTableRowElement.cells
 ---
 {{DefaultAPISidebar("")}}

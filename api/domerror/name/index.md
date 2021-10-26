@@ -2,11 +2,8 @@
 title: DOMError.name
 slug: Web/API/DOMError/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - DOMError
 browser-compat: api.DOMError.name
 ---
 {{DefaultAPISidebar("")}}

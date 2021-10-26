@@ -2,10 +2,8 @@
 title: FileWriterCallback
 slug: Web/API/FileWriterCallback
 tags:
-  - API
   - Interface
   - Reference
-  - FileWriterCallback
 browser-compat: api.FileWriterCallback
 ---
 {{DefaultAPISidebar("")}}

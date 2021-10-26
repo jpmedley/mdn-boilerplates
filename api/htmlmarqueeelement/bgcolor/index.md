@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.bgColor
 slug: Web/API/HTMLMarqueeElement/bgColor
 tags:
-  - API
   - Property
   - Reference
-  - bgColor
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.bgColor
 ---
 {{DefaultAPISidebar("")}}

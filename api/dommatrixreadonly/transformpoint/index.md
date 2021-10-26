@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.transformPoint()
 slug: Web/API/DOMMatrixReadOnly/transformPoint
 tags:
-  - API
   - Method
   - Reference
-  - transformPoint
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.transformPoint
 ---
 {{DefaultAPISidebar("")}}

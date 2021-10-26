@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.form
 slug: Web/API/HTMLTextAreaElement/form
 tags:
-  - API
   - Property
   - Reference
-  - form
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.form
 ---
 {{DefaultAPISidebar("")}}

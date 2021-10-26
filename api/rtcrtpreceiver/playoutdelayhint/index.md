@@ -2,11 +2,8 @@
 title: RTCRtpReceiver.playoutDelayHint
 slug: Web/API/RTCRtpReceiver/playoutDelayHint
 tags:
-  - API
   - Property
   - Reference
-  - playoutDelayHint
-  - RTCRtpReceiver
 browser-compat: api.RTCRtpReceiver.playoutDelayHint
 ---
 {{DefaultAPISidebar("")}}

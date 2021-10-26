@@ -2,11 +2,8 @@
 title: XRInputSourceArray.XRInputSource()
 slug: Web/API/XRInputSourceArray/XRInputSource
 tags:
-  - API
   - Method
   - Reference
-  - XRInputSource
-  - XRInputSourceArray
 browser-compat: api.XRInputSourceArray.XRInputSource
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

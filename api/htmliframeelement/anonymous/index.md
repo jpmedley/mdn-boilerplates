@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.anonymous
 slug: Web/API/HTMLIFrameElement/anonymous
 tags:
-  - API
   - Property
   - Reference
-  - anonymous
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.anonymous
 ---
 {{DefaultAPISidebar("")}}

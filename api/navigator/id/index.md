@@ -2,11 +2,8 @@
 title: Navigator.id
 slug: Web/API/Navigator/id
 tags:
-  - API
   - Property
   - Reference
-  - id
-  - Navigator
 browser-compat: api.Navigator.id
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGForeignObjectElement.y
 slug: Web/API/SVGForeignObjectElement/y
 tags:
-  - API
   - Property
   - Reference
-  - y
-  - SVGForeignObjectElement
 browser-compat: api.SVGForeignObjectElement.y
 ---
 {{DefaultAPISidebar("")}}

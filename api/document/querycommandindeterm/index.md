@@ -2,11 +2,8 @@
 title: Document.queryCommandIndeterm()
 slug: Web/API/Document/queryCommandIndeterm
 tags:
-  - API
   - Method
   - Reference
-  - queryCommandIndeterm
-  - Document
 browser-compat: api.Document.queryCommandIndeterm
 ---
 {{DefaultAPISidebar("")}}

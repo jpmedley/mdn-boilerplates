@@ -2,11 +2,8 @@
 title: UserActivation.hasBeenActive
 slug: Web/API/UserActivation/hasBeenActive
 tags:
-  - API
   - Property
   - Reference
-  - hasBeenActive
-  - UserActivation
 browser-compat: api.UserActivation.hasBeenActive
 ---
 {{DefaultAPISidebar("")}}

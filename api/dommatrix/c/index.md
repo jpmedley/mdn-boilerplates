@@ -2,11 +2,8 @@
 title: DOMMatrix.c
 slug: Web/API/DOMMatrix/c
 tags:
-  - API
   - Property
   - Reference
-  - c
-  - DOMMatrix
 browser-compat: api.DOMMatrix.c
 ---
 {{DefaultAPISidebar("")}}

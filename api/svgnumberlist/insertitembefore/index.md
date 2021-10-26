@@ -2,11 +2,8 @@
 title: SVGNumberList.insertItemBefore()
 slug: Web/API/SVGNumberList/insertItemBefore
 tags:
-  - API
   - Method
   - Reference
-  - insertItemBefore
-  - SVGNumberList
 browser-compat: api.SVGNumberList.insertItemBefore
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: XSLTProcessor.transformToFragment()
 slug: Web/API/XSLTProcessor/transformToFragment
 tags:
-  - API
   - Method
   - Reference
-  - transformToFragment
-  - XSLTProcessor
 browser-compat: api.XSLTProcessor.transformToFragment
 ---
 {{DefaultAPISidebar("")}}

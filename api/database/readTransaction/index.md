@@ -2,11 +2,8 @@
 title: Database.readTransaction()
 slug: Web/API/Database/readTransaction
 tags:
-  - API
   - Method
   - Reference
-  - readTransaction
-  - Database
 browser-compat: api.Database.readTransaction
 ---
 {{DefaultAPISidebar("")}}

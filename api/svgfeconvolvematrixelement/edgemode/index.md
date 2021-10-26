@@ -2,11 +2,8 @@
 title: SVGFEConvolveMatrixElement.edgeMode
 slug: Web/API/SVGFEConvolveMatrixElement/edgeMode
 tags:
-  - API
   - Property
   - Reference
-  - edgeMode
-  - SVGFEConvolveMatrixElement
 browser-compat: api.SVGFEConvolveMatrixElement.edgeMode
 ---
 {{DefaultAPISidebar("")}}

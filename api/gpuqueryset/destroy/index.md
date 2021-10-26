@@ -2,11 +2,8 @@
 title: GPUQuerySet.destroy()
 slug: Web/API/GPUQuerySet/destroy
 tags:
-  - API
   - Method
   - Reference
-  - destroy
-  - GPUQuerySet
 browser-compat: api.GPUQuerySet.destroy
 ---
 {{DefaultAPISidebar("")}}

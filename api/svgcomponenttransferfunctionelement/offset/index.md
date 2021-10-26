@@ -2,11 +2,8 @@
 title: SVGComponentTransferFunctionElement.offset
 slug: Web/API/SVGComponentTransferFunctionElement/offset
 tags:
-  - API
   - Property
   - Reference
-  - offset
-  - SVGComponentTransferFunctionElement
 browser-compat: api.SVGComponentTransferFunctionElement.offset
 ---
 {{DefaultAPISidebar("")}}

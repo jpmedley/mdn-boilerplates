@@ -2,10 +2,8 @@
 title: ScrollState.ScrollState()
 slug: Web/API/ScrollState/ScrollState
 tags:
-  - API
   - Constructor
   - Reference
-  - ScrollState
 browser-compat: api.ScrollState.ScrollState
 ---
 {{DefaultAPISidebar("")}}

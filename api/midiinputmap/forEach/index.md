@@ -2,11 +2,8 @@
 title: MIDIInputMap.forEach()
 slug: Web/API/MIDIInputMap/forEach
 tags:
-  - API
   - Method
   - Reference
-  - forEach
-  - MIDIInputMap
 browser-compat: api.MIDIInputMap.forEach
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

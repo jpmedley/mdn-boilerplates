@@ -2,11 +2,8 @@
 title: MediaSession.setCameraActive()
 slug: Web/API/MediaSession/setCameraActive
 tags:
-  - API
   - Method
   - Reference
-  - setCameraActive
-  - MediaSession
 browser-compat: api.MediaSession.setCameraActive
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGTransform.setSkewY()
 slug: Web/API/SVGTransform/setSkewY
 tags:
-  - API
   - Method
   - Reference
-  - setSkewY
-  - SVGTransform
 browser-compat: api.SVGTransform.setSkewY
 ---
 {{DefaultAPISidebar("")}}

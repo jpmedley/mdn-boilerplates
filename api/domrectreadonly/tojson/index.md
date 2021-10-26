@@ -2,11 +2,8 @@
 title: DOMRectReadOnly.toJSON()
 slug: Web/API/DOMRectReadOnly/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - DOMRectReadOnly
 browser-compat: api.DOMRectReadOnly.toJSON
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: DeprecatedStorageQuota.queryUsageAndQuota()
 slug: Web/API/DeprecatedStorageQuota/queryUsageAndQuota
 tags:
-  - API
   - Method
   - Reference
-  - queryUsageAndQuota
-  - DeprecatedStorageQuota
 browser-compat: api.DeprecatedStorageQuota.queryUsageAndQuota
 ---
 {{DefaultAPISidebar("")}}

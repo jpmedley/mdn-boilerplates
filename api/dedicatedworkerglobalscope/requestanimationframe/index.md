@@ -2,11 +2,8 @@
 title: DedicatedWorkerGlobalScope.requestAnimationFrame()
 slug: Web/API/DedicatedWorkerGlobalScope/requestAnimationFrame
 tags:
-  - API
   - Method
   - Reference
-  - requestAnimationFrame
-  - DedicatedWorkerGlobalScope
 browser-compat: api.DedicatedWorkerGlobalScope.requestAnimationFrame
 ---
 {{DefaultAPISidebar("")}}

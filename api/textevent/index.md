@@ -2,10 +2,8 @@
 title: TextEvent
 slug: Web/API/TextEvent
 tags:
-  - API
   - Interface
   - Reference
-  - TextEvent
 browser-compat: api.TextEvent
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: FileSystemHandle.remove()
 slug: Web/API/FileSystemHandle/remove
 tags:
-  - API
   - Method
   - Reference
-  - remove
-  - FileSystemHandle
 browser-compat: api.FileSystemHandle.remove
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

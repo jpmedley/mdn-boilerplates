@@ -2,11 +2,8 @@
 title: Document.addressSpace
 slug: Web/API/Document/addressSpace
 tags:
-  - API
   - Property
   - Reference
-  - addressSpace
-  - Document
 browser-compat: api.Document.addressSpace
 ---
 {{DefaultAPISidebar("")}}

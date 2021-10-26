@@ -2,11 +2,8 @@
 title: Document.releaseEvents()
 slug: Web/API/Document/releaseEvents
 tags:
-  - API
   - Method
   - Reference
-  - releaseEvents
-  - Document
 browser-compat: api.Document.releaseEvents
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLInputElement.formAction
 slug: Web/API/HTMLInputElement/formAction
 tags:
-  - API
   - Property
   - Reference
-  - formAction
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.formAction
 ---
 {{DefaultAPISidebar("")}}

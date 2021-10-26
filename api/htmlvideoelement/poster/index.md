@@ -2,11 +2,8 @@
 title: HTMLVideoElement.poster
 slug: Web/API/HTMLVideoElement/poster
 tags:
-  - API
   - Property
   - Reference
-  - poster
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.poster
 ---
 {{DefaultAPISidebar("")}}

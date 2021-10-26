@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.shape
 slug: Web/API/HTMLAnchorElement/shape
 tags:
-  - API
   - Property
   - Reference
-  - shape
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.shape
 ---
 {{DefaultAPISidebar("")}}

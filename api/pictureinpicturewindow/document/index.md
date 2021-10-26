@@ -2,11 +2,8 @@
 title: PictureInPictureWindow.document
 slug: Web/API/PictureInPictureWindow/document
 tags:
-  - API
   - Property
   - Reference
-  - document
-  - PictureInPictureWindow
 browser-compat: api.PictureInPictureWindow.document
 ---
 {{DefaultAPISidebar("")}}

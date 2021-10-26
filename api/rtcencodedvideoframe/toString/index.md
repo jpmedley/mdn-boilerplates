@@ -2,11 +2,8 @@
 title: RTCEncodedVideoFrame.toString()
 slug: Web/API/RTCEncodedVideoFrame/toString
 tags:
-  - API
   - Method
   - Reference
-  - toString
-  - RTCEncodedVideoFrame
 browser-compat: api.RTCEncodedVideoFrame.toString
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLObjectElement.standby
 slug: Web/API/HTMLObjectElement/standby
 tags:
-  - API
   - Property
   - Reference
-  - standby
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.standby
 ---
 {{DefaultAPISidebar("")}}

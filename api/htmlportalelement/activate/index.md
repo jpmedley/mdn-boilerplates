@@ -2,11 +2,8 @@
 title: HTMLPortalElement.activate()
 slug: Web/API/HTMLPortalElement/activate
 tags:
-  - API
   - Method
   - Reference
-  - activate
-  - HTMLPortalElement
 browser-compat: api.HTMLPortalElement.activate
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLFrameElement.contentWindow
 slug: Web/API/HTMLFrameElement/contentWindow
 tags:
-  - API
   - Property
   - Reference
-  - contentWindow
-  - HTMLFrameElement
 browser-compat: api.HTMLFrameElement.contentWindow
 ---
 {{DefaultAPISidebar("")}}

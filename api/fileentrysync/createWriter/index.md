@@ -2,11 +2,8 @@
 title: FileEntrySync.createWriter()
 slug: Web/API/FileEntrySync/createWriter
 tags:
-  - API
   - Method
   - Reference
-  - createWriter
-  - FileEntrySync
 browser-compat: api.FileEntrySync.createWriter
 ---
 {{DefaultAPISidebar("")}}

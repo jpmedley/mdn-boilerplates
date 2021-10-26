@@ -2,11 +2,8 @@
 title: DOMFileSystem.name
 slug: Web/API/DOMFileSystem/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - DOMFileSystem
 browser-compat: api.DOMFileSystem.name
 ---
 {{DefaultAPISidebar("")}}

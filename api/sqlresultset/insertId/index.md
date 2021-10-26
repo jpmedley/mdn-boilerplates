@@ -2,11 +2,8 @@
 title: SQLResultSet.insertId
 slug: Web/API/SQLResultSet/insertId
 tags:
-  - API
   - Property
   - Reference
-  - insertId
-  - SQLResultSet
 browser-compat: api.SQLResultSet.insertId
 ---
 {{DefaultAPISidebar("")}}

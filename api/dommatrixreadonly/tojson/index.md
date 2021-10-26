@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.toJSON()
 slug: Web/API/DOMMatrixReadOnly/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.toJSON
 ---
 {{DefaultAPISidebar("")}}

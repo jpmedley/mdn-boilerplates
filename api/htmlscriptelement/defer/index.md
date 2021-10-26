@@ -2,11 +2,8 @@
 title: HTMLScriptElement.defer
 slug: Web/API/HTMLScriptElement/defer
 tags:
-  - API
   - Property
   - Reference
-  - defer
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.defer
 ---
 {{DefaultAPISidebar("")}}

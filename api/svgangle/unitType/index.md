@@ -2,11 +2,8 @@
 title: SVGAngle.unitType
 slug: Web/API/SVGAngle/unitType
 tags:
-  - API
   - Property
   - Reference
-  - unitType
-  - SVGAngle
 browser-compat: api.SVGAngle.unitType
 ---
 {{DefaultAPISidebar("")}}

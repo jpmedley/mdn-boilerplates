@@ -2,10 +2,8 @@
 title: WebTransportBidirectionalStream
 slug: Web/API/WebTransportBidirectionalStream
 tags:
-  - API
   - Interface
   - Reference
-  - WebTransportBidirectionalStream
 browser-compat: api.WebTransportBidirectionalStream
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

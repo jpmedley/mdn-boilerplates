@@ -2,11 +2,8 @@
 title: Navigator.usb
 slug: Web/API/Navigator/usb
 tags:
-  - API
   - Property
   - Reference
-  - usb
-  - Navigator
 browser-compat: api.Navigator.usb
 ---
 {{DefaultAPISidebar("")}}

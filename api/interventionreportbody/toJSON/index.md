@@ -2,11 +2,8 @@
 title: InterventionReportBody.toJSON()
 slug: Web/API/InterventionReportBody/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - InterventionReportBody
 browser-compat: api.InterventionReportBody.toJSON
 ---
 {{DefaultAPISidebar("")}}

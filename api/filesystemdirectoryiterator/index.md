@@ -2,10 +2,8 @@
 title: FileSystemDirectoryIterator
 slug: Web/API/FileSystemDirectoryIterator
 tags:
-  - API
   - Interface
   - Reference
-  - FileSystemDirectoryIterator
 browser-compat: api.FileSystemDirectoryIterator
 ---
 {{DefaultAPISidebar("")}}

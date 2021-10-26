@@ -2,11 +2,8 @@
 title: Document.onbeforepaste
 slug: Web/API/Document/onbeforepaste
 tags:
-  - API
   - Property
   - Reference
-  - onbeforepaste
-  - Document
 browser-compat: api.Document.onbeforepaste
 ---
 {{DefaultAPISidebar("")}}

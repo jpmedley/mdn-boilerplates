@@ -2,11 +2,8 @@
 title: SVGNumberList.clear()
 slug: Web/API/SVGNumberList/clear
 tags:
-  - API
   - Method
   - Reference
-  - clear
-  - SVGNumberList
 browser-compat: api.SVGNumberList.clear
 ---
 {{DefaultAPISidebar("")}}

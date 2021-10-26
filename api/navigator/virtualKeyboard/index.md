@@ -2,11 +2,8 @@
 title: Navigator.virtualKeyboard
 slug: Web/API/Navigator/virtualKeyboard
 tags:
-  - API
   - Property
   - Reference
-  - virtualKeyboard
-  - Navigator
 browser-compat: api.Navigator.virtualKeyboard
 ---
 {{DefaultAPISidebar("")}}

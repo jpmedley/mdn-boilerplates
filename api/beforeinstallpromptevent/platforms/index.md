@@ -2,11 +2,8 @@
 title: BeforeInstallPromptEvent.platforms
 slug: Web/API/BeforeInstallPromptEvent/platforms
 tags:
-  - API
   - Property
   - Reference
-  - platforms
-  - BeforeInstallPromptEvent
 browser-compat: api.BeforeInstallPromptEvent.platforms
 ---
 {{DefaultAPISidebar("")}}

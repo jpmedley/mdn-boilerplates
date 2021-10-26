@@ -2,11 +2,8 @@
 title: EntrySync.filesystem
 slug: Web/API/EntrySync/filesystem
 tags:
-  - API
   - Property
   - Reference
-  - filesystem
-  - EntrySync
 browser-compat: api.EntrySync.filesystem
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.drawImage()
 slug: Web/API/OffscreenCanvasRenderingContext2D/drawImage
 tags:
-  - API
   - Method
   - Reference
-  - drawImage
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.drawImage
 ---
 {{DefaultAPISidebar("")}}

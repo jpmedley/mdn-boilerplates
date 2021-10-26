@@ -2,11 +2,8 @@
 title: HTMLScriptElement.src
 slug: Web/API/HTMLScriptElement/src
 tags:
-  - API
   - Property
   - Reference
-  - src
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.src
 ---
 {{DefaultAPISidebar("")}}

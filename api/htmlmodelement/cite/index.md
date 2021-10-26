@@ -2,11 +2,8 @@
 title: HTMLModElement.cite
 slug: Web/API/HTMLModElement/cite
 tags:
-  - API
   - Property
   - Reference
-  - cite
-  - HTMLModElement
 browser-compat: api.HTMLModElement.cite
 ---
 {{DefaultAPISidebar("")}}

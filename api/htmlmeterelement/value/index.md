@@ -2,11 +2,8 @@
 title: HTMLMeterElement.value
 slug: Web/API/HTMLMeterElement/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - HTMLMeterElement
 browser-compat: api.HTMLMeterElement.value
 ---
 {{DefaultAPISidebar("")}}

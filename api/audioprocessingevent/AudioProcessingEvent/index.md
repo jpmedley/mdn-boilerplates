@@ -2,10 +2,8 @@
 title: AudioProcessingEvent.AudioProcessingEvent()
 slug: Web/API/AudioProcessingEvent/AudioProcessingEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - AudioProcessingEvent
 browser-compat: api.AudioProcessingEvent.AudioProcessingEvent
 ---
 {{DefaultAPISidebar("")}}

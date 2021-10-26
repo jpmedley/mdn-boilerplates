@@ -2,11 +2,8 @@
 title: HTMLScriptElement.text
 slug: Web/API/HTMLScriptElement/text
 tags:
-  - API
   - Property
   - Reference
-  - text
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.text
 ---
 {{DefaultAPISidebar("")}}

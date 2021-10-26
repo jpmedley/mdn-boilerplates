@@ -2,11 +2,8 @@
 title: ProcessingInstruction.target
 slug: Web/API/ProcessingInstruction/target
 tags:
-  - API
   - Property
   - Reference
-  - target
-  - ProcessingInstruction
 browser-compat: api.ProcessingInstruction.target
 ---
 {{DefaultAPISidebar("")}}

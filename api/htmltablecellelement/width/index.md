@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.width
 slug: Web/API/HTMLTableCellElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.width
 ---
 {{DefaultAPISidebar("")}}

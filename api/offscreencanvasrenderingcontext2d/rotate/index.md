@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.rotate()
 slug: Web/API/OffscreenCanvasRenderingContext2D/rotate
 tags:
-  - API
   - Method
   - Reference
-  - rotate
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.rotate
 ---
 {{DefaultAPISidebar("")}}

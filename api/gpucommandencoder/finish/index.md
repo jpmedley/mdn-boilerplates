@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.finish()
 slug: Web/API/GPUCommandEncoder/finish
 tags:
-  - API
   - Method
   - Reference
-  - finish
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.finish
 ---
 {{DefaultAPISidebar("")}}

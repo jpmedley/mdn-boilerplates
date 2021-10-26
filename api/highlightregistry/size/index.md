@@ -2,11 +2,8 @@
 title: HighlightRegistry.size()
 slug: Web/API/HighlightRegistry/size
 tags:
-  - API
   - Method
   - Reference
-  - size
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry.size
 ---
 {{DefaultAPISidebar("")}}

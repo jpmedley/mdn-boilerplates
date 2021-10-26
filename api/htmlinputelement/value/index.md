@@ -2,11 +2,8 @@
 title: HTMLInputElement.value
 slug: Web/API/HTMLInputElement/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.value
 ---
 {{DefaultAPISidebar("")}}

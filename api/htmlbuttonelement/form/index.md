@@ -2,11 +2,8 @@
 title: HTMLButtonElement.form
 slug: Web/API/HTMLButtonElement/form
 tags:
-  - API
   - Property
   - Reference
-  - form
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.form
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: ServiceWorker.postMessage()
 slug: Web/API/ServiceWorker/postMessage
 tags:
-  - API
   - Method
   - Reference
-  - postMessage
-  - ServiceWorker
 browser-compat: api.ServiceWorker.postMessage
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

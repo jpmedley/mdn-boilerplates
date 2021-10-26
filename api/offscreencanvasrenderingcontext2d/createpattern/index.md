@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.createPattern()
 slug: Web/API/OffscreenCanvasRenderingContext2D/createPattern
 tags:
-  - API
   - Method
   - Reference
-  - createPattern
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.createPattern
 ---
 {{DefaultAPISidebar("")}}

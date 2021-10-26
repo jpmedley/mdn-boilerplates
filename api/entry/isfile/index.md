@@ -2,11 +2,8 @@
 title: Entry.isFile
 slug: Web/API/Entry/isFile
 tags:
-  - API
   - Property
   - Reference
-  - isFile
-  - Entry
 browser-compat: api.Entry.isFile
 ---
 {{DefaultAPISidebar("")}}

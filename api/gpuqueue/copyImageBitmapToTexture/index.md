@@ -2,11 +2,8 @@
 title: GPUQueue.copyImageBitmapToTexture()
 slug: Web/API/GPUQueue/copyImageBitmapToTexture
 tags:
-  - API
   - Method
   - Reference
-  - copyImageBitmapToTexture
-  - GPUQueue
 browser-compat: api.GPUQueue.copyImageBitmapToTexture
 ---
 {{DefaultAPISidebar("")}}

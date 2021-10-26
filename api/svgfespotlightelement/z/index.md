@@ -2,11 +2,8 @@
 title: SVGFESpotLightElement.z
 slug: Web/API/SVGFESpotLightElement/z
 tags:
-  - API
   - Property
   - Reference
-  - z
-  - SVGFESpotLightElement
 browser-compat: api.SVGFESpotLightElement.z
 ---
 {{DefaultAPISidebar("")}}

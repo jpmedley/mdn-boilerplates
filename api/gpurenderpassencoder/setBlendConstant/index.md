@@ -2,11 +2,8 @@
 title: GPURenderPassEncoder.setBlendConstant()
 slug: Web/API/GPURenderPassEncoder/setBlendConstant
 tags:
-  - API
   - Method
   - Reference
-  - setBlendConstant
-  - GPURenderPassEncoder
 browser-compat: api.GPURenderPassEncoder.setBlendConstant
 ---
 {{DefaultAPISidebar("")}}

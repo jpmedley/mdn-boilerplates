@@ -2,10 +2,8 @@
 title: RTCErrorEvent.RTCErrorEvent()
 slug: Web/API/RTCErrorEvent/RTCErrorEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - RTCErrorEvent
 browser-compat: api.RTCErrorEvent.RTCErrorEvent
 ---
 {{DefaultAPISidebar("")}}

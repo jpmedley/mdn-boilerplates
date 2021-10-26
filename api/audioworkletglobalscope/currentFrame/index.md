@@ -2,11 +2,8 @@
 title: AudioWorkletGlobalScope.currentFrame
 slug: Web/API/AudioWorkletGlobalScope/currentFrame
 tags:
-  - API
   - Property
   - Reference
-  - currentFrame
-  - AudioWorkletGlobalScope
 browser-compat: api.AudioWorkletGlobalScope.currentFrame
 ---
 {{DefaultAPISidebar("")}}

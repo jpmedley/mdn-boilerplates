@@ -2,11 +2,8 @@
 title: AudioParamMap.get()
 slug: Web/API/AudioParamMap/get
 tags:
-  - API
   - Method
   - Reference
-  - get
-  - AudioParamMap
 browser-compat: api.AudioParamMap.get
 ---
 {{DefaultAPISidebar("")}}

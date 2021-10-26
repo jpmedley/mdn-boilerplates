@@ -2,11 +2,8 @@
 title: SVGFEConvolveMatrixElement.targetX
 slug: Web/API/SVGFEConvolveMatrixElement/targetX
 tags:
-  - API
   - Property
   - Reference
-  - targetX
-  - SVGFEConvolveMatrixElement
 browser-compat: api.SVGFEConvolveMatrixElement.targetX
 ---
 {{DefaultAPISidebar("")}}

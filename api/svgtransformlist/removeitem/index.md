@@ -2,11 +2,8 @@
 title: SVGTransformList.removeItem()
 slug: Web/API/SVGTransformList/removeItem
 tags:
-  - API
   - Method
   - Reference
-  - removeItem
-  - SVGTransformList
 browser-compat: api.SVGTransformList.removeItem
 ---
 {{DefaultAPISidebar("")}}

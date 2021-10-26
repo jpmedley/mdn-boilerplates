@@ -2,11 +2,8 @@
 title: Entry.isDirectory
 slug: Web/API/Entry/isDirectory
 tags:
-  - API
   - Property
   - Reference
-  - isDirectory
-  - Entry
 browser-compat: api.Entry.isDirectory
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: GPUDevice.createShaderModule()
 slug: Web/API/GPUDevice/createShaderModule
 tags:
-  - API
   - Method
   - Reference
-  - createShaderModule
-  - GPUDevice
 browser-compat: api.GPUDevice.createShaderModule
 ---
 {{DefaultAPISidebar("")}}

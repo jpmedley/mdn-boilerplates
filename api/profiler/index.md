@@ -2,10 +2,8 @@
 title: Profiler
 slug: Web/API/Profiler
 tags:
-  - API
   - Interface
   - Reference
-  - Profiler
 browser-compat: api.Profiler
 ---
 {{DefaultAPISidebar("")}}

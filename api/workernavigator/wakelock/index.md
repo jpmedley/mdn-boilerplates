@@ -2,11 +2,8 @@
 title: WorkerNavigator.wakeLock
 slug: Web/API/WorkerNavigator/wakeLock
 tags:
-  - API
   - Property
   - Reference
-  - wakeLock
-  - WorkerNavigator
 browser-compat: api.WorkerNavigator.wakeLock
 ---
 {{DefaultAPISidebar("")}}

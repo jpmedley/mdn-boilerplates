@@ -2,10 +2,8 @@
 title: XPathEvaluator.XPathEvaluator()
 slug: Web/API/XPathEvaluator/XPathEvaluator
 tags:
-  - API
   - Constructor
   - Reference
-  - XPathEvaluator
 browser-compat: api.XPathEvaluator.XPathEvaluator
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.c
 slug: Web/API/DOMMatrixReadOnly/c
 tags:
-  - API
   - Property
   - Reference
-  - c
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.c
 ---
 {{DefaultAPISidebar("")}}

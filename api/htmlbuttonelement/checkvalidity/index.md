@@ -2,11 +2,8 @@
 title: HTMLButtonElement.checkValidity()
 slug: Web/API/HTMLButtonElement/checkValidity
 tags:
-  - API
   - Method
   - Reference
-  - checkValidity
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.checkValidity
 ---
 {{DefaultAPISidebar("")}}

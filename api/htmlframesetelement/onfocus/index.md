@@ -2,11 +2,8 @@
 title: HTMLFrameSetElement.onfocus
 slug: Web/API/HTMLFrameSetElement/onfocus
 tags:
-  - API
   - Property
   - Reference
-  - onfocus
-  - HTMLFrameSetElement
 browser-compat: api.HTMLFrameSetElement.onfocus
 ---
 {{DefaultAPISidebar("")}}

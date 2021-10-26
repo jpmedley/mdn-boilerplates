@@ -2,11 +2,8 @@
 title: MIDIOutputMap.get()
 slug: Web/API/MIDIOutputMap/get
 tags:
-  - API
   - Method
   - Reference
-  - get
-  - MIDIOutputMap
 browser-compat: api.MIDIOutputMap.get
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

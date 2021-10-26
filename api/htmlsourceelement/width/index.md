@@ -2,11 +2,8 @@
 title: HTMLSourceElement.width
 slug: Web/API/HTMLSourceElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - HTMLSourceElement
 browser-compat: api.HTMLSourceElement.width
 ---
 {{DefaultAPISidebar("")}}

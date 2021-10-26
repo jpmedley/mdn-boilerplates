@@ -2,11 +2,8 @@
 title: DedicatedWorkerGlobalScope.webkitResolveLocalFileSystemURL()
 slug: Web/API/DedicatedWorkerGlobalScope/webkitResolveLocalFileSystemURL
 tags:
-  - API
   - Method
   - Reference
-  - webkitResolveLocalFileSystemURL
-  - DedicatedWorkerGlobalScope
 browser-compat: api.DedicatedWorkerGlobalScope.webkitResolveLocalFileSystemURL
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: FileWriterSync
 slug: Web/API/FileWriterSync
 tags:
-  - API
   - Interface
   - Reference
-  - FileWriterSync
 browser-compat: api.FileWriterSync
 ---
 {{DefaultAPISidebar("")}}

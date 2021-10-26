@@ -2,11 +2,8 @@
 title: HTMLInputElement.step
 slug: Web/API/HTMLInputElement/step
 tags:
-  - API
   - Property
   - Reference
-  - step
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.step
 ---
 {{DefaultAPISidebar("")}}

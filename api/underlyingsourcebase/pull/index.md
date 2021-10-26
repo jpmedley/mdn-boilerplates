@@ -2,11 +2,8 @@
 title: UnderlyingSourceBase.pull()
 slug: Web/API/UnderlyingSourceBase/pull
 tags:
-  - API
   - Method
   - Reference
-  - pull
-  - UnderlyingSourceBase
 browser-compat: api.UnderlyingSourceBase.pull
 ---
 {{DefaultAPISidebar("")}}

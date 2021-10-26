@@ -2,11 +2,8 @@
 title: LayoutShift.hadRecentInput
 slug: Web/API/LayoutShift/hadRecentInput
 tags:
-  - API
   - Property
   - Reference
-  - hadRecentInput
-  - LayoutShift
 browser-compat: api.LayoutShift.hadRecentInput
 ---
 {{DefaultAPISidebar("")}}

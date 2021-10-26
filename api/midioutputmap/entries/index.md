@@ -2,11 +2,8 @@
 title: MIDIOutputMap.entries()
 slug: Web/API/MIDIOutputMap/entries
 tags:
-  - API
   - Method
   - Reference
-  - entries
-  - MIDIOutputMap
 browser-compat: api.MIDIOutputMap.entries
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

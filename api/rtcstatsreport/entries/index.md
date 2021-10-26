@@ -2,11 +2,8 @@
 title: RTCStatsReport.entries()
 slug: Web/API/RTCStatsReport/entries
 tags:
-  - API
   - Method
   - Reference
-  - entries
-  - RTCStatsReport
 browser-compat: api.RTCStatsReport.entries
 ---
 {{DefaultAPISidebar("")}}

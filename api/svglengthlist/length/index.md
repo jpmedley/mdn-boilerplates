@@ -2,11 +2,8 @@
 title: SVGLengthList.length
 slug: Web/API/SVGLengthList/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - SVGLengthList
 browser-compat: api.SVGLengthList.length
 ---
 {{DefaultAPISidebar("")}}

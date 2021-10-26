@@ -2,11 +2,8 @@
 title: GPUTexture.destroy()
 slug: Web/API/GPUTexture/destroy
 tags:
-  - API
   - Method
   - Reference
-  - destroy
-  - GPUTexture
 browser-compat: api.GPUTexture.destroy
 ---
 {{DefaultAPISidebar("")}}

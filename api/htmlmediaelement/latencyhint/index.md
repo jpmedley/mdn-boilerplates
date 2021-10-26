@@ -2,11 +2,8 @@
 title: HTMLMediaElement.latencyHint
 slug: Web/API/HTMLMediaElement/latencyHint
 tags:
-  - API
   - Property
   - Reference
-  - latencyHint
-  - HTMLMediaElement
 browser-compat: api.HTMLMediaElement.latencyHint
 ---
 {{DefaultAPISidebar("")}}

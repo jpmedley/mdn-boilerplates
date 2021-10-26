@@ -2,11 +2,8 @@
 title: AudioParam.automationRate
 slug: Web/API/AudioParam/automationRate
 tags:
-  - API
   - Property
   - Reference
-  - automationRate
-  - AudioParam
 browser-compat: api.AudioParam.automationRate
 ---
 {{DefaultAPISidebar("")}}

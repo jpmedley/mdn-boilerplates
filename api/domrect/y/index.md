@@ -2,11 +2,8 @@
 title: DOMRect.y
 slug: Web/API/DOMRect/y
 tags:
-  - API
   - Property
   - Reference
-  - y
-  - DOMRect
 browser-compat: api.DOMRect.y
 ---
 {{DefaultAPISidebar("")}}

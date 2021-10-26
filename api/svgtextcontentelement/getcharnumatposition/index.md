@@ -2,11 +2,8 @@
 title: SVGTextContentElement.getCharNumAtPosition()
 slug: Web/API/SVGTextContentElement/getCharNumAtPosition
 tags:
-  - API
   - Method
   - Reference
-  - getCharNumAtPosition
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.getCharNumAtPosition
 ---
 {{DefaultAPISidebar("")}}

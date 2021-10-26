@@ -2,11 +2,8 @@
 title: CountQueuingStrategy.highWaterMark
 slug: Web/API/CountQueuingStrategy/highWaterMark
 tags:
-  - API
   - Property
   - Reference
-  - highWaterMark
-  - CountQueuingStrategy
 browser-compat: api.CountQueuingStrategy.highWaterMark
 ---
 {{DefaultAPISidebar("")}}

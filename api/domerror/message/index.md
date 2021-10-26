@@ -2,11 +2,8 @@
 title: DOMError.message
 slug: Web/API/DOMError/message
 tags:
-  - API
   - Property
   - Reference
-  - message
-  - DOMError
 browser-compat: api.DOMError.message
 ---
 {{DefaultAPISidebar("")}}

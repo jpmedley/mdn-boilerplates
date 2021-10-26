@@ -2,11 +2,8 @@
 title: HTMLObjectElement.declare
 slug: Web/API/HTMLObjectElement/declare
 tags:
-  - API
   - Property
   - Reference
-  - declare
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.declare
 ---
 {{DefaultAPISidebar("")}}

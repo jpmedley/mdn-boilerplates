@@ -2,11 +2,8 @@
 title: GPURenderPassEncoder.beginOcclusionQuery()
 slug: Web/API/GPURenderPassEncoder/beginOcclusionQuery
 tags:
-  - API
   - Method
   - Reference
-  - beginOcclusionQuery
-  - GPURenderPassEncoder
 browser-compat: api.GPURenderPassEncoder.beginOcclusionQuery
 ---
 {{DefaultAPISidebar("")}}

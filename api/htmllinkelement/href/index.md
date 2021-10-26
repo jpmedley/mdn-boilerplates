@@ -2,11 +2,8 @@
 title: HTMLLinkElement.href
 slug: Web/API/HTMLLinkElement/href
 tags:
-  - API
   - Property
   - Reference
-  - href
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.href
 ---
 {{DefaultAPISidebar("")}}

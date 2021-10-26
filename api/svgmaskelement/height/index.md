@@ -2,11 +2,8 @@
 title: SVGMaskElement.height
 slug: Web/API/SVGMaskElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - SVGMaskElement
 browser-compat: api.SVGMaskElement.height
 ---
 {{DefaultAPISidebar("")}}

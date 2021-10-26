@@ -2,11 +2,8 @@
 title: HTMLMediaElement.webkitAudioDecodedByteCount
 slug: Web/API/HTMLMediaElement/webkitAudioDecodedByteCount
 tags:
-  - API
   - Property
   - Reference
-  - webkitAudioDecodedByteCount
-  - HTMLMediaElement
 browser-compat: api.HTMLMediaElement.webkitAudioDecodedByteCount
 ---
 {{DefaultAPISidebar("")}}

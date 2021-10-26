@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.shadowOffsetY
 slug: Web/API/OffscreenCanvasRenderingContext2D/shadowOffsetY
 tags:
-  - API
   - Property
   - Reference
-  - shadowOffsetY
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.shadowOffsetY
 ---
 {{DefaultAPISidebar("")}}

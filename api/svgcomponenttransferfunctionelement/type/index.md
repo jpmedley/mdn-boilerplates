@@ -2,11 +2,8 @@
 title: SVGComponentTransferFunctionElement.type
 slug: Web/API/SVGComponentTransferFunctionElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - SVGComponentTransferFunctionElement
 browser-compat: api.SVGComponentTransferFunctionElement.type
 ---
 {{DefaultAPISidebar("")}}

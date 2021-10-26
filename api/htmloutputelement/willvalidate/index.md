@@ -2,11 +2,8 @@
 title: HTMLOutputElement.willValidate
 slug: Web/API/HTMLOutputElement/willValidate
 tags:
-  - API
   - Property
   - Reference
-  - willValidate
-  - HTMLOutputElement
 browser-compat: api.HTMLOutputElement.willValidate
 ---
 {{DefaultAPISidebar("")}}

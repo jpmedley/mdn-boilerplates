@@ -2,11 +2,8 @@
 title: HTMLInputElement.formMethod
 slug: Web/API/HTMLInputElement/formMethod
 tags:
-  - API
   - Property
   - Reference
-  - formMethod
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.formMethod
 ---
 {{DefaultAPISidebar("")}}

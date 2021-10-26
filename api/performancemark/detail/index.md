@@ -2,11 +2,8 @@
 title: PerformanceMark.detail
 slug: Web/API/PerformanceMark/detail
 tags:
-  - API
   - Property
   - Reference
-  - detail
-  - PerformanceMark
 browser-compat: api.PerformanceMark.detail
 ---
 {{DefaultAPISidebar("")}}

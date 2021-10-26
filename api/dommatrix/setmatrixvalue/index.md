@@ -2,11 +2,8 @@
 title: DOMMatrix.setMatrixValue()
 slug: Web/API/DOMMatrix/setMatrixValue
 tags:
-  - API
   - Method
   - Reference
-  - setMatrixValue
-  - DOMMatrix
 browser-compat: api.DOMMatrix.setMatrixValue
 ---
 {{DefaultAPISidebar("")}}

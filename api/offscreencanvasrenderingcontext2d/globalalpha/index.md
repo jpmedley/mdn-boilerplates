@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.globalAlpha
 slug: Web/API/OffscreenCanvasRenderingContext2D/globalAlpha
 tags:
-  - API
   - Property
   - Reference
-  - globalAlpha
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.globalAlpha
 ---
 {{DefaultAPISidebar("")}}

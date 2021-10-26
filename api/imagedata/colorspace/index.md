@@ -2,11 +2,8 @@
 title: ImageData.colorSpace
 slug: Web/API/ImageData/colorSpace
 tags:
-  - API
   - Property
   - Reference
-  - colorSpace
-  - ImageData
 browser-compat: api.ImageData.colorSpace
 ---
 {{DefaultAPISidebar("")}}

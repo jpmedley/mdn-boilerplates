@@ -2,11 +2,8 @@
 title: SVGFESpecularLightingElement.specularExponent
 slug: Web/API/SVGFESpecularLightingElement/specularExponent
 tags:
-  - API
   - Property
   - Reference
-  - specularExponent
-  - SVGFESpecularLightingElement
 browser-compat: api.SVGFESpecularLightingElement.specularExponent
 ---
 {{DefaultAPISidebar("")}}

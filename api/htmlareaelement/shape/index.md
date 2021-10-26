@@ -2,11 +2,8 @@
 title: HTMLAreaElement.shape
 slug: Web/API/HTMLAreaElement/shape
 tags:
-  - API
   - Property
   - Reference
-  - shape
-  - HTMLAreaElement
 browser-compat: api.HTMLAreaElement.shape
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: OESDrawBuffersIndexed
 slug: Web/API/OESDrawBuffersIndexed
 tags:
-  - API
   - Interface
   - Reference
-  - OESDrawBuffersIndexed
 browser-compat: api.OESDrawBuffersIndexed
 ---
 {{DefaultAPISidebar("")}}

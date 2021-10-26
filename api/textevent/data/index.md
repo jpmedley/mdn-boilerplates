@@ -2,11 +2,8 @@
 title: TextEvent.data
 slug: Web/API/TextEvent/data
 tags:
-  - API
   - Property
   - Reference
-  - data
-  - TextEvent
 browser-compat: api.TextEvent.data
 ---
 {{DefaultAPISidebar("")}}

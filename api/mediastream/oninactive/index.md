@@ -2,11 +2,8 @@
 title: MediaStream.oninactive
 slug: Web/API/MediaStream/oninactive
 tags:
-  - API
   - Property
   - Reference
-  - oninactive
-  - MediaStream
 browser-compat: api.MediaStream.oninactive
 ---
 {{DefaultAPISidebar("")}}

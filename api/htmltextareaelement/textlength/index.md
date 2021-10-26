@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.textLength
 slug: Web/API/HTMLTextAreaElement/textLength
 tags:
-  - API
   - Property
   - Reference
-  - textLength
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.textLength
 ---
 {{DefaultAPISidebar("")}}

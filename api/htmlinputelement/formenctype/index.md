@@ -2,11 +2,8 @@
 title: HTMLInputElement.formEnctype
 slug: Web/API/HTMLInputElement/formEnctype
 tags:
-  - API
   - Property
   - Reference
-  - formEnctype
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.formEnctype
 ---
 {{DefaultAPISidebar("")}}

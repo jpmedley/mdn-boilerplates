@@ -2,11 +2,8 @@
 title: HTMLSelectElement.length
 slug: Web/API/HTMLSelectElement/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - HTMLSelectElement
 browser-compat: api.HTMLSelectElement.length
 ---
 {{DefaultAPISidebar("")}}

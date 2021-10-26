@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.strokeText()
 slug: Web/API/OffscreenCanvasRenderingContext2D/strokeText
 tags:
-  - API
   - Method
   - Reference
-  - strokeText
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.strokeText
 ---
 {{DefaultAPISidebar("")}}

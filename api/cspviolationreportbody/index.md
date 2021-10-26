@@ -2,10 +2,8 @@
 title: CSPViolationReportBody
 slug: Web/API/CSPViolationReportBody
 tags:
-  - API
   - Interface
   - Reference
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody
 ---
 {{DefaultAPISidebar("")}}

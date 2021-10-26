@@ -2,11 +2,8 @@
 title: HTMLInputElement.required
 slug: Web/API/HTMLInputElement/required
 tags:
-  - API
   - Property
   - Reference
-  - required
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.required
 ---
 {{DefaultAPISidebar("")}}

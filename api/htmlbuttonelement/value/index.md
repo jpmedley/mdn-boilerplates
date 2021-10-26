@@ -2,11 +2,8 @@
 title: HTMLButtonElement.value
 slug: Web/API/HTMLButtonElement/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.value
 ---
 {{DefaultAPISidebar("")}}

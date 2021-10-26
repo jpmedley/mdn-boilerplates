@@ -2,11 +2,8 @@
 title: PermissionsPolicyViolationReportBody.disposition
 slug: Web/API/PermissionsPolicyViolationReportBody/disposition
 tags:
-  - API
   - Property
   - Reference
-  - disposition
-  - PermissionsPolicyViolationReportBody
 browser-compat: api.PermissionsPolicyViolationReportBody.disposition
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLCanvasElement.convertToBlob()
 slug: Web/API/HTMLCanvasElement/convertToBlob
 tags:
-  - API
   - Method
   - Reference
-  - convertToBlob
-  - HTMLCanvasElement
 browser-compat: api.HTMLCanvasElement.convertToBlob
 ---
 {{DefaultAPISidebar("")}}

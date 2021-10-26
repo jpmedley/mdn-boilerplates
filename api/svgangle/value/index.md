@@ -2,11 +2,8 @@
 title: SVGAngle.value
 slug: Web/API/SVGAngle/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - SVGAngle
 browser-compat: api.SVGAngle.value
 ---
 {{DefaultAPISidebar("")}}

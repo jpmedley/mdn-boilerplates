@@ -2,11 +2,8 @@
 title: Request.signal
 slug: Web/API/Request/signal
 tags:
-  - API
   - Property
   - Reference
-  - signal
-  - Request
 browser-compat: api.Request.signal
 ---
 {{DefaultAPISidebar("")}}

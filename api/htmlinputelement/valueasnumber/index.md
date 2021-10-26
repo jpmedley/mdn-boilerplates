@@ -2,11 +2,8 @@
 title: HTMLInputElement.valueAsNumber
 slug: Web/API/HTMLInputElement/valueAsNumber
 tags:
-  - API
   - Property
   - Reference
-  - valueAsNumber
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.valueAsNumber
 ---
 {{DefaultAPISidebar("")}}

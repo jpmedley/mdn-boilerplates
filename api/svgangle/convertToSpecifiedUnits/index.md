@@ -2,11 +2,8 @@
 title: SVGAngle.convertToSpecifiedUnits()
 slug: Web/API/SVGAngle/convertToSpecifiedUnits
 tags:
-  - API
   - Method
   - Reference
-  - convertToSpecifiedUnits
-  - SVGAngle
 browser-compat: api.SVGAngle.convertToSpecifiedUnits
 ---
 {{DefaultAPISidebar("")}}

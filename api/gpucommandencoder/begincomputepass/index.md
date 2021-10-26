@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.beginComputePass()
 slug: Web/API/GPUCommandEncoder/beginComputePass
 tags:
-  - API
   - Method
   - Reference
-  - beginComputePass
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.beginComputePass
 ---
 {{DefaultAPISidebar("")}}

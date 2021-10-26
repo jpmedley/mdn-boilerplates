@@ -2,11 +2,8 @@
 title: VirtualKeyboard.ongeometrychange
 slug: Web/API/VirtualKeyboard/ongeometrychange
 tags:
-  - API
   - Property
   - Reference
-  - ongeometrychange
-  - VirtualKeyboard
 browser-compat: api.VirtualKeyboard.ongeometrychange
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

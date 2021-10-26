@@ -2,10 +2,8 @@
 title: WorkletGlobalScope
 slug: Web/API/WorkletGlobalScope
 tags:
-  - API
   - Interface
   - Reference
-  - WorkletGlobalScope
 browser-compat: api.WorkletGlobalScope
 ---
 {{DefaultAPISidebar("")}}

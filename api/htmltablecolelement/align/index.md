@@ -2,11 +2,8 @@
 title: HTMLTableColElement.align
 slug: Web/API/HTMLTableColElement/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - HTMLTableColElement
 browser-compat: api.HTMLTableColElement.align
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: MutationRecord.nextSibling
 slug: Web/API/MutationRecord/nextSibling
 tags:
-  - API
   - Property
   - Reference
-  - nextSibling
-  - MutationRecord
 browser-compat: api.MutationRecord.nextSibling
 ---
 {{DefaultAPISidebar("")}}

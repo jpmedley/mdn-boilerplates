@@ -2,11 +2,8 @@
 title: HTMLInputElement.src
 slug: Web/API/HTMLInputElement/src
 tags:
-  - API
   - Property
   - Reference
-  - src
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.src
 ---
 {{DefaultAPISidebar("")}}

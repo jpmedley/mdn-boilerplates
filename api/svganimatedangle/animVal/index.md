@@ -2,11 +2,8 @@
 title: SVGAnimatedAngle.animVal
 slug: Web/API/SVGAnimatedAngle/animVal
 tags:
-  - API
   - Property
   - Reference
-  - animVal
-  - SVGAnimatedAngle
 browser-compat: api.SVGAnimatedAngle.animVal
 ---
 {{DefaultAPISidebar("")}}

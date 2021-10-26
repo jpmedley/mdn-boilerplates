@@ -2,11 +2,8 @@
 title: HTMLFrameSetElement.onload
 slug: Web/API/HTMLFrameSetElement/onload
 tags:
-  - API
   - Property
   - Reference
-  - onload
-  - HTMLFrameSetElement
 browser-compat: api.HTMLFrameSetElement.onload
 ---
 {{DefaultAPISidebar("")}}

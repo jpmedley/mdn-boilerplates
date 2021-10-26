@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.value
 slug: Web/API/HTMLTextAreaElement/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.value
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGAnimationElement.getStartTime()
 slug: Web/API/SVGAnimationElement/getStartTime
 tags:
-  - API
   - Method
   - Reference
-  - getStartTime
-  - SVGAnimationElement
 browser-compat: api.SVGAnimationElement.getStartTime
 ---
 {{DefaultAPISidebar("")}}

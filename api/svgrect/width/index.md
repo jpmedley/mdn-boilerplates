@@ -2,11 +2,8 @@
 title: SVGRect.width
 slug: Web/API/SVGRect/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - SVGRect
 browser-compat: api.SVGRect.width
 ---
 {{DefaultAPISidebar("")}}

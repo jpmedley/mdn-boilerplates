@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.validationMessage
 slug: Web/API/HTMLTextAreaElement/validationMessage
 tags:
-  - API
   - Property
   - Reference
-  - validationMessage
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.validationMessage
 ---
 {{DefaultAPISidebar("")}}

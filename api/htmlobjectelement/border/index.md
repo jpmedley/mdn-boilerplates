@@ -2,11 +2,8 @@
 title: HTMLObjectElement.border
 slug: Web/API/HTMLObjectElement/border
 tags:
-  - API
   - Property
   - Reference
-  - border
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.border
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.rotate()
 slug: Web/API/PaintRenderingContext2D/rotate
 tags:
-  - API
   - Method
   - Reference
-  - rotate
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.rotate
 ---
 {{DefaultAPISidebar("")}}

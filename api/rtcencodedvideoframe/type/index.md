@@ -2,11 +2,8 @@
 title: RTCEncodedVideoFrame.type
 slug: Web/API/RTCEncodedVideoFrame/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - RTCEncodedVideoFrame
 browser-compat: api.RTCEncodedVideoFrame.type
 ---
 {{DefaultAPISidebar("")}}

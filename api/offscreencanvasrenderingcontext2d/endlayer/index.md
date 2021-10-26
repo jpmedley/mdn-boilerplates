@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.endLayer()
 slug: Web/API/OffscreenCanvasRenderingContext2D/endLayer
 tags:
-  - API
   - Method
   - Reference
-  - endLayer
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.endLayer
 ---
 {{DefaultAPISidebar("")}}

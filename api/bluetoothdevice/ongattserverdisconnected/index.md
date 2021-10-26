@@ -2,11 +2,8 @@
 title: BluetoothDevice.ongattserverdisconnected
 slug: Web/API/BluetoothDevice/ongattserverdisconnected
 tags:
-  - API
   - Property
   - Reference
-  - ongattserverdisconnected
-  - BluetoothDevice
 browser-compat: api.BluetoothDevice.ongattserverdisconnected
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

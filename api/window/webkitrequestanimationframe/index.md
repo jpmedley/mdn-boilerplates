@@ -2,11 +2,8 @@
 title: Window.webkitRequestAnimationFrame()
 slug: Web/API/Window/webkitRequestAnimationFrame
 tags:
-  - API
   - Method
   - Reference
-  - webkitRequestAnimationFrame
-  - Window
 browser-compat: api.Window.webkitRequestAnimationFrame
 ---
 {{DefaultAPISidebar("")}}

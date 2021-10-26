@@ -2,11 +2,8 @@
 title: MediaDeviceInfo.toJSON()
 slug: Web/API/MediaDeviceInfo/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - MediaDeviceInfo
 browser-compat: api.MediaDeviceInfo.toJSON
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

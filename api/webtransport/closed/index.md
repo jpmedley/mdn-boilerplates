@@ -2,11 +2,8 @@
 title: WebTransport.closed
 slug: Web/API/WebTransport/closed
 tags:
-  - API
   - Property
   - Reference
-  - closed
-  - WebTransport
 browser-compat: api.WebTransport.closed
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Window.originAgentCluster
 slug: Web/API/Window/originAgentCluster
 tags:
-  - API
   - Property
   - Reference
-  - originAgentCluster
-  - Window
 browser-compat: api.Window.originAgentCluster
 ---
 {{DefaultAPISidebar("")}}

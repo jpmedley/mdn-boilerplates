@@ -2,11 +2,8 @@
 title: ServiceWorkerRegistration.paymentManager
 slug: Web/API/ServiceWorkerRegistration/paymentManager
 tags:
-  - API
   - Property
   - Reference
-  - paymentManager
-  - ServiceWorkerRegistration
 browser-compat: api.ServiceWorkerRegistration.paymentManager
 ---
 {{DefaultAPISidebar("")}}

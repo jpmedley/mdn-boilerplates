@@ -2,11 +2,8 @@
 title: SVGFETurbulenceElement.seed
 slug: Web/API/SVGFETurbulenceElement/seed
 tags:
-  - API
   - Property
   - Reference
-  - seed
-  - SVGFETurbulenceElement
 browser-compat: api.SVGFETurbulenceElement.seed
 ---
 {{DefaultAPISidebar("")}}

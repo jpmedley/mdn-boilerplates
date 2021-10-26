@@ -2,11 +2,8 @@
 title: SVGUseElement.x
 slug: Web/API/SVGUseElement/x
 tags:
-  - API
   - Property
   - Reference
-  - x
-  - SVGUseElement
 browser-compat: api.SVGUseElement.x
 ---
 {{DefaultAPISidebar("")}}

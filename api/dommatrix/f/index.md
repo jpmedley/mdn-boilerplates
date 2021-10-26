@@ -2,11 +2,8 @@
 title: DOMMatrix.f
 slug: Web/API/DOMMatrix/f
 tags:
-  - API
   - Property
   - Reference
-  - f
-  - DOMMatrix
 browser-compat: api.DOMMatrix.f
 ---
 {{DefaultAPISidebar("")}}

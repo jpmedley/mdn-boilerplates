@@ -2,11 +2,8 @@
 title: VirtualKeyboard.boundingRect
 slug: Web/API/VirtualKeyboard/boundingRect
 tags:
-  - API
   - Property
   - Reference
-  - boundingRect
-  - VirtualKeyboard
 browser-compat: api.VirtualKeyboard.boundingRect
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: PermissionsPolicyViolationReportBody.featureId
 slug: Web/API/PermissionsPolicyViolationReportBody/featureId
 tags:
-  - API
   - Property
   - Reference
-  - featureId
-  - PermissionsPolicyViolationReportBody
 browser-compat: api.PermissionsPolicyViolationReportBody.featureId
 ---
 {{DefaultAPISidebar("")}}

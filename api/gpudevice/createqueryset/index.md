@@ -2,11 +2,8 @@
 title: GPUDevice.createQuerySet()
 slug: Web/API/GPUDevice/createQuerySet
 tags:
-  - API
   - Method
   - Reference
-  - createQuerySet
-  - GPUDevice
 browser-compat: api.GPUDevice.createQuerySet
 ---
 {{DefaultAPISidebar("")}}

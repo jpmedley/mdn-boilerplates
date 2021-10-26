@@ -2,11 +2,8 @@
 title: RTCStatsReport.size()
 slug: Web/API/RTCStatsReport/size
 tags:
-  - API
   - Method
   - Reference
-  - size
-  - RTCStatsReport
 browser-compat: api.RTCStatsReport.size
 ---
 {{DefaultAPISidebar("")}}

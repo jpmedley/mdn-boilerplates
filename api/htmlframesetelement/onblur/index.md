@@ -2,11 +2,8 @@
 title: HTMLFrameSetElement.onblur
 slug: Web/API/HTMLFrameSetElement/onblur
 tags:
-  - API
   - Property
   - Reference
-  - onblur
-  - HTMLFrameSetElement
 browser-compat: api.HTMLFrameSetElement.onblur
 ---
 {{DefaultAPISidebar("")}}

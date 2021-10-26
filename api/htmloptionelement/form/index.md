@@ -2,11 +2,8 @@
 title: HTMLOptionElement.form
 slug: Web/API/HTMLOptionElement/form
 tags:
-  - API
   - Property
   - Reference
-  - form
-  - HTMLOptionElement
 browser-compat: api.HTMLOptionElement.form
 ---
 {{DefaultAPISidebar("")}}

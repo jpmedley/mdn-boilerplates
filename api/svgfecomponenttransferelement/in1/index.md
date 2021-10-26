@@ -2,11 +2,8 @@
 title: SVGFEComponentTransferElement.in1
 slug: Web/API/SVGFEComponentTransferElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEComponentTransferElement
 browser-compat: api.SVGFEComponentTransferElement.in1
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: GPUBuffer.getMappedRange()
 slug: Web/API/GPUBuffer/getMappedRange
 tags:
-  - API
   - Method
   - Reference
-  - getMappedRange
-  - GPUBuffer
 browser-compat: api.GPUBuffer.getMappedRange
 ---
 {{DefaultAPISidebar("")}}

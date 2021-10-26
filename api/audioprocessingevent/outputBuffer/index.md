@@ -2,11 +2,8 @@
 title: AudioProcessingEvent.outputBuffer
 slug: Web/API/AudioProcessingEvent/outputBuffer
 tags:
-  - API
   - Property
   - Reference
-  - outputBuffer
-  - AudioProcessingEvent
 browser-compat: api.AudioProcessingEvent.outputBuffer
 ---
 {{DefaultAPISidebar("")}}

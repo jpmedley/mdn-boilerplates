@@ -2,11 +2,8 @@
 title: TaskController.setPriority()
 slug: Web/API/TaskController/setPriority
 tags:
-  - API
   - Method
   - Reference
-  - setPriority
-  - TaskController
 browser-compat: api.TaskController.setPriority
 ---
 {{DefaultAPISidebar("")}}

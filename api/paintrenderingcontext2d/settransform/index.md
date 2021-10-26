@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.setTransform()
 slug: Web/API/PaintRenderingContext2D/setTransform
 tags:
-  - API
   - Method
   - Reference
-  - setTransform
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.setTransform
 ---
 {{DefaultAPISidebar("")}}

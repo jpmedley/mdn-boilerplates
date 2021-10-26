@@ -2,11 +2,8 @@
 title: SourceBuffer.onupdateend
 slug: Web/API/SourceBuffer/onupdateend
 tags:
-  - API
   - Property
   - Reference
-  - onupdateend
-  - SourceBuffer
 browser-compat: api.SourceBuffer.onupdateend
 ---
 {{DefaultAPISidebar("")}}

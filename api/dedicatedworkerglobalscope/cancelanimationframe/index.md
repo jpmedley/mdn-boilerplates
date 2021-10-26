@@ -2,11 +2,8 @@
 title: DedicatedWorkerGlobalScope.cancelAnimationFrame()
 slug: Web/API/DedicatedWorkerGlobalScope/cancelAnimationFrame
 tags:
-  - API
   - Method
   - Reference
-  - cancelAnimationFrame
-  - DedicatedWorkerGlobalScope
 browser-compat: api.DedicatedWorkerGlobalScope.cancelAnimationFrame
 ---
 {{DefaultAPISidebar("")}}

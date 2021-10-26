@@ -2,11 +2,8 @@
 title: DirectoryEntry.getFile()
 slug: Web/API/DirectoryEntry/getFile
 tags:
-  - API
   - Method
   - Reference
-  - getFile
-  - DirectoryEntry
 browser-compat: api.DirectoryEntry.getFile
 ---
 {{DefaultAPISidebar("")}}

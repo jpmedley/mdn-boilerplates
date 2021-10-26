@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.imageSmoothingQuality
 slug: Web/API/OffscreenCanvasRenderingContext2D/imageSmoothingQuality
 tags:
-  - API
   - Property
   - Reference
-  - imageSmoothingQuality
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.imageSmoothingQuality
 ---
 {{DefaultAPISidebar("")}}

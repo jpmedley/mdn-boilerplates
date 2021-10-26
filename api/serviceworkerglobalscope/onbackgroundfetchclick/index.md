@@ -2,11 +2,8 @@
 title: ServiceWorkerGlobalScope.onbackgroundfetchclick
 slug: Web/API/ServiceWorkerGlobalScope/onbackgroundfetchclick
 tags:
-  - API
   - Property
   - Reference
-  - onbackgroundfetchclick
-  - ServiceWorkerGlobalScope
 browser-compat: api.ServiceWorkerGlobalScope.onbackgroundfetchclick
 ---
 {{DefaultAPISidebar("")}}

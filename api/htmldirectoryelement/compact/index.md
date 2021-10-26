@@ -2,11 +2,8 @@
 title: HTMLDirectoryElement.compact
 slug: Web/API/HTMLDirectoryElement/compact
 tags:
-  - API
   - Property
   - Reference
-  - compact
-  - HTMLDirectoryElement
 browser-compat: api.HTMLDirectoryElement.compact
 ---
 {{DefaultAPISidebar("")}}

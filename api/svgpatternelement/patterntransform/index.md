@@ -2,11 +2,8 @@
 title: SVGPatternElement.patternTransform
 slug: Web/API/SVGPatternElement/patternTransform
 tags:
-  - API
   - Property
   - Reference
-  - patternTransform
-  - SVGPatternElement
 browser-compat: api.SVGPatternElement.patternTransform
 ---
 {{DefaultAPISidebar("")}}

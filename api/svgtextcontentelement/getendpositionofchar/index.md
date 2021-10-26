@@ -2,11 +2,8 @@
 title: SVGTextContentElement.getEndPositionOfChar()
 slug: Web/API/SVGTextContentElement/getEndPositionOfChar
 tags:
-  - API
   - Method
   - Reference
-  - getEndPositionOfChar
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.getEndPositionOfChar
 ---
 {{DefaultAPISidebar("")}}

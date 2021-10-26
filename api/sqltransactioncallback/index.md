@@ -2,10 +2,8 @@
 title: SQLTransactionCallback
 slug: Web/API/SQLTransactionCallback
 tags:
-  - API
   - Interface
   - Reference
-  - SQLTransactionCallback
 browser-compat: api.SQLTransactionCallback
 ---
 {{DefaultAPISidebar("")}}

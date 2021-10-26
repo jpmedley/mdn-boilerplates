@@ -2,11 +2,8 @@
 title: MIDIOutputMap.size()
 slug: Web/API/MIDIOutputMap/size
 tags:
-  - API
   - Method
   - Reference
-  - size
-  - MIDIOutputMap
 browser-compat: api.MIDIOutputMap.size
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Plugin.namedItem()
 slug: Web/API/Plugin/namedItem
 tags:
-  - API
   - Method
   - Reference
-  - namedItem
-  - Plugin
 browser-compat: api.Plugin.namedItem
 ---
 {{DefaultAPISidebar("")}}

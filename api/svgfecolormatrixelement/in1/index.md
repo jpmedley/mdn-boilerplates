@@ -2,11 +2,8 @@
 title: SVGFEColorMatrixElement.in1
 slug: Web/API/SVGFEColorMatrixElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEColorMatrixElement
 browser-compat: api.SVGFEColorMatrixElement.in1
 ---
 {{DefaultAPISidebar("")}}

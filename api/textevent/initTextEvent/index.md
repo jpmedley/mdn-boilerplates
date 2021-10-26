@@ -2,11 +2,8 @@
 title: TextEvent.initTextEvent()
 slug: Web/API/TextEvent/initTextEvent
 tags:
-  - API
   - Method
   - Reference
-  - initTextEvent
-  - TextEvent
 browser-compat: api.TextEvent.initTextEvent
 ---
 {{DefaultAPISidebar("")}}

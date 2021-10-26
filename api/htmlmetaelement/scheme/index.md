@@ -2,11 +2,8 @@
 title: HTMLMetaElement.scheme
 slug: Web/API/HTMLMetaElement/scheme
 tags:
-  - API
   - Property
   - Reference
-  - scheme
-  - HTMLMetaElement
 browser-compat: api.HTMLMetaElement.scheme
 ---
 {{DefaultAPISidebar("")}}

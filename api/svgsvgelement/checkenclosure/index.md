@@ -2,11 +2,8 @@
 title: SVGSVGElement.checkEnclosure()
 slug: Web/API/SVGSVGElement/checkEnclosure
 tags:
-  - API
   - Method
   - Reference
-  - checkEnclosure
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.checkEnclosure
 ---
 {{DefaultAPISidebar("")}}

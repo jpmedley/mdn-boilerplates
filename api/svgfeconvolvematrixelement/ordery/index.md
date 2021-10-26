@@ -2,11 +2,8 @@
 title: SVGFEConvolveMatrixElement.orderY
 slug: Web/API/SVGFEConvolveMatrixElement/orderY
 tags:
-  - API
   - Property
   - Reference
-  - orderY
-  - SVGFEConvolveMatrixElement
 browser-compat: api.SVGFEConvolveMatrixElement.orderY
 ---
 {{DefaultAPISidebar("")}}

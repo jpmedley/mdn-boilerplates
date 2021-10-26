@@ -2,11 +2,8 @@
 title: SVGTextContentElement.getExtentOfChar()
 slug: Web/API/SVGTextContentElement/getExtentOfChar
 tags:
-  - API
   - Method
   - Reference
-  - getExtentOfChar
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.getExtentOfChar
 ---
 {{DefaultAPISidebar("")}}

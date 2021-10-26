@@ -2,11 +2,8 @@
 title: Element.webkitRequestFullscreen()
 slug: Web/API/Element/webkitRequestFullscreen
 tags:
-  - API
   - Method
   - Reference
-  - webkitRequestFullscreen
-  - Element
 browser-compat: api.Element.webkitRequestFullscreen
 ---
 {{DefaultAPISidebar("")}}

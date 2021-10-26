@@ -2,11 +2,8 @@
 title: HTMLLegendElement.form
 slug: Web/API/HTMLLegendElement/form
 tags:
-  - API
   - Property
   - Reference
-  - form
-  - HTMLLegendElement
 browser-compat: api.HTMLLegendElement.form
 ---
 {{DefaultAPISidebar("")}}

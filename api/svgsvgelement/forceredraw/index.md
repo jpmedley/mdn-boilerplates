@@ -2,11 +2,8 @@
 title: SVGSVGElement.forceRedraw()
 slug: Web/API/SVGSVGElement/forceRedraw
 tags:
-  - API
   - Method
   - Reference
-  - forceRedraw
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.forceRedraw
 ---
 {{DefaultAPISidebar("")}}

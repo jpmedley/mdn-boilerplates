@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.m44
 slug: Web/API/DOMMatrixReadOnly/m44
 tags:
-  - API
   - Property
   - Reference
-  - m44
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.m44
 ---
 {{DefaultAPISidebar("")}}

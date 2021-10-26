@@ -2,11 +2,8 @@
 title: OverconstrainedError.message
 slug: Web/API/OverconstrainedError/message
 tags:
-  - API
   - Property
   - Reference
-  - message
-  - OverconstrainedError
 browser-compat: api.OverconstrainedError.message
 ---
 {{DefaultAPISidebar("")}}

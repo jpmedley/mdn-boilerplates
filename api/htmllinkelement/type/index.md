@@ -2,11 +2,8 @@
 title: HTMLLinkElement.type
 slug: Web/API/HTMLLinkElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.type
 ---
 {{DefaultAPISidebar("")}}

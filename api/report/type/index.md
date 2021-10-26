@@ -2,11 +2,8 @@
 title: Report.type
 slug: Web/API/Report/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - Report
 browser-compat: api.Report.type
 ---
 {{DefaultAPISidebar("")}}

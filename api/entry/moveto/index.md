@@ -2,11 +2,8 @@
 title: Entry.moveTo()
 slug: Web/API/Entry/moveTo
 tags:
-  - API
   - Method
   - Reference
-  - moveTo
-  - Entry
 browser-compat: api.Entry.moveTo
 ---
 {{DefaultAPISidebar("")}}

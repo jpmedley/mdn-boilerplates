@@ -2,10 +2,8 @@
 title: PortalActivateEvent.PortalActivateEvent()
 slug: Web/API/PortalActivateEvent/PortalActivateEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - PortalActivateEvent
 browser-compat: api.PortalActivateEvent.PortalActivateEvent
 ---
 {{DefaultAPISidebar("")}}

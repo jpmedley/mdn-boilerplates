@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.flipY()
 slug: Web/API/DOMMatrixReadOnly/flipY
 tags:
-  - API
   - Method
   - Reference
-  - flipY
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.flipY
 ---
 {{DefaultAPISidebar("")}}

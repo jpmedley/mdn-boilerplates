@@ -2,11 +2,8 @@
 title: SVGRadialGradientElement.fr
 slug: Web/API/SVGRadialGradientElement/fr
 tags:
-  - API
   - Property
   - Reference
-  - fr
-  - SVGRadialGradientElement
 browser-compat: api.SVGRadialGradientElement.fr
 ---
 {{DefaultAPISidebar("")}}

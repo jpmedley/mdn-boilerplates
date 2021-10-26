@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.willValidate
 slug: Web/API/HTMLTextAreaElement/willValidate
 tags:
-  - API
   - Property
   - Reference
-  - willValidate
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.willValidate
 ---
 {{DefaultAPISidebar("")}}

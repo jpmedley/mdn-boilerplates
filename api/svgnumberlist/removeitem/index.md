@@ -2,11 +2,8 @@
 title: SVGNumberList.removeItem()
 slug: Web/API/SVGNumberList/removeItem
 tags:
-  - API
   - Method
   - Reference
-  - removeItem
-  - SVGNumberList
 browser-compat: api.SVGNumberList.removeItem
 ---
 {{DefaultAPISidebar("")}}

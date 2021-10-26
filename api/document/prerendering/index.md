@@ -2,11 +2,8 @@
 title: Document.prerendering
 slug: Web/API/Document/prerendering
 tags:
-  - API
   - Property
   - Reference
-  - prerendering
-  - Document
 browser-compat: api.Document.prerendering
 ---
 {{DefaultAPISidebar("")}}

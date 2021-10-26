@@ -2,11 +2,8 @@
 title: USBAlternateInterface.interfaceName
 slug: Web/API/USBAlternateInterface/interfaceName
 tags:
-  - API
   - Property
   - Reference
-  - interfaceName
-  - USBAlternateInterface
 browser-compat: api.USBAlternateInterface.interfaceName
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

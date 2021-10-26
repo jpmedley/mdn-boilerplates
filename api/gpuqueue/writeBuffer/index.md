@@ -2,11 +2,8 @@
 title: GPUQueue.writeBuffer()
 slug: Web/API/GPUQueue/writeBuffer
 tags:
-  - API
   - Method
   - Reference
-  - writeBuffer
-  - GPUQueue
 browser-compat: api.GPUQueue.writeBuffer
 ---
 {{DefaultAPISidebar("")}}

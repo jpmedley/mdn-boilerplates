@@ -2,11 +2,8 @@
 title: SVGStyleElement.title
 slug: Web/API/SVGStyleElement/title
 tags:
-  - API
   - Property
   - Reference
-  - title
-  - SVGStyleElement
 browser-compat: api.SVGStyleElement.title
 ---
 {{DefaultAPISidebar("")}}

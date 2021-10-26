@@ -2,11 +2,8 @@
 title: SVGFEImageElement.preserveAspectRatio
 slug: Web/API/SVGFEImageElement/preserveAspectRatio
 tags:
-  - API
   - Property
   - Reference
-  - preserveAspectRatio
-  - SVGFEImageElement
 browser-compat: api.SVGFEImageElement.preserveAspectRatio
 ---
 {{DefaultAPISidebar("")}}

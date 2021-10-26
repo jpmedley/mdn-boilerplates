@@ -2,11 +2,8 @@
 title: Window.portalHost
 slug: Web/API/Window/portalHost
 tags:
-  - API
   - Property
   - Reference
-  - portalHost
-  - Window
 browser-compat: api.Window.portalHost
 ---
 {{DefaultAPISidebar("")}}

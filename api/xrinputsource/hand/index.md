@@ -2,11 +2,8 @@
 title: XRInputSource.hand
 slug: Web/API/XRInputSource/hand
 tags:
-  - API
   - Property
   - Reference
-  - hand
-  - XRInputSource
 browser-compat: api.XRInputSource.hand
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

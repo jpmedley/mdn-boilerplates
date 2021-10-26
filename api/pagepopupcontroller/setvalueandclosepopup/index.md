@@ -2,11 +2,8 @@
 title: PagePopupController.setValueAndClosePopup()
 slug: Web/API/PagePopupController/setValueAndClosePopup
 tags:
-  - API
   - Method
   - Reference
-  - setValueAndClosePopup
-  - PagePopupController
 browser-compat: api.PagePopupController.setValueAndClosePopup
 ---
 {{DefaultAPISidebar("")}}

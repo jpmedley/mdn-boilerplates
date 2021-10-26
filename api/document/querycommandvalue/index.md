@@ -2,11 +2,8 @@
 title: Document.queryCommandValue()
 slug: Web/API/Document/queryCommandValue
 tags:
-  - API
   - Method
   - Reference
-  - queryCommandValue
-  - Document
 browser-compat: api.Document.queryCommandValue
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLVideoElement.playsInline
 slug: Web/API/HTMLVideoElement/playsInline
 tags:
-  - API
   - Property
   - Reference
-  - playsInline
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.playsInline
 ---
 {{DefaultAPISidebar("")}}

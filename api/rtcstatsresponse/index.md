@@ -2,10 +2,8 @@
 title: RTCStatsResponse
 slug: Web/API/RTCStatsResponse
 tags:
-  - API
   - Interface
   - Reference
-  - RTCStatsResponse
 browser-compat: api.RTCStatsResponse
 ---
 {{DefaultAPISidebar("")}}

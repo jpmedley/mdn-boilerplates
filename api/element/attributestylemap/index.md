@@ -2,11 +2,8 @@
 title: Element.attributeStyleMap
 slug: Web/API/Element/attributeStyleMap
 tags:
-  - API
   - Property
   - Reference
-  - attributeStyleMap
-  - Element
 browser-compat: api.Element.attributeStyleMap
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: DelegatedInkTrailPresenter.presentationArea
 slug: Web/API/DelegatedInkTrailPresenter/presentationArea
 tags:
-  - API
   - Property
   - Reference
-  - presentationArea
-  - DelegatedInkTrailPresenter
 browser-compat: api.DelegatedInkTrailPresenter.presentationArea
 ---
 {{DefaultAPISidebar("")}}

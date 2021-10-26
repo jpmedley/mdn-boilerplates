@@ -2,11 +2,8 @@
 title: SVGRadialGradientElement.cy
 slug: Web/API/SVGRadialGradientElement/cy
 tags:
-  - API
   - Property
   - Reference
-  - cy
-  - SVGRadialGradientElement
 browser-compat: api.SVGRadialGradientElement.cy
 ---
 {{DefaultAPISidebar("")}}

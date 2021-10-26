@@ -2,11 +2,8 @@
 title: ScrollState.inInertialPhase
 slug: Web/API/ScrollState/inInertialPhase
 tags:
-  - API
   - Property
   - Reference
-  - inInertialPhase
-  - ScrollState
 browser-compat: api.ScrollState.inInertialPhase
 ---
 {{DefaultAPISidebar("")}}

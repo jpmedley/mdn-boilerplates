@@ -2,11 +2,8 @@
 title: ScrollState.fromUserInput
 slug: Web/API/ScrollState/fromUserInput
 tags:
-  - API
   - Property
   - Reference
-  - fromUserInput
-  - ScrollState
 browser-compat: api.ScrollState.fromUserInput
 ---
 {{DefaultAPISidebar("")}}

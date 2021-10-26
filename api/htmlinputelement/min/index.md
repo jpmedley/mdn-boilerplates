@@ -2,11 +2,8 @@
 title: HTMLInputElement.min
 slug: Web/API/HTMLInputElement/min
 tags:
-  - API
   - Property
   - Reference
-  - min
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.min
 ---
 {{DefaultAPISidebar("")}}

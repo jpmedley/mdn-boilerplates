@@ -2,11 +2,8 @@
 title: HTMLButtonElement.formTarget
 slug: Web/API/HTMLButtonElement/formTarget
 tags:
-  - API
   - Property
   - Reference
-  - formTarget
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.formTarget
 ---
 {{DefaultAPISidebar("")}}

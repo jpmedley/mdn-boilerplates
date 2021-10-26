@@ -2,11 +2,8 @@
 title: SVGTransform.setTranslate()
 slug: Web/API/SVGTransform/setTranslate
 tags:
-  - API
   - Method
   - Reference
-  - setTranslate
-  - SVGTransform
 browser-compat: api.SVGTransform.setTranslate
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Database.transaction()
 slug: Web/API/Database/transaction
 tags:
-  - API
   - Method
   - Reference
-  - transaction
-  - Database
 browser-compat: api.Database.transaction
 ---
 {{DefaultAPISidebar("")}}

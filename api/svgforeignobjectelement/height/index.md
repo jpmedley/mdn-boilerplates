@@ -2,11 +2,8 @@
 title: SVGForeignObjectElement.height
 slug: Web/API/SVGForeignObjectElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - SVGForeignObjectElement
 browser-compat: api.SVGForeignObjectElement.height
 ---
 {{DefaultAPISidebar("")}}

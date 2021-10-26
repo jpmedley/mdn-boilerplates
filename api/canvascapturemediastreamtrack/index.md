@@ -2,11 +2,8 @@
 title: CanvasCaptureMediaStreamTrack.()
 slug: Web/API/CanvasCaptureMediaStreamTrack/
 tags:
-  - API
   - Method
   - Reference
-  - 
-  - CanvasCaptureMediaStreamTrack
 browser-compat: api.CanvasCaptureMediaStreamTrack.
 ---
 {{DefaultAPISidebar("")}}

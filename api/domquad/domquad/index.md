@@ -2,10 +2,8 @@
 title: DOMQuad.DOMQuad()
 slug: Web/API/DOMQuad/DOMQuad
 tags:
-  - API
   - Constructor
   - Reference
-  - DOMQuad
 browser-compat: api.DOMQuad.DOMQuad
 ---
 {{DefaultAPISidebar("")}}

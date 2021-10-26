@@ -2,11 +2,8 @@
 title: SVGTransformList.clear()
 slug: Web/API/SVGTransformList/clear
 tags:
-  - API
   - Method
   - Reference
-  - clear
-  - SVGTransformList
 browser-compat: api.SVGTransformList.clear
 ---
 {{DefaultAPISidebar("")}}

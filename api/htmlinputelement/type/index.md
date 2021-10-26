@@ -2,11 +2,8 @@
 title: HTMLInputElement.type
 slug: Web/API/HTMLInputElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.type
 ---
 {{DefaultAPISidebar("")}}

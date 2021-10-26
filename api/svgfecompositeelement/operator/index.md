@@ -2,11 +2,8 @@
 title: SVGFECompositeElement.operator
 slug: Web/API/SVGFECompositeElement/operator
 tags:
-  - API
   - Property
   - Reference
-  - operator
-  - SVGFECompositeElement
 browser-compat: api.SVGFECompositeElement.operator
 ---
 {{DefaultAPISidebar("")}}

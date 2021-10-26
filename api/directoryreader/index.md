@@ -2,10 +2,8 @@
 title: DirectoryReader
 slug: Web/API/DirectoryReader
 tags:
-  - API
   - Interface
   - Reference
-  - DirectoryReader
 browser-compat: api.DirectoryReader
 ---
 {{DefaultAPISidebar("")}}

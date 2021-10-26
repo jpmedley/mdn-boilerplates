@@ -2,11 +2,8 @@
 title: SVGMatrix.e
 slug: Web/API/SVGMatrix/e
 tags:
-  - API
   - Property
   - Reference
-  - e
-  - SVGMatrix
 browser-compat: api.SVGMatrix.e
 ---
 {{DefaultAPISidebar("")}}

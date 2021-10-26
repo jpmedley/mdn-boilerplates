@@ -2,11 +2,8 @@
 title: Attr.ownerElement
 slug: Web/API/Attr/ownerElement
 tags:
-  - API
   - Property
   - Reference
-  - ownerElement
-  - Attr
 browser-compat: api.Attr.ownerElement
 ---
 {{DefaultAPISidebar("")}}

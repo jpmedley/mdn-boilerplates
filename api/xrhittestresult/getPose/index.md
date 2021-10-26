@@ -2,11 +2,8 @@
 title: XRHitTestResult.getPose()
 slug: Web/API/XRHitTestResult/getPose
 tags:
-  - API
   - Method
   - Reference
-  - getPose
-  - XRHitTestResult
 browser-compat: api.XRHitTestResult.getPose
 ---
 {{DefaultAPISidebar("")}}

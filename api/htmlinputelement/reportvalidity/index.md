@@ -2,11 +2,8 @@
 title: HTMLInputElement.reportValidity()
 slug: Web/API/HTMLInputElement/reportValidity
 tags:
-  - API
   - Method
   - Reference
-  - reportValidity
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.reportValidity
 ---
 {{DefaultAPISidebar("")}}

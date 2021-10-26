@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.m32
 slug: Web/API/DOMMatrixReadOnly/m32
 tags:
-  - API
   - Property
   - Reference
-  - m32
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.m32
 ---
 {{DefaultAPISidebar("")}}

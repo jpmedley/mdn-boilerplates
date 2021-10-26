@@ -2,11 +2,8 @@
 title: DOMStringList.contains()
 slug: Web/API/DOMStringList/contains
 tags:
-  - API
   - Method
   - Reference
-  - contains
-  - DOMStringList
 browser-compat: api.DOMStringList.contains
 ---
 {{DefaultAPISidebar("")}}

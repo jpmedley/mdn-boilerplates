@@ -2,11 +2,8 @@
 title: DocumentPolicyViolationReportBody.message
 slug: Web/API/DocumentPolicyViolationReportBody/message
 tags:
-  - API
   - Property
   - Reference
-  - message
-  - DocumentPolicyViolationReportBody
 browser-compat: api.DocumentPolicyViolationReportBody.message
 ---
 {{DefaultAPISidebar("")}}

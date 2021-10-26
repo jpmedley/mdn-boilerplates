@@ -2,11 +2,8 @@
 title: SpeechGrammarList.addFromUri()
 slug: Web/API/SpeechGrammarList/addFromUri
 tags:
-  - API
   - Method
   - Reference
-  - addFromUri
-  - SpeechGrammarList
 browser-compat: api.SpeechGrammarList.addFromUri
 ---
 {{DefaultAPISidebar("")}}

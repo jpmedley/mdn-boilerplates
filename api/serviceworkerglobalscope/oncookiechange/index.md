@@ -2,11 +2,8 @@
 title: ServiceWorkerGlobalScope.oncookiechange
 slug: Web/API/ServiceWorkerGlobalScope/oncookiechange
 tags:
-  - API
   - Property
   - Reference
-  - oncookiechange
-  - ServiceWorkerGlobalScope
 browser-compat: api.ServiceWorkerGlobalScope.oncookiechange
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: IdleDetector.IdleDetector()
 slug: Web/API/IdleDetector/IdleDetector
 tags:
-  - API
   - Constructor
   - Reference
-  - IdleDetector
 browser-compat: api.IdleDetector.IdleDetector
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

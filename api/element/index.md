@@ -2,11 +2,8 @@
 title: Element.()
 slug: Web/API/Element/
 tags:
-  - API
   - Method
   - Reference
-  - 
-  - Element
 browser-compat: api.Element.
 ---
 {{DefaultAPISidebar("")}}

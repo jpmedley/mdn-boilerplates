@@ -2,11 +2,8 @@
 title: RTCSctpTransport.maxChannels
 slug: Web/API/RTCSctpTransport/maxChannels
 tags:
-  - API
   - Property
   - Reference
-  - maxChannels
-  - RTCSctpTransport
 browser-compat: api.RTCSctpTransport.maxChannels
 ---
 {{DefaultAPISidebar("")}}

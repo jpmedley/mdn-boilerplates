@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.toFloat64Array()
 slug: Web/API/DOMMatrixReadOnly/toFloat64Array
 tags:
-  - API
   - Method
   - Reference
-  - toFloat64Array
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.toFloat64Array
 ---
 {{DefaultAPISidebar("")}}

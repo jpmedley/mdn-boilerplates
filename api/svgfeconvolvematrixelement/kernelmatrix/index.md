@@ -2,11 +2,8 @@
 title: SVGFEConvolveMatrixElement.kernelMatrix
 slug: Web/API/SVGFEConvolveMatrixElement/kernelMatrix
 tags:
-  - API
   - Property
   - Reference
-  - kernelMatrix
-  - SVGFEConvolveMatrixElement
 browser-compat: api.SVGFEConvolveMatrixElement.kernelMatrix
 ---
 {{DefaultAPISidebar("")}}

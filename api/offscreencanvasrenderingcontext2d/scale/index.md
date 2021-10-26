@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.scale()
 slug: Web/API/OffscreenCanvasRenderingContext2D/scale
 tags:
-  - API
   - Method
   - Reference
-  - scale
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.scale
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: RTCEncodedVideoFrame.data
 slug: Web/API/RTCEncodedVideoFrame/data
 tags:
-  - API
   - Property
   - Reference
-  - data
-  - RTCEncodedVideoFrame
 browser-compat: api.RTCEncodedVideoFrame.data
 ---
 {{DefaultAPISidebar("")}}

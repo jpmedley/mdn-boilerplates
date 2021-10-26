@@ -2,10 +2,8 @@
 title: CustomStateSet
 slug: Web/API/CustomStateSet
 tags:
-  - API
   - Interface
   - Reference
-  - CustomStateSet
 browser-compat: api.CustomStateSet
 ---
 {{DefaultAPISidebar("")}}

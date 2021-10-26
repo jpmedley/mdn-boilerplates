@@ -2,11 +2,8 @@
 title: HTMLInputElement.indeterminate
 slug: Web/API/HTMLInputElement/indeterminate
 tags:
-  - API
   - Property
   - Reference
-  - indeterminate
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.indeterminate
 ---
 {{DefaultAPISidebar("")}}

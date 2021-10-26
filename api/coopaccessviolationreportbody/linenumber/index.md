@@ -2,11 +2,8 @@
 title: CoopAccessViolationReportBody.lineNumber
 slug: Web/API/CoopAccessViolationReportBody/lineNumber
 tags:
-  - API
   - Property
   - Reference
-  - lineNumber
-  - CoopAccessViolationReportBody
 browser-compat: api.CoopAccessViolationReportBody.lineNumber
 ---
 {{DefaultAPISidebar("")}}

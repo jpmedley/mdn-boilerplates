@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.scaleNonUniform()
 slug: Web/API/DOMMatrixReadOnly/scaleNonUniform
 tags:
-  - API
   - Method
   - Reference
-  - scaleNonUniform
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.scaleNonUniform
 ---
 {{DefaultAPISidebar("")}}

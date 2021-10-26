@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.strokeStyle
 slug: Web/API/OffscreenCanvasRenderingContext2D/strokeStyle
 tags:
-  - API
   - Property
   - Reference
-  - strokeStyle
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.strokeStyle
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: RTCPeerConnection.createDTMFSender()
 slug: Web/API/RTCPeerConnection/createDTMFSender
 tags:
-  - API
   - Method
   - Reference
-  - createDTMFSender
-  - RTCPeerConnection
 browser-compat: api.RTCPeerConnection.createDTMFSender
 ---
 {{DefaultAPISidebar("")}}

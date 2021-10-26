@@ -2,11 +2,8 @@
 title: PermissionStatus.name
 slug: Web/API/PermissionStatus/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - PermissionStatus
 browser-compat: api.PermissionStatus.name
 ---
 {{DefaultAPISidebar("")}}

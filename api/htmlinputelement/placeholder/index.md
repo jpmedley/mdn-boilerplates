@@ -2,11 +2,8 @@
 title: HTMLInputElement.placeholder
 slug: Web/API/HTMLInputElement/placeholder
 tags:
-  - API
   - Property
   - Reference
-  - placeholder
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.placeholder
 ---
 {{DefaultAPISidebar("")}}

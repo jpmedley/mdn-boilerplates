@@ -2,11 +2,8 @@
 title: PermissionsPolicyViolationReportBody.message
 slug: Web/API/PermissionsPolicyViolationReportBody/message
 tags:
-  - API
   - Property
   - Reference
-  - message
-  - PermissionsPolicyViolationReportBody
 browser-compat: api.PermissionsPolicyViolationReportBody.message
 ---
 {{DefaultAPISidebar("")}}

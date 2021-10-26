@@ -2,11 +2,8 @@
 title: MIDIInputMap.values()
 slug: Web/API/MIDIInputMap/values
 tags:
-  - API
   - Method
   - Reference
-  - values
-  - MIDIInputMap
 browser-compat: api.MIDIInputMap.values
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

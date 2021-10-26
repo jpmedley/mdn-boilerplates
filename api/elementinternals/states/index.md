@@ -2,11 +2,8 @@
 title: ElementInternals.states
 slug: Web/API/ElementInternals/states
 tags:
-  - API
   - Property
   - Reference
-  - states
-  - ElementInternals
 browser-compat: api.ElementInternals.states
 ---
 {{DefaultAPISidebar("")}}

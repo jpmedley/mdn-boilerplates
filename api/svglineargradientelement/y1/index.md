@@ -2,11 +2,8 @@
 title: SVGLinearGradientElement.y1
 slug: Web/API/SVGLinearGradientElement/y1
 tags:
-  - API
   - Property
   - Reference
-  - y1
-  - SVGLinearGradientElement
 browser-compat: api.SVGLinearGradientElement.y1
 ---
 {{DefaultAPISidebar("")}}

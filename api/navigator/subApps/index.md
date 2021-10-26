@@ -2,11 +2,8 @@
 title: Navigator.subApps
 slug: Web/API/Navigator/subApps
 tags:
-  - API
   - Property
   - Reference
-  - subApps
-  - Navigator
 browser-compat: api.Navigator.subApps
 ---
 {{DefaultAPISidebar("")}}

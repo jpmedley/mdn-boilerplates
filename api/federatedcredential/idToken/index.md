@@ -2,11 +2,8 @@
 title: FederatedCredential.idToken
 slug: Web/API/FederatedCredential/idToken
 tags:
-  - API
   - Property
   - Reference
-  - idToken
-  - FederatedCredential
 browser-compat: api.FederatedCredential.idToken
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

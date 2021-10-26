@@ -2,11 +2,8 @@
 title: WebGLTexture.lastUploadedVideoFrameWasSkipped
 slug: Web/API/WebGLTexture/lastUploadedVideoFrameWasSkipped
 tags:
-  - API
   - Property
   - Reference
-  - lastUploadedVideoFrameWasSkipped
-  - WebGLTexture
 browser-compat: api.WebGLTexture.lastUploadedVideoFrameWasSkipped
 ---
 {{DefaultAPISidebar("")}}

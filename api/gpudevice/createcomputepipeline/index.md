@@ -2,11 +2,8 @@
 title: GPUDevice.createComputePipeline()
 slug: Web/API/GPUDevice/createComputePipeline
 tags:
-  - API
   - Method
   - Reference
-  - createComputePipeline
-  - GPUDevice
 browser-compat: api.GPUDevice.createComputePipeline
 ---
 {{DefaultAPISidebar("")}}

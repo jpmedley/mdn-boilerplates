@@ -2,11 +2,8 @@
 title: SVGAngle.valueInSpecifiedUnits
 slug: Web/API/SVGAngle/valueInSpecifiedUnits
 tags:
-  - API
   - Property
   - Reference
-  - valueInSpecifiedUnits
-  - SVGAngle
 browser-compat: api.SVGAngle.valueInSpecifiedUnits
 ---
 {{DefaultAPISidebar("")}}

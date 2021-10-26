@@ -2,11 +2,8 @@
 title: SVGAnimatedTransformList.animVal
 slug: Web/API/SVGAnimatedTransformList/animVal
 tags:
-  - API
   - Property
   - Reference
-  - animVal
-  - SVGAnimatedTransformList
 browser-compat: api.SVGAnimatedTransformList.animVal
 ---
 {{DefaultAPISidebar("")}}

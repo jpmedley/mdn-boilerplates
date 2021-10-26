@@ -2,10 +2,8 @@
 title: USBIsochronousInTransferPacket.USBIsochronousInTransferPacket()
 slug: Web/API/USBIsochronousInTransferPacket/USBIsochronousInTransferPacket
 tags:
-  - API
   - Constructor
   - Reference
-  - USBIsochronousInTransferPacket
 browser-compat: api.USBIsochronousInTransferPacket.USBIsochronousInTransferPacket
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

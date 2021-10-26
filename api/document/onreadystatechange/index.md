@@ -2,11 +2,8 @@
 title: Document.onreadystatechange
 slug: Web/API/Document/onreadystatechange
 tags:
-  - API
   - Property
   - Reference
-  - onreadystatechange
-  - Document
 browser-compat: api.Document.onreadystatechange
 ---
 {{DefaultAPISidebar("")}}

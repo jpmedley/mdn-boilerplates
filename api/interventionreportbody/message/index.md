@@ -2,11 +2,8 @@
 title: InterventionReportBody.message
 slug: Web/API/InterventionReportBody/message
 tags:
-  - API
   - Property
   - Reference
-  - message
-  - InterventionReportBody
 browser-compat: api.InterventionReportBody.message
 ---
 {{DefaultAPISidebar("")}}

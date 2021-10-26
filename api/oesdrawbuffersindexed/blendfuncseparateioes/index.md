@@ -2,11 +2,8 @@
 title: OESDrawBuffersIndexed.blendFuncSeparateiOES()
 slug: Web/API/OESDrawBuffersIndexed/blendFuncSeparateiOES
 tags:
-  - API
   - Method
   - Reference
-  - blendFuncSeparateiOES
-  - OESDrawBuffersIndexed
 browser-compat: api.OESDrawBuffersIndexed.blendFuncSeparateiOES
 ---
 {{DefaultAPISidebar("")}}

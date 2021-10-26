@@ -2,10 +2,8 @@
 title: SQLStatementErrorCallback
 slug: Web/API/SQLStatementErrorCallback
 tags:
-  - API
   - Interface
   - Reference
-  - SQLStatementErrorCallback
 browser-compat: api.SQLStatementErrorCallback
 ---
 {{DefaultAPISidebar("")}}

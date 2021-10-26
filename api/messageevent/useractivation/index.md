@@ -2,11 +2,8 @@
 title: MessageEvent.userActivation
 slug: Web/API/MessageEvent/userActivation
 tags:
-  - API
   - Property
   - Reference
-  - userActivation
-  - MessageEvent
 browser-compat: api.MessageEvent.userActivation
 ---
 {{DefaultAPISidebar("")}}

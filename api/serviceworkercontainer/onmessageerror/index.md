@@ -2,11 +2,8 @@
 title: ServiceWorkerContainer.onmessageerror
 slug: Web/API/ServiceWorkerContainer/onmessageerror
 tags:
-  - API
   - Property
   - Reference
-  - onmessageerror
-  - ServiceWorkerContainer
 browser-compat: api.ServiceWorkerContainer.onmessageerror
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

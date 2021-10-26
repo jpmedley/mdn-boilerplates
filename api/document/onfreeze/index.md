@@ -2,11 +2,8 @@
 title: Document.onfreeze
 slug: Web/API/Document/onfreeze
 tags:
-  - API
   - Property
   - Reference
-  - onfreeze
-  - Document
 browser-compat: api.Document.onfreeze
 ---
 {{DefaultAPISidebar("")}}

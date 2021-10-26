@@ -2,11 +2,8 @@
 title: EyeDropper.open()
 slug: Web/API/EyeDropper/open
 tags:
-  - API
   - Method
   - Reference
-  - open
-  - EyeDropper
 browser-compat: api.EyeDropper.open
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

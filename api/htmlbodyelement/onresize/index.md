@@ -2,11 +2,8 @@
 title: HTMLBodyElement.onresize
 slug: Web/API/HTMLBodyElement/onresize
 tags:
-  - API
   - Property
   - Reference
-  - onresize
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.onresize
 ---
 {{DefaultAPISidebar("")}}

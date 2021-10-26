@@ -2,11 +2,8 @@
 title: PointerEvent.getPredictedEvents()
 slug: Web/API/PointerEvent/getPredictedEvents
 tags:
-  - API
   - Method
   - Reference
-  - getPredictedEvents
-  - PointerEvent
 browser-compat: api.PointerEvent.getPredictedEvents
 ---
 {{DefaultAPISidebar("")}}

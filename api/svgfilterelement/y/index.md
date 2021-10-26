@@ -2,11 +2,8 @@
 title: SVGFilterElement.y
 slug: Web/API/SVGFilterElement/y
 tags:
-  - API
   - Property
   - Reference
-  - y
-  - SVGFilterElement
 browser-compat: api.SVGFilterElement.y
 ---
 {{DefaultAPISidebar("")}}

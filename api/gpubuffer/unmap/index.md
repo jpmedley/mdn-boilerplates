@@ -2,11 +2,8 @@
 title: GPUBuffer.unmap()
 slug: Web/API/GPUBuffer/unmap
 tags:
-  - API
   - Method
   - Reference
-  - unmap
-  - GPUBuffer
 browser-compat: api.GPUBuffer.unmap
 ---
 {{DefaultAPISidebar("")}}

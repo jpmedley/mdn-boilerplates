@@ -2,10 +2,8 @@
 title: WebGLMultiDrawInstancedBaseVertexBaseInstance
 slug: Web/API/WebGLMultiDrawInstancedBaseVertexBaseInstance
 tags:
-  - API
   - Interface
   - Reference
-  - WebGLMultiDrawInstancedBaseVertexBaseInstance
 browser-compat: api.WebGLMultiDrawInstancedBaseVertexBaseInstance
 ---
 {{DefaultAPISidebar("")}}

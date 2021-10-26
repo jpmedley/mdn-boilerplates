@@ -2,11 +2,8 @@
 title: HTMLTableSectionElement.insertRow()
 slug: Web/API/HTMLTableSectionElement/insertRow
 tags:
-  - API
   - Method
   - Reference
-  - insertRow
-  - HTMLTableSectionElement
 browser-compat: api.HTMLTableSectionElement.insertRow
 ---
 {{DefaultAPISidebar("")}}

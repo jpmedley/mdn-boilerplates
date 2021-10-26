@@ -2,11 +2,8 @@
 title: SQLResultSet.rows
 slug: Web/API/SQLResultSet/rows
 tags:
-  - API
   - Property
   - Reference
-  - rows
-  - SQLResultSet
 browser-compat: api.SQLResultSet.rows
 ---
 {{DefaultAPISidebar("")}}

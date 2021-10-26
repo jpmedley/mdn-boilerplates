@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.sandbox
 slug: Web/API/HTMLIFrameElement/sandbox
 tags:
-  - API
   - Property
   - Reference
-  - sandbox
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.sandbox
 ---
 {{DefaultAPISidebar("")}}

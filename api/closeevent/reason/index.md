@@ -2,11 +2,8 @@
 title: CloseEvent.reason
 slug: Web/API/CloseEvent/reason
 tags:
-  - API
   - Property
   - Reference
-  - reason
-  - CloseEvent
 browser-compat: api.CloseEvent.reason
 ---
 {{DefaultAPISidebar("")}}

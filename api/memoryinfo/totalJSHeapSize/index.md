@@ -2,11 +2,8 @@
 title: MemoryInfo.totalJSHeapSize
 slug: Web/API/MemoryInfo/totalJSHeapSize
 tags:
-  - API
   - Property
   - Reference
-  - totalJSHeapSize
-  - MemoryInfo
 browser-compat: api.MemoryInfo.totalJSHeapSize
 ---
 {{DefaultAPISidebar("")}}

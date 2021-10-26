@@ -2,11 +2,8 @@
 title: Entry.fullPath
 slug: Web/API/Entry/fullPath
 tags:
-  - API
   - Property
   - Reference
-  - fullPath
-  - Entry
 browser-compat: api.Entry.fullPath
 ---
 {{DefaultAPISidebar("")}}

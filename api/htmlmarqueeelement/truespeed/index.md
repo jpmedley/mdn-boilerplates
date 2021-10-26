@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.trueSpeed
 slug: Web/API/HTMLMarqueeElement/trueSpeed
 tags:
-  - API
   - Property
   - Reference
-  - trueSpeed
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.trueSpeed
 ---
 {{DefaultAPISidebar("")}}

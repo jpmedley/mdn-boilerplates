@@ -2,11 +2,8 @@
 title: ErrorEvent.lineno
 slug: Web/API/ErrorEvent/lineno
 tags:
-  - API
   - Property
   - Reference
-  - lineno
-  - ErrorEvent
 browser-compat: api.ErrorEvent.lineno
 ---
 {{DefaultAPISidebar("")}}

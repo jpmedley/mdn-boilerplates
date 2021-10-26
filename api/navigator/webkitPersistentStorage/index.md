@@ -2,11 +2,8 @@
 title: Navigator.webkitPersistentStorage
 slug: Web/API/Navigator/webkitPersistentStorage
 tags:
-  - API
   - Property
   - Reference
-  - webkitPersistentStorage
-  - Navigator
 browser-compat: api.Navigator.webkitPersistentStorage
 ---
 {{DefaultAPISidebar("")}}

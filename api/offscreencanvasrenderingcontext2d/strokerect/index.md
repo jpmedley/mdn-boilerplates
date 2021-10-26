@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.strokeRect()
 slug: Web/API/OffscreenCanvasRenderingContext2D/strokeRect
 tags:
-  - API
   - Method
   - Reference
-  - strokeRect
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.strokeRect
 ---
 {{DefaultAPISidebar("")}}

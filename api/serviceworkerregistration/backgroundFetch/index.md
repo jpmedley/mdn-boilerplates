@@ -2,11 +2,8 @@
 title: ServiceWorkerRegistration.backgroundFetch
 slug: Web/API/ServiceWorkerRegistration/backgroundFetch
 tags:
-  - API
   - Property
   - Reference
-  - backgroundFetch
-  - ServiceWorkerRegistration
 browser-compat: api.ServiceWorkerRegistration.backgroundFetch
 ---
 {{DefaultAPISidebar("")}}

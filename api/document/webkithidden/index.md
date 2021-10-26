@@ -2,11 +2,8 @@
 title: Document.webkitHidden
 slug: Web/API/Document/webkitHidden
 tags:
-  - API
   - Property
   - Reference
-  - webkitHidden
-  - Document
 browser-compat: api.Document.webkitHidden
 ---
 {{DefaultAPISidebar("")}}

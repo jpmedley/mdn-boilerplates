@@ -2,11 +2,8 @@
 title: HTMLLIElement.value
 slug: Web/API/HTMLLIElement/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - HTMLLIElement
 browser-compat: api.HTMLLIElement.value
 ---
 {{DefaultAPISidebar("")}}

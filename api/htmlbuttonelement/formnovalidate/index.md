@@ -2,11 +2,8 @@
 title: HTMLButtonElement.formNoValidate
 slug: Web/API/HTMLButtonElement/formNoValidate
 tags:
-  - API
   - Property
   - Reference
-  - formNoValidate
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.formNoValidate
 ---
 {{DefaultAPISidebar("")}}

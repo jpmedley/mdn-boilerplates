@@ -2,11 +2,8 @@
 title: RTCPeerConnection.getRemoteStreams()
 slug: Web/API/RTCPeerConnection/getRemoteStreams
 tags:
-  - API
   - Method
   - Reference
-  - getRemoteStreams
-  - RTCPeerConnection
 browser-compat: api.RTCPeerConnection.getRemoteStreams
 ---
 {{DefaultAPISidebar("")}}

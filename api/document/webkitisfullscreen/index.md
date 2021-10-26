@@ -2,11 +2,8 @@
 title: Document.webkitIsFullScreen
 slug: Web/API/Document/webkitIsFullScreen
 tags:
-  - API
   - Property
   - Reference
-  - webkitIsFullScreen
-  - Document
 browser-compat: api.Document.webkitIsFullScreen
 ---
 {{DefaultAPISidebar("")}}

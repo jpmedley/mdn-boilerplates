@@ -2,11 +2,8 @@
 title: DOMPointReadOnly.matrixTransform()
 slug: Web/API/DOMPointReadOnly/matrixTransform
 tags:
-  - API
   - Method
   - Reference
-  - matrixTransform
-  - DOMPointReadOnly
 browser-compat: api.DOMPointReadOnly.matrixTransform
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Plugin.item()
 slug: Web/API/Plugin/item
 tags:
-  - API
   - Method
   - Reference
-  - item
-  - Plugin
 browser-compat: api.Plugin.item
 ---
 {{DefaultAPISidebar("")}}

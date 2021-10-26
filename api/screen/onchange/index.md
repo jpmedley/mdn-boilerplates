@@ -2,11 +2,8 @@
 title: Screen.onchange
 slug: Web/API/Screen/onchange
 tags:
-  - API
   - Property
   - Reference
-  - onchange
-  - Screen
 browser-compat: api.Screen.onchange
 ---
 {{DefaultAPISidebar("")}}

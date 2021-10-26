@@ -2,10 +2,8 @@
 title: NavigatorManagedData
 slug: Web/API/NavigatorManagedData
 tags:
-  - API
   - Interface
   - Reference
-  - NavigatorManagedData
 browser-compat: api.NavigatorManagedData
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.lineWidth
 slug: Web/API/PaintRenderingContext2D/lineWidth
 tags:
-  - API
   - Property
   - Reference
-  - lineWidth
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.lineWidth
 ---
 {{DefaultAPISidebar("")}}

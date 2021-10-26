@@ -2,11 +2,8 @@
 title: HTMLScriptElement.type
 slug: Web/API/HTMLScriptElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.type
 ---
 {{DefaultAPISidebar("")}}

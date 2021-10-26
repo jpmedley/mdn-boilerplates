@@ -2,10 +2,8 @@
 title: VoidCallback
 slug: Web/API/VoidCallback
 tags:
-  - API
   - Interface
   - Reference
-  - VoidCallback
 browser-compat: api.VoidCallback
 ---
 {{DefaultAPISidebar("")}}

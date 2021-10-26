@@ -2,11 +2,8 @@
 title: Window.crypto
 slug: Web/API/Window/crypto
 tags:
-  - API
   - Property
   - Reference
-  - crypto
-  - Window
 browser-compat: api.Window.crypto
 ---
 {{DefaultAPISidebar("")}}

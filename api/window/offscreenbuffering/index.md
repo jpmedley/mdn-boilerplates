@@ -2,11 +2,8 @@
 title: Window.offscreenBuffering
 slug: Web/API/Window/offscreenBuffering
 tags:
-  - API
   - Property
   - Reference
-  - offscreenBuffering
-  - Window
 browser-compat: api.Window.offscreenBuffering
 ---
 {{DefaultAPISidebar("")}}

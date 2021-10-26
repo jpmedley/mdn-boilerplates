@@ -2,11 +2,8 @@
 title: HTMLInputElement.selectionStart
 slug: Web/API/HTMLInputElement/selectionStart
 tags:
-  - API
   - Property
   - Reference
-  - selectionStart
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.selectionStart
 ---
 {{DefaultAPISidebar("")}}

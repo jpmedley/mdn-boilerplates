@@ -2,10 +2,8 @@
 title: TaskController
 slug: Web/API/TaskController
 tags:
-  - API
   - Interface
   - Reference
-  - TaskController
 browser-compat: api.TaskController
 ---
 {{DefaultAPISidebar("")}}

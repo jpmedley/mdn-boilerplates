@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.headers
 slug: Web/API/HTMLTableCellElement/headers
 tags:
-  - API
   - Property
   - Reference
-  - headers
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.headers
 ---
 {{DefaultAPISidebar("")}}

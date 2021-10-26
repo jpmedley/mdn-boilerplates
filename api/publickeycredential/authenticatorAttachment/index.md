@@ -2,11 +2,8 @@
 title: PublicKeyCredential.authenticatorAttachment
 slug: Web/API/PublicKeyCredential/authenticatorAttachment
 tags:
-  - API
   - Property
   - Reference
-  - authenticatorAttachment
-  - PublicKeyCredential
 browser-compat: api.PublicKeyCredential.authenticatorAttachment
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGFEGaussianBlurElement.setStdDeviation()
 slug: Web/API/SVGFEGaussianBlurElement/setStdDeviation
 tags:
-  - API
   - Method
   - Reference
-  - setStdDeviation
-  - SVGFEGaussianBlurElement
 browser-compat: api.SVGFEGaussianBlurElement.setStdDeviation
 ---
 {{DefaultAPISidebar("")}}

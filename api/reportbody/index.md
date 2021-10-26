@@ -2,10 +2,8 @@
 title: ReportBody
 slug: Web/API/ReportBody
 tags:
-  - API
   - Interface
   - Reference
-  - ReportBody
 browser-compat: api.ReportBody
 ---
 {{DefaultAPISidebar("")}}

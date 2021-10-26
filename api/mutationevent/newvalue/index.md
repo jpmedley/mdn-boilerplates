@@ -2,11 +2,8 @@
 title: MutationEvent.newValue
 slug: Web/API/MutationEvent/newValue
 tags:
-  - API
   - Property
   - Reference
-  - newValue
-  - MutationEvent
 browser-compat: api.MutationEvent.newValue
 ---
 {{DefaultAPISidebar("")}}

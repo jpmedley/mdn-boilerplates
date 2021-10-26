@@ -2,11 +2,8 @@
 title: AnimationEffectTiming.fill
 slug: Web/API/AnimationEffectTiming/fill
 tags:
-  - API
   - Property
   - Reference
-  - fill
-  - AnimationEffectTiming
 browser-compat: api.AnimationEffectTiming.fill
 ---
 {{DefaultAPISidebar("")}}

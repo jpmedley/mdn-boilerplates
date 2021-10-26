@@ -2,11 +2,8 @@
 title: SVGFEConvolveMatrixElement.kernelUnitLengthX
 slug: Web/API/SVGFEConvolveMatrixElement/kernelUnitLengthX
 tags:
-  - API
   - Property
   - Reference
-  - kernelUnitLengthX
-  - SVGFEConvolveMatrixElement
 browser-compat: api.SVGFEConvolveMatrixElement.kernelUnitLengthX
 ---
 {{DefaultAPISidebar("")}}

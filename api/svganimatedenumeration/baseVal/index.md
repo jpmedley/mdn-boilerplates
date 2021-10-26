@@ -2,11 +2,8 @@
 title: SVGAnimatedEnumeration.baseVal
 slug: Web/API/SVGAnimatedEnumeration/baseVal
 tags:
-  - API
   - Property
   - Reference
-  - baseVal
-  - SVGAnimatedEnumeration
 browser-compat: api.SVGAnimatedEnumeration.baseVal
 ---
 {{DefaultAPISidebar("")}}

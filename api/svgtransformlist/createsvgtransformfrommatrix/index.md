@@ -2,11 +2,8 @@
 title: SVGTransformList.createSVGTransformFromMatrix()
 slug: Web/API/SVGTransformList/createSVGTransformFromMatrix
 tags:
-  - API
   - Method
   - Reference
-  - createSVGTransformFromMatrix
-  - SVGTransformList
 browser-compat: api.SVGTransformList.createSVGTransformFromMatrix
 ---
 {{DefaultAPISidebar("")}}

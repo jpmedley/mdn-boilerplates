@@ -2,11 +2,8 @@
 title: USBInTransferResult.status
 slug: Web/API/USBInTransferResult/status
 tags:
-  - API
   - Property
   - Reference
-  - status
-  - USBInTransferResult
 browser-compat: api.USBInTransferResult.status
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLScriptElement.importance
 slug: Web/API/HTMLScriptElement/importance
 tags:
-  - API
   - Property
   - Reference
-  - importance
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.importance
 ---
 {{DefaultAPISidebar("")}}

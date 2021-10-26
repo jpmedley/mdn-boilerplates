@@ -2,11 +2,8 @@
 title: PointerEvent.altitudeAngle
 slug: Web/API/PointerEvent/altitudeAngle
 tags:
-  - API
   - Property
   - Reference
-  - altitudeAngle
-  - PointerEvent
 browser-compat: api.PointerEvent.altitudeAngle
 ---
 {{DefaultAPISidebar("")}}

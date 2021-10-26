@@ -2,11 +2,8 @@
 title: HighlightRegistry.forEach()
 slug: Web/API/HighlightRegistry/forEach
 tags:
-  - API
   - Method
   - Reference
-  - forEach
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry.forEach
 ---
 {{DefaultAPISidebar("")}}

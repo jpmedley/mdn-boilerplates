@@ -2,11 +2,8 @@
 title: AudioParamMap.has()
 slug: Web/API/AudioParamMap/has
 tags:
-  - API
   - Method
   - Reference
-  - has
-  - AudioParamMap
 browser-compat: api.AudioParamMap.has
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Element.onbeforecopy
 slug: Web/API/Element/onbeforecopy
 tags:
-  - API
   - Property
   - Reference
-  - onbeforecopy
-  - Element
 browser-compat: api.Element.onbeforecopy
 ---
 {{DefaultAPISidebar("")}}

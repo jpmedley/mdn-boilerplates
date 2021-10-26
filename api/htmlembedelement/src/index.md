@@ -2,11 +2,8 @@
 title: HTMLEmbedElement.src
 slug: Web/API/HTMLEmbedElement/src
 tags:
-  - API
   - Property
   - Reference
-  - src
-  - HTMLEmbedElement
 browser-compat: api.HTMLEmbedElement.src
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLBodyElement.onorientationchange
 slug: Web/API/HTMLBodyElement/onorientationchange
 tags:
-  - API
   - Property
   - Reference
-  - onorientationchange
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.onorientationchange
 ---
 {{DefaultAPISidebar("")}}

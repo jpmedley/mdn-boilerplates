@@ -2,10 +2,8 @@
 title: GPUBuffer
 slug: Web/API/GPUBuffer
 tags:
-  - API
   - Interface
   - Reference
-  - GPUBuffer
 browser-compat: api.GPUBuffer
 ---
 {{DefaultAPISidebar("")}}

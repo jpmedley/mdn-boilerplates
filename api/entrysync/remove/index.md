@@ -2,11 +2,8 @@
 title: EntrySync.remove()
 slug: Web/API/EntrySync/remove
 tags:
-  - API
   - Method
   - Reference
-  - remove
-  - EntrySync
 browser-compat: api.EntrySync.remove
 ---
 {{DefaultAPISidebar("")}}

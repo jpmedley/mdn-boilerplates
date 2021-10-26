@@ -2,11 +2,8 @@
 title: PerformanceEventTiming.target
 slug: Web/API/PerformanceEventTiming/target
 tags:
-  - API
   - Property
   - Reference
-  - target
-  - PerformanceEventTiming
 browser-compat: api.PerformanceEventTiming.target
 ---
 {{DefaultAPISidebar("")}}

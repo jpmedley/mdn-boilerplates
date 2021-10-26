@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.cellIndex
 slug: Web/API/HTMLTableCellElement/cellIndex
 tags:
-  - API
   - Property
   - Reference
-  - cellIndex
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.cellIndex
 ---
 {{DefaultAPISidebar("")}}

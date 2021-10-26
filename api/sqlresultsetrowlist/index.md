@@ -2,10 +2,8 @@
 title: SQLResultSetRowList
 slug: Web/API/SQLResultSetRowList
 tags:
-  - API
   - Interface
   - Reference
-  - SQLResultSetRowList
 browser-compat: api.SQLResultSetRowList
 ---
 {{DefaultAPISidebar("")}}

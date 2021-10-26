@@ -2,10 +2,8 @@
 title: WebTransportDatagramDuplexStream
 slug: Web/API/WebTransportDatagramDuplexStream
 tags:
-  - API
   - Interface
   - Reference
-  - WebTransportDatagramDuplexStream
 browser-compat: api.WebTransportDatagramDuplexStream
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

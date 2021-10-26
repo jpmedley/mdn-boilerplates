@@ -2,11 +2,8 @@
 title: KeyframeEffect.pseudoElement
 slug: Web/API/KeyframeEffect/pseudoElement
 tags:
-  - API
   - Property
   - Reference
-  - pseudoElement
-  - KeyframeEffect
 browser-compat: api.KeyframeEffect.pseudoElement
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.fonts
 slug: Web/API/WorkerGlobalScope/fonts
 tags:
-  - API
   - Property
   - Reference
-  - fonts
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.fonts
 ---
 {{DefaultAPISidebar("")}}

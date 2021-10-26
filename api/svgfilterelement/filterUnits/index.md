@@ -2,11 +2,8 @@
 title: SVGFilterElement.filterUnits
 slug: Web/API/SVGFilterElement/filterUnits
 tags:
-  - API
   - Property
   - Reference
-  - filterUnits
-  - SVGFilterElement
 browser-compat: api.SVGFilterElement.filterUnits
 ---
 {{DefaultAPISidebar("")}}

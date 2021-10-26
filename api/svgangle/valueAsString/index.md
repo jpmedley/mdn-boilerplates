@@ -2,11 +2,8 @@
 title: SVGAngle.valueAsString
 slug: Web/API/SVGAngle/valueAsString
 tags:
-  - API
   - Property
   - Reference
-  - valueAsString
-  - SVGAngle
 browser-compat: api.SVGAngle.valueAsString
 ---
 {{DefaultAPISidebar("")}}

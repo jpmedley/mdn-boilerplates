@@ -2,10 +2,8 @@
 title: DeprecationReportBody
 slug: Web/API/DeprecationReportBody
 tags:
-  - API
   - Interface
   - Reference
-  - DeprecationReportBody
 browser-compat: api.DeprecationReportBody
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: IdleDetector.requestPermission()
 slug: Web/API/IdleDetector/requestPermission
 tags:
-  - API
   - Method
   - Reference
-  - requestPermission
-  - IdleDetector
 browser-compat: api.IdleDetector.requestPermission
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

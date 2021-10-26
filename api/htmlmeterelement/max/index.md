@@ -2,11 +2,8 @@
 title: HTMLMeterElement.max
 slug: Web/API/HTMLMeterElement/max
 tags:
-  - API
   - Property
   - Reference
-  - max
-  - HTMLMeterElement
 browser-compat: api.HTMLMeterElement.max
 ---
 {{DefaultAPISidebar("")}}

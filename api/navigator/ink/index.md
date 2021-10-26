@@ -2,11 +2,8 @@
 title: Navigator.ink
 slug: Web/API/Navigator/ink
 tags:
-  - API
   - Property
   - Reference
-  - ink
-  - Navigator
 browser-compat: api.Navigator.ink
 ---
 {{DefaultAPISidebar("")}}

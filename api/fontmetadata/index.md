@@ -2,10 +2,8 @@
 title: FontMetadata
 slug: Web/API/FontMetadata
 tags:
-  - API
   - Interface
   - Reference
-  - FontMetadata
 browser-compat: api.FontMetadata
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

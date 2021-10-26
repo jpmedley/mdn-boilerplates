@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.charset
 slug: Web/API/HTMLAnchorElement/charset
 tags:
-  - API
   - Property
   - Reference
-  - charset
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.charset
 ---
 {{DefaultAPISidebar("")}}

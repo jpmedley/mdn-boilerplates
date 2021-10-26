@@ -2,11 +2,8 @@
 title: TaskAttributionTiming.toJSON()
 slug: Web/API/TaskAttributionTiming/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - TaskAttributionTiming
 browser-compat: api.TaskAttributionTiming.toJSON
 ---
 {{DefaultAPISidebar("")}}

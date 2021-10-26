@@ -2,10 +2,8 @@
 title: SharedStorageWorklet
 slug: Web/API/SharedStorageWorklet
 tags:
-  - API
   - Interface
   - Reference
-  - SharedStorageWorklet
 browser-compat: api.SharedStorageWorklet
 ---
 {{DefaultAPISidebar("")}}

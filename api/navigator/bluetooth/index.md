@@ -2,11 +2,8 @@
 title: Navigator.bluetooth
 slug: Web/API/Navigator/bluetooth
 tags:
-  - API
   - Property
   - Reference
-  - bluetooth
-  - Navigator
 browser-compat: api.Navigator.bluetooth
 ---
 {{DefaultAPISidebar("")}}

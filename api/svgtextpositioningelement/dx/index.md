@@ -2,11 +2,8 @@
 title: SVGTextPositioningElement.dx
 slug: Web/API/SVGTextPositioningElement/dx
 tags:
-  - API
   - Property
   - Reference
-  - dx
-  - SVGTextPositioningElement
 browser-compat: api.SVGTextPositioningElement.dx
 ---
 {{DefaultAPISidebar("")}}

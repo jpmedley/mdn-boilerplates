@@ -2,11 +2,8 @@
 title: MIDIOutputMap.values()
 slug: Web/API/MIDIOutputMap/values
 tags:
-  - API
   - Method
   - Reference
-  - values
-  - MIDIOutputMap
 browser-compat: api.MIDIOutputMap.values
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

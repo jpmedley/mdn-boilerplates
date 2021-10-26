@@ -2,10 +2,8 @@
 title: Database
 slug: Web/API/Database
 tags:
-  - API
   - Interface
   - Reference
-  - Database
 browser-compat: api.Database
 ---
 {{DefaultAPISidebar("")}}

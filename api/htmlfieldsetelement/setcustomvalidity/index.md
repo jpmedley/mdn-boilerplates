@@ -2,11 +2,8 @@
 title: HTMLFieldSetElement.setCustomValidity()
 slug: Web/API/HTMLFieldSetElement/setCustomValidity
 tags:
-  - API
   - Method
   - Reference
-  - setCustomValidity
-  - HTMLFieldSetElement
 browser-compat: api.HTMLFieldSetElement.setCustomValidity
 ---
 {{DefaultAPISidebar("")}}

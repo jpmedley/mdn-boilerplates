@@ -2,11 +2,8 @@
 title: Window.onbeforexrselect
 slug: Web/API/Window/onbeforexrselect
 tags:
-  - API
   - Property
   - Reference
-  - onbeforexrselect
-  - Window
 browser-compat: api.Window.onbeforexrselect
 ---
 {{DefaultAPISidebar("")}}

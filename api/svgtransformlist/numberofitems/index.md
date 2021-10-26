@@ -2,11 +2,8 @@
 title: SVGTransformList.numberOfItems
 slug: Web/API/SVGTransformList/numberOfItems
 tags:
-  - API
   - Property
   - Reference
-  - numberOfItems
-  - SVGTransformList
 browser-compat: api.SVGTransformList.numberOfItems
 ---
 {{DefaultAPISidebar("")}}

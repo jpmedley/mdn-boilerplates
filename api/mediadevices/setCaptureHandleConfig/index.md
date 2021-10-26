@@ -2,11 +2,8 @@
 title: MediaDevices.setCaptureHandleConfig()
 slug: Web/API/MediaDevices/setCaptureHandleConfig
 tags:
-  - API
   - Method
   - Reference
-  - setCaptureHandleConfig
-  - MediaDevices
 browser-compat: api.MediaDevices.setCaptureHandleConfig
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Highlight.delete()
 slug: Web/API/Highlight/delete
 tags:
-  - API
   - Method
   - Reference
-  - delete
-  - Highlight
 browser-compat: api.Highlight.delete
 ---
 {{DefaultAPISidebar("")}}

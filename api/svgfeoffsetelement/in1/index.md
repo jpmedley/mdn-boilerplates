@@ -2,11 +2,8 @@
 title: SVGFEOffsetElement.in1
 slug: Web/API/SVGFEOffsetElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEOffsetElement
 browser-compat: api.SVGFEOffsetElement.in1
 ---
 {{DefaultAPISidebar("")}}

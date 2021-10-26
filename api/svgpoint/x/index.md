@@ -2,11 +2,8 @@
 title: SVGPoint.x
 slug: Web/API/SVGPoint/x
 tags:
-  - API
   - Property
   - Reference
-  - x
-  - SVGPoint
 browser-compat: api.SVGPoint.x
 ---
 {{DefaultAPISidebar("")}}

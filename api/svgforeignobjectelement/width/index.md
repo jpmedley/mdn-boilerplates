@@ -2,11 +2,8 @@
 title: SVGForeignObjectElement.width
 slug: Web/API/SVGForeignObjectElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - SVGForeignObjectElement
 browser-compat: api.SVGForeignObjectElement.width
 ---
 {{DefaultAPISidebar("")}}

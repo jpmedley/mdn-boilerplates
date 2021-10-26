@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.fromMatrix()
 slug: Web/API/DOMMatrixReadOnly/fromMatrix
 tags:
-  - API
   - Method
   - Reference
-  - fromMatrix
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.fromMatrix
 ---
 {{DefaultAPISidebar("")}}

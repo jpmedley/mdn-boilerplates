@@ -2,11 +2,8 @@
 title: HTMLOptionElement.text
 slug: Web/API/HTMLOptionElement/text
 tags:
-  - API
   - Property
   - Reference
-  - text
-  - HTMLOptionElement
 browser-compat: api.HTMLOptionElement.text
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLAreaElement.coords
 slug: Web/API/HTMLAreaElement/coords
 tags:
-  - API
   - Property
   - Reference
-  - coords
-  - HTMLAreaElement
 browser-compat: api.HTMLAreaElement.coords
 ---
 {{DefaultAPISidebar("")}}

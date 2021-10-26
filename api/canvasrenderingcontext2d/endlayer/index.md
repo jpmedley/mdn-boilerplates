@@ -2,11 +2,8 @@
 title: CanvasRenderingContext2D.endLayer()
 slug: Web/API/CanvasRenderingContext2D/endLayer
 tags:
-  - API
   - Method
   - Reference
-  - endLayer
-  - CanvasRenderingContext2D
 browser-compat: api.CanvasRenderingContext2D.endLayer
 ---
 {{DefaultAPISidebar("")}}

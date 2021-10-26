@@ -2,11 +2,8 @@
 title: RTCStatsReport.has()
 slug: Web/API/RTCStatsReport/has
 tags:
-  - API
   - Method
   - Reference
-  - has
-  - RTCStatsReport
 browser-compat: api.RTCStatsReport.has
 ---
 {{DefaultAPISidebar("")}}

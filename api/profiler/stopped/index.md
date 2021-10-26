@@ -2,11 +2,8 @@
 title: Profiler.stopped
 slug: Web/API/Profiler/stopped
 tags:
-  - API
   - Property
   - Reference
-  - stopped
-  - Profiler
 browser-compat: api.Profiler.stopped
 ---
 {{DefaultAPISidebar("")}}

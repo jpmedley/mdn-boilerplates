@@ -2,11 +2,8 @@
 title: FileWriterSync.length
 slug: Web/API/FileWriterSync/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - FileWriterSync
 browser-compat: api.FileWriterSync.length
 ---
 {{DefaultAPISidebar("")}}

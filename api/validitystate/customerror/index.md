@@ -2,11 +2,8 @@
 title: ValidityState.customError
 slug: Web/API/ValidityState/customError
 tags:
-  - API
   - Property
   - Reference
-  - customError
-  - ValidityState
 browser-compat: api.ValidityState.customError
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLDetailsElement.open
 slug: Web/API/HTMLDetailsElement/open
 tags:
-  - API
   - Property
   - Reference
-  - open
-  - HTMLDetailsElement
 browser-compat: api.HTMLDetailsElement.open
 ---
 {{DefaultAPISidebar("")}}

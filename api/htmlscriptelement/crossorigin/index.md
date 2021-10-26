@@ -2,11 +2,8 @@
 title: HTMLScriptElement.crossOrigin
 slug: Web/API/HTMLScriptElement/crossOrigin
 tags:
-  - API
   - Property
   - Reference
-  - crossOrigin
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.crossOrigin
 ---
 {{DefaultAPISidebar("")}}

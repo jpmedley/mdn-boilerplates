@@ -2,11 +2,8 @@
 title: FocusableMediaStreamTrack.focus()
 slug: Web/API/FocusableMediaStreamTrack/focus
 tags:
-  - API
   - Method
   - Reference
-  - focus
-  - FocusableMediaStreamTrack
 browser-compat: api.FocusableMediaStreamTrack.focus
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLScriptElement.event
 slug: Web/API/HTMLScriptElement/event
 tags:
-  - API
   - Property
   - Reference
-  - event
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.event
 ---
 {{DefaultAPISidebar("")}}

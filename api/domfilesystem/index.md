@@ -2,10 +2,8 @@
 title: DOMFileSystem
 slug: Web/API/DOMFileSystem
 tags:
-  - API
   - Interface
   - Reference
-  - DOMFileSystem
 browser-compat: api.DOMFileSystem
 ---
 {{DefaultAPISidebar("")}}

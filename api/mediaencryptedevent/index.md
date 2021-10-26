@@ -2,10 +2,8 @@
 title: MediaEncryptedEvent
 slug: Web/API/MediaEncryptedEvent
 tags:
-  - API
   - Interface
   - Reference
-  - MediaEncryptedEvent
 browser-compat: api.MediaEncryptedEvent
 ---
 {{DefaultAPISidebar("")}}

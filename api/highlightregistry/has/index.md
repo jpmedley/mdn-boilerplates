@@ -2,11 +2,8 @@
 title: HighlightRegistry.has()
 slug: Web/API/HighlightRegistry/has
 tags:
-  - API
   - Method
   - Reference
-  - has
-  - HighlightRegistry
 browser-compat: api.HighlightRegistry.has
 ---
 {{DefaultAPISidebar("")}}

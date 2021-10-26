@@ -2,11 +2,8 @@
 title: EntrySync.getParent()
 slug: Web/API/EntrySync/getParent
 tags:
-  - API
   - Method
   - Reference
-  - getParent
-  - EntrySync
 browser-compat: api.EntrySync.getParent
 ---
 {{DefaultAPISidebar("")}}

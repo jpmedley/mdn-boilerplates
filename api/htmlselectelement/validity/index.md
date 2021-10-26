@@ -2,11 +2,8 @@
 title: HTMLSelectElement.validity
 slug: Web/API/HTMLSelectElement/validity
 tags:
-  - API
   - Property
   - Reference
-  - validity
-  - HTMLSelectElement
 browser-compat: api.HTMLSelectElement.validity
 ---
 {{DefaultAPISidebar("")}}

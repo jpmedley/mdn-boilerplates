@@ -2,11 +2,8 @@
 title: PerformanceLongTaskTiming.toJSON()
 slug: Web/API/PerformanceLongTaskTiming/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - PerformanceLongTaskTiming
 browser-compat: api.PerformanceLongTaskTiming.toJSON
 ---
 {{DefaultAPISidebar("")}}

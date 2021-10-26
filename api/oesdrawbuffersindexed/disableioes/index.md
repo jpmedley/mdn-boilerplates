@@ -2,11 +2,8 @@
 title: OESDrawBuffersIndexed.disableiOES()
 slug: Web/API/OESDrawBuffersIndexed/disableiOES
 tags:
-  - API
   - Method
   - Reference
-  - disableiOES
-  - OESDrawBuffersIndexed
 browser-compat: api.OESDrawBuffersIndexed.disableiOES
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Attr.name
 slug: Web/API/Attr/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - Attr
 browser-compat: api.Attr.name
 ---
 {{DefaultAPISidebar("")}}

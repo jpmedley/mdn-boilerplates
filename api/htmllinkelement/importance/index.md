@@ -2,11 +2,8 @@
 title: HTMLLinkElement.importance
 slug: Web/API/HTMLLinkElement/importance
 tags:
-  - API
   - Property
   - Reference
-  - importance
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.importance
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: ServiceWorkerGlobalScope.onmessageerror
 slug: Web/API/ServiceWorkerGlobalScope/onmessageerror
 tags:
-  - API
   - Property
   - Reference
-  - onmessageerror
-  - ServiceWorkerGlobalScope
 browser-compat: api.ServiceWorkerGlobalScope.onmessageerror
 ---
 {{DefaultAPISidebar("")}}

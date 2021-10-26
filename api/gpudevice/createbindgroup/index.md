@@ -2,11 +2,8 @@
 title: GPUDevice.createBindGroup()
 slug: Web/API/GPUDevice/createBindGroup
 tags:
-  - API
   - Method
   - Reference
-  - createBindGroup
-  - GPUDevice
 browser-compat: api.GPUDevice.createBindGroup
 ---
 {{DefaultAPISidebar("")}}

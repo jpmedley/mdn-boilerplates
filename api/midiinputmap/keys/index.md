@@ -2,11 +2,8 @@
 title: MIDIInputMap.keys()
 slug: Web/API/MIDIInputMap/keys
 tags:
-  - API
   - Method
   - Reference
-  - keys
-  - MIDIInputMap
 browser-compat: api.MIDIInputMap.keys
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

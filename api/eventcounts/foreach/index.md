@@ -2,11 +2,8 @@
 title: EventCounts.forEach()
 slug: Web/API/EventCounts/forEach
 tags:
-  - API
   - Method
   - Reference
-  - forEach
-  - EventCounts
 browser-compat: api.EventCounts.forEach
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGStopElement.offset
 slug: Web/API/SVGStopElement/offset
 tags:
-  - API
   - Property
   - Reference
-  - offset
-  - SVGStopElement
 browser-compat: api.SVGStopElement.offset
 ---
 {{DefaultAPISidebar("")}}

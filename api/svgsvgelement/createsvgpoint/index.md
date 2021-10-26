@@ -2,11 +2,8 @@
 title: SVGSVGElement.createSVGPoint()
 slug: Web/API/SVGSVGElement/createSVGPoint
 tags:
-  - API
   - Method
   - Reference
-  - createSVGPoint
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.createSVGPoint
 ---
 {{DefaultAPISidebar("")}}

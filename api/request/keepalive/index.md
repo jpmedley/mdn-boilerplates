@@ -2,11 +2,8 @@
 title: Request.keepalive
 slug: Web/API/Request/keepalive
 tags:
-  - API
   - Property
   - Reference
-  - keepalive
-  - Request
 browser-compat: api.Request.keepalive
 ---
 {{DefaultAPISidebar("")}}

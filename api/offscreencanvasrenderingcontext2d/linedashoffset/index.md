@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.lineDashOffset
 slug: Web/API/OffscreenCanvasRenderingContext2D/lineDashOffset
 tags:
-  - API
   - Property
   - Reference
-  - lineDashOffset
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.lineDashOffset
 ---
 {{DefaultAPISidebar("")}}

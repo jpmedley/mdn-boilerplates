@@ -2,11 +2,8 @@
 title: FederatedCredential.approvedBy
 slug: Web/API/FederatedCredential/approvedBy
 tags:
-  - API
   - Property
   - Reference
-  - approvedBy
-  - FederatedCredential
 browser-compat: api.FederatedCredential.approvedBy
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

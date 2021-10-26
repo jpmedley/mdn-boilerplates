@@ -2,11 +2,8 @@
 title: SVGFEConvolveMatrixElement.orderX
 slug: Web/API/SVGFEConvolveMatrixElement/orderX
 tags:
-  - API
   - Property
   - Reference
-  - orderX
-  - SVGFEConvolveMatrixElement
 browser-compat: api.SVGFEConvolveMatrixElement.orderX
 ---
 {{DefaultAPISidebar("")}}

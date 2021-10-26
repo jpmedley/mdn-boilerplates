@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.width
 slug: Web/API/HTMLMarqueeElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.width
 ---
 {{DefaultAPISidebar("")}}

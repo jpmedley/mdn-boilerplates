@@ -2,11 +2,8 @@
 title: WebTransportBidirectionalStream.writable
 slug: Web/API/WebTransportBidirectionalStream/writable
 tags:
-  - API
   - Property
   - Reference
-  - writable
-  - WebTransportBidirectionalStream
 browser-compat: api.WebTransportBidirectionalStream.writable
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

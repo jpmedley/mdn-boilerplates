@@ -2,11 +2,8 @@
 title: FileWriter.readyState
 slug: Web/API/FileWriter/readyState
 tags:
-  - API
   - Property
   - Reference
-  - readyState
-  - FileWriter
 browser-compat: api.FileWriter.readyState
 ---
 {{DefaultAPISidebar("")}}

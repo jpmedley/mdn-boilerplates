@@ -2,10 +2,8 @@
 title: WebTransportError
 slug: Web/API/WebTransportError
 tags:
-  - API
   - Interface
   - Reference
-  - WebTransportError
 browser-compat: api.WebTransportError
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

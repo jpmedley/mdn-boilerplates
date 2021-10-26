@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.storageFoundation
 slug: Web/API/WorkerGlobalScope/storageFoundation
 tags:
-  - API
   - Property
   - Reference
-  - storageFoundation
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.storageFoundation
 ---
 {{DefaultAPISidebar("")}}

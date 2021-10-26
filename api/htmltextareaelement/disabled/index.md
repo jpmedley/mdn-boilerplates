@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.disabled
 slug: Web/API/HTMLTextAreaElement/disabled
 tags:
-  - API
   - Property
   - Reference
-  - disabled
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.disabled
 ---
 {{DefaultAPISidebar("")}}

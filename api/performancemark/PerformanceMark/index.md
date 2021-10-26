@@ -2,10 +2,8 @@
 title: PerformanceMark.PerformanceMark()
 slug: Web/API/PerformanceMark/PerformanceMark
 tags:
-  - API
   - Constructor
   - Reference
-  - PerformanceMark
 browser-compat: api.PerformanceMark.PerformanceMark
 ---
 {{DefaultAPISidebar("")}}

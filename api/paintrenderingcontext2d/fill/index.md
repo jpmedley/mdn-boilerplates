@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.fill()
 slug: Web/API/PaintRenderingContext2D/fill
 tags:
-  - API
   - Method
   - Reference
-  - fill
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.fill
 ---
 {{DefaultAPISidebar("")}}

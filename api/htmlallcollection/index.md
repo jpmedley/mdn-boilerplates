@@ -2,11 +2,8 @@
 title: HTMLAllCollection.()
 slug: Web/API/HTMLAllCollection/
 tags:
-  - API
   - Method
   - Reference
-  - 
-  - HTMLAllCollection
 browser-compat: api.HTMLAllCollection.
 ---
 {{DefaultAPISidebar("")}}

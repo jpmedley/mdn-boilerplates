@@ -2,11 +2,8 @@
 title: GPUDevice.createRenderPipeline()
 slug: Web/API/GPUDevice/createRenderPipeline
 tags:
-  - API
   - Method
   - Reference
-  - createRenderPipeline
-  - GPUDevice
 browser-compat: api.GPUDevice.createRenderPipeline
 ---
 {{DefaultAPISidebar("")}}

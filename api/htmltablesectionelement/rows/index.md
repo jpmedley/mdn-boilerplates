@@ -2,11 +2,8 @@
 title: HTMLTableSectionElement.rows
 slug: Web/API/HTMLTableSectionElement/rows
 tags:
-  - API
   - Property
   - Reference
-  - rows
-  - HTMLTableSectionElement
 browser-compat: api.HTMLTableSectionElement.rows
 ---
 {{DefaultAPISidebar("")}}

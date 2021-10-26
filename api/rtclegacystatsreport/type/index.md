@@ -2,11 +2,8 @@
 title: RTCLegacyStatsReport.type
 slug: Web/API/RTCLegacyStatsReport/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - RTCLegacyStatsReport
 browser-compat: api.RTCLegacyStatsReport.type
 ---
 {{DefaultAPISidebar("")}}

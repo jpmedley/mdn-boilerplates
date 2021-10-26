@@ -2,11 +2,8 @@
 title: HTMLInputElement.formTarget
 slug: Web/API/HTMLInputElement/formTarget
 tags:
-  - API
   - Property
   - Reference
-  - formTarget
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.formTarget
 ---
 {{DefaultAPISidebar("")}}

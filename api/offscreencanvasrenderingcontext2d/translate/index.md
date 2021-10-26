@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.translate()
 slug: Web/API/OffscreenCanvasRenderingContext2D/translate
 tags:
-  - API
   - Method
   - Reference
-  - translate
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.translate
 ---
 {{DefaultAPISidebar("")}}

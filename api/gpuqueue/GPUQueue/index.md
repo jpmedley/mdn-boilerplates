@@ -2,10 +2,8 @@
 title: GPUQueue
 slug: Web/API/GPUQueue
 tags:
-  - API
   - Interface
   - Reference
-  - GPUQueue
 browser-compat: api.GPUQueue
 ---
 {{DefaultAPISidebar("")}}

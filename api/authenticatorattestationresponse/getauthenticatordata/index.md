@@ -2,11 +2,8 @@
 title: AuthenticatorAttestationResponse.getAuthenticatorData()
 slug: Web/API/AuthenticatorAttestationResponse/getAuthenticatorData
 tags:
-  - API
   - Method
   - Reference
-  - getAuthenticatorData
-  - AuthenticatorAttestationResponse
 browser-compat: api.AuthenticatorAttestationResponse.getAuthenticatorData
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

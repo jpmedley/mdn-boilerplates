@@ -2,11 +2,8 @@
 title: PagePopupController.formatShortMonth()
 slug: Web/API/PagePopupController/formatShortMonth
 tags:
-  - API
   - Method
   - Reference
-  - formatShortMonth
-  - PagePopupController
 browser-compat: api.PagePopupController.formatShortMonth
 ---
 {{DefaultAPISidebar("")}}

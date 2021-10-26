@@ -2,11 +2,8 @@
 title: SVGFEDropShadowElement.dy
 slug: Web/API/SVGFEDropShadowElement/dy
 tags:
-  - API
   - Property
   - Reference
-  - dy
-  - SVGFEDropShadowElement
 browser-compat: api.SVGFEDropShadowElement.dy
 ---
 {{DefaultAPISidebar("")}}

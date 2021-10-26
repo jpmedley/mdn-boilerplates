@@ -2,10 +2,8 @@
 title: SQLTransaction
 slug: Web/API/SQLTransaction
 tags:
-  - API
   - Interface
   - Reference
-  - SQLTransaction
 browser-compat: api.SQLTransaction
 ---
 {{DefaultAPISidebar("")}}

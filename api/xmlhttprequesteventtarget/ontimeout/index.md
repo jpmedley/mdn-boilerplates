@@ -2,11 +2,8 @@
 title: XMLHttpRequestEventTarget.ontimeout
 slug: Web/API/XMLHttpRequestEventTarget/ontimeout
 tags:
-  - API
   - Property
   - Reference
-  - ontimeout
-  - XMLHttpRequestEventTarget
 browser-compat: api.XMLHttpRequestEventTarget.ontimeout
 ---
 {{DefaultAPISidebar("")}}

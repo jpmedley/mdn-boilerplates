@@ -2,11 +2,8 @@
 title: SVGLineElement.x2
 slug: Web/API/SVGLineElement/x2
 tags:
-  - API
   - Property
   - Reference
-  - x2
-  - SVGLineElement
 browser-compat: api.SVGLineElement.x2
 ---
 {{DefaultAPISidebar("")}}

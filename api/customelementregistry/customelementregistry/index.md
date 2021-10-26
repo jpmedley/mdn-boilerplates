@@ -2,10 +2,8 @@
 title: CustomElementRegistry.CustomElementRegistry()
 slug: Web/API/CustomElementRegistry/CustomElementRegistry
 tags:
-  - API
   - Constructor
   - Reference
-  - CustomElementRegistry
 browser-compat: api.CustomElementRegistry.CustomElementRegistry
 ---
 {{DefaultAPISidebar("")}}

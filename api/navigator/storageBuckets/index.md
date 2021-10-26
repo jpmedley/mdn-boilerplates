@@ -2,11 +2,8 @@
 title: Navigator.storageBuckets
 slug: Web/API/Navigator/storageBuckets
 tags:
-  - API
   - Property
   - Reference
-  - storageBuckets
-  - Navigator
 browser-compat: api.Navigator.storageBuckets
 ---
 {{DefaultAPISidebar("")}}

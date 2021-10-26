@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.beginPath()
 slug: Web/API/OffscreenCanvasRenderingContext2D/beginPath
 tags:
-  - API
   - Method
   - Reference
-  - beginPath
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.beginPath
 ---
 {{DefaultAPISidebar("")}}

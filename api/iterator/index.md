@@ -2,10 +2,8 @@
 title: Iterator
 slug: Web/API/Iterator
 tags:
-  - API
   - Interface
   - Reference
-  - Iterator
 browser-compat: api.Iterator
 ---
 {{DefaultAPISidebar("")}}

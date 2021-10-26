@@ -2,11 +2,8 @@
 title: SVGPolygonElement.points
 slug: Web/API/SVGPolygonElement/points
 tags:
-  - API
   - Property
   - Reference
-  - points
-  - SVGPolygonElement
 browser-compat: api.SVGPolygonElement.points
 ---
 {{DefaultAPISidebar("")}}

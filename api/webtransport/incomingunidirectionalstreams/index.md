@@ -2,11 +2,8 @@
 title: WebTransport.incomingUnidirectionalStreams
 slug: Web/API/WebTransport/incomingUnidirectionalStreams
 tags:
-  - API
   - Property
   - Reference
-  - incomingUnidirectionalStreams
-  - WebTransport
 browser-compat: api.WebTransport.incomingUnidirectionalStreams
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

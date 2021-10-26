@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.selectionStart
 slug: Web/API/HTMLTextAreaElement/selectionStart
 tags:
-  - API
   - Property
   - Reference
-  - selectionStart
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.selectionStart
 ---
 {{DefaultAPISidebar("")}}

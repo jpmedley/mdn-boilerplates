@@ -2,10 +2,8 @@
 title: DOMRectList
 slug: Web/API/DOMRectList
 tags:
-  - API
   - Interface
   - Reference
-  - DOMRectList
 browser-compat: api.DOMRectList
 ---
 {{DefaultAPISidebar("")}}

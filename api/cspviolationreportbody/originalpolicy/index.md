@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.originalPolicy
 slug: Web/API/CSPViolationReportBody/originalPolicy
 tags:
-  - API
   - Property
   - Reference
-  - originalPolicy
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.originalPolicy
 ---
 {{DefaultAPISidebar("")}}

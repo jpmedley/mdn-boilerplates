@@ -2,11 +2,8 @@
 title: DeprecationReportBody.lineNumber
 slug: Web/API/DeprecationReportBody/lineNumber
 tags:
-  - API
   - Property
   - Reference
-  - lineNumber
-  - DeprecationReportBody
 browser-compat: api.DeprecationReportBody.lineNumber
 ---
 {{DefaultAPISidebar("")}}

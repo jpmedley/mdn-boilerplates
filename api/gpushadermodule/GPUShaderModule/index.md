@@ -2,10 +2,8 @@
 title: GPUShaderModule
 slug: Web/API/GPUShaderModule
 tags:
-  - API
   - Interface
   - Reference
-  - GPUShaderModule
 browser-compat: api.GPUShaderModule
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: PagePopupController.formatMonth()
 slug: Web/API/PagePopupController/formatMonth
 tags:
-  - API
   - Method
   - Reference
-  - formatMonth
-  - PagePopupController
 browser-compat: api.PagePopupController.formatMonth
 ---
 {{DefaultAPISidebar("")}}

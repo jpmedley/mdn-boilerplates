@@ -2,11 +2,8 @@
 title: SVGGraphicsElement.transform
 slug: Web/API/SVGGraphicsElement/transform
 tags:
-  - API
   - Property
   - Reference
-  - transform
-  - SVGGraphicsElement
 browser-compat: api.SVGGraphicsElement.transform
 ---
 {{DefaultAPISidebar("")}}

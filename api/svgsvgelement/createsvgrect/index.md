@@ -2,11 +2,8 @@
 title: SVGSVGElement.createSVGRect()
 slug: Web/API/SVGSVGElement/createSVGRect
 tags:
-  - API
   - Method
   - Reference
-  - createSVGRect
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.createSVGRect
 ---
 {{DefaultAPISidebar("")}}

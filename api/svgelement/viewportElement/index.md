@@ -2,11 +2,8 @@
 title: SVGElement.viewportElement
 slug: Web/API/SVGElement/viewportElement
 tags:
-  - API
   - Property
   - Reference
-  - viewportElement
-  - SVGElement
 browser-compat: api.SVGElement.viewportElement
 ---
 {{DefaultAPISidebar("")}}

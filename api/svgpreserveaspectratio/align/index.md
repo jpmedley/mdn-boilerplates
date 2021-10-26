@@ -2,11 +2,8 @@
 title: SVGPreserveAspectRatio.align
 slug: Web/API/SVGPreserveAspectRatio/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - SVGPreserveAspectRatio
 browser-compat: api.SVGPreserveAspectRatio.align
 ---
 {{DefaultAPISidebar("")}}

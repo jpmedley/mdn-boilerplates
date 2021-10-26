@@ -2,11 +2,8 @@
 title: HTMLOutputElement.type
 slug: Web/API/HTMLOutputElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLOutputElement
 browser-compat: api.HTMLOutputElement.type
 ---
 {{DefaultAPISidebar("")}}

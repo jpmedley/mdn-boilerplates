@@ -2,11 +2,8 @@
 title: FetchEvent.handled
 slug: Web/API/FetchEvent/handled
 tags:
-  - API
   - Property
   - Reference
-  - handled
-  - FetchEvent
 browser-compat: api.FetchEvent.handled
 ---
 {{DefaultAPISidebar("")}}

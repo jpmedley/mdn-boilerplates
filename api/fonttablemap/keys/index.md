@@ -2,11 +2,8 @@
 title: FontTableMap.keys()
 slug: Web/API/FontTableMap/keys
 tags:
-  - API
   - Method
   - Reference
-  - keys
-  - FontTableMap
 browser-compat: api.FontTableMap.keys
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

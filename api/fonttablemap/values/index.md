@@ -2,11 +2,8 @@
 title: FontTableMap.values()
 slug: Web/API/FontTableMap/values
 tags:
-  - API
   - Method
   - Reference
-  - values
-  - FontTableMap
 browser-compat: api.FontTableMap.values
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

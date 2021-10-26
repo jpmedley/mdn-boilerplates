@@ -2,11 +2,8 @@
 title: GPUDevice.importExternalTexture()
 slug: Web/API/GPUDevice/importExternalTexture
 tags:
-  - API
   - Method
   - Reference
-  - importExternalTexture
-  - GPUDevice
 browser-compat: api.GPUDevice.importExternalTexture
 ---
 {{DefaultAPISidebar("")}}

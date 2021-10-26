@@ -2,11 +2,8 @@
 title: SVGFEDiffuseLightingElement.kernelUnitLengthY
 slug: Web/API/SVGFEDiffuseLightingElement/kernelUnitLengthY
 tags:
-  - API
   - Property
   - Reference
-  - kernelUnitLengthY
-  - SVGFEDiffuseLightingElement
 browser-compat: api.SVGFEDiffuseLightingElement.kernelUnitLengthY
 ---
 {{DefaultAPISidebar("")}}

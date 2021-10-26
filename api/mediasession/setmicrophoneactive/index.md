@@ -2,11 +2,8 @@
 title: MediaSession.setMicrophoneActive()
 slug: Web/API/MediaSession/setMicrophoneActive
 tags:
-  - API
   - Method
   - Reference
-  - setMicrophoneActive
-  - MediaSession
 browser-compat: api.MediaSession.setMicrophoneActive
 ---
 {{DefaultAPISidebar("")}}

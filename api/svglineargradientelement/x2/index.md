@@ -2,11 +2,8 @@
 title: SVGLinearGradientElement.x2
 slug: Web/API/SVGLinearGradientElement/x2
 tags:
-  - API
   - Property
   - Reference
-  - x2
-  - SVGLinearGradientElement
 browser-compat: api.SVGLinearGradientElement.x2
 ---
 {{DefaultAPISidebar("")}}

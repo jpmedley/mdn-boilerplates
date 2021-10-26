@@ -2,11 +2,8 @@
 title: SVGGradientElement.gradientTransform
 slug: Web/API/SVGGradientElement/gradientTransform
 tags:
-  - API
   - Property
   - Reference
-  - gradientTransform
-  - SVGGradientElement
 browser-compat: api.SVGGradientElement.gradientTransform
 ---
 {{DefaultAPISidebar("")}}

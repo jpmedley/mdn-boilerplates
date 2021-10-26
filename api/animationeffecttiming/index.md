@@ -2,10 +2,8 @@
 title: AnimationEffectTiming
 slug: Web/API/AnimationEffectTiming
 tags:
-  - API
   - Interface
   - Reference
-  - AnimationEffectTiming
 browser-compat: api.AnimationEffectTiming
 ---
 {{DefaultAPISidebar("")}}

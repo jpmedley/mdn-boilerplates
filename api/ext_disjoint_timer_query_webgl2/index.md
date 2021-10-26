@@ -2,10 +2,8 @@
 title: EXTDisjointTimerQueryWebGL2
 slug: Web/API/EXTDisjointTimerQueryWebGL2
 tags:
-  - API
   - Interface
   - Reference
-  - EXTDisjointTimerQueryWebGL2
 browser-compat: api.EXTDisjointTimerQueryWebGL2
 ---
 {{DefaultAPISidebar("")}}

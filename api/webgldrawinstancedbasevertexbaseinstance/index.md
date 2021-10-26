@@ -2,10 +2,8 @@
 title: WebGLDrawInstancedBaseVertexBaseInstance
 slug: Web/API/WebGLDrawInstancedBaseVertexBaseInstance
 tags:
-  - API
   - Interface
   - Reference
-  - WebGLDrawInstancedBaseVertexBaseInstance
 browser-compat: api.WebGLDrawInstancedBaseVertexBaseInstance
 ---
 {{DefaultAPISidebar("")}}

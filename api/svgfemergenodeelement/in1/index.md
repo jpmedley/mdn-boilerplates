@@ -2,11 +2,8 @@
 title: SVGFEMergeNodeElement.in1
 slug: Web/API/SVGFEMergeNodeElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEMergeNodeElement
 browser-compat: api.SVGFEMergeNodeElement.in1
 ---
 {{DefaultAPISidebar("")}}

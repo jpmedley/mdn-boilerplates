@@ -2,11 +2,8 @@
 title: DeprecationReportBody.id
 slug: Web/API/DeprecationReportBody/id
 tags:
-  - API
   - Property
   - Reference
-  - id
-  - DeprecationReportBody
 browser-compat: api.DeprecationReportBody.id
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: PortalHost.onmessageerror
 slug: Web/API/PortalHost/onmessageerror
 tags:
-  - API
   - Property
   - Reference
-  - onmessageerror
-  - PortalHost
 browser-compat: api.PortalHost.onmessageerror
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.setTransform()
 slug: Web/API/OffscreenCanvasRenderingContext2D/setTransform
 tags:
-  - API
   - Method
   - Reference
-  - setTransform
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.setTransform
 ---
 {{DefaultAPISidebar("")}}

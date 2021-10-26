@@ -2,11 +2,8 @@
 title: NavigationPreloadManager.setHeaderValue()
 slug: Web/API/NavigationPreloadManager/setHeaderValue
 tags:
-  - API
   - Method
   - Reference
-  - setHeaderValue
-  - NavigationPreloadManager
 browser-compat: api.NavigationPreloadManager.setHeaderValue
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

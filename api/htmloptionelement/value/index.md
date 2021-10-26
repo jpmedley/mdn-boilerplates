@@ -2,11 +2,8 @@
 title: HTMLOptionElement.value
 slug: Web/API/HTMLOptionElement/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - HTMLOptionElement
 browser-compat: api.HTMLOptionElement.value
 ---
 {{DefaultAPISidebar("")}}

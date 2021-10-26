@@ -2,11 +2,8 @@
 title: LayoutShift.value
 slug: Web/API/LayoutShift/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - LayoutShift
 browser-compat: api.LayoutShift.value
 ---
 {{DefaultAPISidebar("")}}

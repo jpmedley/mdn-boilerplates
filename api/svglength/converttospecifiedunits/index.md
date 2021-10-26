@@ -2,11 +2,8 @@
 title: SVGLength.convertToSpecifiedUnits()
 slug: Web/API/SVGLength/convertToSpecifiedUnits
 tags:
-  - API
   - Method
   - Reference
-  - convertToSpecifiedUnits
-  - SVGLength
 browser-compat: api.SVGLength.convertToSpecifiedUnits
 ---
 {{DefaultAPISidebar("")}}

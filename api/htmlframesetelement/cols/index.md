@@ -2,11 +2,8 @@
 title: HTMLFrameSetElement.cols
 slug: Web/API/HTMLFrameSetElement/cols
 tags:
-  - API
   - Property
   - Reference
-  - cols
-  - HTMLFrameSetElement
 browser-compat: api.HTMLFrameSetElement.cols
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Window.trustedTypes
 slug: Web/API/Window/trustedTypes
 tags:
-  - API
   - Property
   - Reference
-  - trustedTypes
-  - Window
 browser-compat: api.Window.trustedTypes
 ---
 {{DefaultAPISidebar("")}}

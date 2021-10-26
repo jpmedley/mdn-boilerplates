@@ -2,11 +2,8 @@
 title: HTMLSourceElement.sizes
 slug: Web/API/HTMLSourceElement/sizes
 tags:
-  - API
   - Property
   - Reference
-  - sizes
-  - HTMLSourceElement
 browser-compat: api.HTMLSourceElement.sizes
 ---
 {{DefaultAPISidebar("")}}

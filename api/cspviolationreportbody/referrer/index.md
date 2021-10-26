@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.referrer
 slug: Web/API/CSPViolationReportBody/referrer
 tags:
-  - API
   - Property
   - Reference
-  - referrer
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.referrer
 ---
 {{DefaultAPISidebar("")}}

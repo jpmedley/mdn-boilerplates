@@ -2,10 +2,8 @@
 title: EventCounts
 slug: Web/API/EventCounts
 tags:
-  - API
   - Interface
   - Reference
-  - EventCounts
 browser-compat: api.EventCounts
 ---
 {{DefaultAPISidebar("")}}

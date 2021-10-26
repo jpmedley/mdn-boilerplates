@@ -2,11 +2,8 @@
 title: BeforeUnloadEvent.returnValue
 slug: Web/API/BeforeUnloadEvent/returnValue
 tags:
-  - API
   - Property
   - Reference
-  - returnValue
-  - BeforeUnloadEvent
 browser-compat: api.BeforeUnloadEvent.returnValue
 ---
 {{DefaultAPISidebar("")}}

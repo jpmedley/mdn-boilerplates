@@ -2,11 +2,8 @@
 title: IdleDetector.screenState
 slug: Web/API/IdleDetector/screenState
 tags:
-  - API
   - Property
   - Reference
-  - screenState
-  - IdleDetector
 browser-compat: api.IdleDetector.screenState
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: External
 slug: Web/API/External
 tags:
-  - API
   - Interface
   - Reference
-  - External
 browser-compat: api.External
 ---
 {{DefaultAPISidebar("")}}

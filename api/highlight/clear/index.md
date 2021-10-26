@@ -2,11 +2,8 @@
 title: Highlight.clear()
 slug: Web/API/Highlight/clear
 tags:
-  - API
   - Method
   - Reference
-  - clear
-  - Highlight
 browser-compat: api.Highlight.clear
 ---
 {{DefaultAPISidebar("")}}

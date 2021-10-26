@@ -2,11 +2,8 @@
 title: SVGMaskElement.x
 slug: Web/API/SVGMaskElement/x
 tags:
-  - API
   - Property
   - Reference
-  - x
-  - SVGMaskElement
 browser-compat: api.SVGMaskElement.x
 ---
 {{DefaultAPISidebar("")}}

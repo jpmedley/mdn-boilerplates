@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.createRadialGradient()
 slug: Web/API/OffscreenCanvasRenderingContext2D/createRadialGradient
 tags:
-  - API
   - Method
   - Reference
-  - createRadialGradient
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.createRadialGradient
 ---
 {{DefaultAPISidebar("")}}

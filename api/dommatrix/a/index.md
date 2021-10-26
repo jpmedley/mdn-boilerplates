@@ -2,11 +2,8 @@
 title: DOMMatrix.a
 slug: Web/API/DOMMatrix/a
 tags:
-  - API
   - Property
   - Reference
-  - a
-  - DOMMatrix
 browser-compat: api.DOMMatrix.a
 ---
 {{DefaultAPISidebar("")}}

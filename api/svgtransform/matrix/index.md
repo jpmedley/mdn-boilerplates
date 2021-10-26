@@ -2,11 +2,8 @@
 title: SVGTransform.matrix
 slug: Web/API/SVGTransform/matrix
 tags:
-  - API
   - Property
   - Reference
-  - matrix
-  - SVGTransform
 browser-compat: api.SVGTransform.matrix
 ---
 {{DefaultAPISidebar("")}}

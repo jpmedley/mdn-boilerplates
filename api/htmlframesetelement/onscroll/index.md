@@ -2,11 +2,8 @@
 title: HTMLFrameSetElement.onscroll
 slug: Web/API/HTMLFrameSetElement/onscroll
 tags:
-  - API
   - Property
   - Reference
-  - onscroll
-  - HTMLFrameSetElement
 browser-compat: api.HTMLFrameSetElement.onscroll
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: External.IsSearchProviderInstalled()
 slug: Web/API/External/IsSearchProviderInstalled
 tags:
-  - API
   - Method
   - Reference
-  - IsSearchProviderInstalled
-  - External
 browser-compat: api.External.IsSearchProviderInstalled
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: MediaList.appendMedium()
 slug: Web/API/MediaList/appendMedium
 tags:
-  - API
   - Method
   - Reference
-  - appendMedium
-  - MediaList
 browser-compat: api.MediaList.appendMedium
 ---
 {{DefaultAPISidebar("")}}

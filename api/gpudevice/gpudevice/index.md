@@ -2,10 +2,8 @@
 title: GPUDevice
 slug: Web/API/GPUDevice
 tags:
-  - API
   - Interface
   - Reference
-  - GPUDevice
 browser-compat: api.GPUDevice
 ---
 {{DefaultAPISidebar("")}}

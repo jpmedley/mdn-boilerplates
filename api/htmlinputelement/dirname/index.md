@@ -2,11 +2,8 @@
 title: HTMLInputElement.dirName
 slug: Web/API/HTMLInputElement/dirName
 tags:
-  - API
   - Property
   - Reference
-  - dirName
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.dirName
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.lineWidth
 slug: Web/API/OffscreenCanvasRenderingContext2D/lineWidth
 tags:
-  - API
   - Property
   - Reference
-  - lineWidth
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.lineWidth
 ---
 {{DefaultAPISidebar("")}}

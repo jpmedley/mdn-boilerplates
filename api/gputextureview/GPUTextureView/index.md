@@ -2,10 +2,8 @@
 title: GPUTextureView
 slug: Web/API/GPUTextureView
 tags:
-  - API
   - Interface
   - Reference
-  - GPUTextureView
 browser-compat: api.GPUTextureView
 ---
 {{DefaultAPISidebar("")}}

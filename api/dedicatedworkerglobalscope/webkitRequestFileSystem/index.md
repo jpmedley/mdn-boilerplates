@@ -2,11 +2,8 @@
 title: DedicatedWorkerGlobalScope.webkitRequestFileSystem()
 slug: Web/API/DedicatedWorkerGlobalScope/webkitRequestFileSystem
 tags:
-  - API
   - Method
   - Reference
-  - webkitRequestFileSystem
-  - DedicatedWorkerGlobalScope
 browser-compat: api.DedicatedWorkerGlobalScope.webkitRequestFileSystem
 ---
 {{DefaultAPISidebar("")}}

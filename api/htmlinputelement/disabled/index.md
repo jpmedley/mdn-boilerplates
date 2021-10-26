@@ -2,11 +2,8 @@
 title: HTMLInputElement.disabled
 slug: Web/API/HTMLInputElement/disabled
 tags:
-  - API
   - Property
   - Reference
-  - disabled
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.disabled
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: FileWriter.truncate()
 slug: Web/API/FileWriter/truncate
 tags:
-  - API
   - Method
   - Reference
-  - truncate
-  - FileWriter
 browser-compat: api.FileWriter.truncate
 ---
 {{DefaultAPISidebar("")}}

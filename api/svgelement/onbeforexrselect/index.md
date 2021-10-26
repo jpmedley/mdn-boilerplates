@@ -2,11 +2,8 @@
 title: SVGElement.onbeforexrselect
 slug: Web/API/SVGElement/onbeforexrselect
 tags:
-  - API
   - Property
   - Reference
-  - onbeforexrselect
-  - SVGElement
 browser-compat: api.SVGElement.onbeforexrselect
 ---
 {{DefaultAPISidebar("")}}

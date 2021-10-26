@@ -2,11 +2,8 @@
 title: SVGStringList.getItem()
 slug: Web/API/SVGStringList/getItem
 tags:
-  - API
   - Method
   - Reference
-  - getItem
-  - SVGStringList
 browser-compat: api.SVGStringList.getItem
 ---
 {{DefaultAPISidebar("")}}

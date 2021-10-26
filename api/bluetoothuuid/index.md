@@ -2,10 +2,8 @@
 title: BluetoothUUID
 slug: Web/API/BluetoothUUID
 tags:
-  - API
   - Interface
   - Reference
-  - BluetoothUUID
 browser-compat: api.BluetoothUUID
 ---
 {{DefaultAPISidebar("")}}

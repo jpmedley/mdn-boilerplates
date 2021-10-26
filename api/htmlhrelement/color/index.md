@@ -2,11 +2,8 @@
 title: HTMLHRElement.color
 slug: Web/API/HTMLHRElement/color
 tags:
-  - API
   - Property
   - Reference
-  - color
-  - HTMLHRElement
 browser-compat: api.HTMLHRElement.color
 ---
 {{DefaultAPISidebar("")}}

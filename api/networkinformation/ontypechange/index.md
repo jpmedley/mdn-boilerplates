@@ -2,11 +2,8 @@
 title: NetworkInformation.ontypechange
 slug: Web/API/NetworkInformation/ontypechange
 tags:
-  - API
   - Property
   - Reference
-  - ontypechange
-  - NetworkInformation
 browser-compat: api.NetworkInformation.ontypechange
 ---
 {{DefaultAPISidebar("")}}

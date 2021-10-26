@@ -2,11 +2,8 @@
 title: Window.origin
 slug: Web/API/Window/origin
 tags:
-  - API
   - Property
   - Reference
-  - origin
-  - Window
 browser-compat: api.Window.origin
 ---
 {{DefaultAPISidebar("")}}

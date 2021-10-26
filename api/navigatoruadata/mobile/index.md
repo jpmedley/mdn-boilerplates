@@ -2,11 +2,8 @@
 title: NavigatorUAData.mobile
 slug: Web/API/NavigatorUAData/mobile
 tags:
-  - API
   - Property
   - Reference
-  - mobile
-  - NavigatorUAData
 browser-compat: api.NavigatorUAData.mobile
 ---
 {{DefaultAPISidebar("")}}

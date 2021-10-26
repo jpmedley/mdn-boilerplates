@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.colSpan
 slug: Web/API/HTMLTableCellElement/colSpan
 tags:
-  - API
   - Property
   - Reference
-  - colSpan
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.colSpan
 ---
 {{DefaultAPISidebar("")}}

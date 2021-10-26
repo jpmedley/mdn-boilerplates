@@ -2,11 +2,8 @@
 title: PopStateEvent.state
 slug: Web/API/PopStateEvent/state
 tags:
-  - API
   - Property
   - Reference
-  - state
-  - PopStateEvent
 browser-compat: api.PopStateEvent.state
 ---
 {{DefaultAPISidebar("")}}

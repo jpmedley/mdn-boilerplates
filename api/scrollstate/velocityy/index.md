@@ -2,11 +2,8 @@
 title: ScrollState.velocityY
 slug: Web/API/ScrollState/velocityY
 tags:
-  - API
   - Property
   - Reference
-  - velocityY
-  - ScrollState
 browser-compat: api.ScrollState.velocityY
 ---
 {{DefaultAPISidebar("")}}

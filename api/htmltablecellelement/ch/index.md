@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.ch
 slug: Web/API/HTMLTableCellElement/ch
 tags:
-  - API
   - Property
   - Reference
-  - ch
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.ch
 ---
 {{DefaultAPISidebar("")}}

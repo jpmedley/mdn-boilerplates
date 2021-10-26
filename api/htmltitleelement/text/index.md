@@ -2,11 +2,8 @@
 title: HTMLTitleElement.text
 slug: Web/API/HTMLTitleElement/text
 tags:
-  - API
   - Property
   - Reference
-  - text
-  - HTMLTitleElement
 browser-compat: api.HTMLTitleElement.text
 ---
 {{DefaultAPISidebar("")}}

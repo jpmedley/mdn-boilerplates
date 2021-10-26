@@ -2,11 +2,8 @@
 title: SVGFEConvolveMatrixElement.divisor
 slug: Web/API/SVGFEConvolveMatrixElement/divisor
 tags:
-  - API
   - Property
   - Reference
-  - divisor
-  - SVGFEConvolveMatrixElement
 browser-compat: api.SVGFEConvolveMatrixElement.divisor
 ---
 {{DefaultAPISidebar("")}}

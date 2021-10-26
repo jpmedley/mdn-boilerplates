@@ -2,11 +2,8 @@
 title: HTMLMeterElement.optimum
 slug: Web/API/HTMLMeterElement/optimum
 tags:
-  - API
   - Property
   - Reference
-  - optimum
-  - HTMLMeterElement
 browser-compat: api.HTMLMeterElement.optimum
 ---
 {{DefaultAPISidebar("")}}

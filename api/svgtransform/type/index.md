@@ -2,11 +2,8 @@
 title: SVGTransform.type
 slug: Web/API/SVGTransform/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - SVGTransform
 browser-compat: api.SVGTransform.type
 ---
 {{DefaultAPISidebar("")}}

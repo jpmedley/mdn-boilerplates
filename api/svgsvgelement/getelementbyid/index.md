@@ -2,11 +2,8 @@
 title: SVGSVGElement.getElementById()
 slug: Web/API/SVGSVGElement/getElementById
 tags:
-  - API
   - Method
   - Reference
-  - getElementById
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.getElementById
 ---
 {{DefaultAPISidebar("")}}

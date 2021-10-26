@@ -2,11 +2,8 @@
 title: Window.attributionReporting
 slug: Web/API/Window/attributionReporting
 tags:
-  - API
   - Property
   - Reference
-  - attributionReporting
-  - Window
 browser-compat: api.Window.attributionReporting
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: UnderlyingSourceBase.start()
 slug: Web/API/UnderlyingSourceBase/start
 tags:
-  - API
   - Method
   - Reference
-  - start
-  - UnderlyingSourceBase
 browser-compat: api.UnderlyingSourceBase.start
 ---
 {{DefaultAPISidebar("")}}

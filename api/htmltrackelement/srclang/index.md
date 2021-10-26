@@ -2,11 +2,8 @@
 title: HTMLTrackElement.srclang
 slug: Web/API/HTMLTrackElement/srclang
 tags:
-  - API
   - Property
   - Reference
-  - srclang
-  - HTMLTrackElement
 browser-compat: api.HTMLTrackElement.srclang
 ---
 {{DefaultAPISidebar("")}}

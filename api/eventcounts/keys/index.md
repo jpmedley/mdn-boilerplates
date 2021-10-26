@@ -2,11 +2,8 @@
 title: EventCounts.keys()
 slug: Web/API/EventCounts/keys
 tags:
-  - API
   - Method
   - Reference
-  - keys
-  - EventCounts
 browser-compat: api.EventCounts.keys
 ---
 {{DefaultAPISidebar("")}}

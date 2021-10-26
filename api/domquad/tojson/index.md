@@ -2,11 +2,8 @@
 title: DOMQuad.toJSON()
 slug: Web/API/DOMQuad/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - DOMQuad
 browser-compat: api.DOMQuad.toJSON
 ---
 {{DefaultAPISidebar("")}}

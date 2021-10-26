@@ -2,11 +2,8 @@
 title: Window.cookieStore
 slug: Web/API/Window/cookieStore
 tags:
-  - API
   - Property
   - Reference
-  - cookieStore
-  - Window
 browser-compat: api.Window.cookieStore
 ---
 {{DefaultAPISidebar("")}}

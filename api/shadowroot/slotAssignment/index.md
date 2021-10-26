@@ -2,11 +2,8 @@
 title: ShadowRoot.slotAssignment
 slug: Web/API/ShadowRoot/slotAssignment
 tags:
-  - API
   - Property
   - Reference
-  - slotAssignment
-  - ShadowRoot
 browser-compat: api.ShadowRoot.slotAssignment
 ---
 {{DefaultAPISidebar("")}}

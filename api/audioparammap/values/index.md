@@ -2,11 +2,8 @@
 title: AudioParamMap.values()
 slug: Web/API/AudioParamMap/values
 tags:
-  - API
   - Method
   - Reference
-  - values
-  - AudioParamMap
 browser-compat: api.AudioParamMap.values
 ---
 {{DefaultAPISidebar("")}}

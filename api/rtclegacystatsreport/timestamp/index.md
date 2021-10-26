@@ -2,11 +2,8 @@
 title: RTCLegacyStatsReport.timestamp
 slug: Web/API/RTCLegacyStatsReport/timestamp
 tags:
-  - API
   - Property
   - Reference
-  - timestamp
-  - RTCLegacyStatsReport
 browser-compat: api.RTCLegacyStatsReport.timestamp
 ---
 {{DefaultAPISidebar("")}}

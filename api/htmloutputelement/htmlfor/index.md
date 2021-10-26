@@ -2,11 +2,8 @@
 title: HTMLOutputElement.htmlFor
 slug: Web/API/HTMLOutputElement/htmlFor
 tags:
-  - API
   - Property
   - Reference
-  - htmlFor
-  - HTMLOutputElement
 browser-compat: api.HTMLOutputElement.htmlFor
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Highlight.add()
 slug: Web/API/Highlight/add
 tags:
-  - API
   - Method
   - Reference
-  - add
-  - Highlight
 browser-compat: api.Highlight.add
 ---
 {{DefaultAPISidebar("")}}

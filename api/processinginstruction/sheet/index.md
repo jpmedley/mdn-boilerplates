@@ -2,11 +2,8 @@
 title: ProcessingInstruction.sheet
 slug: Web/API/ProcessingInstruction/sheet
 tags:
-  - API
   - Property
   - Reference
-  - sheet
-  - ProcessingInstruction
 browser-compat: api.ProcessingInstruction.sheet
 ---
 {{DefaultAPISidebar("")}}

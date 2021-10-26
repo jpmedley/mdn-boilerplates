@@ -2,11 +2,8 @@
 title: XRAnchorSet.forEach()
 slug: Web/API/XRAnchorSet/forEach
 tags:
-  - API
   - Method
   - Reference
-  - forEach
-  - XRAnchorSet
 browser-compat: api.XRAnchorSet.forEach
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

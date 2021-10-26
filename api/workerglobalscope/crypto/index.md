@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.crypto
 slug: Web/API/WorkerGlobalScope/crypto
 tags:
-  - API
   - Property
   - Reference
-  - crypto
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.crypto
 ---
 {{DefaultAPISidebar("")}}

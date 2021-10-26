@@ -2,11 +2,8 @@
 title: HTMLTableCaptionElement.align
 slug: Web/API/HTMLTableCaptionElement/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - HTMLTableCaptionElement
 browser-compat: api.HTMLTableCaptionElement.align
 ---
 {{DefaultAPISidebar("")}}

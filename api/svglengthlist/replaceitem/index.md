@@ -2,11 +2,8 @@
 title: SVGLengthList.replaceItem()
 slug: Web/API/SVGLengthList/replaceItem
 tags:
-  - API
   - Method
   - Reference
-  - replaceItem
-  - SVGLengthList
 browser-compat: api.SVGLengthList.replaceItem
 ---
 {{DefaultAPISidebar("")}}

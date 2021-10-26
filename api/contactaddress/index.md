@@ -2,10 +2,8 @@
 title: ContactAddress
 slug: Web/API/ContactAddress
 tags:
-  - API
   - Interface
   - Reference
-  - ContactAddress
 browser-compat: api.ContactAddress
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

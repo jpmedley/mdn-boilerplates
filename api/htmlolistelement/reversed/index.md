@@ -2,11 +2,8 @@
 title: HTMLOListElement.reversed
 slug: Web/API/HTMLOListElement/reversed
 tags:
-  - API
   - Property
   - Reference
-  - reversed
-  - HTMLOListElement
 browser-compat: api.HTMLOListElement.reversed
 ---
 {{DefaultAPISidebar("")}}

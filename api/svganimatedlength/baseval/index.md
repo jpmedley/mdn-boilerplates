@@ -2,11 +2,8 @@
 title: SVGAnimatedLength.baseVal
 slug: Web/API/SVGAnimatedLength/baseVal
 tags:
-  - API
   - Property
   - Reference
-  - baseVal
-  - SVGAnimatedLength
 browser-compat: api.SVGAnimatedLength.baseVal
 ---
 {{DefaultAPISidebar("")}}

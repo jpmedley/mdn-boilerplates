@@ -2,11 +2,8 @@
 title: MediaEncryptedEvent.initDataType
 slug: Web/API/MediaEncryptedEvent/initDataType
 tags:
-  - API
   - Property
   - Reference
-  - initDataType
-  - MediaEncryptedEvent
 browser-compat: api.MediaEncryptedEvent.initDataType
 ---
 {{DefaultAPISidebar("")}}

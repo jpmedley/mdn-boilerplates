@@ -2,11 +2,8 @@
 title: WebGLTexture.lastUploadedVideoTimestamp
 slug: Web/API/WebGLTexture/lastUploadedVideoTimestamp
 tags:
-  - API
   - Property
   - Reference
-  - lastUploadedVideoTimestamp
-  - WebGLTexture
 browser-compat: api.WebGLTexture.lastUploadedVideoTimestamp
 ---
 {{DefaultAPISidebar("")}}

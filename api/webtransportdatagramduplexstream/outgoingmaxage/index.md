@@ -2,11 +2,8 @@
 title: WebTransportDatagramDuplexStream.outgoingMaxAge
 slug: Web/API/WebTransportDatagramDuplexStream/outgoingMaxAge
 tags:
-  - API
   - Property
   - Reference
-  - outgoingMaxAge
-  - WebTransportDatagramDuplexStream
 browser-compat: api.WebTransportDatagramDuplexStream.outgoingMaxAge
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

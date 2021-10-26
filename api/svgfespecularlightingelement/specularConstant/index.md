@@ -2,11 +2,8 @@
 title: SVGFESpecularLightingElement.specularConstant
 slug: Web/API/SVGFESpecularLightingElement/specularConstant
 tags:
-  - API
   - Property
   - Reference
-  - specularConstant
-  - SVGFESpecularLightingElement
 browser-compat: api.SVGFESpecularLightingElement.specularConstant
 ---
 {{DefaultAPISidebar("")}}

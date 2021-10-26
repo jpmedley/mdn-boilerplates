@@ -2,11 +2,8 @@
 title: SVGMatrix.skewX()
 slug: Web/API/SVGMatrix/skewX
 tags:
-  - API
   - Method
   - Reference
-  - skewX
-  - SVGMatrix
 browser-compat: api.SVGMatrix.skewX
 ---
 {{DefaultAPISidebar("")}}

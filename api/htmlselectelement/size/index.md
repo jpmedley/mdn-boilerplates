@@ -2,11 +2,8 @@
 title: HTMLSelectElement.size
 slug: Web/API/HTMLSelectElement/size
 tags:
-  - API
   - Property
   - Reference
-  - size
-  - HTMLSelectElement
 browser-compat: api.HTMLSelectElement.size
 ---
 {{DefaultAPISidebar("")}}

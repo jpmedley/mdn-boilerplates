@@ -2,11 +2,8 @@
 title: SVGAnimatedTransformList.baseVal
 slug: Web/API/SVGAnimatedTransformList/baseVal
 tags:
-  - API
   - Property
   - Reference
-  - baseVal
-  - SVGAnimatedTransformList
 browser-compat: api.SVGAnimatedTransformList.baseVal
 ---
 {{DefaultAPISidebar("")}}

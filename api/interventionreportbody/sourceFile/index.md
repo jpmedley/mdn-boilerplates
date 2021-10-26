@@ -2,11 +2,8 @@
 title: InterventionReportBody.sourceFile
 slug: Web/API/InterventionReportBody/sourceFile
 tags:
-  - API
   - Property
   - Reference
-  - sourceFile
-  - InterventionReportBody
 browser-compat: api.InterventionReportBody.sourceFile
 ---
 {{DefaultAPISidebar("")}}

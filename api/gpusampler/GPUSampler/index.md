@@ -2,10 +2,8 @@
 title: GPUSampler
 slug: Web/API/GPUSampler
 tags:
-  - API
   - Interface
   - Reference
-  - GPUSampler
 browser-compat: api.GPUSampler
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: StorageEvent.StorageEvent()
 slug: Web/API/StorageEvent/StorageEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - StorageEvent
 browser-compat: api.StorageEvent.StorageEvent
 ---
 {{DefaultAPISidebar("")}}

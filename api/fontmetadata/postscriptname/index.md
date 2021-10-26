@@ -2,11 +2,8 @@
 title: FontMetadata.postscriptName
 slug: Web/API/FontMetadata/postscriptName
 tags:
-  - API
   - Property
   - Reference
-  - postscriptName
-  - FontMetadata
 browser-compat: api.FontMetadata.postscriptName
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: SpeechSynthesisEvent.SpeechSynthesisEvent()
 slug: Web/API/SpeechSynthesisEvent/SpeechSynthesisEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - SpeechSynthesisEvent
 browser-compat: api.SpeechSynthesisEvent.SpeechSynthesisEvent
 ---
 {{DefaultAPISidebar("")}}

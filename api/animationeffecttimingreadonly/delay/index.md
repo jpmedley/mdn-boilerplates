@@ -2,11 +2,8 @@
 title: AnimationEffectTimingReadOnly.delay
 slug: Web/API/AnimationEffectTimingReadOnly/delay
 tags:
-  - API
   - Property
   - Reference
-  - delay
-  - AnimationEffectTimingReadOnly
 browser-compat: api.AnimationEffectTimingReadOnly.delay
 ---
 {{DefaultAPISidebar("")}}

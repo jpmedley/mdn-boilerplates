@@ -2,11 +2,8 @@
 title: Navigator.gpu
 slug: Web/API/Navigator/gpu
 tags:
-  - API
   - Property
   - Reference
-  - gpu
-  - Navigator
 browser-compat: api.Navigator.gpu
 ---
 {{DefaultAPISidebar("")}}

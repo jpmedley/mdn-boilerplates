@@ -2,11 +2,8 @@
 title: DeprecationReportBody.message
 slug: Web/API/DeprecationReportBody/message
 tags:
-  - API
   - Property
   - Reference
-  - message
-  - DeprecationReportBody
 browser-compat: api.DeprecationReportBody.message
 ---
 {{DefaultAPISidebar("")}}

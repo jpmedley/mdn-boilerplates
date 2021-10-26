@@ -2,11 +2,8 @@
 title: HTMLLinkElement.disabled
 slug: Web/API/HTMLLinkElement/disabled
 tags:
-  - API
   - Property
   - Reference
-  - disabled
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.disabled
 ---
 {{DefaultAPISidebar("")}}

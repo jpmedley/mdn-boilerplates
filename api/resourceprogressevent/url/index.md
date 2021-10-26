@@ -2,11 +2,8 @@
 title: ResourceProgressEvent.url
 slug: Web/API/ResourceProgressEvent/url
 tags:
-  - API
   - Property
   - Reference
-  - url
-  - ResourceProgressEvent
 browser-compat: api.ResourceProgressEvent.url
 ---
 {{DefaultAPISidebar("")}}

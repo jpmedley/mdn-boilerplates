@@ -2,11 +2,8 @@
 title: WebGLTexture.lastUploadedVideoHeight
 slug: Web/API/WebGLTexture/lastUploadedVideoHeight
 tags:
-  - API
   - Property
   - Reference
-  - lastUploadedVideoHeight
-  - WebGLTexture
 browser-compat: api.WebGLTexture.lastUploadedVideoHeight
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: NavigationPreloadManager.enable()
 slug: Web/API/NavigationPreloadManager/enable
 tags:
-  - API
   - Method
   - Reference
-  - enable
-  - NavigationPreloadManager
 browser-compat: api.NavigationPreloadManager.enable
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

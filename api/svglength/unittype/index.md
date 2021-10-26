@@ -2,11 +2,8 @@
 title: SVGLength.unitType
 slug: Web/API/SVGLength/unitType
 tags:
-  - API
   - Property
   - Reference
-  - unitType
-  - SVGLength
 browser-compat: api.SVGLength.unitType
 ---
 {{DefaultAPISidebar("")}}

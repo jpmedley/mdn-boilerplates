@@ -2,11 +2,8 @@
 title: HTMLInputElement.useMap
 slug: Web/API/HTMLInputElement/useMap
 tags:
-  - API
   - Property
   - Reference
-  - useMap
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.useMap
 ---
 {{DefaultAPISidebar("")}}

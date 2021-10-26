@@ -2,11 +2,8 @@
 title: SVGFEDropShadowElement.stdDeviationY
 slug: Web/API/SVGFEDropShadowElement/stdDeviationY
 tags:
-  - API
   - Property
   - Reference
-  - stdDeviationY
-  - SVGFEDropShadowElement
 browser-compat: api.SVGFEDropShadowElement.stdDeviationY
 ---
 {{DefaultAPISidebar("")}}

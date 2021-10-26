@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.shadowBlur
 slug: Web/API/PaintRenderingContext2D/shadowBlur
 tags:
-  - API
   - Property
   - Reference
-  - shadowBlur
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.shadowBlur
 ---
 {{DefaultAPISidebar("")}}

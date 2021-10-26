@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.rowSpan
 slug: Web/API/HTMLTableCellElement/rowSpan
 tags:
-  - API
   - Property
   - Reference
-  - rowSpan
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.rowSpan
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SubApps.add()
 slug: Web/API/SubApps/add
 tags:
-  - API
   - Method
   - Reference
-  - add
-  - SubApps
 browser-compat: api.SubApps.add
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

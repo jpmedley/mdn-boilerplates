@@ -2,11 +2,8 @@
 title: Navigator.managed
 slug: Web/API/Navigator/managed
 tags:
-  - API
   - Property
   - Reference
-  - managed
-  - Navigator
 browser-compat: api.Navigator.managed
 ---
 {{DefaultAPISidebar("")}}

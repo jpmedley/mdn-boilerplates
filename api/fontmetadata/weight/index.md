@@ -2,11 +2,8 @@
 title: FontMetadata.weight
 slug: Web/API/FontMetadata/weight
 tags:
-  - API
   - Property
   - Reference
-  - weight
-  - FontMetadata
 browser-compat: api.FontMetadata.weight
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

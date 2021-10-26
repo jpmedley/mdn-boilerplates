@@ -2,11 +2,8 @@
 title: SVGGraphicsElement.getScreenCTM()
 slug: Web/API/SVGGraphicsElement/getScreenCTM
 tags:
-  - API
   - Method
   - Reference
-  - getScreenCTM
-  - SVGGraphicsElement
 browser-compat: api.SVGGraphicsElement.getScreenCTM
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: DOMRect.fromRect()
 slug: Web/API/DOMRect/fromRect
 tags:
-  - API
   - Method
   - Reference
-  - fromRect
-  - DOMRect
 browser-compat: api.DOMRect.fromRect
 ---
 {{DefaultAPISidebar("")}}

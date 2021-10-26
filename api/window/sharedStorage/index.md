@@ -2,11 +2,8 @@
 title: Window.sharedStorage
 slug: Web/API/Window/sharedStorage
 tags:
-  - API
   - Property
   - Reference
-  - sharedStorage
-  - Window
 browser-compat: api.Window.sharedStorage
 ---
 {{DefaultAPISidebar("")}}

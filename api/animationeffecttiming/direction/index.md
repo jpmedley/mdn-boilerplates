@@ -2,11 +2,8 @@
 title: AnimationEffectTiming.direction
 slug: Web/API/AnimationEffectTiming/direction
 tags:
-  - API
   - Property
   - Reference
-  - direction
-  - AnimationEffectTiming
 browser-compat: api.AnimationEffectTiming.direction
 ---
 {{DefaultAPISidebar("")}}

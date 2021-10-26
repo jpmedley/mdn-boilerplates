@@ -2,11 +2,8 @@
 title: Gamepad.vibrationActuator
 slug: Web/API/Gamepad/vibrationActuator
 tags:
-  - API
   - Property
   - Reference
-  - vibrationActuator
-  - Gamepad
 browser-compat: api.Gamepad.vibrationActuator
 ---
 {{DefaultAPISidebar("")}}

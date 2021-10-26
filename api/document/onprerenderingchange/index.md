@@ -2,11 +2,8 @@
 title: Document.onprerenderingchange
 slug: Web/API/Document/onprerenderingchange
 tags:
-  - API
   - Property
   - Reference
-  - onprerenderingchange
-  - Document
 browser-compat: api.Document.onprerenderingchange
 ---
 {{DefaultAPISidebar("")}}

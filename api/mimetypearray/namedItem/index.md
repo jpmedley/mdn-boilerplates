@@ -2,11 +2,8 @@
 title: MimeTypeArray.namedItem()
 slug: Web/API/MimeTypeArray/namedItem
 tags:
-  - API
   - Method
   - Reference
-  - namedItem
-  - MimeTypeArray
 browser-compat: api.MimeTypeArray.namedItem
 ---
 {{DefaultAPISidebar("")}}

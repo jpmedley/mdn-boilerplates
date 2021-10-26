@@ -2,10 +2,8 @@
 title: DelegatedInkTrailPresenter
 slug: Web/API/DelegatedInkTrailPresenter
 tags:
-  - API
   - Interface
   - Reference
-  - DelegatedInkTrailPresenter
 browser-compat: api.DelegatedInkTrailPresenter
 ---
 {{DefaultAPISidebar("")}}

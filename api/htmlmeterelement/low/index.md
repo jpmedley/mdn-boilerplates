@@ -2,11 +2,8 @@
 title: HTMLMeterElement.low
 slug: Web/API/HTMLMeterElement/low
 tags:
-  - API
   - Property
   - Reference
-  - low
-  - HTMLMeterElement
 browser-compat: api.HTMLMeterElement.low
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.isSecureContext
 slug: Web/API/WorkerGlobalScope/isSecureContext
 tags:
-  - API
   - Property
   - Reference
-  - isSecureContext
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.isSecureContext
 ---
 {{DefaultAPISidebar("")}}

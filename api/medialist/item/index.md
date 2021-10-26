@@ -2,11 +2,8 @@
 title: MediaList.item()
 slug: Web/API/MediaList/item
 tags:
-  - API
   - Method
   - Reference
-  - item
-  - MediaList
 browser-compat: api.MediaList.item
 ---
 {{DefaultAPISidebar("")}}

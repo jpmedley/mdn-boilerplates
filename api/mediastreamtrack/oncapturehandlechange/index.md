@@ -2,11 +2,8 @@
 title: MediaStreamTrack.oncapturehandlechange
 slug: Web/API/MediaStreamTrack/oncapturehandlechange
 tags:
-  - API
   - Property
   - Reference
-  - oncapturehandlechange
-  - MediaStreamTrack
 browser-compat: api.MediaStreamTrack.oncapturehandlechange
 ---
 {{DefaultAPISidebar("")}}

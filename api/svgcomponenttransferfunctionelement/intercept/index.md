@@ -2,11 +2,8 @@
 title: SVGComponentTransferFunctionElement.intercept
 slug: Web/API/SVGComponentTransferFunctionElement/intercept
 tags:
-  - API
   - Property
   - Reference
-  - intercept
-  - SVGComponentTransferFunctionElement
 browser-compat: api.SVGComponentTransferFunctionElement.intercept
 ---
 {{DefaultAPISidebar("")}}

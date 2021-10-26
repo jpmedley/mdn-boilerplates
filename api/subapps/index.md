@@ -2,10 +2,8 @@
 title: SubApps
 slug: Web/API/SubApps
 tags:
-  - API
   - Interface
   - Reference
-  - SubApps
 browser-compat: api.SubApps
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

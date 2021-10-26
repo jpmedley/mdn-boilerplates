@@ -2,11 +2,8 @@
 title: OESDrawBuffersIndexed.blendEquationiOES()
 slug: Web/API/OESDrawBuffersIndexed/blendEquationiOES
 tags:
-  - API
   - Method
   - Reference
-  - blendEquationiOES
-  - OESDrawBuffersIndexed
 browser-compat: api.OESDrawBuffersIndexed.blendEquationiOES
 ---
 {{DefaultAPISidebar("")}}

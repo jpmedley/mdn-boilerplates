@@ -2,11 +2,8 @@
 title: WebGLDrawInstancedBaseVertexBaseInstance.drawArraysInstancedBaseInstanceWEBGL()
 slug: Web/API/WebGLDrawInstancedBaseVertexBaseInstance/drawArraysInstancedBaseInstanceWEBGL
 tags:
-  - API
   - Method
   - Reference
-  - drawArraysInstancedBaseInstanceWEBGL
-  - WebGLDrawInstancedBaseVertexBaseInstance
 browser-compat: api.WebGLDrawInstancedBaseVertexBaseInstance.drawArraysInstancedBaseInstanceWEBGL
 ---
 {{DefaultAPISidebar("")}}

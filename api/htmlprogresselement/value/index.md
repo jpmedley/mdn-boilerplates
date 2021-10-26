@@ -2,11 +2,8 @@
 title: HTMLProgressElement.value
 slug: Web/API/HTMLProgressElement/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - HTMLProgressElement
 browser-compat: api.HTMLProgressElement.value
 ---
 {{DefaultAPISidebar("")}}

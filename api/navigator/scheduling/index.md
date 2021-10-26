@@ -2,11 +2,8 @@
 title: Navigator.scheduling
 slug: Web/API/Navigator/scheduling
 tags:
-  - API
   - Property
   - Reference
-  - scheduling
-  - Navigator
 browser-compat: api.Navigator.scheduling
 ---
 {{DefaultAPISidebar("")}}

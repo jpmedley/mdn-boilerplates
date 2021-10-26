@@ -2,11 +2,8 @@
 title: MouseEvent.layerY
 slug: Web/API/MouseEvent/layerY
 tags:
-  - API
   - Property
   - Reference
-  - layerY
-  - MouseEvent
 browser-compat: api.MouseEvent.layerY
 ---
 {{DefaultAPISidebar("")}}

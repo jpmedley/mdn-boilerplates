@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.reportValidity()
 slug: Web/API/HTMLTextAreaElement/reportValidity
 tags:
-  - API
   - Method
   - Reference
-  - reportValidity
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.reportValidity
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.getSVGDocument()
 slug: Web/API/HTMLIFrameElement/getSVGDocument
 tags:
-  - API
   - Method
   - Reference
-  - getSVGDocument
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.getSVGDocument
 ---
 {{DefaultAPISidebar("")}}

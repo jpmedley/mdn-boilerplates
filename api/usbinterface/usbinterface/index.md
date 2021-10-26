@@ -2,10 +2,8 @@
 title: USBInterface.USBInterface()
 slug: Web/API/USBInterface/USBInterface
 tags:
-  - API
   - Constructor
   - Reference
-  - USBInterface
 browser-compat: api.USBInterface.USBInterface
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

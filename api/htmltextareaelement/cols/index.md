@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.cols
 slug: Web/API/HTMLTextAreaElement/cols
 tags:
-  - API
   - Property
   - Reference
-  - cols
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.cols
 ---
 {{DefaultAPISidebar("")}}

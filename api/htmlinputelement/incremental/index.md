@@ -2,11 +2,8 @@
 title: HTMLInputElement.incremental
 slug: Web/API/HTMLInputElement/incremental
 tags:
-  - API
   - Property
   - Reference
-  - incremental
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.incremental
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Element.onwebkitfullscreenerror
 slug: Web/API/Element/onwebkitfullscreenerror
 tags:
-  - API
   - Property
   - Reference
-  - onwebkitfullscreenerror
-  - Element
 browser-compat: api.Element.onwebkitfullscreenerror
 ---
 {{DefaultAPISidebar("")}}

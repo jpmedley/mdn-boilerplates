@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.getImageData()
 slug: Web/API/OffscreenCanvasRenderingContext2D/getImageData
 tags:
-  - API
   - Method
   - Reference
-  - getImageData
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.getImageData
 ---
 {{DefaultAPISidebar("")}}

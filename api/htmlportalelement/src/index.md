@@ -2,11 +2,8 @@
 title: HTMLPortalElement.src
 slug: Web/API/HTMLPortalElement/src
 tags:
-  - API
   - Property
   - Reference
-  - src
-  - HTMLPortalElement
 browser-compat: api.HTMLPortalElement.src
 ---
 {{DefaultAPISidebar("")}}

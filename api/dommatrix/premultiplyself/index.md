@@ -2,11 +2,8 @@
 title: DOMMatrix.preMultiplySelf()
 slug: Web/API/DOMMatrix/preMultiplySelf
 tags:
-  - API
   - Method
   - Reference
-  - preMultiplySelf
-  - DOMMatrix
 browser-compat: api.DOMMatrix.preMultiplySelf
 ---
 {{DefaultAPISidebar("")}}

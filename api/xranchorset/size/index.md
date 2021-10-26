@@ -2,11 +2,8 @@
 title: XRAnchorSet.size()
 slug: Web/API/XRAnchorSet/size
 tags:
-  - API
   - Method
   - Reference
-  - size
-  - XRAnchorSet
 browser-compat: api.XRAnchorSet.size
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

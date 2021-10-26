@@ -2,11 +2,8 @@
 title: SVGLengthList.numberOfItems
 slug: Web/API/SVGLengthList/numberOfItems
 tags:
-  - API
   - Property
   - Reference
-  - numberOfItems
-  - SVGLengthList
 browser-compat: api.SVGLengthList.numberOfItems
 ---
 {{DefaultAPISidebar("")}}

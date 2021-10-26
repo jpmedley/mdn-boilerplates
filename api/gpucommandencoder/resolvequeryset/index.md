@@ -2,11 +2,8 @@
 title: GPUCommandEncoder.resolveQuerySet()
 slug: Web/API/GPUCommandEncoder/resolveQuerySet
 tags:
-  - API
   - Method
   - Reference
-  - resolveQuerySet
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder.resolveQuerySet
 ---
 {{DefaultAPISidebar("")}}

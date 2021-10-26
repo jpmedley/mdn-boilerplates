@@ -2,11 +2,8 @@
 title: OESDrawBuffersIndexed.colorMaskiOES()
 slug: Web/API/OESDrawBuffersIndexed/colorMaskiOES
 tags:
-  - API
   - Method
   - Reference
-  - colorMaskiOES
-  - OESDrawBuffersIndexed
 browser-compat: api.OESDrawBuffersIndexed.colorMaskiOES
 ---
 {{DefaultAPISidebar("")}}

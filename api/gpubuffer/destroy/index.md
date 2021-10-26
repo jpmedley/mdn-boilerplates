@@ -2,11 +2,8 @@
 title: GPUBuffer.destroy()
 slug: Web/API/GPUBuffer/destroy
 tags:
-  - API
   - Method
   - Reference
-  - destroy
-  - GPUBuffer
 browser-compat: api.GPUBuffer.destroy
 ---
 {{DefaultAPISidebar("")}}

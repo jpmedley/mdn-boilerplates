@@ -2,11 +2,8 @@
 title: XPathNSResolver.lookupNamespaceURI()
 slug: Web/API/XPathNSResolver/lookupNamespaceURI
 tags:
-  - API
   - Method
   - Reference
-  - lookupNamespaceURI
-  - XPathNSResolver
 browser-compat: api.XPathNSResolver.lookupNamespaceURI
 ---
 {{DefaultAPISidebar("")}}

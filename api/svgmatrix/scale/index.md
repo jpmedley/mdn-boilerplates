@@ -2,11 +2,8 @@
 title: SVGMatrix.scale()
 slug: Web/API/SVGMatrix/scale
 tags:
-  - API
   - Method
   - Reference
-  - scale
-  - SVGMatrix
 browser-compat: api.SVGMatrix.scale
 ---
 {{DefaultAPISidebar("")}}

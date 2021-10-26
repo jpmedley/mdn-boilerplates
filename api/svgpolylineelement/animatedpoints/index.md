@@ -2,11 +2,8 @@
 title: SVGPolylineElement.animatedPoints
 slug: Web/API/SVGPolylineElement/animatedPoints
 tags:
-  - API
   - Property
   - Reference
-  - animatedPoints
-  - SVGPolylineElement
 browser-compat: api.SVGPolylineElement.animatedPoints
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: USBIsochronousOutTransferPacket.bytesWritten
 slug: Web/API/USBIsochronousOutTransferPacket/bytesWritten
 tags:
-  - API
   - Property
   - Reference
-  - bytesWritten
-  - USBIsochronousOutTransferPacket
 browser-compat: api.USBIsochronousOutTransferPacket.bytesWritten
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

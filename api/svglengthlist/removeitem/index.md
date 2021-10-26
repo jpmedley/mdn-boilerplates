@@ -2,11 +2,8 @@
 title: SVGLengthList.removeItem()
 slug: Web/API/SVGLengthList/removeItem
 tags:
-  - API
   - Method
   - Reference
-  - removeItem
-  - SVGLengthList
 browser-compat: api.SVGLengthList.removeItem
 ---
 {{DefaultAPISidebar("")}}

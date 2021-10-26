@@ -2,11 +2,8 @@
 title: DOMMatrix.rotateFromVectorSelf()
 slug: Web/API/DOMMatrix/rotateFromVectorSelf
 tags:
-  - API
   - Method
   - Reference
-  - rotateFromVectorSelf
-  - DOMMatrix
 browser-compat: api.DOMMatrix.rotateFromVectorSelf
 ---
 {{DefaultAPISidebar("")}}

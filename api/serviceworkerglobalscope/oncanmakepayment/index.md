@@ -2,11 +2,8 @@
 title: ServiceWorkerGlobalScope.oncanmakepayment
 slug: Web/API/ServiceWorkerGlobalScope/oncanmakepayment
 tags:
-  - API
   - Property
   - Reference
-  - oncanmakepayment
-  - ServiceWorkerGlobalScope
 browser-compat: api.ServiceWorkerGlobalScope.oncanmakepayment
 ---
 {{DefaultAPISidebar("")}}

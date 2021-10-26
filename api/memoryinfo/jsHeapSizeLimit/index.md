@@ -2,11 +2,8 @@
 title: MemoryInfo.jsHeapSizeLimit
 slug: Web/API/MemoryInfo/jsHeapSizeLimit
 tags:
-  - API
   - Property
   - Reference
-  - jsHeapSizeLimit
-  - MemoryInfo
 browser-compat: api.MemoryInfo.jsHeapSizeLimit
 ---
 {{DefaultAPISidebar("")}}

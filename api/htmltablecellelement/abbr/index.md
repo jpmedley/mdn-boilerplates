@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.abbr
 slug: Web/API/HTMLTableCellElement/abbr
 tags:
-  - API
   - Property
   - Reference
-  - abbr
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.abbr
 ---
 {{DefaultAPISidebar("")}}

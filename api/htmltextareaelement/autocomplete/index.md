@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.autocomplete
 slug: Web/API/HTMLTextAreaElement/autocomplete
 tags:
-  - API
   - Property
   - Reference
-  - autocomplete
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.autocomplete
 ---
 {{DefaultAPISidebar("")}}

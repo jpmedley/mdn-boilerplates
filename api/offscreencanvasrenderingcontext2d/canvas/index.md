@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.canvas
 slug: Web/API/OffscreenCanvasRenderingContext2D/canvas
 tags:
-  - API
   - Property
   - Reference
-  - canvas
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.canvas
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLFrameElement.longDesc
 slug: Web/API/HTMLFrameElement/longDesc
 tags:
-  - API
   - Property
   - Reference
-  - longDesc
-  - HTMLFrameElement
 browser-compat: api.HTMLFrameElement.longDesc
 ---
 {{DefaultAPISidebar("")}}

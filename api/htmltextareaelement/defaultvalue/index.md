@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.defaultValue
 slug: Web/API/HTMLTextAreaElement/defaultValue
 tags:
-  - API
   - Property
   - Reference
-  - defaultValue
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.defaultValue
 ---
 {{DefaultAPISidebar("")}}

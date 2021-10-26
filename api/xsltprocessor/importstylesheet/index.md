@@ -2,11 +2,8 @@
 title: XSLTProcessor.importStylesheet()
 slug: Web/API/XSLTProcessor/importStylesheet
 tags:
-  - API
   - Method
   - Reference
-  - importStylesheet
-  - XSLTProcessor
 browser-compat: api.XSLTProcessor.importStylesheet
 ---
 {{DefaultAPISidebar("")}}

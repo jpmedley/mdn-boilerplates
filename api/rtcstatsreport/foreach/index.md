@@ -2,11 +2,8 @@
 title: RTCStatsReport.forEach()
 slug: Web/API/RTCStatsReport/forEach
 tags:
-  - API
   - Method
   - Reference
-  - forEach
-  - RTCStatsReport
 browser-compat: api.RTCStatsReport.forEach
 ---
 {{DefaultAPISidebar("")}}

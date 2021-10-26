@@ -2,11 +2,8 @@
 title: HTMLElement.autocapitalize
 slug: Web/API/HTMLElement/autocapitalize
 tags:
-  - API
   - Property
   - Reference
-  - autocapitalize
-  - HTMLElement
 browser-compat: api.HTMLElement.autocapitalize
 ---
 {{DefaultAPISidebar("")}}

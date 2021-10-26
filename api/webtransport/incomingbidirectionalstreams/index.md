@@ -2,11 +2,8 @@
 title: WebTransport.incomingBidirectionalStreams
 slug: Web/API/WebTransport/incomingBidirectionalStreams
 tags:
-  - API
   - Property
   - Reference
-  - incomingBidirectionalStreams
-  - WebTransport
 browser-compat: api.WebTransport.incomingBidirectionalStreams
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

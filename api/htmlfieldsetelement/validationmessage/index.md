@@ -2,11 +2,8 @@
 title: HTMLFieldSetElement.validationMessage
 slug: Web/API/HTMLFieldSetElement/validationMessage
 tags:
-  - API
   - Property
   - Reference
-  - validationMessage
-  - HTMLFieldSetElement
 browser-compat: api.HTMLFieldSetElement.validationMessage
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: IDBVersionChangeEvent.dataLossMessage
 slug: Web/API/IDBVersionChangeEvent/dataLossMessage
 tags:
-  - API
   - Property
   - Reference
-  - dataLossMessage
-  - IDBVersionChangeEvent
 browser-compat: api.IDBVersionChangeEvent.dataLossMessage
 ---
 {{DefaultAPISidebar("")}}

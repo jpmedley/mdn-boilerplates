@@ -2,11 +2,8 @@
 title: HTMLInputElement.size
 slug: Web/API/HTMLInputElement/size
 tags:
-  - API
   - Property
   - Reference
-  - size
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.size
 ---
 {{DefaultAPISidebar("")}}

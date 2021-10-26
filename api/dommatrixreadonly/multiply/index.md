@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.multiply()
 slug: Web/API/DOMMatrixReadOnly/multiply
 tags:
-  - API
   - Method
   - Reference
-  - multiply
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.multiply
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: GPURenderBundle
 slug: Web/API/GPURenderBundle
 tags:
-  - API
   - Interface
   - Reference
-  - GPURenderBundle
 browser-compat: api.GPURenderBundle
 ---
 {{DefaultAPISidebar("")}}

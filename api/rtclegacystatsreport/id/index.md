@@ -2,11 +2,8 @@
 title: RTCLegacyStatsReport.id
 slug: Web/API/RTCLegacyStatsReport/id
 tags:
-  - API
   - Property
   - Reference
-  - id
-  - RTCLegacyStatsReport
 browser-compat: api.RTCLegacyStatsReport.id
 ---
 {{DefaultAPISidebar("")}}

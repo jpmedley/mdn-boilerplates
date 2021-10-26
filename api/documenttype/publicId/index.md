@@ -2,11 +2,8 @@
 title: DocumentType.publicId
 slug: Web/API/DocumentType/publicId
 tags:
-  - API
   - Property
   - Reference
-  - publicId
-  - DocumentType
 browser-compat: api.DocumentType.publicId
 ---
 {{DefaultAPISidebar("")}}

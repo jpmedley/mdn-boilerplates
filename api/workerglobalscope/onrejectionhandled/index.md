@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.onrejectionhandled
 slug: Web/API/WorkerGlobalScope/onrejectionhandled
 tags:
-  - API
   - Property
   - Reference
-  - onrejectionhandled
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.onrejectionhandled
 ---
 {{DefaultAPISidebar("")}}

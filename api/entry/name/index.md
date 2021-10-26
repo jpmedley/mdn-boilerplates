@@ -2,11 +2,8 @@
 title: Entry.name
 slug: Web/API/Entry/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - Entry
 browser-compat: api.Entry.name
 ---
 {{DefaultAPISidebar("")}}

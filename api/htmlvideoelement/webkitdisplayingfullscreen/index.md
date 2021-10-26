@@ -2,11 +2,8 @@
 title: HTMLVideoElement.webkitDisplayingFullscreen
 slug: Web/API/HTMLVideoElement/webkitDisplayingFullscreen
 tags:
-  - API
   - Property
   - Reference
-  - webkitDisplayingFullscreen
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.webkitDisplayingFullscreen
 ---
 {{DefaultAPISidebar("")}}

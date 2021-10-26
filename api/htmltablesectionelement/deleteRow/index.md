@@ -2,11 +2,8 @@
 title: HTMLTableSectionElement.deleteRow()
 slug: Web/API/HTMLTableSectionElement/deleteRow
 tags:
-  - API
   - Method
   - Reference
-  - deleteRow
-  - HTMLTableSectionElement
 browser-compat: api.HTMLTableSectionElement.deleteRow
 ---
 {{DefaultAPISidebar("")}}

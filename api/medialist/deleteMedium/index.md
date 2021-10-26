@@ -2,11 +2,8 @@
 title: MediaList.deleteMedium()
 slug: Web/API/MediaList/deleteMedium
 tags:
-  - API
   - Method
   - Reference
-  - deleteMedium
-  - MediaList
 browser-compat: api.MediaList.deleteMedium
 ---
 {{DefaultAPISidebar("")}}

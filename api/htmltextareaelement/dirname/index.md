@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.dirName
 slug: Web/API/HTMLTextAreaElement/dirName
 tags:
-  - API
   - Property
   - Reference
-  - dirName
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.dirName
 ---
 {{DefaultAPISidebar("")}}

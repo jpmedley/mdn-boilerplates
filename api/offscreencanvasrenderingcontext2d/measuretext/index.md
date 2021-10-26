@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.measureText()
 slug: Web/API/OffscreenCanvasRenderingContext2D/measureText
 tags:
-  - API
   - Method
   - Reference
-  - measureText
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.measureText
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: PerformanceNavigationTiming.activationStart
 slug: Web/API/PerformanceNavigationTiming/activationStart
 tags:
-  - API
   - Property
   - Reference
-  - activationStart
-  - PerformanceNavigationTiming
 browser-compat: api.PerformanceNavigationTiming.activationStart
 ---
 {{DefaultAPISidebar("")}}

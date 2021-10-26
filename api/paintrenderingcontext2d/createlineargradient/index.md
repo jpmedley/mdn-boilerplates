@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.createLinearGradient()
 slug: Web/API/PaintRenderingContext2D/createLinearGradient
 tags:
-  - API
   - Method
   - Reference
-  - createLinearGradient
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.createLinearGradient
 ---
 {{DefaultAPISidebar("")}}

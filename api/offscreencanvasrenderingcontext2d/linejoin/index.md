@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.lineJoin
 slug: Web/API/OffscreenCanvasRenderingContext2D/lineJoin
 tags:
-  - API
   - Property
   - Reference
-  - lineJoin
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.lineJoin
 ---
 {{DefaultAPISidebar("")}}

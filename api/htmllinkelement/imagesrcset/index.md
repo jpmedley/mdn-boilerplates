@@ -2,11 +2,8 @@
 title: HTMLLinkElement.imageSrcset
 slug: Web/API/HTMLLinkElement/imageSrcset
 tags:
-  - API
   - Property
   - Reference
-  - imageSrcset
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.imageSrcset
 ---
 {{DefaultAPISidebar("")}}

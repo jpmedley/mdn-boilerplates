@@ -2,11 +2,8 @@
 title: Document.rootElement
 slug: Web/API/Document/rootElement
 tags:
-  - API
   - Property
   - Reference
-  - rootElement
-  - Document
 browser-compat: api.Document.rootElement
 ---
 {{DefaultAPISidebar("")}}

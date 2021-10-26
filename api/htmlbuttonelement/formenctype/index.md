@@ -2,11 +2,8 @@
 title: HTMLButtonElement.formEnctype
 slug: Web/API/HTMLButtonElement/formEnctype
 tags:
-  - API
   - Property
   - Reference
-  - formEnctype
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.formEnctype
 ---
 {{DefaultAPISidebar("")}}

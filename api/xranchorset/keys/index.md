@@ -2,11 +2,8 @@
 title: XRAnchorSet.keys()
 slug: Web/API/XRAnchorSet/keys
 tags:
-  - API
   - Method
   - Reference
-  - keys
-  - XRAnchorSet
 browser-compat: api.XRAnchorSet.keys
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

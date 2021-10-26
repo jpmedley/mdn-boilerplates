@@ -2,11 +2,8 @@
 title: HTMLInputElement.align
 slug: Web/API/HTMLInputElement/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.align
 ---
 {{DefaultAPISidebar("")}}

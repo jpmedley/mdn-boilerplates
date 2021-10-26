@@ -2,11 +2,8 @@
 title: PluginArray.refresh()
 slug: Web/API/PluginArray/refresh
 tags:
-  - API
   - Method
   - Reference
-  - refresh
-  - PluginArray
 browser-compat: api.PluginArray.refresh
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: ShadowRoot.getInnerHTML()
 slug: Web/API/ShadowRoot/getInnerHTML
 tags:
-  - API
   - Method
   - Reference
-  - getInnerHTML
-  - ShadowRoot
 browser-compat: api.ShadowRoot.getInnerHTML
 ---
 {{DefaultAPISidebar("")}}

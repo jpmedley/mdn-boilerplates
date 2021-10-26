@@ -2,11 +2,8 @@
 title: SVGFEPointLightElement.x
 slug: Web/API/SVGFEPointLightElement/x
 tags:
-  - API
   - Property
   - Reference
-  - x
-  - SVGFEPointLightElement
 browser-compat: api.SVGFEPointLightElement.x
 ---
 {{DefaultAPISidebar("")}}

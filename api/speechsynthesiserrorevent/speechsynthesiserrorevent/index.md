@@ -2,10 +2,8 @@
 title: SpeechSynthesisErrorEvent.SpeechSynthesisErrorEvent()
 slug: Web/API/SpeechSynthesisErrorEvent/SpeechSynthesisErrorEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - SpeechSynthesisErrorEvent
 browser-compat: api.SpeechSynthesisErrorEvent.SpeechSynthesisErrorEvent
 ---
 {{DefaultAPISidebar("")}}

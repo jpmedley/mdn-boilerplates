@@ -2,11 +2,8 @@
 title: FileWriterSync.write()
 slug: Web/API/FileWriterSync/write
 tags:
-  - API
   - Method
   - Reference
-  - write
-  - FileWriterSync
 browser-compat: api.FileWriterSync.write
 ---
 {{DefaultAPISidebar("")}}

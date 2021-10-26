@@ -2,11 +2,8 @@
 title: HTMLFieldSetElement.reportValidity()
 slug: Web/API/HTMLFieldSetElement/reportValidity
 tags:
-  - API
   - Method
   - Reference
-  - reportValidity
-  - HTMLFieldSetElement
 browser-compat: api.HTMLFieldSetElement.reportValidity
 ---
 {{DefaultAPISidebar("")}}

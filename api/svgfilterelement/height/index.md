@@ -2,11 +2,8 @@
 title: SVGFilterElement.height
 slug: Web/API/SVGFilterElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - SVGFilterElement
 browser-compat: api.SVGFilterElement.height
 ---
 {{DefaultAPISidebar("")}}

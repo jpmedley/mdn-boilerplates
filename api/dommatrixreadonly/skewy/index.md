@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.skewY()
 slug: Web/API/DOMMatrixReadOnly/skewY
 tags:
-  - API
   - Method
   - Reference
-  - skewY
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.skewY
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: PermissionsPolicyViolationReportBody.lineNumber
 slug: Web/API/PermissionsPolicyViolationReportBody/lineNumber
 tags:
-  - API
   - Property
   - Reference
-  - lineNumber
-  - PermissionsPolicyViolationReportBody
 browser-compat: api.PermissionsPolicyViolationReportBody.lineNumber
 ---
 {{DefaultAPISidebar("")}}

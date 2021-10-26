@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.drawImage()
 slug: Web/API/PaintRenderingContext2D/drawImage
 tags:
-  - API
   - Method
   - Reference
-  - drawImage
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.drawImage
 ---
 {{DefaultAPISidebar("")}}

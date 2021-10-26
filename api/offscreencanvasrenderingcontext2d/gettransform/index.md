@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.getTransform()
 slug: Web/API/OffscreenCanvasRenderingContext2D/getTransform
 tags:
-  - API
   - Method
   - Reference
-  - getTransform
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.getTransform
 ---
 {{DefaultAPISidebar("")}}

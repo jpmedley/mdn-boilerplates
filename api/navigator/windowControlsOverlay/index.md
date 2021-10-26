@@ -2,11 +2,8 @@
 title: Navigator.windowControlsOverlay
 slug: Web/API/Navigator/windowControlsOverlay
 tags:
-  - API
   - Property
   - Reference
-  - windowControlsOverlay
-  - Navigator
 browser-compat: api.Navigator.windowControlsOverlay
 ---
 {{DefaultAPISidebar("")}}

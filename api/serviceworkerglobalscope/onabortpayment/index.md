@@ -2,11 +2,8 @@
 title: ServiceWorkerGlobalScope.onabortpayment
 slug: Web/API/ServiceWorkerGlobalScope/onabortpayment
 tags:
-  - API
   - Property
   - Reference
-  - onabortpayment
-  - ServiceWorkerGlobalScope
 browser-compat: api.ServiceWorkerGlobalScope.onabortpayment
 ---
 {{DefaultAPISidebar("")}}

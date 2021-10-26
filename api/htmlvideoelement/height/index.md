@@ -2,11 +2,8 @@
 title: HTMLVideoElement.height
 slug: Web/API/HTMLVideoElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.height
 ---
 {{DefaultAPISidebar("")}}

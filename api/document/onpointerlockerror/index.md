@@ -2,11 +2,8 @@
 title: Document.onpointerlockerror
 slug: Web/API/Document/onpointerlockerror
 tags:
-  - API
   - Property
   - Reference
-  - onpointerlockerror
-  - Document
 browser-compat: api.Document.onpointerlockerror
 ---
 {{DefaultAPISidebar("")}}

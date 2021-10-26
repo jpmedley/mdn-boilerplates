@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.documentURL
 slug: Web/API/CSPViolationReportBody/documentURL
 tags:
-  - API
   - Property
   - Reference
-  - documentURL
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.documentURL
 ---
 {{DefaultAPISidebar("")}}

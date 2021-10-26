@@ -2,11 +2,8 @@
 title: Document.charset
 slug: Web/API/Document/charset
 tags:
-  - API
   - Property
   - Reference
-  - charset
-  - Document
 browser-compat: api.Document.charset
 ---
 {{DefaultAPISidebar("")}}

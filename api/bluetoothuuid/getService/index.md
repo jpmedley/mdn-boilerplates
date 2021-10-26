@@ -2,11 +2,8 @@
 title: BluetoothUUID.getService()
 slug: Web/API/BluetoothUUID/getService
 tags:
-  - API
   - Method
   - Reference
-  - getService
-  - BluetoothUUID
 browser-compat: api.BluetoothUUID.getService
 ---
 {{DefaultAPISidebar("")}}

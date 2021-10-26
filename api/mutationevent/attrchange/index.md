@@ -2,11 +2,8 @@
 title: MutationEvent.attrChange
 slug: Web/API/MutationEvent/attrChange
 tags:
-  - API
   - Property
   - Reference
-  - attrChange
-  - MutationEvent
 browser-compat: api.MutationEvent.attrChange
 ---
 {{DefaultAPISidebar("")}}

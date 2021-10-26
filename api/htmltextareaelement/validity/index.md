@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.validity
 slug: Web/API/HTMLTextAreaElement/validity
 tags:
-  - API
   - Property
   - Reference
-  - validity
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.validity
 ---
 {{DefaultAPISidebar("")}}

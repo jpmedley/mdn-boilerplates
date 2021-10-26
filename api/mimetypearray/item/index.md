@@ -2,11 +2,8 @@
 title: MimeTypeArray.item()
 slug: Web/API/MimeTypeArray/item
 tags:
-  - API
   - Method
   - Reference
-  - item
-  - MimeTypeArray
 browser-compat: api.MimeTypeArray.item
 ---
 {{DefaultAPISidebar("")}}

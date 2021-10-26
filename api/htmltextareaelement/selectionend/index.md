@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.selectionEnd
 slug: Web/API/HTMLTextAreaElement/selectionEnd
 tags:
-  - API
   - Property
   - Reference
-  - selectionEnd
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.selectionEnd
 ---
 {{DefaultAPISidebar("")}}

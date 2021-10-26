@@ -2,10 +2,8 @@
 title: RTCPeerConnectionIceErrorEvent.RTCPeerConnectionIceErrorEvent()
 slug: Web/API/RTCPeerConnectionIceErrorEvent/RTCPeerConnectionIceErrorEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - RTCPeerConnectionIceErrorEvent
 browser-compat: api.RTCPeerConnectionIceErrorEvent.RTCPeerConnectionIceErrorEvent
 ---
 {{DefaultAPISidebar("")}}

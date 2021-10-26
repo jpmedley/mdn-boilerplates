@@ -2,11 +2,8 @@
 title: GPUDevice.createTexture()
 slug: Web/API/GPUDevice/createTexture
 tags:
-  - API
   - Method
   - Reference
-  - createTexture
-  - GPUDevice
 browser-compat: api.GPUDevice.createTexture
 ---
 {{DefaultAPISidebar("")}}

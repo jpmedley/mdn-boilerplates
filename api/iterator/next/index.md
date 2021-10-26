@@ -2,11 +2,8 @@
 title: Iterator.next()
 slug: Web/API/Iterator/next
 tags:
-  - API
   - Method
   - Reference
-  - next
-  - Iterator
 browser-compat: api.Iterator.next
 ---
 {{DefaultAPISidebar("")}}

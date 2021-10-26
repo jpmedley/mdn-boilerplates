@@ -2,11 +2,8 @@
 title: GPUDevice.onuncapturederror
 slug: Web/API/GPUDevice/onuncapturederror
 tags:
-  - API
   - Property
   - Reference
-  - onuncapturederror
-  - GPUDevice
 browser-compat: api.GPUDevice.onuncapturederror
 ---
 {{DefaultAPISidebar("")}}

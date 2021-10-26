@@ -2,11 +2,8 @@
 title: SVGMatrix.flipY()
 slug: Web/API/SVGMatrix/flipY
 tags:
-  - API
   - Method
   - Reference
-  - flipY
-  - SVGMatrix
 browser-compat: api.SVGMatrix.flipY
 ---
 {{DefaultAPISidebar("")}}

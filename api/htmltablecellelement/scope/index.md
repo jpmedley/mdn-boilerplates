@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.scope
 slug: Web/API/HTMLTableCellElement/scope
 tags:
-  - API
   - Property
   - Reference
-  - scope
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.scope
 ---
 {{DefaultAPISidebar("")}}

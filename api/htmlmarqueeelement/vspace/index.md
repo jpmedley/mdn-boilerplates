@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.vspace
 slug: Web/API/HTMLMarqueeElement/vspace
 tags:
-  - API
   - Property
   - Reference
-  - vspace
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.vspace
 ---
 {{DefaultAPISidebar("")}}

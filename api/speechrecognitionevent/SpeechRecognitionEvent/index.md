@@ -2,10 +2,8 @@
 title: SpeechRecognitionEvent.SpeechRecognitionEvent()
 slug: Web/API/SpeechRecognitionEvent/SpeechRecognitionEvent
 tags:
-  - API
   - Constructor
   - Reference
-  - SpeechRecognitionEvent
 browser-compat: api.SpeechRecognitionEvent.SpeechRecognitionEvent
 ---
 {{DefaultAPISidebar("")}}

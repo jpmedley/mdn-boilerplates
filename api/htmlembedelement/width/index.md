@@ -2,11 +2,8 @@
 title: HTMLEmbedElement.width
 slug: Web/API/HTMLEmbedElement/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - HTMLEmbedElement
 browser-compat: api.HTMLEmbedElement.width
 ---
 {{DefaultAPISidebar("")}}

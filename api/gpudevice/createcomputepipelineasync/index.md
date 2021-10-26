@@ -2,11 +2,8 @@
 title: GPUDevice.createComputePipelineAsync()
 slug: Web/API/GPUDevice/createComputePipelineAsync
 tags:
-  - API
   - Method
   - Reference
-  - createComputePipelineAsync
-  - GPUDevice
 browser-compat: api.GPUDevice.createComputePipelineAsync
 ---
 {{DefaultAPISidebar("")}}

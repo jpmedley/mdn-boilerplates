@@ -2,11 +2,8 @@
 title: HTMLSelectElement.value
 slug: Web/API/HTMLSelectElement/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - HTMLSelectElement
 browser-compat: api.HTMLSelectElement.value
 ---
 {{DefaultAPISidebar("")}}

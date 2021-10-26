@@ -2,11 +2,8 @@
 title: SVGTransformList.replaceItem()
 slug: Web/API/SVGTransformList/replaceItem
 tags:
-  - API
   - Method
   - Reference
-  - replaceItem
-  - SVGTransformList
 browser-compat: api.SVGTransformList.replaceItem
 ---
 {{DefaultAPISidebar("")}}

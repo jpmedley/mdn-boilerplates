@@ -2,11 +2,8 @@
 title: RTCDTMFSender.canInsertDTMF
 slug: Web/API/RTCDTMFSender/canInsertDTMF
 tags:
-  - API
   - Property
   - Reference
-  - canInsertDTMF
-  - RTCDTMFSender
 browser-compat: api.RTCDTMFSender.canInsertDTMF
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: MathMLElement.onbeforexrselect
 slug: Web/API/MathMLElement/onbeforexrselect
 tags:
-  - API
   - Property
   - Reference
-  - onbeforexrselect
-  - MathMLElement
 browser-compat: api.MathMLElement.onbeforexrselect
 ---
 {{DefaultAPISidebar("")}}

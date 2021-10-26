@@ -2,11 +2,8 @@
 title: GPUDevice.createSampler()
 slug: Web/API/GPUDevice/createSampler
 tags:
-  - API
   - Method
   - Reference
-  - createSampler
-  - GPUDevice
 browser-compat: api.GPUDevice.createSampler
 ---
 {{DefaultAPISidebar("")}}

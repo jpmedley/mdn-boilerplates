@@ -2,11 +2,8 @@
 title: GPUShaderModule.compilationInfo()
 slug: Web/API/GPUShaderModule/compilationInfo
 tags:
-  - API
   - Method
   - Reference
-  - compilationInfo
-  - GPUShaderModule
 browser-compat: api.GPUShaderModule.compilationInfo
 ---
 {{DefaultAPISidebar("")}}

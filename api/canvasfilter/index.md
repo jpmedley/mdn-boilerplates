@@ -2,10 +2,8 @@
 title: CanvasFilter
 slug: Web/API/CanvasFilter
 tags:
-  - API
   - Interface
   - Reference
-  - CanvasFilter
 browser-compat: api.CanvasFilter
 ---
 {{DefaultAPISidebar("")}}

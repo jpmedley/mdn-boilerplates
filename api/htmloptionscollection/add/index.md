@@ -2,11 +2,8 @@
 title: HTMLOptionsCollection.add()
 slug: Web/API/HTMLOptionsCollection/add
 tags:
-  - API
   - Method
   - Reference
-  - add
-  - HTMLOptionsCollection
 browser-compat: api.HTMLOptionsCollection.add
 ---
 {{DefaultAPISidebar("")}}

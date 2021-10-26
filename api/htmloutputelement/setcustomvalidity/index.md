@@ -2,11 +2,8 @@
 title: HTMLOutputElement.setCustomValidity()
 slug: Web/API/HTMLOutputElement/setCustomValidity
 tags:
-  - API
   - Method
   - Reference
-  - setCustomValidity
-  - HTMLOutputElement
 browser-compat: api.HTMLOutputElement.setCustomValidity
 ---
 {{DefaultAPISidebar("")}}

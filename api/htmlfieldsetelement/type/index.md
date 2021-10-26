@@ -2,11 +2,8 @@
 title: HTMLFieldSetElement.type
 slug: Web/API/HTMLFieldSetElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLFieldSetElement
 browser-compat: api.HTMLFieldSetElement.type
 ---
 {{DefaultAPISidebar("")}}

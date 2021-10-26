@@ -2,11 +2,8 @@
 title: HTMLTableRowElement.sectionRowIndex
 slug: Web/API/HTMLTableRowElement/sectionRowIndex
 tags:
-  - API
   - Property
   - Reference
-  - sectionRowIndex
-  - HTMLTableRowElement
 browser-compat: api.HTMLTableRowElement.sectionRowIndex
 ---
 {{DefaultAPISidebar("")}}

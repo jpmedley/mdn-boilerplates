@@ -2,11 +2,8 @@
 title: SVGEllipseElement.cx
 slug: Web/API/SVGEllipseElement/cx
 tags:
-  - API
   - Property
   - Reference
-  - cx
-  - SVGEllipseElement
 browser-compat: api.SVGEllipseElement.cx
 ---
 {{DefaultAPISidebar("")}}

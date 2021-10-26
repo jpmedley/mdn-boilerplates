@@ -2,11 +2,8 @@
 title: SVGFEBlendElement.mode
 slug: Web/API/SVGFEBlendElement/mode
 tags:
-  - API
   - Property
   - Reference
-  - mode
-  - SVGFEBlendElement
 browser-compat: api.SVGFEBlendElement.mode
 ---
 {{DefaultAPISidebar("")}}

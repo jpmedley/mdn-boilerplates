@@ -2,11 +2,8 @@
 title: NavigatorUAData.platform
 slug: Web/API/NavigatorUAData/platform
 tags:
-  - API
   - Property
   - Reference
-  - platform
-  - NavigatorUAData
 browser-compat: api.NavigatorUAData.platform
 ---
 {{DefaultAPISidebar("")}}

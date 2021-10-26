@@ -2,11 +2,8 @@
 title: SVGFEDiffuseLightingElement.diffuseConstant
 slug: Web/API/SVGFEDiffuseLightingElement/diffuseConstant
 tags:
-  - API
   - Property
   - Reference
-  - diffuseConstant
-  - SVGFEDiffuseLightingElement
 browser-compat: api.SVGFEDiffuseLightingElement.diffuseConstant
 ---
 {{DefaultAPISidebar("")}}

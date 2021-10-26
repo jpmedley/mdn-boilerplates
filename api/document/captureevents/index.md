@@ -2,11 +2,8 @@
 title: Document.captureEvents()
 slug: Web/API/Document/captureEvents
 tags:
-  - API
   - Method
   - Reference
-  - captureEvents
-  - Document
 browser-compat: api.Document.captureEvents
 ---
 {{DefaultAPISidebar("")}}

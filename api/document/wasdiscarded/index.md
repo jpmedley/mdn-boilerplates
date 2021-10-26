@@ -2,11 +2,8 @@
 title: Document.wasDiscarded
 slug: Web/API/Document/wasDiscarded
 tags:
-  - API
   - Property
   - Reference
-  - wasDiscarded
-  - Document
 browser-compat: api.Document.wasDiscarded
 ---
 {{DefaultAPISidebar("")}}

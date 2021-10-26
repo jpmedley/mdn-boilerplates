@@ -2,11 +2,8 @@
 title: GPURenderPassEncoder.setViewport()
 slug: Web/API/GPURenderPassEncoder/setViewport
 tags:
-  - API
   - Method
   - Reference
-  - setViewport
-  - GPURenderPassEncoder
 browser-compat: api.GPURenderPassEncoder.setViewport
 ---
 {{DefaultAPISidebar("")}}

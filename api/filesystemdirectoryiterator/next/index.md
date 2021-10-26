@@ -2,11 +2,8 @@
 title: FileSystemDirectoryIterator.next()
 slug: Web/API/FileSystemDirectoryIterator/next
 tags:
-  - API
   - Method
   - Reference
-  - next
-  - FileSystemDirectoryIterator
 browser-compat: api.FileSystemDirectoryIterator.next
 ---
 {{DefaultAPISidebar("")}}

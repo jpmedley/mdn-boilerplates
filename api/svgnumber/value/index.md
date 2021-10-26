@@ -2,11 +2,8 @@
 title: SVGNumber.value
 slug: Web/API/SVGNumber/value
 tags:
-  - API
   - Property
   - Reference
-  - value
-  - SVGNumber
 browser-compat: api.SVGNumber.value
 ---
 {{DefaultAPISidebar("")}}

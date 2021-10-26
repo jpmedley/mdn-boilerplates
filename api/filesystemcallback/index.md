@@ -2,10 +2,8 @@
 title: FileSystemCallback
 slug: Web/API/FileSystemCallback
 tags:
-  - API
   - Interface
   - Reference
-  - FileSystemCallback
 browser-compat: api.FileSystemCallback
 ---
 {{DefaultAPISidebar("")}}

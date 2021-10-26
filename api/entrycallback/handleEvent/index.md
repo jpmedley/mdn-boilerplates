@@ -2,11 +2,8 @@
 title: EntryCallback.handleEvent()
 slug: Web/API/EntryCallback/handleEvent
 tags:
-  - API
   - Method
   - Reference
-  - handleEvent
-  - EntryCallback
 browser-compat: api.EntryCallback.handleEvent
 ---
 {{DefaultAPISidebar("")}}

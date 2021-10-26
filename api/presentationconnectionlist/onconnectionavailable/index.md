@@ -2,11 +2,8 @@
 title: PresentationConnectionList.onconnectionavailable
 slug: Web/API/PresentationConnectionList/onconnectionavailable
 tags:
-  - API
   - Property
   - Reference
-  - onconnectionavailable
-  - PresentationConnectionList
 browser-compat: api.PresentationConnectionList.onconnectionavailable
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

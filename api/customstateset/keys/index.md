@@ -2,11 +2,8 @@
 title: CustomStateSet.keys()
 slug: Web/API/CustomStateSet/keys
 tags:
-  - API
   - Method
   - Reference
-  - keys
-  - CustomStateSet
 browser-compat: api.CustomStateSet.keys
 ---
 {{DefaultAPISidebar("")}}

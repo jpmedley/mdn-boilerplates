@@ -2,11 +2,8 @@
 title: DirectoryEntry.removeRecursively()
 slug: Web/API/DirectoryEntry/removeRecursively
 tags:
-  - API
   - Method
   - Reference
-  - removeRecursively
-  - DirectoryEntry
 browser-compat: api.DirectoryEntry.removeRecursively
 ---
 {{DefaultAPISidebar("")}}

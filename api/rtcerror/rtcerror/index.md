@@ -2,10 +2,8 @@
 title: RTCError.RTCError()
 slug: Web/API/RTCError/RTCError
 tags:
-  - API
   - Constructor
   - Reference
-  - RTCError
 browser-compat: api.RTCError.RTCError
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: RTCStatsResponse.namedItem()
 slug: Web/API/RTCStatsResponse/namedItem
 tags:
-  - API
   - Method
   - Reference
-  - namedItem
-  - RTCStatsResponse
 browser-compat: api.RTCStatsResponse.namedItem
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: SQLTransactionErrorCallback
 slug: Web/API/SQLTransactionErrorCallback
 tags:
-  - API
   - Interface
   - Reference
-  - SQLTransactionErrorCallback
 browser-compat: api.SQLTransactionErrorCallback
 ---
 {{DefaultAPISidebar("")}}

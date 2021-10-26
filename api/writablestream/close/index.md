@@ -2,11 +2,8 @@
 title: WritableStream.close()
 slug: Web/API/WritableStream/close
 tags:
-  - API
   - Method
   - Reference
-  - close
-  - WritableStream
 browser-compat: api.WritableStream.close
 ---
 {{DefaultAPISidebar("")}}

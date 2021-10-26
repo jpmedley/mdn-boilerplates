@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.scrollAmount
 slug: Web/API/HTMLMarqueeElement/scrollAmount
 tags:
-  - API
   - Property
   - Reference
-  - scrollAmount
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.scrollAmount
 ---
 {{DefaultAPISidebar("")}}

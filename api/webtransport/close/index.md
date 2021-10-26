@@ -2,11 +2,8 @@
 title: WebTransport.close()
 slug: Web/API/WebTransport/close
 tags:
-  - API
   - Method
   - Reference
-  - close
-  - WebTransport
 browser-compat: api.WebTransport.close
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

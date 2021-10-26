@@ -2,11 +2,8 @@
 title: MutationRecord.target
 slug: Web/API/MutationRecord/target
 tags:
-  - API
   - Property
   - Reference
-  - target
-  - MutationRecord
 browser-compat: api.MutationRecord.target
 ---
 {{DefaultAPISidebar("")}}

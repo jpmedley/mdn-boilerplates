@@ -2,11 +2,8 @@
 title: WebTransportDatagramDuplexStream.writable
 slug: Web/API/WebTransportDatagramDuplexStream/writable
 tags:
-  - API
   - Property
   - Reference
-  - writable
-  - WebTransportDatagramDuplexStream
 browser-compat: api.WebTransportDatagramDuplexStream.writable
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

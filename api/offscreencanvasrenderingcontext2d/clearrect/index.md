@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.clearRect()
 slug: Web/API/OffscreenCanvasRenderingContext2D/clearRect
 tags:
-  - API
   - Method
   - Reference
-  - clearRect
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.clearRect
 ---
 {{DefaultAPISidebar("")}}

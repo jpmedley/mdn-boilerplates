@@ -2,11 +2,8 @@
 title: Selection.extentOffset
 slug: Web/API/Selection/extentOffset
 tags:
-  - API
   - Property
   - Reference
-  - extentOffset
-  - Selection
 browser-compat: api.Selection.extentOffset
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGLengthList.clear()
 slug: Web/API/SVGLengthList/clear
 tags:
-  - API
   - Method
   - Reference
-  - clear
-  - SVGLengthList
 browser-compat: api.SVGLengthList.clear
 ---
 {{DefaultAPISidebar("")}}

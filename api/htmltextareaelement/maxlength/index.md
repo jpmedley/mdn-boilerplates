@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.maxLength
 slug: Web/API/HTMLTextAreaElement/maxLength
 tags:
-  - API
   - Property
   - Reference
-  - maxLength
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.maxLength
 ---
 {{DefaultAPISidebar("")}}

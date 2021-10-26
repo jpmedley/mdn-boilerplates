@@ -2,11 +2,8 @@
 title: TextDecoder.ignoreBOM
 slug: Web/API/TextDecoder/ignoreBOM
 tags:
-  - API
   - Property
   - Reference
-  - ignoreBOM
-  - TextDecoder
 browser-compat: api.TextDecoder.ignoreBOM
 ---
 {{DefaultAPISidebar("")}}

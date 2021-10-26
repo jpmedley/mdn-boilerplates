@@ -2,11 +2,8 @@
 title: SVGTextContentElement.getStartPositionOfChar()
 slug: Web/API/SVGTextContentElement/getStartPositionOfChar
 tags:
-  - API
   - Method
   - Reference
-  - getStartPositionOfChar
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.getStartPositionOfChar
 ---
 {{DefaultAPISidebar("")}}

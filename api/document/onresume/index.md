@@ -2,11 +2,8 @@
 title: Document.onresume
 slug: Web/API/Document/onresume
 tags:
-  - API
   - Property
   - Reference
-  - onresume
-  - Document
 browser-compat: api.Document.onresume
 ---
 {{DefaultAPISidebar("")}}

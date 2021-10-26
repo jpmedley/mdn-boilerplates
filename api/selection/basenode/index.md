@@ -2,11 +2,8 @@
 title: Selection.baseNode
 slug: Web/API/Selection/baseNode
 tags:
-  - API
   - Property
   - Reference
-  - baseNode
-  - Selection
 browser-compat: api.Selection.baseNode
 ---
 {{DefaultAPISidebar("")}}

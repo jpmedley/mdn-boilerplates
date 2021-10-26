@@ -2,10 +2,8 @@
 title: GPURenderPipeline
 slug: Web/API/GPURenderPipeline
 tags:
-  - API
   - Interface
   - Reference
-  - GPURenderPipeline
 browser-compat: api.GPURenderPipeline
 ---
 {{DefaultAPISidebar("")}}

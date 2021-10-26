@@ -2,11 +2,8 @@
 title: HTMLUListElement.compact
 slug: Web/API/HTMLUListElement/compact
 tags:
-  - API
   - Property
   - Reference
-  - compact
-  - HTMLUListElement
 browser-compat: api.HTMLUListElement.compact
 ---
 {{DefaultAPISidebar("")}}

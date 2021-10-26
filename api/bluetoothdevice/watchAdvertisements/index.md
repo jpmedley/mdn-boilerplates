@@ -2,11 +2,8 @@
 title: BluetoothDevice.watchAdvertisements()
 slug: Web/API/BluetoothDevice/watchAdvertisements
 tags:
-  - API
   - Method
   - Reference
-  - watchAdvertisements
-  - BluetoothDevice
 browser-compat: api.BluetoothDevice.watchAdvertisements
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

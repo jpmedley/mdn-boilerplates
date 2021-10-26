@@ -2,11 +2,8 @@
 title: EntrySync.name
 slug: Web/API/EntrySync/name
 tags:
-  - API
   - Property
   - Reference
-  - name
-  - EntrySync
 browser-compat: api.EntrySync.name
 ---
 {{DefaultAPISidebar("")}}

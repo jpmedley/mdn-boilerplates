@@ -2,11 +2,8 @@
 title: Element.webkitMatchesSelector()
 slug: Web/API/Element/webkitMatchesSelector
 tags:
-  - API
   - Method
   - Reference
-  - webkitMatchesSelector
-  - Element
 browser-compat: api.Element.webkitMatchesSelector
 ---
 {{DefaultAPISidebar("")}}

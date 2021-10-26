@@ -2,10 +2,8 @@
 title: DeprecatedStorageQuota
 slug: Web/API/DeprecatedStorageQuota
 tags:
-  - API
   - Interface
   - Reference
-  - DeprecatedStorageQuota
 browser-compat: api.DeprecatedStorageQuota
 ---
 {{DefaultAPISidebar("")}}

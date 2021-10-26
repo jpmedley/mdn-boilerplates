@@ -2,11 +2,8 @@
 title: SVGLengthList.getItem()
 slug: Web/API/SVGLengthList/getItem
 tags:
-  - API
   - Method
   - Reference
-  - getItem
-  - SVGLengthList
 browser-compat: api.SVGLengthList.getItem
 ---
 {{DefaultAPISidebar("")}}

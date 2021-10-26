@@ -2,10 +2,8 @@
 title: GPURenderPassEncoder
 slug: Web/API/GPURenderPassEncoder
 tags:
-  - API
   - Interface
   - Reference
-  - GPURenderPassEncoder
 browser-compat: api.GPURenderPassEncoder
 ---
 {{DefaultAPISidebar("")}}

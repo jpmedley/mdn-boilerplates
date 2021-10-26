@@ -2,11 +2,8 @@
 title: GamepadList.item()
 slug: Web/API/GamepadList/item
 tags:
-  - API
   - Method
   - Reference
-  - item
-  - GamepadList
 browser-compat: api.GamepadList.item
 ---
 {{DefaultAPISidebar("")}}

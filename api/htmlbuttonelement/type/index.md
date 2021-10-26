@@ -2,11 +2,8 @@
 title: HTMLButtonElement.type
 slug: Web/API/HTMLButtonElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.type
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: EventCounts.get()
 slug: Web/API/EventCounts/get
 tags:
-  - API
   - Method
   - Reference
-  - get
-  - EventCounts
 browser-compat: api.EventCounts.get
 ---
 {{DefaultAPISidebar("")}}

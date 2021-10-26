@@ -2,11 +2,8 @@
 title: HTMLAreaElement.noHref
 slug: Web/API/HTMLAreaElement/noHref
 tags:
-  - API
   - Property
   - Reference
-  - noHref
-  - HTMLAreaElement
 browser-compat: api.HTMLAreaElement.noHref
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGMatrix.scaleNonUniform()
 slug: Web/API/SVGMatrix/scaleNonUniform
 tags:
-  - API
   - Method
   - Reference
-  - scaleNonUniform
-  - SVGMatrix
 browser-compat: api.SVGMatrix.scaleNonUniform
 ---
 {{DefaultAPISidebar("")}}

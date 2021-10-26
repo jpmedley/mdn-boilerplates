@@ -2,11 +2,8 @@
 title: ScrollState.deltaY
 slug: Web/API/ScrollState/deltaY
 tags:
-  - API
   - Property
   - Reference
-  - deltaY
-  - ScrollState
 browser-compat: api.ScrollState.deltaY
 ---
 {{DefaultAPISidebar("")}}

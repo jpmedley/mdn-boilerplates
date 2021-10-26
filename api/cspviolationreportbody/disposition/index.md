@@ -2,11 +2,8 @@
 title: CSPViolationReportBody.disposition
 slug: Web/API/CSPViolationReportBody/disposition
 tags:
-  - API
   - Property
   - Reference
-  - disposition
-  - CSPViolationReportBody
 browser-compat: api.CSPViolationReportBody.disposition
 ---
 {{DefaultAPISidebar("")}}

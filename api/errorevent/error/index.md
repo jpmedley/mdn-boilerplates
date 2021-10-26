@@ -2,11 +2,8 @@
 title: ErrorEvent.error
 slug: Web/API/ErrorEvent/error
 tags:
-  - API
   - Property
   - Reference
-  - error
-  - ErrorEvent
 browser-compat: api.ErrorEvent.error
 ---
 {{DefaultAPISidebar("")}}

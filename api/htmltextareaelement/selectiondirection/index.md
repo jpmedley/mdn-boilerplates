@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.selectionDirection
 slug: Web/API/HTMLTextAreaElement/selectionDirection
 tags:
-  - API
   - Property
   - Reference
-  - selectionDirection
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.selectionDirection
 ---
 {{DefaultAPISidebar("")}}

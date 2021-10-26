@@ -2,11 +2,8 @@
 title: PerformanceMeasure.detail
 slug: Web/API/PerformanceMeasure/detail
 tags:
-  - API
   - Property
   - Reference
-  - detail
-  - PerformanceMeasure
 browser-compat: api.PerformanceMeasure.detail
 ---
 {{DefaultAPISidebar("")}}

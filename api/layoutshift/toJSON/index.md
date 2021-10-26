@@ -2,11 +2,8 @@
 title: LayoutShift.toJSON()
 slug: Web/API/LayoutShift/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - LayoutShift
 browser-compat: api.LayoutShift.toJSON
 ---
 {{DefaultAPISidebar("")}}

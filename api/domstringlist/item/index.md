@@ -2,11 +2,8 @@
 title: DOMStringList.item()
 slug: Web/API/DOMStringList/item
 tags:
-  - API
   - Method
   - Reference
-  - item
-  - DOMStringList
 browser-compat: api.DOMStringList.item
 ---
 {{DefaultAPISidebar("")}}

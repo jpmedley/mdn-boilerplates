@@ -2,11 +2,8 @@
 title: HTMLScriptElement.charset
 slug: Web/API/HTMLScriptElement/charset
 tags:
-  - API
   - Property
   - Reference
-  - charset
-  - HTMLScriptElement
 browser-compat: api.HTMLScriptElement.charset
 ---
 {{DefaultAPISidebar("")}}

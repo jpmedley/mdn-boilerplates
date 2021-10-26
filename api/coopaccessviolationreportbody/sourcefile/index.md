@@ -2,11 +2,8 @@
 title: CoopAccessViolationReportBody.sourceFile
 slug: Web/API/CoopAccessViolationReportBody/sourceFile
 tags:
-  - API
   - Property
   - Reference
-  - sourceFile
-  - CoopAccessViolationReportBody
 browser-compat: api.CoopAccessViolationReportBody.sourceFile
 ---
 {{DefaultAPISidebar("")}}

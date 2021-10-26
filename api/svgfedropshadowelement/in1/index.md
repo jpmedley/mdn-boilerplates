@@ -2,11 +2,8 @@
 title: SVGFEDropShadowElement.in1
 slug: Web/API/SVGFEDropShadowElement/in1
 tags:
-  - API
   - Property
   - Reference
-  - in1
-  - SVGFEDropShadowElement
 browser-compat: api.SVGFEDropShadowElement.in1
 ---
 {{DefaultAPISidebar("")}}

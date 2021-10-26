@@ -2,11 +2,8 @@
 title: SVGFEColorMatrixElement.values
 slug: Web/API/SVGFEColorMatrixElement/values
 tags:
-  - API
   - Property
   - Reference
-  - values
-  - SVGFEColorMatrixElement
 browser-compat: api.SVGFEColorMatrixElement.values
 ---
 {{DefaultAPISidebar("")}}

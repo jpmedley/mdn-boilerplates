@@ -2,11 +2,8 @@
 title: HTMLSourceElement.srcset
 slug: Web/API/HTMLSourceElement/srcset
 tags:
-  - API
   - Property
   - Reference
-  - srcset
-  - HTMLSourceElement
 browser-compat: api.HTMLSourceElement.srcset
 ---
 {{DefaultAPISidebar("")}}

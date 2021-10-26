@@ -2,11 +2,8 @@
 title: HTMLObjectElement.archive
 slug: Web/API/HTMLObjectElement/archive
 tags:
-  - API
   - Property
   - Reference
-  - archive
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.archive
 ---
 {{DefaultAPISidebar("")}}

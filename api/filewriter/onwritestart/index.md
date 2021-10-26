@@ -2,11 +2,8 @@
 title: FileWriter.onwritestart
 slug: Web/API/FileWriter/onwritestart
 tags:
-  - API
   - Property
   - Reference
-  - onwritestart
-  - FileWriter
 browser-compat: api.FileWriter.onwritestart
 ---
 {{DefaultAPISidebar("")}}

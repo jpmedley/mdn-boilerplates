@@ -2,11 +2,8 @@
 title: HTMLVideoElement.webkitDecodedFrameCount
 slug: Web/API/HTMLVideoElement/webkitDecodedFrameCount
 tags:
-  - API
   - Property
   - Reference
-  - webkitDecodedFrameCount
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.webkitDecodedFrameCount
 ---
 {{DefaultAPISidebar("")}}

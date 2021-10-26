@@ -2,11 +2,8 @@
 title: DocumentPolicyViolationReportBody.featureId
 slug: Web/API/DocumentPolicyViolationReportBody/featureId
 tags:
-  - API
   - Property
   - Reference
-  - featureId
-  - DocumentPolicyViolationReportBody
 browser-compat: api.DocumentPolicyViolationReportBody.featureId
 ---
 {{DefaultAPISidebar("")}}

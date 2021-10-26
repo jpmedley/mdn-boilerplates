@@ -2,11 +2,8 @@
 title: HTMLObjectElement.codeBase
 slug: Web/API/HTMLObjectElement/codeBase
 tags:
-  - API
   - Property
   - Reference
-  - codeBase
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.codeBase
 ---
 {{DefaultAPISidebar("")}}

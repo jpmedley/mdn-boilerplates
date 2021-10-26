@@ -2,11 +2,8 @@
 title: Window.webkitResolveLocalFileSystemURL()
 slug: Web/API/Window/webkitResolveLocalFileSystemURL
 tags:
-  - API
   - Method
   - Reference
-  - webkitResolveLocalFileSystemURL
-  - Window
 browser-compat: api.Window.webkitResolveLocalFileSystemURL
 ---
 {{DefaultAPISidebar("")}}

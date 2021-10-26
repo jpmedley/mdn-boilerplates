@@ -2,11 +2,8 @@
 title: HTMLLegendElement.align
 slug: Web/API/HTMLLegendElement/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - HTMLLegendElement
 browser-compat: api.HTMLLegendElement.align
 ---
 {{DefaultAPISidebar("")}}

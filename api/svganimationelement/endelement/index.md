@@ -2,11 +2,8 @@
 title: SVGAnimationElement.endElement()
 slug: Web/API/SVGAnimationElement/endElement
 tags:
-  - API
   - Method
   - Reference
-  - endElement
-  - SVGAnimationElement
 browser-compat: api.SVGAnimationElement.endElement
 ---
 {{DefaultAPISidebar("")}}

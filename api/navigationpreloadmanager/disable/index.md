@@ -2,11 +2,8 @@
 title: NavigationPreloadManager.disable()
 slug: Web/API/NavigationPreloadManager/disable
 tags:
-  - API
   - Method
   - Reference
-  - disable
-  - NavigationPreloadManager
 browser-compat: api.NavigationPreloadManager.disable
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

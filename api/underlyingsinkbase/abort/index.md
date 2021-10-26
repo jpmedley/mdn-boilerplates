@@ -2,11 +2,8 @@
 title: UnderlyingSinkBase.abort()
 slug: Web/API/UnderlyingSinkBase/abort
 tags:
-  - API
   - Method
   - Reference
-  - abort
-  - UnderlyingSinkBase
 browser-compat: api.UnderlyingSinkBase.abort
 ---
 {{DefaultAPISidebar("")}}

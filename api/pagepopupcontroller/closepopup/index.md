@@ -2,11 +2,8 @@
 title: PagePopupController.closePopup()
 slug: Web/API/PagePopupController/closePopup
 tags:
-  - API
   - Method
   - Reference
-  - closePopup
-  - PagePopupController
 browser-compat: api.PagePopupController.closePopup
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: ResizeObserverEntry.devicePixelContentBoxSize
 slug: Web/API/ResizeObserverEntry/devicePixelContentBoxSize
 tags:
-  - API
   - Property
   - Reference
-  - devicePixelContentBoxSize
-  - ResizeObserverEntry
 browser-compat: api.ResizeObserverEntry.devicePixelContentBoxSize
 ---
 {{DefaultAPISidebar("")}}

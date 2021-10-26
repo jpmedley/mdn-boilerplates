@@ -2,11 +2,8 @@
 title: HTMLTableRowElement.deleteCell()
 slug: Web/API/HTMLTableRowElement/deleteCell
 tags:
-  - API
   - Method
   - Reference
-  - deleteCell
-  - HTMLTableRowElement
 browser-compat: api.HTMLTableRowElement.deleteCell
 ---
 {{DefaultAPISidebar("")}}

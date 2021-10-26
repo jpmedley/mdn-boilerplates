@@ -2,11 +2,8 @@
 title: StorageEvent.storageArea
 slug: Web/API/StorageEvent/storageArea
 tags:
-  - API
   - Property
   - Reference
-  - storageArea
-  - StorageEvent
 browser-compat: api.StorageEvent.storageArea
 ---
 {{DefaultAPISidebar("")}}

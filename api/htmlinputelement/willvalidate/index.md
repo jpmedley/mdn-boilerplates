@@ -2,11 +2,8 @@
 title: HTMLInputElement.willValidate
 slug: Web/API/HTMLInputElement/willValidate
 tags:
-  - API
   - Property
   - Reference
-  - willValidate
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.willValidate
 ---
 {{DefaultAPISidebar("")}}

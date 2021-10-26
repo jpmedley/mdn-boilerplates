@@ -2,11 +2,8 @@
 title: Highlight.entries()
 slug: Web/API/Highlight/entries
 tags:
-  - API
   - Method
   - Reference
-  - entries
-  - Highlight
 browser-compat: api.Highlight.entries
 ---
 {{DefaultAPISidebar("")}}

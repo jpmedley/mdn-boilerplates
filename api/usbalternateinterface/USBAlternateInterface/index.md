@@ -2,10 +2,8 @@
 title: USBAlternateInterface.USBAlternateInterface()
 slug: Web/API/USBAlternateInterface/USBAlternateInterface
 tags:
-  - API
   - Constructor
   - Reference
-  - USBAlternateInterface
 browser-compat: api.USBAlternateInterface.USBAlternateInterface
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

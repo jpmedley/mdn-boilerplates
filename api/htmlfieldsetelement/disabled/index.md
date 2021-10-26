@@ -2,11 +2,8 @@
 title: HTMLFieldSetElement.disabled
 slug: Web/API/HTMLFieldSetElement/disabled
 tags:
-  - API
   - Property
   - Reference
-  - disabled
-  - HTMLFieldSetElement
 browser-compat: api.HTMLFieldSetElement.disabled
 ---
 {{DefaultAPISidebar("")}}

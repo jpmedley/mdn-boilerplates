@@ -2,11 +2,8 @@
 title: PagePopupController.formatWeek()
 slug: Web/API/PagePopupController/formatWeek
 tags:
-  - API
   - Method
   - Reference
-  - formatWeek
-  - PagePopupController
 browser-compat: api.PagePopupController.formatWeek
 ---
 {{DefaultAPISidebar("")}}

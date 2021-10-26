@@ -2,11 +2,8 @@
 title: SVGRect.x
 slug: Web/API/SVGRect/x
 tags:
-  - API
   - Property
   - Reference
-  - x
-  - SVGRect
 browser-compat: api.SVGRect.x
 ---
 {{DefaultAPISidebar("")}}

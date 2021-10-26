@@ -2,11 +2,8 @@
 title: DOMRect.width
 slug: Web/API/DOMRect/width
 tags:
-  - API
   - Property
   - Reference
-  - width
-  - DOMRect
 browser-compat: api.DOMRect.width
 ---
 {{DefaultAPISidebar("")}}

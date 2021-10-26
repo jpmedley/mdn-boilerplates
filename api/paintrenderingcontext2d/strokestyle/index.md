@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.strokeStyle
 slug: Web/API/PaintRenderingContext2D/strokeStyle
 tags:
-  - API
   - Property
   - Reference
-  - strokeStyle
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.strokeStyle
 ---
 {{DefaultAPISidebar("")}}

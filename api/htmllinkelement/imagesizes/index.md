@@ -2,11 +2,8 @@
 title: HTMLLinkElement.imageSizes
 slug: Web/API/HTMLLinkElement/imageSizes
 tags:
-  - API
   - Property
   - Reference
-  - imageSizes
-  - HTMLLinkElement
 browser-compat: api.HTMLLinkElement.imageSizes
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLButtonElement.validity
 slug: Web/API/HTMLButtonElement/validity
 tags:
-  - API
   - Property
   - Reference
-  - validity
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.validity
 ---
 {{DefaultAPISidebar("")}}

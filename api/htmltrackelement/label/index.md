@@ -2,11 +2,8 @@
 title: HTMLTrackElement.label
 slug: Web/API/HTMLTrackElement/label
 tags:
-  - API
   - Property
   - Reference
-  - label
-  - HTMLTrackElement
 browser-compat: api.HTMLTrackElement.label
 ---
 {{DefaultAPISidebar("")}}

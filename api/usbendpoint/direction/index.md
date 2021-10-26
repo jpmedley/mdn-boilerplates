@@ -2,11 +2,8 @@
 title: USBEndpoint.direction
 slug: Web/API/USBEndpoint/direction
 tags:
-  - API
   - Property
   - Reference
-  - direction
-  - USBEndpoint
 browser-compat: api.USBEndpoint.direction
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

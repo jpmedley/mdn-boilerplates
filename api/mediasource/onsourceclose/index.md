@@ -2,11 +2,8 @@
 title: MediaSource.onsourceclose
 slug: Web/API/MediaSource/onsourceclose
 tags:
-  - API
   - Property
   - Reference
-  - onsourceclose
-  - MediaSource
 browser-compat: api.MediaSource.onsourceclose
 ---
 {{DefaultAPISidebar("")}}

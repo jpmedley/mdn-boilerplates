@@ -2,11 +2,8 @@
 title: Navigator.joinAdInterestGroup()
 slug: Web/API/Navigator/joinAdInterestGroup
 tags:
-  - API
   - Method
   - Reference
-  - joinAdInterestGroup
-  - Navigator
 browser-compat: api.Navigator.joinAdInterestGroup
 ---
 {{DefaultAPISidebar("")}}

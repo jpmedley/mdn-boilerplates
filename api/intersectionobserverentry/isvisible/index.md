@@ -2,11 +2,8 @@
 title: IntersectionObserverEntry.isVisible
 slug: Web/API/IntersectionObserverEntry/isVisible
 tags:
-  - API
   - Property
   - Reference
-  - isVisible
-  - IntersectionObserverEntry
 browser-compat: api.IntersectionObserverEntry.isVisible
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: GPURenderBundleEncoder.finish()
 slug: Web/API/GPURenderBundleEncoder/finish
 tags:
-  - API
   - Method
   - Reference
-  - finish
-  - GPURenderBundleEncoder
 browser-compat: api.GPURenderBundleEncoder.finish
 ---
 {{DefaultAPISidebar("")}}

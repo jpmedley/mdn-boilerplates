@@ -2,11 +2,8 @@
 title: SVGStringList.numberOfItems
 slug: Web/API/SVGStringList/numberOfItems
 tags:
-  - API
   - Property
   - Reference
-  - numberOfItems
-  - SVGStringList
 browser-compat: api.SVGStringList.numberOfItems
 ---
 {{DefaultAPISidebar("")}}

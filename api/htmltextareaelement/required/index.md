@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.required
 slug: Web/API/HTMLTextAreaElement/required
 tags:
-  - API
   - Property
   - Reference
-  - required
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.required
 ---
 {{DefaultAPISidebar("")}}

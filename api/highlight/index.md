@@ -2,10 +2,8 @@
 title: Highlight
 slug: Web/API/Highlight
 tags:
-  - API
   - Interface
   - Reference
-  - Highlight
 browser-compat: api.Highlight
 ---
 {{DefaultAPISidebar("")}}

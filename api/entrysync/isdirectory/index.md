@@ -2,11 +2,8 @@
 title: EntrySync.isDirectory
 slug: Web/API/EntrySync/isDirectory
 tags:
-  - API
   - Property
   - Reference
-  - isDirectory
-  - EntrySync
 browser-compat: api.EntrySync.isDirectory
 ---
 {{DefaultAPISidebar("")}}

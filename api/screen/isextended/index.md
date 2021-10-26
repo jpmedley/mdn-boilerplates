@@ -2,11 +2,8 @@
 title: Screen.isExtended
 slug: Web/API/Screen/isExtended
 tags:
-  - API
   - Property
   - Reference
-  - isExtended
-  - Screen
 browser-compat: api.Screen.isExtended
 ---
 {{DefaultAPISidebar("")}}

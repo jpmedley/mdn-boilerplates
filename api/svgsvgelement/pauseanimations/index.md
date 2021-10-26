@@ -2,11 +2,8 @@
 title: SVGSVGElement.pauseAnimations()
 slug: Web/API/SVGSVGElement/pauseAnimations
 tags:
-  - API
   - Method
   - Reference
-  - pauseAnimations
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.pauseAnimations
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLSelectElement.multiple
 slug: Web/API/HTMLSelectElement/multiple
 tags:
-  - API
   - Property
   - Reference
-  - multiple
-  - HTMLSelectElement
 browser-compat: api.HTMLSelectElement.multiple
 ---
 {{DefaultAPISidebar("")}}

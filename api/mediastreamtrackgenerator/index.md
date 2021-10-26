@@ -2,10 +2,8 @@
 title: MediaStreamTrackGenerator
 slug: Web/API/MediaStreamTrackGenerator
 tags:
-  - API
   - Interface
   - Reference
-  - MediaStreamTrackGenerator
 browser-compat: api.MediaStreamTrackGenerator
 ---
 {{DefaultAPISidebar("")}}

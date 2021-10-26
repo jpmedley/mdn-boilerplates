@@ -2,11 +2,8 @@
 title: DocumentPolicyViolationReportBody.toJSON()
 slug: Web/API/DocumentPolicyViolationReportBody/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - DocumentPolicyViolationReportBody
 browser-compat: api.DocumentPolicyViolationReportBody.toJSON
 ---
 {{DefaultAPISidebar("")}}

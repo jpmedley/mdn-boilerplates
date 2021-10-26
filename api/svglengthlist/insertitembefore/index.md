@@ -2,11 +2,8 @@
 title: SVGLengthList.insertItemBefore()
 slug: Web/API/SVGLengthList/insertItemBefore
 tags:
-  - API
   - Method
   - Reference
-  - insertItemBefore
-  - SVGLengthList
 browser-compat: api.SVGLengthList.insertItemBefore
 ---
 {{DefaultAPISidebar("")}}

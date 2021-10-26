@@ -2,11 +2,8 @@
 title: WebTransportDatagramDuplexStream.readable
 slug: Web/API/WebTransportDatagramDuplexStream/readable
 tags:
-  - API
   - Property
   - Reference
-  - readable
-  - WebTransportDatagramDuplexStream
 browser-compat: api.WebTransportDatagramDuplexStream.readable
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

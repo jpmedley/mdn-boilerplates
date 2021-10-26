@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.fromFloat32Array()
 slug: Web/API/DOMMatrixReadOnly/fromFloat32Array
 tags:
-  - API
   - Method
   - Reference
-  - fromFloat32Array
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.fromFloat32Array
 ---
 {{DefaultAPISidebar("")}}

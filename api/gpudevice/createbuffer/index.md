@@ -2,11 +2,8 @@
 title: GPUDevice.createBuffer()
 slug: Web/API/GPUDevice/createBuffer
 tags:
-  - API
   - Method
   - Reference
-  - createBuffer
-  - GPUDevice
 browser-compat: api.GPUDevice.createBuffer
 ---
 {{DefaultAPISidebar("")}}

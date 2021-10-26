@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.rev
 slug: Web/API/HTMLAnchorElement/rev
 tags:
-  - API
   - Property
   - Reference
-  - rev
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.rev
 ---
 {{DefaultAPISidebar("")}}

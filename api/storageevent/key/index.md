@@ -2,11 +2,8 @@
 title: StorageEvent.key
 slug: Web/API/StorageEvent/key
 tags:
-  - API
   - Property
   - Reference
-  - key
-  - StorageEvent
 browser-compat: api.StorageEvent.key
 ---
 {{DefaultAPISidebar("")}}

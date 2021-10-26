@@ -2,11 +2,8 @@
 title: HTMLInputElement.checkValidity()
 slug: Web/API/HTMLInputElement/checkValidity
 tags:
-  - API
   - Method
   - Reference
-  - checkValidity
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.checkValidity
 ---
 {{DefaultAPISidebar("")}}

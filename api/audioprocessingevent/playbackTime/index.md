@@ -2,11 +2,8 @@
 title: AudioProcessingEvent.playbackTime
 slug: Web/API/AudioProcessingEvent/playbackTime
 tags:
-  - API
   - Property
   - Reference
-  - playbackTime
-  - AudioProcessingEvent
 browser-compat: api.AudioProcessingEvent.playbackTime
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: InterventionReportBody.columnNumber
 slug: Web/API/InterventionReportBody/columnNumber
 tags:
-  - API
   - Property
   - Reference
-  - columnNumber
-  - InterventionReportBody
 browser-compat: api.InterventionReportBody.columnNumber
 ---
 {{DefaultAPISidebar("")}}

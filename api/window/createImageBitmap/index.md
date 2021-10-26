@@ -2,11 +2,8 @@
 title: Window.createImageBitmap()
 slug: Web/API/Window/createImageBitmap
 tags:
-  - API
   - Method
   - Reference
-  - createImageBitmap
-  - Window
 browser-compat: api.Window.createImageBitmap
 ---
 {{DefaultAPISidebar("")}}

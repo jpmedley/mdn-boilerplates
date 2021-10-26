@@ -2,11 +2,8 @@
 title: PagePopupController.setValue()
 slug: Web/API/PagePopupController/setValue
 tags:
-  - API
   - Method
   - Reference
-  - setValue
-  - PagePopupController
 browser-compat: api.PagePopupController.setValue
 ---
 {{DefaultAPISidebar("")}}

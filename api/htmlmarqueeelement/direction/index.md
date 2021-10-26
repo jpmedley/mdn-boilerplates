@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.direction
 slug: Web/API/HTMLMarqueeElement/direction
 tags:
-  - API
   - Property
   - Reference
-  - direction
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.direction
 ---
 {{DefaultAPISidebar("")}}

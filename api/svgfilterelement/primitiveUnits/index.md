@@ -2,11 +2,8 @@
 title: SVGFilterElement.primitiveUnits
 slug: Web/API/SVGFilterElement/primitiveUnits
 tags:
-  - API
   - Property
   - Reference
-  - primitiveUnits
-  - SVGFilterElement
 browser-compat: api.SVGFilterElement.primitiveUnits
 ---
 {{DefaultAPISidebar("")}}

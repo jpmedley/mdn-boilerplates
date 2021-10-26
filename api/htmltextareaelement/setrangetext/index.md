@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.setRangeText()
 slug: Web/API/HTMLTextAreaElement/setRangeText
 tags:
-  - API
   - Method
   - Reference
-  - setRangeText
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.setRangeText
 ---
 {{DefaultAPISidebar("")}}

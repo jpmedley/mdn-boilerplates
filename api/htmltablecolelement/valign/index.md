@@ -2,11 +2,8 @@
 title: HTMLTableColElement.vAlign
 slug: Web/API/HTMLTableColElement/vAlign
 tags:
-  - API
   - Property
   - Reference
-  - vAlign
-  - HTMLTableColElement
 browser-compat: api.HTMLTableColElement.vAlign
 ---
 {{DefaultAPISidebar("")}}

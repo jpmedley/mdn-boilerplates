@@ -2,11 +2,8 @@
 title: SVGAnimationElement.getSimpleDuration()
 slug: Web/API/SVGAnimationElement/getSimpleDuration
 tags:
-  - API
   - Method
   - Reference
-  - getSimpleDuration
-  - SVGAnimationElement
 browser-compat: api.SVGAnimationElement.getSimpleDuration
 ---
 {{DefaultAPISidebar("")}}

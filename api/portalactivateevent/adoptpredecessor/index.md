@@ -2,11 +2,8 @@
 title: PortalActivateEvent.adoptPredecessor()
 slug: Web/API/PortalActivateEvent/adoptPredecessor
 tags:
-  - API
   - Method
   - Reference
-  - adoptPredecessor
-  - PortalActivateEvent
 browser-compat: api.PortalActivateEvent.adoptPredecessor
 ---
 {{DefaultAPISidebar("")}}

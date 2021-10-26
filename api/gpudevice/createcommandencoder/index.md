@@ -2,11 +2,8 @@
 title: GPUDevice.createCommandEncoder()
 slug: Web/API/GPUDevice/createCommandEncoder
 tags:
-  - API
   - Method
   - Reference
-  - createCommandEncoder
-  - GPUDevice
 browser-compat: api.GPUDevice.createCommandEncoder
 ---
 {{DefaultAPISidebar("")}}

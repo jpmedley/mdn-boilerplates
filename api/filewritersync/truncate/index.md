@@ -2,11 +2,8 @@
 title: FileWriterSync.truncate()
 slug: Web/API/FileWriterSync/truncate
 tags:
-  - API
   - Method
   - Reference
-  - truncate
-  - FileWriterSync
 browser-compat: api.FileWriterSync.truncate
 ---
 {{DefaultAPISidebar("")}}

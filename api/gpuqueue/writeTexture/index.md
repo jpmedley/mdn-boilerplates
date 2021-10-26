@@ -2,11 +2,8 @@
 title: GPUQueue.writeTexture()
 slug: Web/API/GPUQueue/writeTexture
 tags:
-  - API
   - Method
   - Reference
-  - writeTexture
-  - GPUQueue
 browser-compat: api.GPUQueue.writeTexture
 ---
 {{DefaultAPISidebar("")}}

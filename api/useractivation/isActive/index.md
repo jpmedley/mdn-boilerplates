@@ -2,11 +2,8 @@
 title: UserActivation.isActive
 slug: Web/API/UserActivation/isActive
 tags:
-  - API
   - Property
   - Reference
-  - isActive
-  - UserActivation
 browser-compat: api.UserActivation.isActive
 ---
 {{DefaultAPISidebar("")}}

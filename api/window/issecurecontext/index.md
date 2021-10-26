@@ -2,11 +2,8 @@
 title: Window.isSecureContext
 slug: Web/API/Window/isSecureContext
 tags:
-  - API
   - Property
   - Reference
-  - isSecureContext
-  - Window
 browser-compat: api.Window.isSecureContext
 ---
 {{DefaultAPISidebar("")}}

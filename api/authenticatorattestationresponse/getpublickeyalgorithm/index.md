@@ -2,11 +2,8 @@
 title: AuthenticatorAttestationResponse.getPublicKeyAlgorithm()
 slug: Web/API/AuthenticatorAttestationResponse/getPublicKeyAlgorithm
 tags:
-  - API
   - Method
   - Reference
-  - getPublicKeyAlgorithm
-  - AuthenticatorAttestationResponse
 browser-compat: api.AuthenticatorAttestationResponse.getPublicKeyAlgorithm
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

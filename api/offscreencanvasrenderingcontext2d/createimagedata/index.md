@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.createImageData()
 slug: Web/API/OffscreenCanvasRenderingContext2D/createImageData
 tags:
-  - API
   - Method
   - Reference
-  - createImageData
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.createImageData
 ---
 {{DefaultAPISidebar("")}}

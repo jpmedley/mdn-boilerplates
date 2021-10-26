@@ -2,11 +2,8 @@
 title: GamepadHapticActuator.playEffect()
 slug: Web/API/GamepadHapticActuator/playEffect
 tags:
-  - API
   - Method
   - Reference
-  - playEffect
-  - GamepadHapticActuator
 browser-compat: api.GamepadHapticActuator.playEffect
 ---
 {{DefaultAPISidebar("")}}

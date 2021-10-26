@@ -2,11 +2,8 @@
 title: BluetoothRemoteGATTCharacteristic.oncharacteristicvaluechanged
 slug: Web/API/BluetoothRemoteGATTCharacteristic/oncharacteristicvaluechanged
 tags:
-  - API
   - Property
   - Reference
-  - oncharacteristicvaluechanged
-  - BluetoothRemoteGATTCharacteristic
 browser-compat: api.BluetoothRemoteGATTCharacteristic.oncharacteristicvaluechanged
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

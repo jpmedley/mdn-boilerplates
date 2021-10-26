@@ -2,11 +2,8 @@
 title: USBInterface.interfaceNumber
 slug: Web/API/USBInterface/interfaceNumber
 tags:
-  - API
   - Property
   - Reference
-  - interfaceNumber
-  - USBInterface
 browser-compat: api.USBInterface.interfaceNumber
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: WebTransport
 slug: Web/API/WebTransport
 tags:
-  - API
   - Interface
   - Reference
-  - WebTransport
 browser-compat: api.WebTransport
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

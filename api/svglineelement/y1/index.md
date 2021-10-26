@@ -2,11 +2,8 @@
 title: SVGLineElement.y1
 slug: Web/API/SVGLineElement/y1
 tags:
-  - API
   - Property
   - Reference
-  - y1
-  - SVGLineElement
 browser-compat: api.SVGLineElement.y1
 ---
 {{DefaultAPISidebar("")}}

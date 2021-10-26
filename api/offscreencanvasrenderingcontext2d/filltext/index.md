@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.fillText()
 slug: Web/API/OffscreenCanvasRenderingContext2D/fillText
 tags:
-  - API
   - Method
   - Reference
-  - fillText
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.fillText
 ---
 {{DefaultAPISidebar("")}}

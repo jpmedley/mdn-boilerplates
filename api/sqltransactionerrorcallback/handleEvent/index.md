@@ -2,11 +2,8 @@
 title: SQLTransactionErrorCallback.handleEvent()
 slug: Web/API/SQLTransactionErrorCallback/handleEvent
 tags:
-  - API
   - Method
   - Reference
-  - handleEvent
-  - SQLTransactionErrorCallback
 browser-compat: api.SQLTransactionErrorCallback.handleEvent
 ---
 {{DefaultAPISidebar("")}}

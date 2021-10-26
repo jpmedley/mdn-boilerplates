@@ -2,11 +2,8 @@
 title: PresentationConnection.onmessage
 slug: Web/API/PresentationConnection/onmessage
 tags:
-  - API
   - Property
   - Reference
-  - onmessage
-  - PresentationConnection
 browser-compat: api.PresentationConnection.onmessage
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

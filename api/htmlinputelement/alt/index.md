@@ -2,11 +2,8 @@
 title: HTMLInputElement.alt
 slug: Web/API/HTMLInputElement/alt
 tags:
-  - API
   - Property
   - Reference
-  - alt
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.alt
 ---
 {{DefaultAPISidebar("")}}

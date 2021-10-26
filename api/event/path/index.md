@@ -2,11 +2,8 @@
 title: Event.path
 slug: Web/API/Event/path
 tags:
-  - API
   - Property
   - Reference
-  - path
-  - Event
 browser-compat: api.Event.path
 ---
 {{DefaultAPISidebar("")}}

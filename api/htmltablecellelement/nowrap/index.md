@@ -2,11 +2,8 @@
 title: HTMLTableCellElement.noWrap
 slug: Web/API/HTMLTableCellElement/noWrap
 tags:
-  - API
   - Property
   - Reference
-  - noWrap
-  - HTMLTableCellElement
 browser-compat: api.HTMLTableCellElement.noWrap
 ---
 {{DefaultAPISidebar("")}}

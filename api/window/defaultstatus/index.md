@@ -2,11 +2,8 @@
 title: Window.defaultstatus
 slug: Web/API/Window/defaultstatus
 tags:
-  - API
   - Property
   - Reference
-  - defaultstatus
-  - Window
 browser-compat: api.Window.defaultstatus
 ---
 {{DefaultAPISidebar("")}}

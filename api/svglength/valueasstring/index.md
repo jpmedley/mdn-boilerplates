@@ -2,11 +2,8 @@
 title: SVGLength.valueAsString
 slug: Web/API/SVGLength/valueAsString
 tags:
-  - API
   - Property
   - Reference
-  - valueAsString
-  - SVGLength
 browser-compat: api.SVGLength.valueAsString
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: BluetoothUUID.getDescriptor()
 slug: Web/API/BluetoothUUID/getDescriptor
 tags:
-  - API
   - Method
   - Reference
-  - getDescriptor
-  - BluetoothUUID
 browser-compat: api.BluetoothUUID.getDescriptor
 ---
 {{DefaultAPISidebar("")}}

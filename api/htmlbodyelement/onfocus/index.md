@@ -2,11 +2,8 @@
 title: HTMLBodyElement.onfocus
 slug: Web/API/HTMLBodyElement/onfocus
 tags:
-  - API
   - Property
   - Reference
-  - onfocus
-  - HTMLBodyElement
 browser-compat: api.HTMLBodyElement.onfocus
 ---
 {{DefaultAPISidebar("")}}

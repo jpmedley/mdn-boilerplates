@@ -2,10 +2,8 @@
 title: XPathNSResolver
 slug: Web/API/XPathNSResolver
 tags:
-  - API
   - Interface
   - Reference
-  - XPathNSResolver
 browser-compat: api.XPathNSResolver
 ---
 {{DefaultAPISidebar("")}}

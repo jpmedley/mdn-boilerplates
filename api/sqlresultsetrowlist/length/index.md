@@ -2,11 +2,8 @@
 title: SQLResultSetRowList.length
 slug: Web/API/SQLResultSetRowList/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - SQLResultSetRowList
 browser-compat: api.SQLResultSetRowList.length
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Entry.filesystem
 slug: Web/API/Entry/filesystem
 tags:
-  - API
   - Property
   - Reference
-  - filesystem
-  - Entry
 browser-compat: api.Entry.filesystem
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLStyleElement.disabled
 slug: Web/API/HTMLStyleElement/disabled
 tags:
-  - API
   - Property
   - Reference
-  - disabled
-  - HTMLStyleElement
 browser-compat: api.HTMLStyleElement.disabled
 ---
 {{DefaultAPISidebar("")}}

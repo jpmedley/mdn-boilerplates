@@ -2,11 +2,8 @@
 title: CustomStateSet.values()
 slug: Web/API/CustomStateSet/values
 tags:
-  - API
   - Method
   - Reference
-  - values
-  - CustomStateSet
 browser-compat: api.CustomStateSet.values
 ---
 {{DefaultAPISidebar("")}}

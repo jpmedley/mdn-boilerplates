@@ -2,11 +2,8 @@
 title: SVGAnimatedNumberList.animVal
 slug: Web/API/SVGAnimatedNumberList/animVal
 tags:
-  - API
   - Property
   - Reference
-  - animVal
-  - SVGAnimatedNumberList
 browser-compat: api.SVGAnimatedNumberList.animVal
 ---
 {{DefaultAPISidebar("")}}

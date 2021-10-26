@@ -2,11 +2,8 @@
 title: Window.clientInformation
 slug: Web/API/Window/clientInformation
 tags:
-  - API
   - Property
   - Reference
-  - clientInformation
-  - Window
 browser-compat: api.Window.clientInformation
 ---
 {{DefaultAPISidebar("")}}

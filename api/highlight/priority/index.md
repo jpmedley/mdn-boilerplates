@@ -2,11 +2,8 @@
 title: Highlight.priority
 slug: Web/API/Highlight/priority
 tags:
-  - API
   - Property
   - Reference
-  - priority
-  - Highlight
 browser-compat: api.Highlight.priority
 ---
 {{DefaultAPISidebar("")}}

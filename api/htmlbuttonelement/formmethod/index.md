@@ -2,11 +2,8 @@
 title: HTMLButtonElement.formMethod
 slug: Web/API/HTMLButtonElement/formMethod
 tags:
-  - API
   - Property
   - Reference
-  - formMethod
-  - HTMLButtonElement
 browser-compat: api.HTMLButtonElement.formMethod
 ---
 {{DefaultAPISidebar("")}}

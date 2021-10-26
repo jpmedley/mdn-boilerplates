@@ -2,11 +2,8 @@
 title: HTMLAnchorElement.target
 slug: Web/API/HTMLAnchorElement/target
 tags:
-  - API
   - Property
   - Reference
-  - target
-  - HTMLAnchorElement
 browser-compat: api.HTMLAnchorElement.target
 ---
 {{DefaultAPISidebar("")}}

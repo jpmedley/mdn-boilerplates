@@ -2,11 +2,8 @@
 title: HTMLTrackElement.kind
 slug: Web/API/HTMLTrackElement/kind
 tags:
-  - API
   - Property
   - Reference
-  - kind
-  - HTMLTrackElement
 browser-compat: api.HTMLTrackElement.kind
 ---
 {{DefaultAPISidebar("")}}

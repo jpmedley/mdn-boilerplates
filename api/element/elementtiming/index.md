@@ -2,11 +2,8 @@
 title: Element.elementTiming
 slug: Web/API/Element/elementTiming
 tags:
-  - API
   - Property
   - Reference
-  - elementTiming
-  - Element
 browser-compat: api.Element.elementTiming
 ---
 {{DefaultAPISidebar("")}}

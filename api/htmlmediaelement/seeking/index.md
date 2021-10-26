@@ -2,11 +2,8 @@
 title: HTMLMediaElement.seeking
 slug: Web/API/HTMLMediaElement/seeking
 tags:
-  - API
   - Property
   - Reference
-  - seeking
-  - HTMLMediaElement
 browser-compat: api.HTMLMediaElement.seeking
 ---
 {{DefaultAPISidebar("")}}

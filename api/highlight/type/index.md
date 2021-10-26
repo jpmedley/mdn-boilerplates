@@ -2,11 +2,8 @@
 title: Highlight.type
 slug: Web/API/Highlight/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - Highlight
 browser-compat: api.Highlight.type
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: FontTableMap.has()
 slug: Web/API/FontTableMap/has
 tags:
-  - API
   - Method
   - Reference
-  - has
-  - FontTableMap
 browser-compat: api.FontTableMap.has
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

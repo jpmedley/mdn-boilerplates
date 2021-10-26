@@ -2,11 +2,8 @@
 title: BluetoothUUID.getCharacteristic()
 slug: Web/API/BluetoothUUID/getCharacteristic
 tags:
-  - API
   - Method
   - Reference
-  - getCharacteristic
-  - BluetoothUUID
 browser-compat: api.BluetoothUUID.getCharacteristic
 ---
 {{DefaultAPISidebar("")}}

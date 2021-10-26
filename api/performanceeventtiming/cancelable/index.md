@@ -2,11 +2,8 @@
 title: PerformanceEventTiming.cancelable
 slug: Web/API/PerformanceEventTiming/cancelable
 tags:
-  - API
   - Property
   - Reference
-  - cancelable
-  - PerformanceEventTiming
 browser-compat: api.PerformanceEventTiming.cancelable
 ---
 {{DefaultAPISidebar("")}}

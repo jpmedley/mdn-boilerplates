@@ -2,11 +2,8 @@
 title: RTCCertificate.expires
 slug: Web/API/RTCCertificate/expires
 tags:
-  - API
   - Property
   - Reference
-  - expires
-  - RTCCertificate
 browser-compat: api.RTCCertificate.expires
 ---
 {{DefaultAPISidebar("")}}

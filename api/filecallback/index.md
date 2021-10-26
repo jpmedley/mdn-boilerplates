@@ -2,10 +2,8 @@
 title: FileCallback
 slug: Web/API/FileCallback
 tags:
-  - API
   - Interface
   - Reference
-  - FileCallback
 browser-compat: api.FileCallback
 ---
 {{DefaultAPISidebar("")}}

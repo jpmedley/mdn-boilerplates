@@ -2,11 +2,8 @@
 title: AnimationEffectTiming.easing
 slug: Web/API/AnimationEffectTiming/easing
 tags:
-  - API
   - Property
   - Reference
-  - easing
-  - AnimationEffectTiming
 browser-compat: api.AnimationEffectTiming.easing
 ---
 {{DefaultAPISidebar("")}}

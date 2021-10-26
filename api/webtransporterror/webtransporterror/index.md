@@ -2,10 +2,8 @@
 title: WebTransportError.WebTransportError()
 slug: Web/API/WebTransportError/WebTransportError
 tags:
-  - API
   - Constructor
   - Reference
-  - WebTransportError
 browser-compat: api.WebTransportError.WebTransportError
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

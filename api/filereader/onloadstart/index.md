@@ -2,11 +2,8 @@
 title: FileReader.onloadstart
 slug: Web/API/FileReader/onloadstart
 tags:
-  - API
   - Property
   - Reference
-  - onloadstart
-  - FileReader
 browser-compat: api.FileReader.onloadstart
 ---
 {{DefaultAPISidebar("")}}

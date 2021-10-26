@@ -2,10 +2,8 @@
 title: Report
 slug: Web/API/Report
 tags:
-  - API
   - Interface
   - Reference
-  - Report
 browser-compat: api.Report
 ---
 {{DefaultAPISidebar("")}}

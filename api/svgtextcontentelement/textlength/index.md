@@ -2,11 +2,8 @@
 title: SVGTextContentElement.textLength
 slug: Web/API/SVGTextContentElement/textLength
 tags:
-  - API
   - Property
   - Reference
-  - textLength
-  - SVGTextContentElement
 browser-compat: api.SVGTextContentElement.textLength
 ---
 {{DefaultAPISidebar("")}}

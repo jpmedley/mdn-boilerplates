@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.transform()
 slug: Web/API/PaintRenderingContext2D/transform
 tags:
-  - API
   - Method
   - Reference
-  - transform
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.transform
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: InterventionReportBody
 slug: Web/API/InterventionReportBody
 tags:
-  - API
   - Interface
   - Reference
-  - InterventionReportBody
 browser-compat: api.InterventionReportBody
 ---
 {{DefaultAPISidebar("")}}

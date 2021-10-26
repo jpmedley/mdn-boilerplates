@@ -2,11 +2,8 @@
 title: SharedWorkerGlobalScope.webkitResolveLocalFileSystemSyncURL()
 slug: Web/API/SharedWorkerGlobalScope/webkitResolveLocalFileSystemSyncURL
 tags:
-  - API
   - Method
   - Reference
-  - webkitResolveLocalFileSystemSyncURL
-  - SharedWorkerGlobalScope
 browser-compat: api.SharedWorkerGlobalScope.webkitResolveLocalFileSystemSyncURL
 ---
 {{DefaultAPISidebar("")}}

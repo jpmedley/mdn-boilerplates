@@ -2,11 +2,8 @@
 title: ScrollState.distributeToScrollChainDescendant()
 slug: Web/API/ScrollState/distributeToScrollChainDescendant
 tags:
-  - API
   - Method
   - Reference
-  - distributeToScrollChainDescendant
-  - ScrollState
 browser-compat: api.ScrollState.distributeToScrollChainDescendant
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: OffscreenCanvasRenderingContext2D.lineCap
 slug: Web/API/OffscreenCanvasRenderingContext2D/lineCap
 tags:
-  - API
   - Property
   - Reference
-  - lineCap
-  - OffscreenCanvasRenderingContext2D
 browser-compat: api.OffscreenCanvasRenderingContext2D.lineCap
 ---
 {{DefaultAPISidebar("")}}

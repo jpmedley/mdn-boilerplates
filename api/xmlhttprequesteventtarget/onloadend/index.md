@@ -2,11 +2,8 @@
 title: XMLHttpRequestEventTarget.onloadend
 slug: Web/API/XMLHttpRequestEventTarget/onloadend
 tags:
-  - API
   - Property
   - Reference
-  - onloadend
-  - XMLHttpRequestEventTarget
 browser-compat: api.XMLHttpRequestEventTarget.onloadend
 ---
 {{DefaultAPISidebar("")}}

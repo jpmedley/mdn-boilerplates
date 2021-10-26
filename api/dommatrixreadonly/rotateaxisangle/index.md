@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.rotateAxisAngle()
 slug: Web/API/DOMMatrixReadOnly/rotateAxisAngle
 tags:
-  - API
   - Method
   - Reference
-  - rotateAxisAngle
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.rotateAxisAngle
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: EntrySync.toURL()
 slug: Web/API/EntrySync/toURL
 tags:
-  - API
   - Method
   - Reference
-  - toURL
-  - EntrySync
 browser-compat: api.EntrySync.toURL
 ---
 {{DefaultAPISidebar("")}}

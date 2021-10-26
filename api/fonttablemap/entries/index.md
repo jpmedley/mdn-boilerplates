@@ -2,11 +2,8 @@
 title: FontTableMap.entries()
 slug: Web/API/FontTableMap/entries
 tags:
-  - API
   - Method
   - Reference
-  - entries
-  - FontTableMap
 browser-compat: api.FontTableMap.entries
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

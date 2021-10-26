@@ -2,11 +2,8 @@
 title: MediaStream.removeTrack()
 slug: Web/API/MediaStream/removeTrack
 tags:
-  - API
   - Method
   - Reference
-  - removeTrack
-  - MediaStream
 browser-compat: api.MediaStream.removeTrack
 ---
 {{DefaultAPISidebar("")}}

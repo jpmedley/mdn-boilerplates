@@ -2,11 +2,8 @@
 title: DevToolsHost.upgradeDraggedFileSystemPermissions()
 slug: Web/API/DevToolsHost/upgradeDraggedFileSystemPermissions
 tags:
-  - API
   - Method
   - Reference
-  - upgradeDraggedFileSystemPermissions
-  - DevToolsHost
 browser-compat: api.DevToolsHost.upgradeDraggedFileSystemPermissions
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: LayoutShift.sources
 slug: Web/API/LayoutShift/sources
 tags:
-  - API
   - Property
   - Reference
-  - sources
-  - LayoutShift
 browser-compat: api.LayoutShift.sources
 ---
 {{DefaultAPISidebar("")}}

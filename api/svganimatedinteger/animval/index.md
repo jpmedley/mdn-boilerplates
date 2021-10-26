@@ -2,11 +2,8 @@
 title: SVGAnimatedInteger.animVal
 slug: Web/API/SVGAnimatedInteger/animVal
 tags:
-  - API
   - Property
   - Reference
-  - animVal
-  - SVGAnimatedInteger
 browser-compat: api.SVGAnimatedInteger.animVal
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLTextAreaElement.checkValidity()
 slug: Web/API/HTMLTextAreaElement/checkValidity
 tags:
-  - API
   - Method
   - Reference
-  - checkValidity
-  - HTMLTextAreaElement
 browser-compat: api.HTMLTextAreaElement.checkValidity
 ---
 {{DefaultAPISidebar("")}}

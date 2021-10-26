@@ -2,11 +2,8 @@
 title: SVGPolygonElement.animatedPoints
 slug: Web/API/SVGPolygonElement/animatedPoints
 tags:
-  - API
   - Property
   - Reference
-  - animatedPoints
-  - SVGPolygonElement
 browser-compat: api.SVGPolygonElement.animatedPoints
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: WorkerNavigator.locks
 slug: Web/API/WorkerNavigator/locks
 tags:
-  - API
   - Property
   - Reference
-  - locks
-  - WorkerNavigator
 browser-compat: api.WorkerNavigator.locks
 ---
 {{DefaultAPISidebar("")}}

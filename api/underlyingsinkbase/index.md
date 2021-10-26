@@ -2,10 +2,8 @@
 title: UnderlyingSinkBase
 slug: Web/API/UnderlyingSinkBase
 tags:
-  - API
   - Interface
   - Reference
-  - UnderlyingSinkBase
 browser-compat: api.UnderlyingSinkBase
 ---
 {{DefaultAPISidebar("")}}

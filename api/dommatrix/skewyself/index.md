@@ -2,11 +2,8 @@
 title: DOMMatrix.skewYSelf()
 slug: Web/API/DOMMatrix/skewYSelf
 tags:
-  - API
   - Method
   - Reference
-  - skewYSelf
-  - DOMMatrix
 browser-compat: api.DOMMatrix.skewYSelf
 ---
 {{DefaultAPISidebar("")}}

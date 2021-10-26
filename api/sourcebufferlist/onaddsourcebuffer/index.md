@@ -2,11 +2,8 @@
 title: SourceBufferList.onaddsourcebuffer
 slug: Web/API/SourceBufferList/onaddsourcebuffer
 tags:
-  - API
   - Property
   - Reference
-  - onaddsourcebuffer
-  - SourceBufferList
 browser-compat: api.SourceBufferList.onaddsourcebuffer
 ---
 {{DefaultAPISidebar("")}}

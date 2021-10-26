@@ -2,11 +2,8 @@
 title: SVGSVGElement.createSVGMatrix()
 slug: Web/API/SVGSVGElement/createSVGMatrix
 tags:
-  - API
   - Method
   - Reference
-  - createSVGMatrix
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.createSVGMatrix
 ---
 {{DefaultAPISidebar("")}}

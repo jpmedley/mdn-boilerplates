@@ -2,11 +2,8 @@
 title: DevToolsHost.isolatedFileSystem()
 slug: Web/API/DevToolsHost/isolatedFileSystem
 tags:
-  - API
   - Method
   - Reference
-  - isolatedFileSystem
-  - DevToolsHost
 browser-compat: api.DevToolsHost.isolatedFileSystem
 ---
 {{DefaultAPISidebar("")}}

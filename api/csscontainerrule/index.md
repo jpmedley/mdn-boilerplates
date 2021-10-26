@@ -2,10 +2,8 @@
 title: CSSContainerRule
 slug: Web/API/CSSContainerRule
 tags:
-  - API
   - Interface
   - Reference
-  - CSSContainerRule
 browser-compat: api.CSSContainerRule
 ---
 {{DefaultAPISidebar("")}}

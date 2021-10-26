@@ -2,11 +2,8 @@
 title: ServiceWorkerGlobalScope.cookieStore
 slug: Web/API/ServiceWorkerGlobalScope/cookieStore
 tags:
-  - API
   - Property
   - Reference
-  - cookieStore
-  - ServiceWorkerGlobalScope
 browser-compat: api.ServiceWorkerGlobalScope.cookieStore
 ---
 {{DefaultAPISidebar("")}}

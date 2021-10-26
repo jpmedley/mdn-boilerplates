@@ -2,11 +2,8 @@
 title: Navigator.userActivation
 slug: Web/API/Navigator/userActivation
 tags:
-  - API
   - Property
   - Reference
-  - userActivation
-  - Navigator
 browser-compat: api.Navigator.userActivation
 ---
 {{DefaultAPISidebar("")}}

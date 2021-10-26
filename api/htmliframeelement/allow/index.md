@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.allow
 slug: Web/API/HTMLIFrameElement/allow
 tags:
-  - API
   - Property
   - Reference
-  - allow
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.allow
 ---
 {{DefaultAPISidebar("")}}

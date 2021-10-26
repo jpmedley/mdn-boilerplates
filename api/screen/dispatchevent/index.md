@@ -2,11 +2,8 @@
 title: Screen.dispatchEvent()
 slug: Web/API/Screen/dispatchEvent
 tags:
-  - API
   - Method
   - Reference
-  - dispatchEvent
-  - Screen
 browser-compat: api.Screen.dispatchEvent
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Ink.requestPresenter()
 slug: Web/API/Ink/requestPresenter
 tags:
-  - API
   - Method
   - Reference
-  - requestPresenter
-  - Ink
 browser-compat: api.Ink.requestPresenter
 ---
 {{DefaultAPISidebar("")}}

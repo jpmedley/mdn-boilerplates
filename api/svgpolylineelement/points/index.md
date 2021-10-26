@@ -2,11 +2,8 @@
 title: SVGPolylineElement.points
 slug: Web/API/SVGPolylineElement/points
 tags:
-  - API
   - Property
   - Reference
-  - points
-  - SVGPolylineElement
 browser-compat: api.SVGPolylineElement.points
 ---
 {{DefaultAPISidebar("")}}

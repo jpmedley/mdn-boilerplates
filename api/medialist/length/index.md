@@ -2,11 +2,8 @@
 title: MediaList.length
 slug: Web/API/MediaList/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - MediaList
 browser-compat: api.MediaList.length
 ---
 {{DefaultAPISidebar("")}}

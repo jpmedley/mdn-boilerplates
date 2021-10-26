@@ -2,11 +2,8 @@
 title: PaintRenderingContext2D.createPattern()
 slug: Web/API/PaintRenderingContext2D/createPattern
 tags:
-  - API
   - Method
   - Reference
-  - createPattern
-  - PaintRenderingContext2D
 browser-compat: api.PaintRenderingContext2D.createPattern
 ---
 {{DefaultAPISidebar("")}}

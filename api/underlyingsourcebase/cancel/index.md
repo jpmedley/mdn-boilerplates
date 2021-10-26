@@ -2,11 +2,8 @@
 title: UnderlyingSourceBase.cancel()
 slug: Web/API/UnderlyingSourceBase/cancel
 tags:
-  - API
   - Method
   - Reference
-  - cancel
-  - UnderlyingSourceBase
 browser-compat: api.UnderlyingSourceBase.cancel
 ---
 {{DefaultAPISidebar("")}}

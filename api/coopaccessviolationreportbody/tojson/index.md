@@ -2,11 +2,8 @@
 title: CoopAccessViolationReportBody.toJSON()
 slug: Web/API/CoopAccessViolationReportBody/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - CoopAccessViolationReportBody
 browser-compat: api.CoopAccessViolationReportBody.toJSON
 ---
 {{DefaultAPISidebar("")}}

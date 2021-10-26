@@ -2,11 +2,8 @@
 title: ScrollState.isBeginning
 slug: Web/API/ScrollState/isBeginning
 tags:
-  - API
   - Property
   - Reference
-  - isBeginning
-  - ScrollState
 browser-compat: api.ScrollState.isBeginning
 ---
 {{DefaultAPISidebar("")}}

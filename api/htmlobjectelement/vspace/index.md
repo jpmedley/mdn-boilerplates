@@ -2,11 +2,8 @@
 title: HTMLObjectElement.vspace
 slug: Web/API/HTMLObjectElement/vspace
 tags:
-  - API
   - Property
   - Reference
-  - vspace
-  - HTMLObjectElement
 browser-compat: api.HTMLObjectElement.vspace
 ---
 {{DefaultAPISidebar("")}}

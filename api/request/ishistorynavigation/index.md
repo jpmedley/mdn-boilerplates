@@ -2,11 +2,8 @@
 title: Request.isHistoryNavigation
 slug: Web/API/Request/isHistoryNavigation
 tags:
-  - API
   - Property
   - Reference
-  - isHistoryNavigation
-  - Request
 browser-compat: api.Request.isHistoryNavigation
 ---
 {{DefaultAPISidebar("")}}

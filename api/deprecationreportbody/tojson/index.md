@@ -2,11 +2,8 @@
 title: DeprecationReportBody.toJSON()
 slug: Web/API/DeprecationReportBody/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - DeprecationReportBody
 browser-compat: api.DeprecationReportBody.toJSON
 ---
 {{DefaultAPISidebar("")}}

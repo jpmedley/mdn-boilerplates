@@ -2,11 +2,8 @@
 title: OESDrawBuffersIndexed.isEnablediOES()
 slug: Web/API/OESDrawBuffersIndexed/isEnablediOES
 tags:
-  - API
   - Method
   - Reference
-  - isEnablediOES
-  - OESDrawBuffersIndexed
 browser-compat: api.OESDrawBuffersIndexed.isEnablediOES
 ---
 {{DefaultAPISidebar("")}}

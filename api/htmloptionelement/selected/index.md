@@ -2,11 +2,8 @@
 title: HTMLOptionElement.selected
 slug: Web/API/HTMLOptionElement/selected
 tags:
-  - API
   - Property
   - Reference
-  - selected
-  - HTMLOptionElement
 browser-compat: api.HTMLOptionElement.selected
 ---
 {{DefaultAPISidebar("")}}

@@ -2,10 +2,8 @@
 title: USBOutTransferResult.USBOutTransferResult()
 slug: Web/API/USBOutTransferResult/USBOutTransferResult
 tags:
-  - API
   - Constructor
   - Reference
-  - USBOutTransferResult
 browser-compat: api.USBOutTransferResult.USBOutTransferResult
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

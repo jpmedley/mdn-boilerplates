@@ -2,11 +2,8 @@
 title: HTMLHRElement.align
 slug: Web/API/HTMLHRElement/align
 tags:
-  - API
   - Property
   - Reference
-  - align
-  - HTMLHRElement
 browser-compat: api.HTMLHRElement.align
 ---
 {{DefaultAPISidebar("")}}

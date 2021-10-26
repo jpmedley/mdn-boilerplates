@@ -2,11 +2,8 @@
 title: USBInTransferResult.data
 slug: Web/API/USBInTransferResult/data
 tags:
-  - API
   - Property
   - Reference
-  - data
-  - USBInTransferResult
 browser-compat: api.USBInTransferResult.data
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

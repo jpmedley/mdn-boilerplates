@@ -2,11 +2,8 @@
 title: PerformanceEventTiming.toJSON()
 slug: Web/API/PerformanceEventTiming/toJSON
 tags:
-  - API
   - Method
   - Reference
-  - toJSON
-  - PerformanceEventTiming
 browser-compat: api.PerformanceEventTiming.toJSON
 ---
 {{DefaultAPISidebar("")}}

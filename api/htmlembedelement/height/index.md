@@ -2,11 +2,8 @@
 title: HTMLEmbedElement.height
 slug: Web/API/HTMLEmbedElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - HTMLEmbedElement
 browser-compat: api.HTMLEmbedElement.height
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: SVGMatrix.multiply()
 slug: Web/API/SVGMatrix/multiply
 tags:
-  - API
   - Method
   - Reference
-  - multiply
-  - SVGMatrix
 browser-compat: api.SVGMatrix.multiply
 ---
 {{DefaultAPISidebar("")}}

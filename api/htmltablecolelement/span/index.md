@@ -2,11 +2,8 @@
 title: HTMLTableColElement.span
 slug: Web/API/HTMLTableColElement/span
 tags:
-  - API
   - Property
   - Reference
-  - span
-  - HTMLTableColElement
 browser-compat: api.HTMLTableColElement.span
 ---
 {{DefaultAPISidebar("")}}

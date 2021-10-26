@@ -2,11 +2,8 @@
 title: SVGMatrix.inverse()
 slug: Web/API/SVGMatrix/inverse
 tags:
-  - API
   - Method
   - Reference
-  - inverse
-  - SVGMatrix
 browser-compat: api.SVGMatrix.inverse
 ---
 {{DefaultAPISidebar("")}}

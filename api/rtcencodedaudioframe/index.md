@@ -2,10 +2,8 @@
 title: RTCEncodedAudioFrame
 slug: Web/API/RTCEncodedAudioFrame
 tags:
-  - API
   - Interface
   - Reference
-  - RTCEncodedAudioFrame
 browser-compat: api.RTCEncodedAudioFrame
 ---
 {{DefaultAPISidebar("")}}

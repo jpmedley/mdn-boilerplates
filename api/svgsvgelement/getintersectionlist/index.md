@@ -2,11 +2,8 @@
 title: SVGSVGElement.getIntersectionList()
 slug: Web/API/SVGSVGElement/getIntersectionList
 tags:
-  - API
   - Method
   - Reference
-  - getIntersectionList
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.getIntersectionList
 ---
 {{DefaultAPISidebar("")}}

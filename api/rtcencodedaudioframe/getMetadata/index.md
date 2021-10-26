@@ -2,11 +2,8 @@
 title: RTCEncodedAudioFrame.getMetadata()
 slug: Web/API/RTCEncodedAudioFrame/getMetadata
 tags:
-  - API
   - Method
   - Reference
-  - getMetadata
-  - RTCEncodedAudioFrame
 browser-compat: api.RTCEncodedAudioFrame.getMetadata
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: HTMLSourceElement.media
 slug: Web/API/HTMLSourceElement/media
 tags:
-  - API
   - Property
   - Reference
-  - media
-  - HTMLSourceElement
 browser-compat: api.HTMLSourceElement.media
 ---
 {{DefaultAPISidebar("")}}

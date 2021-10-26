@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.onunhandledrejection
 slug: Web/API/WorkerGlobalScope/onunhandledrejection
 tags:
-  - API
   - Property
   - Reference
-  - onunhandledrejection
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.onunhandledrejection
 ---
 {{DefaultAPISidebar("")}}

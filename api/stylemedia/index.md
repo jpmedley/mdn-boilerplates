@@ -2,10 +2,8 @@
 title: StyleMedia
 slug: Web/API/StyleMedia
 tags:
-  - API
   - Interface
   - Reference
-  - StyleMedia
 browser-compat: api.StyleMedia
 ---
 {{DefaultAPISidebar("")}}

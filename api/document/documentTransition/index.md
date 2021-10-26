@@ -2,11 +2,8 @@
 title: Document.documentTransition
 slug: Web/API/Document/documentTransition
 tags:
-  - API
   - Property
   - Reference
-  - documentTransition
-  - Document
 browser-compat: api.Document.documentTransition
 ---
 {{DefaultAPISidebar("")}}

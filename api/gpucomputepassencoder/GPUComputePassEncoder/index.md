@@ -2,10 +2,8 @@
 title: GPUComputePassEncoder
 slug: Web/API/GPUComputePassEncoder
 tags:
-  - API
   - Interface
   - Reference
-  - GPUComputePassEncoder
 browser-compat: api.GPUComputePassEncoder
 ---
 {{DefaultAPISidebar("")}}

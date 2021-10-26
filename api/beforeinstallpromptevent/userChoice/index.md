@@ -2,11 +2,8 @@
 title: BeforeInstallPromptEvent.userChoice
 slug: Web/API/BeforeInstallPromptEvent/userChoice
 tags:
-  - API
   - Property
   - Reference
-  - userChoice
-  - BeforeInstallPromptEvent
 browser-compat: api.BeforeInstallPromptEvent.userChoice
 ---
 {{DefaultAPISidebar("")}}

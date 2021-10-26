@@ -2,11 +2,8 @@
 title: UnderlyingSinkBase.start()
 slug: Web/API/UnderlyingSinkBase/start
 tags:
-  - API
   - Method
   - Reference
-  - start
-  - UnderlyingSinkBase
 browser-compat: api.UnderlyingSinkBase.start
 ---
 {{DefaultAPISidebar("")}}

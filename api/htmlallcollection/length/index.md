@@ -2,11 +2,8 @@
 title: HTMLAllCollection.length
 slug: Web/API/HTMLAllCollection/length
 tags:
-  - API
   - Property
   - Reference
-  - length
-  - HTMLAllCollection
 browser-compat: api.HTMLAllCollection.length
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: GPUDevice.popErrorScope()
 slug: Web/API/GPUDevice/popErrorScope
 tags:
-  - API
   - Method
   - Reference
-  - popErrorScope
-  - GPUDevice
 browser-compat: api.GPUDevice.popErrorScope
 ---
 {{DefaultAPISidebar("")}}

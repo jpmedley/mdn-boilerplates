@@ -2,11 +2,8 @@
 title: External.AddSearchProvider()
 slug: Web/API/External/AddSearchProvider
 tags:
-  - API
   - Method
   - Reference
-  - AddSearchProvider
-  - External
 browser-compat: api.External.AddSearchProvider
 ---
 {{DefaultAPISidebar("")}}

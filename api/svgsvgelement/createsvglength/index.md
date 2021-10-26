@@ -2,11 +2,8 @@
 title: SVGSVGElement.createSVGLength()
 slug: Web/API/SVGSVGElement/createSVGLength
 tags:
-  - API
   - Method
   - Reference
-  - createSVGLength
-  - SVGSVGElement
 browser-compat: api.SVGSVGElement.createSVGLength
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: RTCRtpReceiver.rtcpTransport
 slug: Web/API/RTCRtpReceiver/rtcpTransport
 tags:
-  - API
   - Property
   - Reference
-  - rtcpTransport
-  - RTCRtpReceiver
 browser-compat: api.RTCRtpReceiver.rtcpTransport
 ---
 {{DefaultAPISidebar("")}}

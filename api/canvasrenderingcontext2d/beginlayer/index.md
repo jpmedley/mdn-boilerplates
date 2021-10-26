@@ -2,11 +2,8 @@
 title: CanvasRenderingContext2D.beginLayer()
 slug: Web/API/CanvasRenderingContext2D/beginLayer
 tags:
-  - API
   - Method
   - Reference
-  - beginLayer
-  - CanvasRenderingContext2D
 browser-compat: api.CanvasRenderingContext2D.beginLayer
 ---
 {{DefaultAPISidebar("")}}

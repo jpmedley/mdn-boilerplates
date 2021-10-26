@@ -2,10 +2,8 @@
 title: DocumentPolicyViolationReportBody
 slug: Web/API/DocumentPolicyViolationReportBody
 tags:
-  - API
   - Interface
   - Reference
-  - DocumentPolicyViolationReportBody
 browser-compat: api.DocumentPolicyViolationReportBody
 ---
 {{DefaultAPISidebar("")}}

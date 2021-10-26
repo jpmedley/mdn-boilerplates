@@ -2,11 +2,8 @@
 title: HTMLFrameSetElement.onorientationchange
 slug: Web/API/HTMLFrameSetElement/onorientationchange
 tags:
-  - API
   - Property
   - Reference
-  - onorientationchange
-  - HTMLFrameSetElement
 browser-compat: api.HTMLFrameSetElement.onorientationchange
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: GPUBuffer.mapAsync()
 slug: Web/API/GPUBuffer/mapAsync
 tags:
-  - API
   - Method
   - Reference
-  - mapAsync
-  - GPUBuffer
 browser-compat: api.GPUBuffer.mapAsync
 ---
 {{DefaultAPISidebar("")}}

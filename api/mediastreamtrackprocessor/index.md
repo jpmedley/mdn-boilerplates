@@ -2,10 +2,8 @@
 title: MediaStreamTrackProcessor
 slug: Web/API/MediaStreamTrackProcessor
 tags:
-  - API
   - Interface
   - Reference
-  - MediaStreamTrackProcessor
 browser-compat: api.MediaStreamTrackProcessor
 ---
 {{DefaultAPISidebar("")}}

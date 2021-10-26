@@ -2,11 +2,8 @@
 title: HTMLMediaElement.remote
 slug: Web/API/HTMLMediaElement/remote
 tags:
-  - API
   - Property
   - Reference
-  - remote
-  - HTMLMediaElement
 browser-compat: api.HTMLMediaElement.remote
 ---
 {{DefaultAPISidebar("")}}

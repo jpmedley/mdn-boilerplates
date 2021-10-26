@@ -2,11 +2,8 @@
 title: MimeType.enabledPlugin
 slug: Web/API/MimeType/enabledPlugin
 tags:
-  - API
   - Property
   - Reference
-  - enabledPlugin
-  - MimeType
 browser-compat: api.MimeType.enabledPlugin
 ---
 {{DefaultAPISidebar("")}}

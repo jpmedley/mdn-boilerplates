@@ -2,11 +2,8 @@
 title: HTMLVideoElement.webkitDroppedFrameCount
 slug: Web/API/HTMLVideoElement/webkitDroppedFrameCount
 tags:
-  - API
   - Property
   - Reference
-  - webkitDroppedFrameCount
-  - HTMLVideoElement
 browser-compat: api.HTMLVideoElement.webkitDroppedFrameCount
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Window.fetch()
 slug: Web/API/Window/fetch
 tags:
-  - API
   - Method
   - Reference
-  - fetch
-  - Window
 browser-compat: api.Window.fetch
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Performance.eventCounts
 slug: Web/API/Performance/eventCounts
 tags:
-  - API
   - Property
   - Reference
-  - eventCounts
-  - Performance
 browser-compat: api.Performance.eventCounts
 ---
 {{DefaultAPISidebar("")}}

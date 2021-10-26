@@ -2,11 +2,8 @@
 title: FileSystemFileHandle.createSyncAccessHandle()
 slug: Web/API/FileSystemFileHandle/createSyncAccessHandle
 tags:
-  - API
   - Method
   - Reference
-  - createSyncAccessHandle
-  - FileSystemFileHandle
 browser-compat: api.FileSystemFileHandle.createSyncAccessHandle
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

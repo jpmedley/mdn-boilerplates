@@ -2,11 +2,8 @@
 title: HTMLFormElement.autocomplete
 slug: Web/API/HTMLFormElement/autocomplete
 tags:
-  - API
   - Property
   - Reference
-  - autocomplete
-  - HTMLFormElement
 browser-compat: api.HTMLFormElement.autocomplete
 ---
 {{DefaultAPISidebar("")}}

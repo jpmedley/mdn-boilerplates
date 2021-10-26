@@ -2,11 +2,8 @@
 title: DOMMatrixReadOnly.isIdentity
 slug: Web/API/DOMMatrixReadOnly/isIdentity
 tags:
-  - API
   - Property
   - Reference
-  - isIdentity
-  - DOMMatrixReadOnly
 browser-compat: api.DOMMatrixReadOnly.isIdentity
 ---
 {{DefaultAPISidebar("")}}

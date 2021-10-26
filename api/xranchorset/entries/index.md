@@ -2,11 +2,8 @@
 title: XRAnchorSet.entries()
 slug: Web/API/XRAnchorSet/entries
 tags:
-  - API
   - Method
   - Reference
-  - entries
-  - XRAnchorSet
 browser-compat: api.XRAnchorSet.entries
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

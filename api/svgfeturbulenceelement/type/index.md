@@ -2,11 +2,8 @@
 title: SVGFETurbulenceElement.type
 slug: Web/API/SVGFETurbulenceElement/type
 tags:
-  - API
   - Property
   - Reference
-  - type
-  - SVGFETurbulenceElement
 browser-compat: api.SVGFETurbulenceElement.type
 ---
 {{DefaultAPISidebar("")}}

@@ -2,11 +2,8 @@
 title: Highlight.keys()
 slug: Web/API/Highlight/keys
 tags:
-  - API
   - Method
   - Reference
-  - keys
-  - Highlight
 browser-compat: api.Highlight.keys
 ---
 {{DefaultAPISidebar("")}}

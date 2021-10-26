@@ -2,11 +2,8 @@
 title: PortalActivateEvent.data
 slug: Web/API/PortalActivateEvent/data
 tags:
-  - API
   - Property
   - Reference
-  - data
-  - PortalActivateEvent
 browser-compat: api.PortalActivateEvent.data
 ---
 {{DefaultAPISidebar("")}}

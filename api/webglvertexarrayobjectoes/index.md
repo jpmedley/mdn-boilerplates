@@ -2,10 +2,8 @@
 title: WebGLVertexArrayObjectOES
 slug: Web/API/WebGLVertexArrayObjectOES
 tags:
-  - API
   - Interface
   - Reference
-  - WebGLVertexArrayObjectOES
 browser-compat: api.WebGLVertexArrayObjectOES
 ---
 {{DefaultAPISidebar("")}}

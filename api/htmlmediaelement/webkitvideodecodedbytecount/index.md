@@ -2,11 +2,8 @@
 title: HTMLMediaElement.webkitVideoDecodedByteCount
 slug: Web/API/HTMLMediaElement/webkitVideoDecodedByteCount
 tags:
-  - API
   - Property
   - Reference
-  - webkitVideoDecodedByteCount
-  - HTMLMediaElement
 browser-compat: api.HTMLMediaElement.webkitVideoDecodedByteCount
 ---
 {{DefaultAPISidebar("")}}

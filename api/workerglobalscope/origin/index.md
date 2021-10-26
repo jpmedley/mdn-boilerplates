@@ -2,11 +2,8 @@
 title: WorkerGlobalScope.origin
 slug: Web/API/WorkerGlobalScope/origin
 tags:
-  - API
   - Property
   - Reference
-  - origin
-  - WorkerGlobalScope
 browser-compat: api.WorkerGlobalScope.origin
 ---
 {{DefaultAPISidebar("")}}

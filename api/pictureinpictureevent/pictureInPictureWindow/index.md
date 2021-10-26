@@ -2,11 +2,8 @@
 title: PictureInPictureEvent.pictureInPictureWindow
 slug: Web/API/PictureInPictureEvent/pictureInPictureWindow
 tags:
-  - API
   - Property
   - Reference
-  - pictureInPictureWindow
-  - PictureInPictureEvent
 browser-compat: api.PictureInPictureEvent.pictureInPictureWindow
 ---
 {{DefaultAPISidebar("")}}

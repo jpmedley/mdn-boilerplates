@@ -2,11 +2,8 @@
 title: HTMLSelectElement.reportValidity()
 slug: Web/API/HTMLSelectElement/reportValidity
 tags:
-  - API
   - Method
   - Reference
-  - reportValidity
-  - HTMLSelectElement
 browser-compat: api.HTMLSelectElement.reportValidity
 ---
 {{DefaultAPISidebar("")}}

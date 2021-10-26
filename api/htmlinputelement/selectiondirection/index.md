@@ -2,11 +2,8 @@
 title: HTMLInputElement.selectionDirection
 slug: Web/API/HTMLInputElement/selectionDirection
 tags:
-  - API
   - Property
   - Reference
-  - selectionDirection
-  - HTMLInputElement
 browser-compat: api.HTMLInputElement.selectionDirection
 ---
 {{DefaultAPISidebar("")}}

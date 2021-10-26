@@ -2,11 +2,8 @@
 title: FileWriter.onabort
 slug: Web/API/FileWriter/onabort
 tags:
-  - API
   - Property
   - Reference
-  - onabort
-  - FileWriter
 browser-compat: api.FileWriter.onabort
 ---
 {{DefaultAPISidebar("")}}

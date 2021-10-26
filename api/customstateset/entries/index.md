@@ -2,11 +2,8 @@
 title: CustomStateSet.entries()
 slug: Web/API/CustomStateSet/entries
 tags:
-  - API
   - Method
   - Reference
-  - entries
-  - CustomStateSet
 browser-compat: api.CustomStateSet.entries
 ---
 {{DefaultAPISidebar("")}}

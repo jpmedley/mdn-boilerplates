@@ -2,11 +2,8 @@
 title: AudioParamMap.entries()
 slug: Web/API/AudioParamMap/entries
 tags:
-  - API
   - Method
   - Reference
-  - entries
-  - AudioParamMap
 browser-compat: api.AudioParamMap.entries
 ---
 {{DefaultAPISidebar("")}}

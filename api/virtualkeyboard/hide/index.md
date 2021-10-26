@@ -2,11 +2,8 @@
 title: VirtualKeyboard.hide()
 slug: Web/API/VirtualKeyboard/hide
 tags:
-  - API
   - Method
   - Reference
-  - hide
-  - VirtualKeyboard
 browser-compat: api.VirtualKeyboard.hide
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}

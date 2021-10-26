@@ -2,11 +2,8 @@
 title: HTMLIFrameElement.loading
 slug: Web/API/HTMLIFrameElement/loading
 tags:
-  - API
   - Property
   - Reference
-  - loading
-  - HTMLIFrameElement
 browser-compat: api.HTMLIFrameElement.loading
 ---
 {{DefaultAPISidebar("")}}

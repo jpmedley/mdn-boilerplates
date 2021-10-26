@@ -2,11 +2,8 @@
 title: SVGPoint.matrixTransform()
 slug: Web/API/SVGPoint/matrixTransform
 tags:
-  - API
   - Method
   - Reference
-  - matrixTransform
-  - SVGPoint
 browser-compat: api.SVGPoint.matrixTransform
 ---
 {{DefaultAPISidebar("")}}

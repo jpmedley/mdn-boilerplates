@@ -2,11 +2,8 @@
 title: DelegatedInkTrailPresenter.updateInkTrailStartPoint()
 slug: Web/API/DelegatedInkTrailPresenter/updateInkTrailStartPoint
 tags:
-  - API
   - Method
   - Reference
-  - updateInkTrailStartPoint
-  - DelegatedInkTrailPresenter
 browser-compat: api.DelegatedInkTrailPresenter.updateInkTrailStartPoint
 ---
 {{DefaultAPISidebar("")}}

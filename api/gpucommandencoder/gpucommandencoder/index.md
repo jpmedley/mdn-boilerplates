@@ -2,10 +2,8 @@
 title: GPUCommandEncoder
 slug: Web/API/GPUCommandEncoder
 tags:
-  - API
   - Interface
   - Reference
-  - GPUCommandEncoder
 browser-compat: api.GPUCommandEncoder
 ---
 {{DefaultAPISidebar("")}}

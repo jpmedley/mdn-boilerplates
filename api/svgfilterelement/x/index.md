@@ -2,11 +2,8 @@
 title: SVGFilterElement.x
 slug: Web/API/SVGFilterElement/x
 tags:
-  - API
   - Property
   - Reference
-  - x
-  - SVGFilterElement
 browser-compat: api.SVGFilterElement.x
 ---
 {{DefaultAPISidebar("")}}

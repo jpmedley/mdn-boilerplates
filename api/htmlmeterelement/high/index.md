@@ -2,11 +2,8 @@
 title: HTMLMeterElement.high
 slug: Web/API/HTMLMeterElement/high
 tags:
-  - API
   - Property
   - Reference
-  - high
-  - HTMLMeterElement
 browser-compat: api.HTMLMeterElement.high
 ---
 {{DefaultAPISidebar("")}}

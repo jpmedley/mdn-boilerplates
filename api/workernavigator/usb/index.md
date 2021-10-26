@@ -2,11 +2,8 @@
 title: WorkerNavigator.usb
 slug: Web/API/WorkerNavigator/usb
 tags:
-  - API
   - Property
   - Reference
-  - usb
-  - WorkerNavigator
 browser-compat: api.WorkerNavigator.usb
 ---
 {{DefaultAPISidebar("")}}

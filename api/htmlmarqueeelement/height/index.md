@@ -2,11 +2,8 @@
 title: HTMLMarqueeElement.height
 slug: Web/API/HTMLMarqueeElement/height
 tags:
-  - API
   - Property
   - Reference
-  - height
-  - HTMLMarqueeElement
 browser-compat: api.HTMLMarqueeElement.height
 ---
 {{DefaultAPISidebar("")}}

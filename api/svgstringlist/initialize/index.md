@@ -2,11 +2,8 @@
 title: SVGStringList.initialize()
 slug: Web/API/SVGStringList/initialize
 tags:
-  - API
   - Method
   - Reference
-  - initialize
-  - SVGStringList
 browser-compat: api.SVGStringList.initialize
 ---
 {{DefaultAPISidebar("")}}
