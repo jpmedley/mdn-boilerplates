@@ -13,7 +13,7 @@ The **`createSelectorDirective()`** method of the {{domxref("FragmentDirective")
 ## Syntax
 
 ```js
-createSelectorDirective()
+createSelectorDirective();
 ```
 
 ### Parameters

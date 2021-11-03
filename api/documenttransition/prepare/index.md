@@ -13,7 +13,7 @@ The **`prepare()`** method of the {{domxref("DocumentTransition")}} interface
 ## Syntax
 
 ```js
-prepare()
+prepare();
 ```
 
 ### Parameters

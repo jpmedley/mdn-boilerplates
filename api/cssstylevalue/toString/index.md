@@ -13,7 +13,7 @@ The **`toString()`** method of the {{domxref("CSSStyleValue")}} interface
 ## Syntax
 
 ```js
-toString()
+toString();
 ```
 
 ### Parameters

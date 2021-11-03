@@ -13,7 +13,7 @@ The **`appendMedium()`** method of the {{domxref("MediaList")}} interface
 ## Syntax
 
 ```js
-appendMedium()
+appendMedium();
 ```
 
 ### Parameters

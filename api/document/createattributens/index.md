@@ -13,7 +13,7 @@ The **`createAttributeNS()`** method of the {{domxref("Document")}} interface
 ## Syntax
 
 ```js
-createAttributeNS()
+createAttributeNS();
 ```
 
 ### Parameters

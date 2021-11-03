@@ -13,7 +13,7 @@ The **`webkitCancelAnimationFrame()`** method of the {{domxref("Window")}} inter
 ## Syntax
 
 ```js
-webkitCancelAnimationFrame()
+webkitCancelAnimationFrame();
 ```
 
 ### Parameters

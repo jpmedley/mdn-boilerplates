@@ -13,7 +13,7 @@ The **`initKeyboardEvent()`** method of the {{domxref("KeyboardEvent")}} interfa
 ## Syntax
 
 ```js
-initKeyboardEvent()
+initKeyboardEvent();
 ```
 
 ### Parameters

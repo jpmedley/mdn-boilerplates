@@ -13,7 +13,7 @@ The **`webkitCancelFullScreen()`** method of the {{domxref("Document")}} interfa
 ## Syntax
 
 ```js
-webkitCancelFullScreen()
+webkitCancelFullScreen();
 ```
 
 ### Parameters

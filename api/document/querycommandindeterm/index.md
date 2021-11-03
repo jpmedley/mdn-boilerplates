@@ -13,7 +13,7 @@ The **`queryCommandIndeterm()`** method of the {{domxref("Document")}} interface
 ## Syntax
 
 ```js
-queryCommandIndeterm()
+queryCommandIndeterm();
 ```
 
 ### Parameters

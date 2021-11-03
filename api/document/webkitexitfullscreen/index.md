@@ -13,7 +13,7 @@ The **`webkitExitFullscreen()`** method of the {{domxref("Document")}} interface
 ## Syntax
 
 ```js
-webkitExitFullscreen()
+webkitExitFullscreen();
 ```
 
 ### Parameters

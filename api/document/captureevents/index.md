@@ -13,7 +13,7 @@ The **`captureEvents()`** method of the {{domxref("Document")}} interface
 ## Syntax
 
 ```js
-captureEvents()
+captureEvents();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`releaseEvents()`** method of the {{domxref("Document")}} interface
 ## Syntax
 
 ```js
-releaseEvents()
+releaseEvents();
 ```
 
 ### Parameters

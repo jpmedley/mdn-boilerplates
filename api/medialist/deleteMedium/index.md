@@ -13,7 +13,7 @@ The **`deleteMedium()`** method of the {{domxref("MediaList")}} interface
 ## Syntax
 
 ```js
-deleteMedium()
+deleteMedium();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`hasTrustToken()`** method of the {{domxref("Document")}} interface
 ## Syntax
 
 ```js
-hasTrustToken()
+hasTrustToken();
 ```
 
 ### Parameters

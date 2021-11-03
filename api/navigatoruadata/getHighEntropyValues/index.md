@@ -13,7 +13,7 @@ The **`getHighEntropyValues()`** method of the {{domxref("NavigatorUAData")}} in
 ## Syntax
 
 ```js
-getHighEntropyValues()
+getHighEntropyValues();
 ```
 
 ### Parameters

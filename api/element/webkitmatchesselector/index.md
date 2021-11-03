@@ -13,7 +13,7 @@ The **`webkitMatchesSelector()`** method of the {{domxref("Element")}} interface
 ## Syntax
 
 ```js
-webkitMatchesSelector()
+webkitMatchesSelector();
 ```
 
 ### Parameters

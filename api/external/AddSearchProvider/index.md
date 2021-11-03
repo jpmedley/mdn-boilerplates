@@ -13,7 +13,7 @@ The **`AddSearchProvider()`** method of the {{domxref("External")}} interface
 ## Syntax
 
 ```js
-AddSearchProvider()
+AddSearchProvider();
 ```
 
 ### Parameters

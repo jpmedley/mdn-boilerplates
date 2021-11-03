@@ -13,7 +13,7 @@ The **`initMutationEvent()`** method of the {{domxref("MutationEvent")}} interfa
 ## Syntax
 
 ```js
-initMutationEvent()
+initMutationEvent();
 ```
 
 ### Parameters

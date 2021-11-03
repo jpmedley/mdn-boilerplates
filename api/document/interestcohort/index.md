@@ -13,7 +13,7 @@ The **`interestCohort()`** method of the {{domxref("Document")}} interface
 ## Syntax
 
 ```js
-interestCohort()
+interestCohort();
 ```
 
 ### Parameters

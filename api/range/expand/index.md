@@ -13,7 +13,7 @@ The **`expand()`** method of the {{domxref("Range")}} interface
 ## Syntax
 
 ```js
-expand()
+expand();
 ```
 
 ### Parameters

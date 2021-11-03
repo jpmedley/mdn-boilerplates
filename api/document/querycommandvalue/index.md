@@ -13,7 +13,7 @@ The **`queryCommandValue()`** method of the {{domxref("Document")}} interface
 ## Syntax
 
 ```js
-queryCommandValue()
+queryCommandValue();
 ```
 
 ### Parameters

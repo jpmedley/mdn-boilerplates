@@ -13,7 +13,7 @@ The **`setNamedItem()`** method of the {{domxref("NamedNodeMap")}} interface
 ## Syntax
 
 ```js
-setNamedItem()
+setNamedItem();
 ```
 
 ### Parameters

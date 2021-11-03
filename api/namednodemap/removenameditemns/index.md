@@ -13,7 +13,7 @@ The **`removeNamedItemNS()`** method of the {{domxref("NamedNodeMap")}} interfac
 ## Syntax
 
 ```js
-removeNamedItemNS()
+removeNamedItemNS();
 ```
 
 ### Parameters

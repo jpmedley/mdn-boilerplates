@@ -13,7 +13,7 @@ The **`toJSON()`** method of the {{domxref("PermissionsPolicyViolationReportBody
 ## Syntax
 
 ```js
-toJSON()
+toJSON();
 ```
 
 ### Parameters

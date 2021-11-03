@@ -13,7 +13,7 @@ The **`queueMicrotask()`** method of the {{domxref("Window")}} interface
 ## Syntax
 
 ```js
-queueMicrotask()
+queueMicrotask();
 ```
 
 ### Parameters

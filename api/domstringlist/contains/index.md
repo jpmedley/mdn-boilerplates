@@ -13,7 +13,7 @@ The **`contains()`** method of the {{domxref("DOMStringList")}} interface
 ## Syntax
 
 ```js
-contains()
+contains();
 ```
 
 ### Parameters

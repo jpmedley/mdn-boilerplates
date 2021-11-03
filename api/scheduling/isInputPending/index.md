@@ -13,7 +13,7 @@ The **`isInputPending()`** method of the {{domxref("Scheduling")}} interface
 ## Syntax
 
 ```js
-isInputPending()
+isInputPending();
 ```
 
 ### Parameters

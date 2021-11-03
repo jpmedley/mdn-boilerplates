@@ -13,7 +13,7 @@ The **`fetch()`** method of the {{domxref("WorkerGlobalScope")}} interface
 ## Syntax
 
 ```js
-fetch()
+fetch();
 ```
 
 ### Parameters
