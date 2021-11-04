@@ -13,7 +13,7 @@ The **`requestVideoFrameCallback()`** method of the {{domxref("HTMLVideoElement"
 ## Syntax
 
 ```js
-requestVideoFrameCallback()
+requestVideoFrameCallback();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`writeTimestamp()`** method of the {{domxref("GPUComputePassEncoder")}} in
 ## Syntax
 
 ```js
-writeTimestamp()
+writeTimestamp();
 ```
 
 ### Parameters

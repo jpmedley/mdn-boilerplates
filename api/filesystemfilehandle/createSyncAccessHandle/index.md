@@ -13,7 +13,7 @@ The **`createSyncAccessHandle()`** method of the {{domxref("FileSystemFileHandle
 ## Syntax
 
 ```js
-createSyncAccessHandle()
+createSyncAccessHandle();
 ```
 
 ### Parameters

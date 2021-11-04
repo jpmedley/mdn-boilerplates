@@ -16,15 +16,30 @@ The **`DeprecationReportBody`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('DeprecationReportBody.id')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('DeprecationReportBody.anticipatedRemoval')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('DeprecationReportBody.message')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('DeprecationReportBody.sourceFile')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('DeprecationReportBody.lineNumber')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('DeprecationReportBody.columnNumber')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('DeprecationReportBody.toJSON')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

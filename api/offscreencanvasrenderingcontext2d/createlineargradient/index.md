@@ -13,7 +13,7 @@ The **`createLinearGradient()`** method of the {{domxref("OffscreenCanvasRenderi
 ## Syntax
 
 ```js
-createLinearGradient()
+createLinearGradient();
 ```
 
 ### Parameters

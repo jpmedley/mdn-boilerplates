@@ -13,7 +13,7 @@ The **`createPattern()`** method of the {{domxref("PaintRenderingContext2D")}} i
 ## Syntax
 
 ```js
-createPattern()
+createPattern();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`rotateAxisAngle()`** method of the {{domxref("DOMMatrixReadOnly")}} inter
 ## Syntax
 
 ```js
-rotateAxisAngle()
+rotateAxisAngle();
 ```
 
 ### Parameters

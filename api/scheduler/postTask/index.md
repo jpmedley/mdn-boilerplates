@@ -13,7 +13,7 @@ The **`postTask()`** method of the {{domxref("Scheduler")}} interface
 ## Syntax
 
 ```js
-postTask()
+postTask();
 ```
 
 ### Parameters

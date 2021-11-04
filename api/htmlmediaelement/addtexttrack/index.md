@@ -13,7 +13,7 @@ The **`addTextTrack()`** method of the {{domxref("HTMLMediaElement")}} interface
 ## Syntax
 
 ```js
-addTextTrack()
+addTextTrack();
 ```
 
 ### Parameters

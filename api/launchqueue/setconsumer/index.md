@@ -13,7 +13,7 @@ The **`setConsumer()`** method of the {{domxref("LaunchQueue")}} interface
 ## Syntax
 
 ```js
-setConsumer()
+setConsumer();
 ```
 
 ### Parameters

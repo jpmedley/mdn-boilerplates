@@ -16,15 +16,51 @@ The **`FileWriter`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('FileWriter.readyState')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('FileWriter.error')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('FileWriter.position')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('FileWriter.length')}}
+  - : Returns // Replace with description of what this property returns.
 
 ### Event handlers
 
+- {{domxref('onwritestart')}}
+  - : Fired when // Replace with description of when this event is fired.
 
+- {{domxref('onprogress')}}
+  - : Fired when // Replace with description of when this event is fired.
+
+- {{domxref('onwrite')}}
+  - : Fired when // Replace with description of when this event is fired.
+
+- {{domxref('onabort')}}
+  - : Fired when // Replace with description of when this event is fired.
+
+- {{domxref('onerror')}}
+  - : Fired when // Replace with description of when this event is fired.
+
+- {{domxref('onwriteend')}}
+  - : Fired when // Replace with description of when this event is fired.
 
 ## Methods
 
+- {{domxref('FileWriter.write')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('FileWriter.seek')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('FileWriter.truncate')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('FileWriter.abort')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

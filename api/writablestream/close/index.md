@@ -13,7 +13,7 @@ The **`close()`** method of the {{domxref("WritableStream")}} interface
 ## Syntax
 
 ```js
-close()
+close();
 ```
 
 ### Parameters

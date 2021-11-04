@@ -13,7 +13,7 @@ The **`ImageTrack()`** method of the {{domxref("ImageTrackList")}} interface
 ## Syntax
 
 ```js
-ImageTrack()
+ImageTrack();
 ```
 
 ### Parameters

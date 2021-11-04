@@ -13,7 +13,7 @@ The **`get()`** method of the {{domxref("FontTableMap")}} interface
 ## Syntax
 
 ```js
-get()
+get();
 ```
 
 ### Parameters

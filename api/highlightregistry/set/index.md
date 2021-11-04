@@ -13,7 +13,7 @@ The **`set()`** method of the {{domxref("HighlightRegistry")}} interface
 ## Syntax
 
 ```js
-set()
+set();
 ```
 
 ### Parameters

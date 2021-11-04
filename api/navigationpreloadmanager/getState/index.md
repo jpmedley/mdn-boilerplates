@@ -13,7 +13,7 @@ The **`getState()`** method of the {{domxref("NavigationPreloadManager")}} inter
 ## Syntax
 
 ```js
-getState()
+getState();
 ```
 
 ### Parameters

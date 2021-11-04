@@ -13,7 +13,7 @@ The **`hide()`** method of the {{domxref("VirtualKeyboard")}} interface
 ## Syntax
 
 ```js
-hide()
+hide();
 ```
 
 ### Parameters

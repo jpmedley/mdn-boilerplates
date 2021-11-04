@@ -1,14 +1,14 @@
 ---
-title: Window.defaultstatus
-slug: Web/API/Window/defaultstatus
+title: Window.defaultStatus
+slug: Web/API/Window/defaultStatus
 tags:
   - Property
   - Reference
-browser-compat: api.Window.defaultstatus
+browser-compat: api.Window.defaultStatus
 ---
 {{DefaultAPISidebar("")}}
 
-The **`defaultstatus`** property of the {{domxref("Window")}} interface 
+The **`defaultStatus`** property of the {{domxref("Window")}} interface 
 
 ## Value
 

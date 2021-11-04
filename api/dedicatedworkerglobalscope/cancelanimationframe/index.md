@@ -13,7 +13,7 @@ The **`cancelAnimationFrame()`** method of the {{domxref("DedicatedWorkerGlobalS
 ## Syntax
 
 ```js
-cancelAnimationFrame()
+cancelAnimationFrame();
 ```
 
 ### Parameters

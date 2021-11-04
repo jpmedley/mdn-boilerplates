@@ -13,7 +13,7 @@ The **`convertToSpecifiedUnits()`** method of the {{domxref("SVGAngle")}} interf
 ## Syntax
 
 ```js
-convertToSpecifiedUnits()
+convertToSpecifiedUnits();
 ```
 
 ### Parameters

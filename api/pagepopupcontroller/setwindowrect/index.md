@@ -13,7 +13,7 @@ The **`setWindowRect()`** method of the {{domxref("PagePopupController")}} inter
 ## Syntax
 
 ```js
-setWindowRect()
+setWindowRect();
 ```
 
 ### Parameters

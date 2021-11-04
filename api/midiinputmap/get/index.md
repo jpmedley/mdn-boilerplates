@@ -13,7 +13,7 @@ The **`get()`** method of the {{domxref("MIDIInputMap")}} interface
 ## Syntax
 
 ```js
-get()
+get();
 ```
 
 ### Parameters

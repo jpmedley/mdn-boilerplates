@@ -16,15 +16,18 @@ The **`DelegatedInkTrailPresenter`** interface of the {{domxref('','','','true')
 
 ## Properties
 
+- {{domxref('DelegatedInkTrailPresenter.presentationArea')}}
+  - : Returns // Replace with description of what this property returns.
 
-
-### Event handlers
+- {{domxref('DelegatedInkTrailPresenter.expectedImprovement')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('DelegatedInkTrailPresenter.updateInkTrailStartPoint')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

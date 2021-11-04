@@ -13,7 +13,7 @@ The **`getRotationOfChar()`** method of the {{domxref("SVGTextContentElement")}}
 ## Syntax
 
 ```js
-getRotationOfChar()
+getRotationOfChar();
 ```
 
 ### Parameters

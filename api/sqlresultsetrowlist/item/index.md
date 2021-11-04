@@ -13,7 +13,7 @@ The **`item()`** method of the {{domxref("SQLResultSetRowList")}} interface
 ## Syntax
 
 ```js
-item()
+item();
 ```
 
 ### Parameters

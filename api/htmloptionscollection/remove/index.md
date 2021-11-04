@@ -13,7 +13,7 @@ The **`remove()`** method of the {{domxref("HTMLOptionsCollection")}} interface
 ## Syntax
 
 ```js
-remove()
+remove();
 ```
 
 ### Parameters

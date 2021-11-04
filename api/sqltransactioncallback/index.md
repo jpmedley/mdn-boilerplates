@@ -14,17 +14,14 @@ The **`SQLTransactionCallback`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('SQLTransactionCallback.handleEvent')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

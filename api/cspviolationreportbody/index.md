@@ -16,15 +16,45 @@ The **`CSPViolationReportBody`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('CSPViolationReportBody.documentURL')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('CSPViolationReportBody.referrer')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('CSPViolationReportBody.blockedURL')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CSPViolationReportBody.effectiveDirective')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CSPViolationReportBody.originalPolicy')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CSPViolationReportBody.sourceFile')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CSPViolationReportBody.sample')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CSPViolationReportBody.disposition')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CSPViolationReportBody.statusCode')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CSPViolationReportBody.lineNumber')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CSPViolationReportBody.columnNumber')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('CSPViolationReportBody.toJSON')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

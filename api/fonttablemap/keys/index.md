@@ -13,7 +13,7 @@ The **`keys()`** method of the {{domxref("FontTableMap")}} interface
 ## Syntax
 
 ```js
-keys()
+keys();
 ```
 
 ### Parameters

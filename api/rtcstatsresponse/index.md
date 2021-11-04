@@ -14,17 +14,14 @@ The **`RTCStatsResponse`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('RTCStatsResponse.namedItem')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

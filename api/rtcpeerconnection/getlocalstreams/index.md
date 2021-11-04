@@ -13,7 +13,7 @@ The **`getLocalStreams()`** method of the {{domxref("RTCPeerConnection")}} inter
 ## Syntax
 
 ```js
-getLocalStreams()
+getLocalStreams();
 ```
 
 ### Parameters

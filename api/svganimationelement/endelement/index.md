@@ -13,7 +13,7 @@ The **`endElement()`** method of the {{domxref("SVGAnimationElement")}} interfac
 ## Syntax
 
 ```js
-endElement()
+endElement();
 ```
 
 ### Parameters

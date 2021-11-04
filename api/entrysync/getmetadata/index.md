@@ -13,7 +13,7 @@ The **`getMetadata()`** method of the {{domxref("EntrySync")}} interface
 ## Syntax
 
 ```js
-getMetadata()
+getMetadata();
 ```
 
 ### Parameters

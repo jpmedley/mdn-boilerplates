@@ -16,15 +16,15 @@ The **`GamepadList`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
-
-
-### Event handlers
+- {{domxref('GamepadList.length')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('GamepadList.item')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

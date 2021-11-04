@@ -13,7 +13,7 @@ The **`has()`** method of the {{domxref("MIDIInputMap")}} interface
 ## Syntax
 
 ```js
-has()
+has();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`checkEnclosure()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-checkEnclosure()
+checkEnclosure();
 ```
 
 ### Parameters

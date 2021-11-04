@@ -13,7 +13,7 @@ The **`blendFuncSeparateiOES()`** method of the {{domxref("OESDrawBuffersIndexed
 ## Syntax
 
 ```js
-blendFuncSeparateiOES()
+blendFuncSeparateiOES();
 ```
 
 ### Parameters

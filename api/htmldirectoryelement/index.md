@@ -16,13 +16,10 @@ The **`HTMLDirectoryElement`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('HTMLDirectoryElement.compact')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

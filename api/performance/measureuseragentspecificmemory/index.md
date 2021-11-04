@@ -13,7 +13,7 @@ The **`measureUserAgentSpecificMemory()`** method of the {{domxref("Performance"
 ## Syntax
 
 ```js
-measureUserAgentSpecificMemory()
+measureUserAgentSpecificMemory();
 ```
 
 ### Parameters

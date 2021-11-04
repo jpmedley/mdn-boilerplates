@@ -13,7 +13,7 @@ The **`rotate()`** method of the {{domxref("PaintRenderingContext2D")}} interfac
 ## Syntax
 
 ```js
-rotate()
+rotate();
 ```
 
 ### Parameters

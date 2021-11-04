@@ -14,17 +14,23 @@ The **`BluetoothUUID`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('BluetoothUUID.getService')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('BluetoothUUID.getCharacteristic')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('BluetoothUUID.getDescriptor')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('BluetoothUUID.canonicalUUID')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

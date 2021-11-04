@@ -13,7 +13,7 @@ The **`scale()`** method of the {{domxref("OffscreenCanvasRenderingContext2D")}}
 ## Syntax
 
 ```js
-scale()
+scale();
 ```
 
 ### Parameters

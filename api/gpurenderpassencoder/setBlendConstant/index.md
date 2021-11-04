@@ -13,7 +13,7 @@ The **`setBlendConstant()`** method of the {{domxref("GPURenderPassEncoder")}} i
 ## Syntax
 
 ```js
-setBlendConstant()
+setBlendConstant();
 ```
 
 ### Parameters

@@ -16,13 +16,31 @@ The **`AnimationEffectTiming`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('AnimationEffectTiming.delay')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTiming.endDelay')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTiming.fill')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTiming.iterationStart')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTiming.iterations')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTiming.duration')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTiming.direction')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTiming.easing')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

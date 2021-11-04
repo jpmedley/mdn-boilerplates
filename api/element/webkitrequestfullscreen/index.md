@@ -1,19 +1,19 @@
 ---
-title: Element.webkitRequestFullscreen()
-slug: Web/API/Element/webkitRequestFullscreen
+title: Element.webkitRequestFullScreen()
+slug: Web/API/Element/webkitRequestFullScreen
 tags:
   - Method
   - Reference
-browser-compat: api.Element.webkitRequestFullscreen
+browser-compat: api.Element.webkitRequestFullScreen
 ---
 {{DefaultAPISidebar("")}}
 
-The **`webkitRequestFullscreen()`** method of the {{domxref("Element")}} interface 
+The **`webkitRequestFullScreen()`** method of the {{domxref("Element")}} interface 
 
 ## Syntax
 
 ```js
-webkitRequestFullscreen()
+webkitRequestFullScreen();
 ```
 
 ### Parameters

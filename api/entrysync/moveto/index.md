@@ -13,7 +13,7 @@ The **`moveTo()`** method of the {{domxref("EntrySync")}} interface
 ## Syntax
 
 ```js
-moveTo()
+moveTo();
 ```
 
 ### Parameters

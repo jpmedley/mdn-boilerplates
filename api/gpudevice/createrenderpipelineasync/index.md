@@ -13,7 +13,7 @@ The **`createRenderPipelineAsync()`** method of the {{domxref("GPUDevice")}} int
 ## Syntax
 
 ```js
-createRenderPipelineAsync()
+createRenderPipelineAsync();
 ```
 
 ### Parameters

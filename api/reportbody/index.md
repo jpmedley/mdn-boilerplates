@@ -14,17 +14,14 @@ The **`ReportBody`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('ReportBody.toJSON')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

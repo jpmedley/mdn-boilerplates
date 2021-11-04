@@ -16,13 +16,10 @@ The **`HTMLFencedFrameElement`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('HTMLFencedFrameElement.src')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

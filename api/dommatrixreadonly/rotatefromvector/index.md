@@ -13,7 +13,7 @@ The **`rotateFromVector()`** method of the {{domxref("DOMMatrixReadOnly")}} inte
 ## Syntax
 
 ```js
-rotateFromVector()
+rotateFromVector();
 ```
 
 ### Parameters

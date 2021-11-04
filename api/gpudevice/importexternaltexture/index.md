@@ -13,7 +13,7 @@ The **`importExternalTexture()`** method of the {{domxref("GPUDevice")}} interfa
 ## Syntax
 
 ```js
-importExternalTexture()
+importExternalTexture();
 ```
 
 ### Parameters

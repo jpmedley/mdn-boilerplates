@@ -13,7 +13,7 @@ The **`stop()`** method of the {{domxref("HTMLMarqueeElement")}} interface
 ## Syntax
 
 ```js
-stop()
+stop();
 ```
 
 ### Parameters

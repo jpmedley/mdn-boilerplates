@@ -13,7 +13,7 @@ The **`refresh()`** method of the {{domxref("PluginArray")}} interface
 ## Syntax
 
 ```js
-refresh()
+refresh();
 ```
 
 ### Parameters

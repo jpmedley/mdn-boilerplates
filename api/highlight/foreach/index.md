@@ -13,7 +13,7 @@ The **`forEach()`** method of the {{domxref("Highlight")}} interface
 ## Syntax
 
 ```js
-forEach()
+forEach();
 ```
 
 ### Parameters

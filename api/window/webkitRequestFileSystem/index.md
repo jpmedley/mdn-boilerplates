@@ -13,7 +13,7 @@ The **`webkitRequestFileSystem()`** method of the {{domxref("Window")}} interfac
 ## Syntax
 
 ```js
-webkitRequestFileSystem()
+webkitRequestFileSystem();
 ```
 
 ### Parameters

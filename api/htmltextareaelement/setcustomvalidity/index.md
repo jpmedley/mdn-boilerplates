@@ -13,7 +13,7 @@ The **`setCustomValidity()`** method of the {{domxref("HTMLTextAreaElement")}} i
 ## Syntax
 
 ```js
-setCustomValidity()
+setCustomValidity();
 ```
 
 ### Parameters

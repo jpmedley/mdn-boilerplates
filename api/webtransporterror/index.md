@@ -16,13 +16,13 @@ The **`WebTransportError`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('WebTransportError.streamErrorCode')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('WebTransportError.source')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

@@ -13,7 +13,7 @@ The **`setMicrophoneActive()`** method of the {{domxref("MediaSession")}} interf
 ## Syntax
 
 ```js
-setMicrophoneActive()
+setMicrophoneActive();
 ```
 
 ### Parameters

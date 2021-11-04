@@ -14,17 +14,14 @@ The **`SQLStatementErrorCallback`** interface of the {{domxref('','','','true')}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('SQLStatementErrorCallback.handleEvent')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

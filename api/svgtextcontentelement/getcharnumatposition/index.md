@@ -13,7 +13,7 @@ The **`getCharNumAtPosition()`** method of the {{domxref("SVGTextContentElement"
 ## Syntax
 
 ```js
-getCharNumAtPosition()
+getCharNumAtPosition();
 ```
 
 ### Parameters

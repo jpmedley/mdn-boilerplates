@@ -13,7 +13,7 @@ The **`seek()`** method of the {{domxref("FileWriter")}} interface
 ## Syntax
 
 ```js
-seek()
+seek();
 ```
 
 ### Parameters

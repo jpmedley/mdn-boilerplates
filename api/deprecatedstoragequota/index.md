@@ -14,17 +14,17 @@ The **`DeprecatedStorageQuota`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('DeprecatedStorageQuota.queryUsageAndQuota')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('DeprecatedStorageQuota.requestQuota')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

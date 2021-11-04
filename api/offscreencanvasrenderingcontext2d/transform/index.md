@@ -13,7 +13,7 @@ The **`transform()`** method of the {{domxref("OffscreenCanvasRenderingContext2D
 ## Syntax
 
 ```js
-transform()
+transform();
 ```
 
 ### Parameters

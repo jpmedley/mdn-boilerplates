@@ -14,17 +14,14 @@ The **`SQLTransaction`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('SQLTransaction.executeSql')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

@@ -13,7 +13,7 @@ The **`openDatabase()`** method of the {{domxref("Window")}} interface
 ## Syntax
 
 ```js
-openDatabase()
+openDatabase();
 ```
 
 ### Parameters

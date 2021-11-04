@@ -13,7 +13,7 @@ The **`getImageData()`** method of the {{domxref("OffscreenCanvasRenderingContex
 ## Syntax
 
 ```js
-getImageData()
+getImageData();
 ```
 
 ### Parameters

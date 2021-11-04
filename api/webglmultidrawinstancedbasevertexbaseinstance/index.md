@@ -14,15 +14,9 @@ The **`WebGLMultiDrawInstancedBaseVertexBaseInstance`** interface of the {{domxr
 
  
 
-## Properties
 
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

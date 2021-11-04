@@ -13,7 +13,7 @@ The **`namedItem()`** method of the {{domxref("HTMLAllCollection")}} interface
 ## Syntax
 
 ```js
-namedItem()
+namedItem();
 ```
 
 ### Parameters

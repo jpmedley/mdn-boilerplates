@@ -14,17 +14,14 @@ The **`Iterator`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('Iterator.next')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

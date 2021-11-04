@@ -13,7 +13,7 @@ The **`appendItem()`** method of the {{domxref("SVGNumberList")}} interface
 ## Syntax
 
 ```js
-appendItem()
+appendItem();
 ```
 
 ### Parameters

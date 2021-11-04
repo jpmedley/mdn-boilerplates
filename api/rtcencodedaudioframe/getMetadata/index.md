@@ -13,7 +13,7 @@ The **`getMetadata()`** method of the {{domxref("RTCEncodedAudioFrame")}} interf
 ## Syntax
 
 ```js
-getMetadata()
+getMetadata();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`popErrorScope()`** method of the {{domxref("GPUDevice")}} interface
 ## Syntax
 
 ```js
-popErrorScope()
+popErrorScope();
 ```
 
 ### Parameters

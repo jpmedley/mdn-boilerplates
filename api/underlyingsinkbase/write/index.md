@@ -13,7 +13,7 @@ The **`write()`** method of the {{domxref("UnderlyingSinkBase")}} interface
 ## Syntax
 
 ```js
-write()
+write();
 ```
 
 ### Parameters

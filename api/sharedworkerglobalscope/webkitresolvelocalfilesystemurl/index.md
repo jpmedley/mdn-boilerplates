@@ -13,7 +13,7 @@ The **`webkitResolveLocalFileSystemURL()`** method of the {{domxref("SharedWorke
 ## Syntax
 
 ```js
-webkitResolveLocalFileSystemURL()
+webkitResolveLocalFileSystemURL();
 ```
 
 ### Parameters

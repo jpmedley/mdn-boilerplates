@@ -13,7 +13,7 @@ The **`requestQuota()`** method of the {{domxref("DeprecatedStorageInfo")}} inte
 ## Syntax
 
 ```js
-requestQuota()
+requestQuota();
 ```
 
 ### Parameters

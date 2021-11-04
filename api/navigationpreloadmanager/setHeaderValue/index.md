@@ -13,7 +13,7 @@ The **`setHeaderValue()`** method of the {{domxref("NavigationPreloadManager")}}
 ## Syntax
 
 ```js
-setHeaderValue()
+setHeaderValue();
 ```
 
 ### Parameters

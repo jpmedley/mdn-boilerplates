@@ -13,7 +13,7 @@ The **`getMappedRange()`** method of the {{domxref("GPUBuffer")}} interface
 ## Syntax
 
 ```js
-getMappedRange()
+getMappedRange();
 ```
 
 ### Parameters

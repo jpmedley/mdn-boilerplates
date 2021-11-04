@@ -14,17 +14,14 @@ The **`XPathNSResolver`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('XPathNSResolver.lookupNamespaceURI')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

@@ -16,13 +16,13 @@ The **`SQLError`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('SQLError.code')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('SQLError.message')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

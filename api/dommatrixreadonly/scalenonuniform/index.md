@@ -13,7 +13,7 @@ The **`scaleNonUniform()`** method of the {{domxref("DOMMatrixReadOnly")}} inter
 ## Syntax
 
 ```js
-scaleNonUniform()
+scaleNonUniform();
 ```
 
 ### Parameters

@@ -14,17 +14,14 @@ The **`FileWriterCallback`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('FileWriterCallback.handleEvent')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

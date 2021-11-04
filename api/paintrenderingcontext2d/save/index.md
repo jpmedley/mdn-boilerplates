@@ -13,7 +13,7 @@ The **`save()`** method of the {{domxref("PaintRenderingContext2D")}} interface
 ## Syntax
 
 ```js
-save()
+save();
 ```
 
 ### Parameters

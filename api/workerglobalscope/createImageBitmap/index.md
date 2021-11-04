@@ -13,7 +13,7 @@ The **`createImageBitmap()`** method of the {{domxref("WorkerGlobalScope")}} int
 ## Syntax
 
 ```js
-createImageBitmap()
+createImageBitmap();
 ```
 
 ### Parameters

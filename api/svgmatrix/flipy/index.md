@@ -13,7 +13,7 @@ The **`flipY()`** method of the {{domxref("SVGMatrix")}} interface
 ## Syntax
 
 ```js
-flipY()
+flipY();
 ```
 
 ### Parameters

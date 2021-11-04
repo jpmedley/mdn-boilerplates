@@ -13,7 +13,7 @@ The **`show()`** method of the {{domxref("VirtualKeyboard")}} interface
 ## Syntax
 
 ```js
-show()
+show();
 ```
 
 ### Parameters

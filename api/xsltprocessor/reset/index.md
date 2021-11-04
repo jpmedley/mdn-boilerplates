@@ -13,7 +13,7 @@ The **`reset()`** method of the {{domxref("XSLTProcessor")}} interface
 ## Syntax
 
 ```js
-reset()
+reset();
 ```
 
 ### Parameters

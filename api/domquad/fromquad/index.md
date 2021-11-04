@@ -13,7 +13,7 @@ The **`fromQuad()`** method of the {{domxref("DOMQuad")}} interface
 ## Syntax
 
 ```js
-fromQuad()
+fromQuad();
 ```
 
 ### Parameters

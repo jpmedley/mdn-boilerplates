@@ -13,7 +13,7 @@ The **`entries()`** method of the {{domxref("AudioParamMap")}} interface
 ## Syntax
 
 ```js
-entries()
+entries();
 ```
 
 ### Parameters

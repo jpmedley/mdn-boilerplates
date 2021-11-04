@@ -13,7 +13,7 @@ The **`createEncodedStreams()`** method of the {{domxref("RTCRtpSender")}} inter
 ## Syntax
 
 ```js
-createEncodedStreams()
+createEncodedStreams();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`setPipeline()`** method of the {{domxref("GPUComputePassEncoder")}} inter
 ## Syntax
 
 ```js
-setPipeline()
+setPipeline();
 ```
 
 ### Parameters

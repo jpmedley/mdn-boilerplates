@@ -16,15 +16,42 @@ The **`Entry`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('Entry.isFile')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('Entry.isDirectory')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('Entry.name')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('Entry.fullPath')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('Entry.filesystem')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
+- {{domxref('Entry.getMetadata')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('Entry.moveTo')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('Entry.copyTo')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('Entry.toURL')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('Entry.remove')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('Entry.getParent')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

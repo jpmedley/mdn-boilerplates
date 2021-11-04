@@ -13,7 +13,7 @@ The **`copyTextureToTexture()`** method of the {{domxref("GPUCommandEncoder")}} 
 ## Syntax
 
 ```js
-copyTextureToTexture()
+copyTextureToTexture();
 ```
 
 ### Parameters

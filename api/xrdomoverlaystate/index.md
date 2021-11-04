@@ -16,13 +16,10 @@ The **`XRDOMOverlayState`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('XRDOMOverlayState.type')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

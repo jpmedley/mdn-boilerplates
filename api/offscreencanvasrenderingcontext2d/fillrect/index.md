@@ -13,7 +13,7 @@ The **`fillRect()`** method of the {{domxref("OffscreenCanvasRenderingContext2D"
 ## Syntax
 
 ```js
-fillRect()
+fillRect();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`handleEvent()`** method of the {{domxref("SQLTransactionErrorCallback")}}
 ## Syntax
 
 ```js
-handleEvent()
+handleEvent();
 ```
 
 ### Parameters

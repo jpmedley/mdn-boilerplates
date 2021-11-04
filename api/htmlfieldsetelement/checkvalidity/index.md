@@ -13,7 +13,7 @@ The **`checkValidity()`** method of the {{domxref("HTMLFieldSetElement")}} inter
 ## Syntax
 
 ```js
-checkValidity()
+checkValidity();
 ```
 
 ### Parameters

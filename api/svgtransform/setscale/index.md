@@ -13,7 +13,7 @@ The **`setScale()`** method of the {{domxref("SVGTransform")}} interface
 ## Syntax
 
 ```js
-setScale()
+setScale();
 ```
 
 ### Parameters

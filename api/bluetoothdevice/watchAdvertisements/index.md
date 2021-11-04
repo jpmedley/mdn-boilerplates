@@ -13,7 +13,7 @@ The **`watchAdvertisements()`** method of the {{domxref("BluetoothDevice")}} int
 ## Syntax
 
 ```js
-watchAdvertisements()
+watchAdvertisements();
 ```
 
 ### Parameters

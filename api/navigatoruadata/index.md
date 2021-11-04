@@ -16,15 +16,24 @@ The **`NavigatorUAData`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('NavigatorUAData.brands')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('NavigatorUAData.mobile')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('NavigatorUAData.platform')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
+- {{domxref('NavigatorUAData.getHighEntropyValues')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('NavigatorUAData.toJSON')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

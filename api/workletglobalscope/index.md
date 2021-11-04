@@ -14,15 +14,9 @@ The **`WorkletGlobalScope`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

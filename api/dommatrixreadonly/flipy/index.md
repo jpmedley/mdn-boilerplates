@@ -13,7 +13,7 @@ The **`flipY()`** method of the {{domxref("DOMMatrixReadOnly")}} interface
 ## Syntax
 
 ```js
-flipY()
+flipY();
 ```
 
 ### Parameters

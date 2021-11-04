@@ -13,7 +13,7 @@ The **`drawImage()`** method of the {{domxref("OffscreenCanvasRenderingContext2D
 ## Syntax
 
 ```js
-drawImage()
+drawImage();
 ```
 
 ### Parameters

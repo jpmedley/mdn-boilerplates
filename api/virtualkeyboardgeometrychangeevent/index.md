@@ -14,15 +14,9 @@ The **`VirtualKeyboardGeometryChangeEvent`** interface of the {{domxref('','',''
 
  
 
-## Properties
 
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

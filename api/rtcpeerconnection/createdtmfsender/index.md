@@ -13,7 +13,7 @@ The **`createDTMFSender()`** method of the {{domxref("RTCPeerConnection")}} inte
 ## Syntax
 
 ```js
-createDTMFSender()
+createDTMFSender();
 ```
 
 ### Parameters

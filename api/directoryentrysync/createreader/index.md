@@ -13,7 +13,7 @@ The **`createReader()`** method of the {{domxref("DirectoryEntrySync")}} interfa
 ## Syntax
 
 ```js
-createReader()
+createReader();
 ```
 
 ### Parameters

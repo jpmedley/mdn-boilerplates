@@ -13,7 +13,7 @@ The **`importStylesheet()`** method of the {{domxref("XSLTProcessor")}} interfac
 ## Syntax
 
 ```js
-importStylesheet()
+importStylesheet();
 ```
 
 ### Parameters

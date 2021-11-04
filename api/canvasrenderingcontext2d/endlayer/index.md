@@ -13,7 +13,7 @@ The **`endLayer()`** method of the {{domxref("CanvasRenderingContext2D")}} inter
 ## Syntax
 
 ```js
-endLayer()
+endLayer();
 ```
 
 ### Parameters

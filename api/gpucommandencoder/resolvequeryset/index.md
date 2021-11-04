@@ -13,7 +13,7 @@ The **`resolveQuerySet()`** method of the {{domxref("GPUCommandEncoder")}} inter
 ## Syntax
 
 ```js
-resolveQuerySet()
+resolveQuerySet();
 ```
 
 ### Parameters

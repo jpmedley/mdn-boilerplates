@@ -16,13 +16,13 @@ The **`DOMFileSystem`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('DOMFileSystem.name')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('DOMFileSystem.root')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

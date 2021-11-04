@@ -13,7 +13,7 @@ The **`drawArraysInstancedBaseInstanceWEBGL()`** method of the {{domxref("WebGLD
 ## Syntax
 
 ```js
-drawArraysInstancedBaseInstanceWEBGL()
+drawArraysInstancedBaseInstanceWEBGL();
 ```
 
 ### Parameters

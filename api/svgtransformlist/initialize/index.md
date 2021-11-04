@@ -13,7 +13,7 @@ The **`initialize()`** method of the {{domxref("SVGTransformList")}} interface
 ## Syntax
 
 ```js
-initialize()
+initialize();
 ```
 
 ### Parameters

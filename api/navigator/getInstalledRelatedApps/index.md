@@ -13,7 +13,7 @@ The **`getInstalledRelatedApps()`** method of the {{domxref("Navigator")}} inter
 ## Syntax
 
 ```js
-getInstalledRelatedApps()
+getInstalledRelatedApps();
 ```
 
 ### Parameters

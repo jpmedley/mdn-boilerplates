@@ -13,7 +13,7 @@ The **`next()`** method of the {{domxref("FileSystemDirectoryIterator")}} interf
 ## Syntax
 
 ```js
-next()
+next();
 ```
 
 ### Parameters

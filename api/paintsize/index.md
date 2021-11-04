@@ -16,13 +16,13 @@ The **`PaintSize`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('PaintSize.width')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('PaintSize.height')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

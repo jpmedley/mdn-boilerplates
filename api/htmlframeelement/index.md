@@ -16,13 +16,37 @@ The **`HTMLFrameElement`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('HTMLFrameElement.name')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('HTMLFrameElement.scrolling')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('HTMLFrameElement.src')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('HTMLFrameElement.frameBorder')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('HTMLFrameElement.longDesc')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('HTMLFrameElement.noResize')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('HTMLFrameElement.contentDocument')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('HTMLFrameElement.contentWindow')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('HTMLFrameElement.marginHeight')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('HTMLFrameElement.marginWidth')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

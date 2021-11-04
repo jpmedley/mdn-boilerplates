@@ -13,7 +13,7 @@ The **`removeTrack()`** method of the {{domxref("MediaStream")}} interface
 ## Syntax
 
 ```js
-removeTrack()
+removeTrack();
 ```
 
 ### Parameters

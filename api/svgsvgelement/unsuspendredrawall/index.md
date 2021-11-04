@@ -13,7 +13,7 @@ The **`unsuspendRedrawAll()`** method of the {{domxref("SVGSVGElement")}} interf
 ## Syntax
 
 ```js
-unsuspendRedrawAll()
+unsuspendRedrawAll();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`getPose()`** method of the {{domxref("XRHitTestResult")}} interface
 ## Syntax
 
 ```js
-getPose()
+getPose();
 ```
 
 ### Parameters

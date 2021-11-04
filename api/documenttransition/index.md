@@ -14,17 +14,17 @@ The **`DocumentTransition`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('DocumentTransition.prepare')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('DocumentTransition.start')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

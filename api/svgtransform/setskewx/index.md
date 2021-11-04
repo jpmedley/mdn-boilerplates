@@ -13,7 +13,7 @@ The **`setSkewX()`** method of the {{domxref("SVGTransform")}} interface
 ## Syntax
 
 ```js
-setSkewX()
+setSkewX();
 ```
 
 ### Parameters

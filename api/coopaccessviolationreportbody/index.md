@@ -16,15 +16,36 @@ The **`CoopAccessViolationReportBody`** interface of the {{domxref('','','','tru
 
 ## Properties
 
+- {{domxref('CoopAccessViolationReportBody.sourceFile')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('CoopAccessViolationReportBody.lineNumber')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('CoopAccessViolationReportBody.columnNumber')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CoopAccessViolationReportBody.type')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CoopAccessViolationReportBody.property')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CoopAccessViolationReportBody.openeeURL')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CoopAccessViolationReportBody.openerURL')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('CoopAccessViolationReportBody.otherDocumentURL')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('CoopAccessViolationReportBody.toJSON')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

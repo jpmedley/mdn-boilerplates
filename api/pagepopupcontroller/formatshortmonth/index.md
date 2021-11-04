@@ -13,7 +13,7 @@ The **`formatShortMonth()`** method of the {{domxref("PagePopupController")}} in
 ## Syntax
 
 ```js
-formatShortMonth()
+formatShortMonth();
 ```
 
 ### Parameters

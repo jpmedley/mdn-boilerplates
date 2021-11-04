@@ -16,13 +16,13 @@ The **`WebTransportBidirectionalStream`** interface of the {{domxref('','','','t
 
 ## Properties
 
+- {{domxref('WebTransportBidirectionalStream.readable')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('WebTransportBidirectionalStream.writable')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

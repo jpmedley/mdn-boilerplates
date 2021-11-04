@@ -13,7 +13,7 @@ The **`replaceItem()`** method of the {{domxref("SVGNumberList")}} interface
 ## Syntax
 
 ```js
-replaceItem()
+replaceItem();
 ```
 
 ### Parameters

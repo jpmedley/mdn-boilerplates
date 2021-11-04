@@ -14,17 +14,17 @@ The **`External`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('External.AddSearchProvider')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('External.IsSearchProviderInstalled')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

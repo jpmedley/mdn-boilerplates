@@ -13,7 +13,7 @@ The **`delete()`** method of the {{domxref("Highlight")}} interface
 ## Syntax
 
 ```js
-delete()
+delete();
 ```
 
 ### Parameters

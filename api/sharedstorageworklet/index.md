@@ -14,17 +14,14 @@ The **`SharedStorageWorklet`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('SharedStorageWorklet.addModule')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

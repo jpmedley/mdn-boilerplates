@@ -13,7 +13,7 @@ The **`getSVGDocument()`** method of the {{domxref("HTMLEmbedElement")}} interfa
 ## Syntax
 
 ```js
-getSVGDocument()
+getSVGDocument();
 ```
 
 ### Parameters

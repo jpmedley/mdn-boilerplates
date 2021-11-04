@@ -13,7 +13,7 @@ The **`colorMaskiOES()`** method of the {{domxref("OESDrawBuffersIndexed")}} int
 ## Syntax
 
 ```js
-colorMaskiOES()
+colorMaskiOES();
 ```
 
 ### Parameters

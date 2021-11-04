@@ -13,7 +13,7 @@ The **`createPipelineLayout()`** method of the {{domxref("GPUDevice")}} interfac
 ## Syntax
 
 ```js
-createPipelineLayout()
+createPipelineLayout();
 ```
 
 ### Parameters

@@ -16,15 +16,15 @@ The **`StyleMedia`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
-
-
-### Event handlers
+- {{domxref('StyleMedia.type')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('StyleMedia.matchMedium')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

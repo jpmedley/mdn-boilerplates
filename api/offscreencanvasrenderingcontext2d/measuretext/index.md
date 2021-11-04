@@ -13,7 +13,7 @@ The **`measureText()`** method of the {{domxref("OffscreenCanvasRenderingContext
 ## Syntax
 
 ```js
-measureText()
+measureText();
 ```
 
 ### Parameters

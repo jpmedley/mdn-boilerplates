@@ -13,7 +13,7 @@ The **`remove()`** method of the {{domxref("EntrySync")}} interface
 ## Syntax
 
 ```js
-remove()
+remove();
 ```
 
 ### Parameters

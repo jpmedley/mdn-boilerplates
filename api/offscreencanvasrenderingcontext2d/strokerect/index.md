@@ -13,7 +13,7 @@ The **`strokeRect()`** method of the {{domxref("OffscreenCanvasRenderingContext2
 ## Syntax
 
 ```js
-strokeRect()
+strokeRect();
 ```
 
 ### Parameters

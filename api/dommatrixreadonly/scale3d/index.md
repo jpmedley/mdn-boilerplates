@@ -13,7 +13,7 @@ The **`scale3d()`** method of the {{domxref("DOMMatrixReadOnly")}} interface
 ## Syntax
 
 ```js
-scale3d()
+scale3d();
 ```
 
 ### Parameters

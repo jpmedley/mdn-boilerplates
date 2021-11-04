@@ -13,7 +13,7 @@ The **`setTransform()`** method of the {{domxref("PaintRenderingContext2D")}} in
 ## Syntax
 
 ```js
-setTransform()
+setTransform();
 ```
 
 ### Parameters

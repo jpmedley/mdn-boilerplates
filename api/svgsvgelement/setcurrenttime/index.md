@@ -13,7 +13,7 @@ The **`setCurrentTime()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-setCurrentTime()
+setCurrentTime();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`size()`** method of the {{domxref("Highlight")}} interface
 ## Syntax
 
 ```js
-size()
+size();
 ```
 
 ### Parameters

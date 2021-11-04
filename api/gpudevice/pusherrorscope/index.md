@@ -13,7 +13,7 @@ The **`pushErrorScope()`** method of the {{domxref("GPUDevice")}} interface
 ## Syntax
 
 ```js
-pushErrorScope()
+pushErrorScope();
 ```
 
 ### Parameters

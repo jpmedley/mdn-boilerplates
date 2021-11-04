@@ -13,7 +13,7 @@ The **`rotate()`** method of the {{domxref("OffscreenCanvasRenderingContext2D")}
 ## Syntax
 
 ```js
-rotate()
+rotate();
 ```
 
 ### Parameters

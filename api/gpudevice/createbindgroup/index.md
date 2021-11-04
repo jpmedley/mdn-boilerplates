@@ -13,7 +13,7 @@ The **`createBindGroup()`** method of the {{domxref("GPUDevice")}} interface
 ## Syntax
 
 ```js
-createBindGroup()
+createBindGroup();
 ```
 
 ### Parameters

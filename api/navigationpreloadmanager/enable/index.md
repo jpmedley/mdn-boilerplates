@@ -13,7 +13,7 @@ The **`enable()`** method of the {{domxref("NavigationPreloadManager")}} interfa
 ## Syntax
 
 ```js
-enable()
+enable();
 ```
 
 ### Parameters

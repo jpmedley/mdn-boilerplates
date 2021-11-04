@@ -16,15 +16,15 @@ The **`PortalActivateEvent`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
-
-
-### Event handlers
+- {{domxref('PortalActivateEvent.data')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('PortalActivateEvent.adoptPredecessor')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

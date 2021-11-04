@@ -14,17 +14,17 @@ The **`Scheduling`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('Scheduling.isFramePending')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('Scheduling.isInputPending')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

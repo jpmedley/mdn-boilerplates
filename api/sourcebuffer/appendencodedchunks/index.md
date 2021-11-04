@@ -13,7 +13,7 @@ The **`appendEncodedChunks()`** method of the {{domxref("SourceBuffer")}} interf
 ## Syntax
 
 ```js
-appendEncodedChunks()
+appendEncodedChunks();
 ```
 
 ### Parameters

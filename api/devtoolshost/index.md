@@ -14,17 +14,17 @@ The **`DevToolsHost`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('DevToolsHost.isolatedFileSystem')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('DevToolsHost.upgradeDraggedFileSystemPermissions')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

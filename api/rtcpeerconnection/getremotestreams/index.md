@@ -13,7 +13,7 @@ The **`getRemoteStreams()`** method of the {{domxref("RTCPeerConnection")}} inte
 ## Syntax
 
 ```js
-getRemoteStreams()
+getRemoteStreams();
 ```
 
 ### Parameters

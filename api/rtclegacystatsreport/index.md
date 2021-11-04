@@ -16,15 +16,21 @@ The **`RTCLegacyStatsReport`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('RTCLegacyStatsReport.timestamp')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('RTCLegacyStatsReport.id')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('RTCLegacyStatsReport.type')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('RTCLegacyStatsReport.stat')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

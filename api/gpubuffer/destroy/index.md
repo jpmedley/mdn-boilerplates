@@ -13,7 +13,7 @@ The **`destroy()`** method of the {{domxref("GPUBuffer")}} interface
 ## Syntax
 
 ```js
-destroy()
+destroy();
 ```
 
 ### Parameters

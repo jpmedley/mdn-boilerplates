@@ -13,7 +13,7 @@ The **`convertToBlob()`** method of the {{domxref("HTMLCanvasElement")}} interfa
 ## Syntax
 
 ```js
-convertToBlob()
+convertToBlob();
 ```
 
 ### Parameters

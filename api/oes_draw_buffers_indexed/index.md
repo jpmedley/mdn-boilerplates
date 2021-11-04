@@ -14,17 +14,35 @@ The **`OESDrawBuffersIndexed`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('OESDrawBuffersIndexed.enableiOES')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('OESDrawBuffersIndexed.disableiOES')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('OESDrawBuffersIndexed.blendEquationiOES')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('OESDrawBuffersIndexed.blendEquationSeparateiOES')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('OESDrawBuffersIndexed.blendFunciOES')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('OESDrawBuffersIndexed.blendFuncSeparateiOES')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('OESDrawBuffersIndexed.colorMaskiOES')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('OESDrawBuffersIndexed.isEnablediOES')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

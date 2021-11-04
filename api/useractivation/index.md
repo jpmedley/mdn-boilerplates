@@ -16,13 +16,13 @@ The **`UserActivation`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('UserActivation.hasBeenActive')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('UserActivation.isActive')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

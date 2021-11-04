@@ -13,7 +13,7 @@ The **`createSampler()`** method of the {{domxref("GPUDevice")}} interface
 ## Syntax
 
 ```js
-createSampler()
+createSampler();
 ```
 
 ### Parameters

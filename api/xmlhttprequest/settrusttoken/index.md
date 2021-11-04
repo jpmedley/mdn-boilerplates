@@ -13,7 +13,7 @@ The **`setTrustToken()`** method of the {{domxref("XMLHttpRequest")}} interface
 ## Syntax
 
 ```js
-setTrustToken()
+setTrustToken();
 ```
 
 ### Parameters

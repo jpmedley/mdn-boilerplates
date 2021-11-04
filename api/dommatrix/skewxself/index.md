@@ -13,7 +13,7 @@ The **`skewXSelf()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-skewXSelf()
+skewXSelf();
 ```
 
 ### Parameters

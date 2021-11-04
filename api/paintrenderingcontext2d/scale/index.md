@@ -13,7 +13,7 @@ The **`scale()`** method of the {{domxref("PaintRenderingContext2D")}} interface
 ## Syntax
 
 ```js
-scale()
+scale();
 ```
 
 ### Parameters

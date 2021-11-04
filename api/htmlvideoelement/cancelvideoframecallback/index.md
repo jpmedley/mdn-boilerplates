@@ -13,7 +13,7 @@ The **`cancelVideoFrameCallback()`** method of the {{domxref("HTMLVideoElement")
 ## Syntax
 
 ```js
-cancelVideoFrameCallback()
+cancelVideoFrameCallback();
 ```
 
 ### Parameters

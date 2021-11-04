@@ -13,7 +13,7 @@ The **`handleEvent()`** method of the {{domxref("ErrorCallback")}} interface
 ## Syntax
 
 ```js
-handleEvent()
+handleEvent();
 ```
 
 ### Parameters

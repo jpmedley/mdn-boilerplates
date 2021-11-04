@@ -16,15 +16,15 @@ The **`FragmentDirective`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
-
-
-### Event handlers
+- {{domxref('FragmentDirective.items')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('FragmentDirective.createSelectorDirective')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

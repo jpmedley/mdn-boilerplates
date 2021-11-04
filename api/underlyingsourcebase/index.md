@@ -16,15 +16,21 @@ The **`UnderlyingSourceBase`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
-
-
-### Event handlers
+- {{domxref('UnderlyingSourceBase.type')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
+- {{domxref('UnderlyingSourceBase.start')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('UnderlyingSourceBase.pull')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('UnderlyingSourceBase.cancel')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

@@ -13,7 +13,7 @@ The **`getCTM()`** method of the {{domxref("SVGGraphicsElement")}} interface
 ## Syntax
 
 ```js
-getCTM()
+getCTM();
 ```
 
 ### Parameters

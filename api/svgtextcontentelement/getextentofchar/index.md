@@ -13,7 +13,7 @@ The **`getExtentOfChar()`** method of the {{domxref("SVGTextContentElement")}} i
 ## Syntax
 
 ```js
-getExtentOfChar()
+getExtentOfChar();
 ```
 
 ### Parameters

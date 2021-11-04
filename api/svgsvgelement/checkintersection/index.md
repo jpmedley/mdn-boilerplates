@@ -13,7 +13,7 @@ The **`checkIntersection()`** method of the {{domxref("SVGSVGElement")}} interfa
 ## Syntax
 
 ```js
-checkIntersection()
+checkIntersection();
 ```
 
 ### Parameters

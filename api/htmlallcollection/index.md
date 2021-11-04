@@ -1,28 +1,30 @@
 ---
-title: HTMLAllCollection.()
-slug: Web/API/HTMLAllCollection/
+title: HTMLAllCollection
+slug: Web/API/HTMLAllCollection
 tags:
-  - Method
+  - Interface
   - Reference
-browser-compat: api.HTMLAllCollection.
+browser-compat: api.HTMLAllCollection
 ---
 {{DefaultAPISidebar("")}}
 
-The **`()`** method of the {{domxref("HTMLAllCollection")}} interface 
+The **`HTMLAllCollection`** interface of the {{domxref('','','','true')}} 
 
-## Syntax
+## Description
 
-```js
-()
-```
+ 
 
-### Parameters
+## Properties
 
-
-
-### Return Value
+- {{domxref('HTMLAllCollection.length')}}
+  - : Returns // Replace with description of what this property returns.
 
 
+
+## Methods
+
+- {{domxref('HTMLAllCollection.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

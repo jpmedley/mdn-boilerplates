@@ -13,7 +13,7 @@ The **`restore()`** method of the {{domxref("OffscreenCanvasRenderingContext2D")
 ## Syntax
 
 ```js
-restore()
+restore();
 ```
 
 ### Parameters

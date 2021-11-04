@@ -13,7 +13,7 @@ The **`copyTo()`** method of the {{domxref("EntrySync")}} interface
 ## Syntax
 
 ```js
-copyTo()
+copyTo();
 ```
 
 ### Parameters

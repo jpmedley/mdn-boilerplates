@@ -13,7 +13,7 @@ The **`save()`** method of the {{domxref("OffscreenCanvasRenderingContext2D")}} 
 ## Syntax
 
 ```js
-save()
+save();
 ```
 
 ### Parameters

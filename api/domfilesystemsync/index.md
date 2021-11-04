@@ -16,13 +16,13 @@ The **`DOMFileSystemSync`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('DOMFileSystemSync.name')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('DOMFileSystemSync.root')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

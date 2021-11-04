@@ -16,13 +16,13 @@ The **`MediaEncryptedEvent`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('MediaEncryptedEvent.initDataType')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('MediaEncryptedEvent.initData')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

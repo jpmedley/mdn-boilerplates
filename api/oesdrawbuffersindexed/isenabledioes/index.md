@@ -13,7 +13,7 @@ The **`isEnablediOES()`** method of the {{domxref("OESDrawBuffersIndexed")}} int
 ## Syntax
 
 ```js
-isEnablediOES()
+isEnablediOES();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`blendFunciOES()`** method of the {{domxref("OESDrawBuffersIndexed")}} int
 ## Syntax
 
 ```js
-blendFunciOES()
+blendFunciOES();
 ```
 
 ### Parameters

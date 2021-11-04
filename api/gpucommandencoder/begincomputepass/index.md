@@ -13,7 +13,7 @@ The **`beginComputePass()`** method of the {{domxref("GPUCommandEncoder")}} inte
 ## Syntax
 
 ```js
-beginComputePass()
+beginComputePass();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`reportValidity()`** method of the {{domxref("HTMLObjectElement")}} interf
 ## Syntax
 
 ```js
-reportValidity()
+reportValidity();
 ```
 
 ### Parameters

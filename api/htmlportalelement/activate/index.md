@@ -13,7 +13,7 @@ The **`activate()`** method of the {{domxref("HTMLPortalElement")}} interface
 ## Syntax
 
 ```js
-activate()
+activate();
 ```
 
 ### Parameters

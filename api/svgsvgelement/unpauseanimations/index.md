@@ -13,7 +13,7 @@ The **`unpauseAnimations()`** method of the {{domxref("SVGSVGElement")}} interfa
 ## Syntax
 
 ```js
-unpauseAnimations()
+unpauseAnimations();
 ```
 
 ### Parameters

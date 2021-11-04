@@ -13,7 +13,7 @@ The **`clearRect()`** method of the {{domxref("OffscreenCanvasRenderingContext2D
 ## Syntax
 
 ```js
-clearRect()
+clearRect();
 ```
 
 ### Parameters

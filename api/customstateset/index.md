@@ -14,17 +14,14 @@ The **`CustomStateSet`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('CustomStateSet.add')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

@@ -13,7 +13,7 @@ The **`setValue()`** method of the {{domxref("PagePopupController")}} interface
 ## Syntax
 
 ```js
-setValue()
+setValue();
 ```
 
 ### Parameters

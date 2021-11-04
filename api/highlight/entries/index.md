@@ -13,7 +13,7 @@ The **`entries()`** method of the {{domxref("Highlight")}} interface
 ## Syntax
 
 ```js
-entries()
+entries();
 ```
 
 ### Parameters

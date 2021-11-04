@@ -16,15 +16,24 @@ The **`FileWriterSync`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('FileWriterSync.position')}}
+  - : Returns // Replace with description of what this property returns.
 
-
-### Event handlers
+- {{domxref('FileWriterSync.length')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
+- {{domxref('FileWriterSync.write')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('FileWriterSync.seek')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('FileWriterSync.truncate')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

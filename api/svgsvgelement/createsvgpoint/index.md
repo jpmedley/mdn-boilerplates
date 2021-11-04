@@ -13,7 +13,7 @@ The **`createSVGPoint()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-createSVGPoint()
+createSVGPoint();
 ```
 
 ### Parameters

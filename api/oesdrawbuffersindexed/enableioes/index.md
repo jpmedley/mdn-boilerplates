@@ -13,7 +13,7 @@ The **`enableiOES()`** method of the {{domxref("OESDrawBuffersIndexed")}} interf
 ## Syntax
 
 ```js
-enableiOES()
+enableiOES();
 ```
 
 ### Parameters

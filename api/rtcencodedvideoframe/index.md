@@ -16,15 +16,24 @@ The **`RTCEncodedVideoFrame`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('RTCEncodedVideoFrame.type')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('RTCEncodedVideoFrame.timestamp')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('RTCEncodedVideoFrame.data')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
+- {{domxref('RTCEncodedVideoFrame.getMetadata')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('RTCEncodedVideoFrame.toString')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

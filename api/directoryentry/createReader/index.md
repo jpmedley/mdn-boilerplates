@@ -13,7 +13,7 @@ The **`createReader()`** method of the {{domxref("DirectoryEntry")}} interface
 ## Syntax
 
 ```js
-createReader()
+createReader();
 ```
 
 ### Parameters

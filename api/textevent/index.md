@@ -16,15 +16,15 @@ The **`TextEvent`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
-
-
-### Event handlers
+- {{domxref('TextEvent.data')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('TextEvent.initTextEvent')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

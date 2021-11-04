@@ -16,15 +16,51 @@ The **`ScrollState`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('ScrollState.deltaX')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('ScrollState.deltaY')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('ScrollState.positionX')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('ScrollState.positionY')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('ScrollState.velocityX')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('ScrollState.velocityY')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('ScrollState.isBeginning')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('ScrollState.inInertialPhase')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('ScrollState.isEnding')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('ScrollState.fromUserInput')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('ScrollState.isDirectManipulation')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('ScrollState.deltaGranularity')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
+- {{domxref('ScrollState.consumeDelta')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('ScrollState.distributeToScrollChainDescendant')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

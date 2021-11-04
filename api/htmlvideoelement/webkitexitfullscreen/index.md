@@ -1,19 +1,19 @@
 ---
-title: HTMLVideoElement.webkitExitFullscreen()
-slug: Web/API/HTMLVideoElement/webkitExitFullscreen
+title: HTMLVideoElement.webkitExitFullScreen()
+slug: Web/API/HTMLVideoElement/webkitExitFullScreen
 tags:
   - Method
   - Reference
-browser-compat: api.HTMLVideoElement.webkitExitFullscreen
+browser-compat: api.HTMLVideoElement.webkitExitFullScreen
 ---
 {{DefaultAPISidebar("")}}
 
-The **`webkitExitFullscreen()`** method of the {{domxref("HTMLVideoElement")}} interface 
+The **`webkitExitFullScreen()`** method of the {{domxref("HTMLVideoElement")}} interface 
 
 ## Syntax
 
 ```js
-webkitExitFullscreen()
+webkitExitFullScreen();
 ```
 
 ### Parameters

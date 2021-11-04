@@ -13,7 +13,7 @@ The **`createQuerySet()`** method of the {{domxref("GPUDevice")}} interface
 ## Syntax
 
 ```js
-createQuerySet()
+createQuerySet();
 ```
 
 ### Parameters

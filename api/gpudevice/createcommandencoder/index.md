@@ -13,7 +13,7 @@ The **`createCommandEncoder()`** method of the {{domxref("GPUDevice")}} interfac
 ## Syntax
 
 ```js
-createCommandEncoder()
+createCommandEncoder();
 ```
 
 ### Parameters

@@ -16,15 +16,15 @@ The **`Scheduler`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
-
-
-### Event handlers
+- {{domxref('Scheduler.currentTaskSignal')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('Scheduler.postTask')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

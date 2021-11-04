@@ -13,7 +13,7 @@ The **`createPattern()`** method of the {{domxref("OffscreenCanvasRenderingConte
 ## Syntax
 
 ```js
-createPattern()
+createPattern();
 ```
 
 ### Parameters

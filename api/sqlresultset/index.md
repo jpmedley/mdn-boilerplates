@@ -16,13 +16,16 @@ The **`SQLResultSet`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('SQLResultSet.rows')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('SQLResultSet.insertId')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('SQLResultSet.rowsAffected')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

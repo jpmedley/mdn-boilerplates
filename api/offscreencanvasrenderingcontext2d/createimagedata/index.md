@@ -13,7 +13,7 @@ The **`createImageData()`** method of the {{domxref("OffscreenCanvasRenderingCon
 ## Syntax
 
 ```js
-createImageData()
+createImageData();
 ```
 
 ### Parameters

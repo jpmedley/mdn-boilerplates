@@ -16,15 +16,30 @@ The **`PermissionsPolicyViolationReportBody`** interface of the {{domxref('','',
 
 ## Properties
 
+- {{domxref('PermissionsPolicyViolationReportBody.featureId')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('PermissionsPolicyViolationReportBody.sourceFile')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('PermissionsPolicyViolationReportBody.lineNumber')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('PermissionsPolicyViolationReportBody.columnNumber')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('PermissionsPolicyViolationReportBody.disposition')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('PermissionsPolicyViolationReportBody.message')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('PermissionsPolicyViolationReportBody.toJSON')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

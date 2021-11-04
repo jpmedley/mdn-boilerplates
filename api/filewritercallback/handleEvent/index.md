@@ -13,7 +13,7 @@ The **`handleEvent()`** method of the {{domxref("FileWriterCallback")}} interfac
 ## Syntax
 
 ```js
-handleEvent()
+handleEvent();
 ```
 
 ### Parameters

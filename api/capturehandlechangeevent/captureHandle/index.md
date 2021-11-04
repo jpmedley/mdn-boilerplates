@@ -13,7 +13,7 @@ The **`captureHandle()`** method of the {{domxref("CaptureHandleChangeEvent")}} 
 ## Syntax
 
 ```js
-captureHandle()
+captureHandle();
 ```
 
 ### Parameters

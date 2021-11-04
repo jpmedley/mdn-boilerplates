@@ -13,7 +13,7 @@ The **`getAuthenticatorData()`** method of the {{domxref("AuthenticatorAttestati
 ## Syntax
 
 ```js
-getAuthenticatorData()
+getAuthenticatorData();
 ```
 
 ### Parameters

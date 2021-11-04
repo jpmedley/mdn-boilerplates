@@ -13,7 +13,7 @@ The **`getStartPositionOfChar()`** method of the {{domxref("SVGTextContentElemen
 ## Syntax
 
 ```js
-getStartPositionOfChar()
+getStartPositionOfChar();
 ```
 
 ### Parameters

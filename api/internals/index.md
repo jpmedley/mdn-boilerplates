@@ -14,17 +14,14 @@ The **`Internals`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('Internals.collectSample')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

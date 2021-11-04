@@ -13,7 +13,7 @@ The **`writeTexture()`** method of the {{domxref("GPUQueue")}} interface
 ## Syntax
 
 ```js
-writeTexture()
+writeTexture();
 ```
 
 ### Parameters

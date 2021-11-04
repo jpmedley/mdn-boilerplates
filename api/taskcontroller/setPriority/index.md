@@ -13,7 +13,7 @@ The **`setPriority()`** method of the {{domxref("TaskController")}} interface
 ## Syntax
 
 ```js
-setPriority()
+setPriority();
 ```
 
 ### Parameters

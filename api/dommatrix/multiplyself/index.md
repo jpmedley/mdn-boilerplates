@@ -13,7 +13,7 @@ The **`multiplySelf()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-multiplySelf()
+multiplySelf();
 ```
 
 ### Parameters

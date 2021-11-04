@@ -16,13 +16,10 @@ The **`TaskPriorityChangeEvent`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('TaskPriorityChangeEvent.previousPriority')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

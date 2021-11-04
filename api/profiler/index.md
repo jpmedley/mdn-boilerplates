@@ -16,15 +16,18 @@ The **`Profiler`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('Profiler.sampleInterval')}}
+  - : Returns // Replace with description of what this property returns.
 
-
-### Event handlers
+- {{domxref('Profiler.stopped')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('Profiler.stop')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

@@ -13,7 +13,7 @@ The **`translate()`** method of the {{domxref("PaintRenderingContext2D")}} inter
 ## Syntax
 
 ```js
-translate()
+translate();
 ```
 
 ### Parameters

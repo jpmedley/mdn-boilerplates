@@ -13,7 +13,7 @@ The **`createRadialGradient()`** method of the {{domxref("OffscreenCanvasRenderi
 ## Syntax
 
 ```js
-createRadialGradient()
+createRadialGradient();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`setStdDeviation()`** method of the {{domxref("SVGFEDropShadowElement")}} 
 ## Syntax
 
 ```js
-setStdDeviation()
+setStdDeviation();
 ```
 
 ### Parameters

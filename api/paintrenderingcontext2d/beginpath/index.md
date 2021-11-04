@@ -13,7 +13,7 @@ The **`beginPath()`** method of the {{domxref("PaintRenderingContext2D")}} inter
 ## Syntax
 
 ```js
-beginPath()
+beginPath();
 ```
 
 ### Parameters

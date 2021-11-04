@@ -13,7 +13,7 @@ The **`setValueAndClosePopup()`** method of the {{domxref("PagePopupController")
 ## Syntax
 
 ```js
-setValueAndClosePopup()
+setValueAndClosePopup();
 ```
 
 ### Parameters

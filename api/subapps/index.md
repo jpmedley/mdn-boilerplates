@@ -14,17 +14,14 @@ The **`SubApps`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('SubApps.add')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

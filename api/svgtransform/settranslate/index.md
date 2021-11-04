@@ -13,7 +13,7 @@ The **`setTranslate()`** method of the {{domxref("SVGTransform")}} interface
 ## Syntax
 
 ```js
-setTranslate()
+setTranslate();
 ```
 
 ### Parameters

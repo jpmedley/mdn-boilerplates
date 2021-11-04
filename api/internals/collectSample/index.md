@@ -13,7 +13,7 @@ The **`collectSample()`** method of the {{domxref("Internals")}} interface
 ## Syntax
 
 ```js
-collectSample()
+collectSample();
 ```
 
 ### Parameters

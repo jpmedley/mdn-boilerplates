@@ -16,15 +16,33 @@ The **`FontMetadata`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('FontMetadata.postscriptName')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('FontMetadata.fullName')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('FontMetadata.family')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('FontMetadata.style')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('FontMetadata.italic')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('FontMetadata.stretch')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('FontMetadata.weight')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('FontMetadata.blob')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

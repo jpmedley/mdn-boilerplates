@@ -13,7 +13,7 @@ The **`postMessage()`** method of the {{domxref("ServiceWorker")}} interface
 ## Syntax
 
 ```js
-postMessage()
+postMessage();
 ```
 
 ### Parameters

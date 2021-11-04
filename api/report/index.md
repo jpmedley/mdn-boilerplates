@@ -16,15 +16,21 @@ The **`Report`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('Report.type')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('Report.url')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('Report.body')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('Report.toJSON')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

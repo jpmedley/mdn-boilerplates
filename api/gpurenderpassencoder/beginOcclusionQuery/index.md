@@ -13,7 +13,7 @@ The **`beginOcclusionQuery()`** method of the {{domxref("GPURenderPassEncoder")}
 ## Syntax
 
 ```js
-beginOcclusionQuery()
+beginOcclusionQuery();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`disableiOES()`** method of the {{domxref("OESDrawBuffersIndexed")}} inter
 ## Syntax
 
 ```js
-disableiOES()
+disableiOES();
 ```
 
 ### Parameters

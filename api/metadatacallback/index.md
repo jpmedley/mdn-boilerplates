@@ -14,17 +14,14 @@ The **`MetadataCallback`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('MetadataCallback.handleEvent')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

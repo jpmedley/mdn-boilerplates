@@ -13,7 +13,7 @@ The **`fromMatrix()`** method of the {{domxref("DOMMatrixReadOnly")}} interface
 ## Syntax
 
 ```js
-fromMatrix()
+fromMatrix();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`endPass()`** method of the {{domxref("GPUComputePassEncoder")}} interface
 ## Syntax
 
 ```js
-endPass()
+endPass();
 ```
 
 ### Parameters

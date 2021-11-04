@@ -13,7 +13,7 @@ The **`translate()`** method of the {{domxref("SVGMatrix")}} interface
 ## Syntax
 
 ```js
-translate()
+translate();
 ```
 
 ### Parameters

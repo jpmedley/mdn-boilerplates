@@ -16,15 +16,27 @@ The **`HTMLPortalElement`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('HTMLPortalElement.src')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('HTMLPortalElement.referrerPolicy')}}
+  - : Returns // Replace with description of what this property returns.
 
 ### Event handlers
 
+- {{domxref('onmessage')}}
+  - : Fired when // Replace with description of when this event is fired.
 
+- {{domxref('onmessageerror')}}
+  - : Fired when // Replace with description of when this event is fired.
 
 ## Methods
 
+- {{domxref('HTMLPortalElement.activate')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('HTMLPortalElement.postMessage')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

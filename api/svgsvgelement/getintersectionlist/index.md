@@ -13,7 +13,7 @@ The **`getIntersectionList()`** method of the {{domxref("SVGSVGElement")}} inter
 ## Syntax
 
 ```js
-getIntersectionList()
+getIntersectionList();
 ```
 
 ### Parameters

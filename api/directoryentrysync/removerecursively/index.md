@@ -13,7 +13,7 @@ The **`removeRecursively()`** method of the {{domxref("DirectoryEntrySync")}} in
 ## Syntax
 
 ```js
-removeRecursively()
+removeRecursively();
 ```
 
 ### Parameters

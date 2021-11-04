@@ -13,7 +13,7 @@ The **`getDirectory()`** method of the {{domxref("DirectoryEntrySync")}} interfa
 ## Syntax
 
 ```js
-getDirectory()
+getDirectory();
 ```
 
 ### Parameters

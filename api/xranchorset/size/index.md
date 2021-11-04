@@ -13,7 +13,7 @@ The **`size()`** method of the {{domxref("XRAnchorSet")}} interface
 ## Syntax
 
 ```js
-size()
+size();
 ```
 
 ### Parameters

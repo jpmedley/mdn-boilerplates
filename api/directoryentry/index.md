@@ -14,17 +14,23 @@ The **`DirectoryEntry`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('DirectoryEntry.createReader')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('DirectoryEntry.getFile')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('DirectoryEntry.getDirectory')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('DirectoryEntry.removeRecursively')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

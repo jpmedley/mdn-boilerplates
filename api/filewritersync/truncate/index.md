@@ -13,7 +13,7 @@ The **`truncate()`** method of the {{domxref("FileWriterSync")}} interface
 ## Syntax
 
 ```js
-truncate()
+truncate();
 ```
 
 ### Parameters

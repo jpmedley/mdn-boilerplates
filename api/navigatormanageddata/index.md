@@ -14,15 +14,12 @@ The **`NavigatorManagedData`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
-
 
 
 ### Event handlers
 
-
-
-## Methods
+- {{domxref('onmanagedconfigurationchange')}}
+  - : Fired when // Replace with description of when this event is fired.
 
 
 

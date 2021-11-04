@@ -13,7 +13,7 @@ The **`strokeText()`** method of the {{domxref("OffscreenCanvasRenderingContext2
 ## Syntax
 
 ```js
-strokeText()
+strokeText();
 ```
 
 ### Parameters

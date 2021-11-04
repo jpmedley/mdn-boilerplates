@@ -16,15 +16,27 @@ The **`WebTransport`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('WebTransport.incomingUnidirectionalStreams')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('WebTransport.incomingBidirectionalStreams')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('WebTransport.datagrams')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('WebTransport.ready')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('WebTransport.closed')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('WebTransport.close')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

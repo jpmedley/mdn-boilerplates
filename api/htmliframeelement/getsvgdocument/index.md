@@ -13,7 +13,7 @@ The **`getSVGDocument()`** method of the {{domxref("HTMLIFrameElement")}} interf
 ## Syntax
 
 ```js
-getSVGDocument()
+getSVGDocument();
 ```
 
 ### Parameters

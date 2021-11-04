@@ -16,13 +16,10 @@ The **`ResourceProgressEvent`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('ResourceProgressEvent.url')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

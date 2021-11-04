@@ -13,7 +13,7 @@ The **`deselectAll()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-deselectAll()
+deselectAll();
 ```
 
 ### Parameters

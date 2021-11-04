@@ -13,7 +13,7 @@ The **`createRenderBundleEncoder()`** method of the {{domxref("GPUDevice")}} int
 ## Syntax
 
 ```js
-createRenderBundleEncoder()
+createRenderBundleEncoder();
 ```
 
 ### Parameters

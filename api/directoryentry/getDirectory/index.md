@@ -13,7 +13,7 @@ The **`getDirectory()`** method of the {{domxref("DirectoryEntry")}} interface
 ## Syntax
 
 ```js
-getDirectory()
+getDirectory();
 ```
 
 ### Parameters

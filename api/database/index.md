@@ -16,15 +16,21 @@ The **`Database`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
-
-
-### Event handlers
+- {{domxref('Database.version')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
+- {{domxref('Database.changeVersion')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('Database.transaction')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('Database.readTransaction')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

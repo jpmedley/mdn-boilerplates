@@ -13,7 +13,7 @@ The **`updateInkTrailStartPoint()`** method of the {{domxref("DelegatedInkTrailP
 ## Syntax
 
 ```js
-updateInkTrailStartPoint()
+updateInkTrailStartPoint();
 ```
 
 ### Parameters

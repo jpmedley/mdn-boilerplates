@@ -13,7 +13,7 @@ The **`getDescriptor()`** method of the {{domxref("BluetoothUUID")}} interface
 ## Syntax
 
 ```js
-getDescriptor()
+getDescriptor();
 ```
 
 ### Parameters

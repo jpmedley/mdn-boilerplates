@@ -13,7 +13,7 @@ The **`fromFloat32Array()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-fromFloat32Array()
+fromFloat32Array();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`formatWeek()`** method of the {{domxref("PagePopupController")}} interfac
 ## Syntax
 
 ```js
-formatWeek()
+formatWeek();
 ```
 
 ### Parameters

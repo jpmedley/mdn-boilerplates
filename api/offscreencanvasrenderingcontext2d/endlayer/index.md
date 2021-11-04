@@ -13,7 +13,7 @@ The **`endLayer()`** method of the {{domxref("OffscreenCanvasRenderingContext2D"
 ## Syntax
 
 ```js
-endLayer()
+endLayer();
 ```
 
 ### Parameters

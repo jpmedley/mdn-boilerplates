@@ -13,7 +13,7 @@ The **`select()`** method of the {{domxref("HTMLTextAreaElement")}} interface
 ## Syntax
 
 ```js
-select()
+select();
 ```
 
 ### Parameters

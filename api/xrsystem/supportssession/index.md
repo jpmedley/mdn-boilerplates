@@ -13,7 +13,7 @@ The **`supportsSession()`** method of the {{domxref("XRSystem")}} interface
 ## Syntax
 
 ```js
-supportsSession()
+supportsSession();
 ```
 
 ### Parameters

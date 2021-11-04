@@ -16,15 +16,24 @@ The **`VirtualKeyboard`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('VirtualKeyboard.boundingRect')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('VirtualKeyboard.overlaysContent')}}
+  - : Returns // Replace with description of what this property returns.
 
 ### Event handlers
 
-
+- {{domxref('ongeometrychange')}}
+  - : Fired when // Replace with description of when this event is fired.
 
 ## Methods
 
+- {{domxref('VirtualKeyboard.show')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('VirtualKeyboard.hide')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

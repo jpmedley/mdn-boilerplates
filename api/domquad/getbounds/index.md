@@ -13,7 +13,7 @@ The **`getBounds()`** method of the {{domxref("DOMQuad")}} interface
 ## Syntax
 
 ```js
-getBounds()
+getBounds();
 ```
 
 ### Parameters

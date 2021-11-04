@@ -16,13 +16,13 @@ The **`TaskSignal`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
-
+- {{domxref('TaskSignal.priority')}}
+  - : Returns // Replace with description of what this property returns.
 
 ### Event handlers
 
-
-
-## Methods
+- {{domxref('onprioritychange')}}
+  - : Fired when // Replace with description of when this event is fired.
 
 
 

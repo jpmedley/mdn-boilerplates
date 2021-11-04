@@ -13,7 +13,7 @@ The **`selectSubString()`** method of the {{domxref("SVGTextContentElement")}} i
 ## Syntax
 
 ```js
-selectSubString()
+selectSubString();
 ```
 
 ### Parameters

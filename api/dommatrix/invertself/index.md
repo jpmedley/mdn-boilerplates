@@ -13,7 +13,7 @@ The **`invertSelf()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-invertSelf()
+invertSelf();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`file()`** method of the {{domxref("FileEntry")}} interface
 ## Syntax
 
 ```js
-file()
+file();
 ```
 
 ### Parameters

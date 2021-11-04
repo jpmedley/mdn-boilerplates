@@ -13,7 +13,7 @@ The **`requestMIDIAccess()`** method of the {{domxref("Navigator")}} interface
 ## Syntax
 
 ```js
-requestMIDIAccess()
+requestMIDIAccess();
 ```
 
 ### Parameters

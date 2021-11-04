@@ -13,7 +13,7 @@ The **`getItem()`** method of the {{domxref("SVGLengthList")}} interface
 ## Syntax
 
 ```js
-getItem()
+getItem();
 ```
 
 ### Parameters

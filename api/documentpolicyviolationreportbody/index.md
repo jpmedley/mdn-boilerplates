@@ -16,15 +16,30 @@ The **`DocumentPolicyViolationReportBody`** interface of the {{domxref('','','',
 
 ## Properties
 
+- {{domxref('DocumentPolicyViolationReportBody.featureId')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('DocumentPolicyViolationReportBody.sourceFile')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('DocumentPolicyViolationReportBody.lineNumber')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('DocumentPolicyViolationReportBody.columnNumber')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('DocumentPolicyViolationReportBody.disposition')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('DocumentPolicyViolationReportBody.message')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('DocumentPolicyViolationReportBody.toJSON')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

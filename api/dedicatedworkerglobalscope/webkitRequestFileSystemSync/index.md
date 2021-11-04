@@ -13,7 +13,7 @@ The **`webkitRequestFileSystemSync()`** method of the {{domxref("DedicatedWorker
 ## Syntax
 
 ```js
-webkitRequestFileSystemSync()
+webkitRequestFileSystemSync();
 ```
 
 ### Parameters

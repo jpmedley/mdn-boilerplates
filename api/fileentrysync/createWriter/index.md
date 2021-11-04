@@ -13,7 +13,7 @@ The **`createWriter()`** method of the {{domxref("FileEntrySync")}} interface
 ## Syntax
 
 ```js
-createWriter()
+createWriter();
 ```
 
 ### Parameters

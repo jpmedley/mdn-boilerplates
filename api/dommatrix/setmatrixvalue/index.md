@@ -13,7 +13,7 @@ The **`setMatrixValue()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-setMatrixValue()
+setMatrixValue();
 ```
 
 ### Parameters

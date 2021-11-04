@@ -13,7 +13,7 @@ The **`leaveAdInterestGroup()`** method of the {{domxref("Navigator")}} interfac
 ## Syntax
 
 ```js
-leaveAdInterestGroup()
+leaveAdInterestGroup();
 ```
 
 ### Parameters

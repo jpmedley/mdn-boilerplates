@@ -13,7 +13,7 @@ The **`consumeDelta()`** method of the {{domxref("ScrollState")}} interface
 ## Syntax
 
 ```js
-consumeDelta()
+consumeDelta();
 ```
 
 ### Parameters

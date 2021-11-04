@@ -13,7 +13,7 @@ The **`pushDebugGroup()`** method of the {{domxref("GPUCommandEncoder")}} interf
 ## Syntax
 
 ```js
-pushDebugGroup()
+pushDebugGroup();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`insertItemBefore()`** method of the {{domxref("SVGNumberList")}} interfac
 ## Syntax
 
 ```js
-insertItemBefore()
+insertItemBefore();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`setParameter()`** method of the {{domxref("XSLTProcessor")}} interface
 ## Syntax
 
 ```js
-setParameter()
+setParameter();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`keys()`** method of the {{domxref("XRAnchorSet")}} interface
 ## Syntax
 
 ```js
-keys()
+keys();
 ```
 
 ### Parameters

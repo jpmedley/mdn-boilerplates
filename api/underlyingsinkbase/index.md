@@ -16,15 +16,24 @@ The **`UnderlyingSinkBase`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
-
-
-### Event handlers
+- {{domxref('UnderlyingSinkBase.type')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
+- {{domxref('UnderlyingSinkBase.start')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('UnderlyingSinkBase.write')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('UnderlyingSinkBase.close')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('UnderlyingSinkBase.abort')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

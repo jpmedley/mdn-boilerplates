@@ -14,17 +14,14 @@ The **`ErrorCallback`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('ErrorCallback.handleEvent')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

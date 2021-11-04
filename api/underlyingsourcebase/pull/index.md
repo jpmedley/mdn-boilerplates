@@ -13,7 +13,7 @@ The **`pull()`** method of the {{domxref("UnderlyingSourceBase")}} interface
 ## Syntax
 
 ```js
-pull()
+pull();
 ```
 
 ### Parameters

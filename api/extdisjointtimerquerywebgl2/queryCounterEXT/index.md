@@ -13,7 +13,7 @@ The **`queryCounterEXT()`** method of the {{domxref("EXTDisjointTimerQueryWebGL2
 ## Syntax
 
 ```js
-queryCounterEXT()
+queryCounterEXT();
 ```
 
 ### Parameters

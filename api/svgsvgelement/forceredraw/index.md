@@ -13,7 +13,7 @@ The **`forceRedraw()`** method of the {{domxref("SVGSVGElement")}} interface
 ## Syntax
 
 ```js
-forceRedraw()
+forceRedraw();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`clear()`** method of the {{domxref("SVGStringList")}} interface
 ## Syntax
 
 ```js
-clear()
+clear();
 ```
 
 ### Parameters

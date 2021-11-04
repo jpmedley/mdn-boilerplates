@@ -13,7 +13,7 @@ The **`values()`** method of the {{domxref("HighlightRegistry")}} interface
 ## Syntax
 
 ```js
-values()
+values();
 ```
 
 ### Parameters

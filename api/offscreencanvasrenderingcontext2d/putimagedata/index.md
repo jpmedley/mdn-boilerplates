@@ -13,7 +13,7 @@ The **`putImageData()`** method of the {{domxref("OffscreenCanvasRenderingContex
 ## Syntax
 
 ```js
-putImageData()
+putImageData();
 ```
 
 ### Parameters

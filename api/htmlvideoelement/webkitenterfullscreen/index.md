@@ -1,19 +1,19 @@
 ---
-title: HTMLVideoElement.webkitEnterFullscreen()
-slug: Web/API/HTMLVideoElement/webkitEnterFullscreen
+title: HTMLVideoElement.webkitEnterFullScreen()
+slug: Web/API/HTMLVideoElement/webkitEnterFullScreen
 tags:
   - Method
   - Reference
-browser-compat: api.HTMLVideoElement.webkitEnterFullscreen
+browser-compat: api.HTMLVideoElement.webkitEnterFullScreen
 ---
 {{DefaultAPISidebar("")}}
 
-The **`webkitEnterFullscreen()`** method of the {{domxref("HTMLVideoElement")}} interface 
+The **`webkitEnterFullScreen()`** method of the {{domxref("HTMLVideoElement")}} interface 
 
 ## Syntax
 
 ```js
-webkitEnterFullscreen()
+webkitEnterFullScreen();
 ```
 
 ### Parameters

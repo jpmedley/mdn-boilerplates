@@ -13,7 +13,7 @@ The **`removeItem()`** method of the {{domxref("SVGNumberList")}} interface
 ## Syntax
 
 ```js
-removeItem()
+removeItem();
 ```
 
 ### Parameters

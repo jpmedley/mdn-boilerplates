@@ -13,7 +13,7 @@ The **`clear()`** method of the {{domxref("SVGLengthList")}} interface
 ## Syntax
 
 ```js
-clear()
+clear();
 ```
 
 ### Parameters

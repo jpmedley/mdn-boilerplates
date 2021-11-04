@@ -13,7 +13,7 @@ The **`setTransform()`** method of the {{domxref("OffscreenCanvasRenderingContex
 ## Syntax
 
 ```js
-setTransform()
+setTransform();
 ```
 
 ### Parameters

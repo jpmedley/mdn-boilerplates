@@ -14,17 +14,20 @@ The **`PortalHost`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
-
 
 
 ### Event handlers
 
+- {{domxref('onmessage')}}
+  - : Fired when // Replace with description of when this event is fired.
 
+- {{domxref('onmessageerror')}}
+  - : Fired when // Replace with description of when this event is fired.
 
 ## Methods
 
-
+- {{domxref('PortalHost.postMessage')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

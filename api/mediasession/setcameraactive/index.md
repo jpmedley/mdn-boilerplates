@@ -13,7 +13,7 @@ The **`setCameraActive()`** method of the {{domxref("MediaSession")}} interface
 ## Syntax
 
 ```js
-setCameraActive()
+setCameraActive();
 ```
 
 ### Parameters

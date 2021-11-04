@@ -13,7 +13,7 @@ The **`requestPresenter()`** method of the {{domxref("Ink")}} interface
 ## Syntax
 
 ```js
-requestPresenter()
+requestPresenter();
 ```
 
 ### Parameters

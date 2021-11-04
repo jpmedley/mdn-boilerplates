@@ -13,7 +13,7 @@ The **`createView()`** method of the {{domxref("GPUTexture")}} interface
 ## Syntax
 
 ```js
-createView()
+createView();
 ```
 
 ### Parameters

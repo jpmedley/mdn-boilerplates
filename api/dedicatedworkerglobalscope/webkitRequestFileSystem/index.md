@@ -13,7 +13,7 @@ The **`webkitRequestFileSystem()`** method of the {{domxref("DedicatedWorkerGlob
 ## Syntax
 
 ```js
-webkitRequestFileSystem()
+webkitRequestFileSystem();
 ```
 
 ### Parameters

@@ -14,17 +14,17 @@ The **`WebGLDrawInstancedBaseVertexBaseInstance`** interface of the {{domxref(''
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('WebGLDrawInstancedBaseVertexBaseInstance.drawArraysInstancedBaseInstanceWEBGL')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('WebGLDrawInstancedBaseVertexBaseInstance.drawElementsInstancedBaseVertexBaseInstanceWEBGL')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

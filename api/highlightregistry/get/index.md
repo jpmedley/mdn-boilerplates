@@ -13,7 +13,7 @@ The **`get()`** method of the {{domxref("HighlightRegistry")}} interface
 ## Syntax
 
 ```js
-get()
+get();
 ```
 
 ### Parameters

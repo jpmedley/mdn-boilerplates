@@ -13,7 +13,7 @@ The **`getParameter()`** method of the {{domxref("XSLTProcessor")}} interface
 ## Syntax
 
 ```js
-getParameter()
+getParameter();
 ```
 
 ### Parameters

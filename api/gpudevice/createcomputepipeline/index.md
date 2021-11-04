@@ -13,7 +13,7 @@ The **`createComputePipeline()`** method of the {{domxref("GPUDevice")}} interfa
 ## Syntax
 
 ```js
-createComputePipeline()
+createComputePipeline();
 ```
 
 ### Parameters

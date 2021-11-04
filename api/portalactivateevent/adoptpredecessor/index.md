@@ -13,7 +13,7 @@ The **`adoptPredecessor()`** method of the {{domxref("PortalActivateEvent")}} in
 ## Syntax
 
 ```js
-adoptPredecessor()
+adoptPredecessor();
 ```
 
 ### Parameters

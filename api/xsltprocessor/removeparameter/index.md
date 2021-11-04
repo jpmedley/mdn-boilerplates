@@ -13,7 +13,7 @@ The **`removeParameter()`** method of the {{domxref("XSLTProcessor")}} interface
 ## Syntax
 
 ```js
-removeParameter()
+removeParameter();
 ```
 
 ### Parameters

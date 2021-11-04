@@ -14,17 +14,14 @@ The **`CaptureHandleChangeEvent`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('CaptureHandleChangeEvent.captureHandle')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

@@ -16,13 +16,10 @@ The **`SQLResultSetRowList`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('SQLResultSetRowList.length')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

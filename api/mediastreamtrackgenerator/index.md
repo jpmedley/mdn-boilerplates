@@ -16,13 +16,10 @@ The **`MediaStreamTrackGenerator`** interface of the {{domxref('','','','true')}
 
 ## Properties
 
+- {{domxref('MediaStreamTrackGenerator.writable')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

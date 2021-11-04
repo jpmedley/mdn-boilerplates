@@ -13,7 +13,7 @@ The **`deleteCell()`** method of the {{domxref("HTMLTableRowElement")}} interfac
 ## Syntax
 
 ```js
-deleteCell()
+deleteCell();
 ```
 
 ### Parameters

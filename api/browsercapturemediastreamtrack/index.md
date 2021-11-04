@@ -14,15 +14,9 @@ The **`BrowserCaptureMediaStreamTrack`** interface of the {{domxref('','','','tr
 
  
 
-## Properties
 
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

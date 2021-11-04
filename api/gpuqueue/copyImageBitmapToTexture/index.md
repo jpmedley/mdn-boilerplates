@@ -13,7 +13,7 @@ The **`copyImageBitmapToTexture()`** method of the {{domxref("GPUQueue")}} inter
 ## Syntax
 
 ```js
-copyImageBitmapToTexture()
+copyImageBitmapToTexture();
 ```
 
 ### Parameters

@@ -14,17 +14,14 @@ The **`EXTDisjointTimerQueryWebGL2`** interface of the {{domxref('','','','true'
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('EXTDisjointTimerQueryWebGL2.queryCounterEXT')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

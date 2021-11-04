@@ -16,13 +16,16 @@ The **`MemoryInfo`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('MemoryInfo.totalJSHeapSize')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('MemoryInfo.usedJSHeapSize')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('MemoryInfo.jsHeapSizeLimit')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

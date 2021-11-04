@@ -13,7 +13,7 @@ The **`newValueSpecifiedUnits()`** method of the {{domxref("SVGLength")}} interf
 ## Syntax
 
 ```js
-newValueSpecifiedUnits()
+newValueSpecifiedUnits();
 ```
 
 ### Parameters

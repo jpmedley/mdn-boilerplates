@@ -13,7 +13,7 @@ The **`destroy()`** method of the {{domxref("GPUTexture")}} interface
 ## Syntax
 
 ```js
-destroy()
+destroy();
 ```
 
 ### Parameters

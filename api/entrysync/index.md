@@ -16,15 +16,42 @@ The **`EntrySync`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('EntrySync.isFile')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('EntrySync.isDirectory')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('EntrySync.name')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('EntrySync.fullPath')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('EntrySync.filesystem')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
+- {{domxref('EntrySync.getMetadata')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('EntrySync.moveTo')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('EntrySync.copyTo')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('EntrySync.toURL')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('EntrySync.remove')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('EntrySync.getParent')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

@@ -16,13 +16,13 @@ The **`Highlight`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('Highlight.priority')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('Highlight.type')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

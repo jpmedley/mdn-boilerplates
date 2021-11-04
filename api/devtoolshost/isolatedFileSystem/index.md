@@ -13,7 +13,7 @@ The **`isolatedFileSystem()`** method of the {{domxref("DevToolsHost")}} interfa
 ## Syntax
 
 ```js
-isolatedFileSystem()
+isolatedFileSystem();
 ```
 
 ### Parameters

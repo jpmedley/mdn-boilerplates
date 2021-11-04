@@ -13,7 +13,7 @@ The **`createBindGroupLayout()`** method of the {{domxref("GPUDevice")}} interfa
 ## Syntax
 
 ```js
-createBindGroupLayout()
+createBindGroupLayout();
 ```
 
 ### Parameters

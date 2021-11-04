@@ -13,7 +13,7 @@ The **`scaleSelf()`** method of the {{domxref("DOMMatrix")}} interface
 ## Syntax
 
 ```js
-scaleSelf()
+scaleSelf();
 ```
 
 ### Parameters

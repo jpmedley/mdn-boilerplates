@@ -13,7 +13,7 @@ The **`disable()`** method of the {{domxref("NavigationPreloadManager")}} interf
 ## Syntax
 
 ```js
-disable()
+disable();
 ```
 
 ### Parameters

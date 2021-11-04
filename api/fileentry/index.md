@@ -14,17 +14,17 @@ The **`FileEntry`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('FileEntry.createWriter')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('FileEntry.file')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

@@ -14,17 +14,14 @@ The **`ColorPagePopupController`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
-
+- {{domxref('ColorPagePopupController.openEyeDropper')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

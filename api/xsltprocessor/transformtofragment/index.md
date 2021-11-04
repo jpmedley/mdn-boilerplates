@@ -13,7 +13,7 @@ The **`transformToFragment()`** method of the {{domxref("XSLTProcessor")}} inter
 ## Syntax
 
 ```js
-transformToFragment()
+transformToFragment();
 ```
 
 ### Parameters

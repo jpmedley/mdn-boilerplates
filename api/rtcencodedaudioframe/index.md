@@ -16,15 +16,21 @@ The **`RTCEncodedAudioFrame`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('RTCEncodedAudioFrame.timestamp')}}
+  - : Returns // Replace with description of what this property returns.
 
-
-### Event handlers
+- {{domxref('RTCEncodedAudioFrame.data')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
+- {{domxref('RTCEncodedAudioFrame.getMetadata')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('RTCEncodedAudioFrame.toString')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

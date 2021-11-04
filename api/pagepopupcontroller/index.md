@@ -14,17 +14,35 @@ The **`PagePopupController`** interface of the {{domxref('','','','true')}}
 
  
 
-## Properties
 
-
-
-### Event handlers
 
 
 
 ## Methods
 
+- {{domxref('PagePopupController.setValueAndClosePopup')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('PagePopupController.setValue')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('PagePopupController.closePopup')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('PagePopupController.localizeNumberString')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('PagePopupController.formatMonth')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('PagePopupController.formatShortMonth')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('PagePopupController.formatWeek')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('PagePopupController.setWindowRect')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

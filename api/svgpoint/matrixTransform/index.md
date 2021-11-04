@@ -13,7 +13,7 @@ The **`matrixTransform()`** method of the {{domxref("SVGPoint")}} interface
 ## Syntax
 
 ```js
-matrixTransform()
+matrixTransform();
 ```
 
 ### Parameters

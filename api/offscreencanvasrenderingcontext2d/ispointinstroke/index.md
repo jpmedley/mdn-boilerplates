@@ -13,7 +13,7 @@ The **`isPointInStroke()`** method of the {{domxref("OffscreenCanvasRenderingCon
 ## Syntax
 
 ```js
-isPointInStroke()
+isPointInStroke();
 ```
 
 ### Parameters

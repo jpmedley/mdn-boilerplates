@@ -13,7 +13,7 @@ The **`updateAdInterestGroups()`** method of the {{domxref("Navigator")}} interf
 ## Syntax
 
 ```js
-updateAdInterestGroups()
+updateAdInterestGroups();
 ```
 
 ### Parameters

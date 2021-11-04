@@ -16,15 +16,27 @@ The **`InterventionReportBody`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('InterventionReportBody.id')}}
+  - : Returns // Replace with description of what this property returns.
 
+- {{domxref('InterventionReportBody.message')}}
+  - : Returns // Replace with description of what this property returns.
 
-### Event handlers
+- {{domxref('InterventionReportBody.sourceFile')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('InterventionReportBody.lineNumber')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('InterventionReportBody.columnNumber')}}
+  - : Returns // Replace with description of what this property returns.
 
 
 
 ## Methods
 
-
+- {{domxref('InterventionReportBody.toJSON')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Examples
 

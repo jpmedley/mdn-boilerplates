@@ -16,13 +16,10 @@ The **`DOMRectList`** interface of the {{domxref('','','','true')}}
 
 ## Properties
 
+- {{domxref('DOMRectList.length')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

@@ -13,7 +13,7 @@ The **`getScreenCTM()`** method of the {{domxref("SVGGraphicsElement")}} interfa
 ## Syntax
 
 ```js
-getScreenCTM()
+getScreenCTM();
 ```
 
 ### Parameters

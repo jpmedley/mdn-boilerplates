@@ -13,7 +13,7 @@ The **`delete()`** method of the {{domxref("CustomStateSet")}} interface
 ## Syntax
 
 ```js
-delete()
+delete();
 ```
 
 ### Parameters

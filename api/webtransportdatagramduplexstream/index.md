@@ -16,13 +16,28 @@ The **`WebTransportDatagramDuplexStream`** interface of the {{domxref('','','','
 
 ## Properties
 
+- {{domxref('WebTransportDatagramDuplexStream.readable')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('WebTransportDatagramDuplexStream.writable')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('WebTransportDatagramDuplexStream.maxDatagramSize')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('WebTransportDatagramDuplexStream.incomingMaxAge')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('WebTransportDatagramDuplexStream.outgoingMaxAge')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('WebTransportDatagramDuplexStream.incomingHighWaterMark')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('WebTransportDatagramDuplexStream.outgoingHighWaterMark')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

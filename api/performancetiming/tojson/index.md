@@ -13,7 +13,7 @@ The **`toJSON()`** method of the {{domxref("PerformanceTiming")}} interface
 ## Syntax
 
 ```js
-toJSON()
+toJSON();
 ```
 
 ### Parameters

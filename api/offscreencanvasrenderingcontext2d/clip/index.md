@@ -13,7 +13,7 @@ The **`clip()`** method of the {{domxref("OffscreenCanvasRenderingContext2D")}} 
 ## Syntax
 
 ```js
-clip()
+clip();
 ```
 
 ### Parameters

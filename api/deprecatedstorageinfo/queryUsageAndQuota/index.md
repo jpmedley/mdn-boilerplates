@@ -13,7 +13,7 @@ The **`queryUsageAndQuota()`** method of the {{domxref("DeprecatedStorageInfo")}
 ## Syntax
 
 ```js
-queryUsageAndQuota()
+queryUsageAndQuota();
 ```
 
 ### Parameters

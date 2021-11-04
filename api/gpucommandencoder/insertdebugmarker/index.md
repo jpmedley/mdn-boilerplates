@@ -13,7 +13,7 @@ The **`insertDebugMarker()`** method of the {{domxref("GPUCommandEncoder")}} int
 ## Syntax
 
 ```js
-insertDebugMarker()
+insertDebugMarker();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`createBuffer()`** method of the {{domxref("GPUDevice")}} interface
 ## Syntax
 
 ```js
-createBuffer()
+createBuffer();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`postMessage()`** method of the {{domxref("HTMLPortalElement")}} interface
 ## Syntax
 
 ```js
-postMessage()
+postMessage();
 ```
 
 ### Parameters

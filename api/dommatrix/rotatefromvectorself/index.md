@@ -13,7 +13,7 @@ The **`rotateFromVectorSelf()`** method of the {{domxref("DOMMatrix")}} interfac
 ## Syntax
 
 ```js
-rotateFromVectorSelf()
+rotateFromVectorSelf();
 ```
 
 ### Parameters

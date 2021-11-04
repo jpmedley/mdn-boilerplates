@@ -13,7 +13,7 @@ The **`setStdDeviation()`** method of the {{domxref("SVGFEGaussianBlurElement")}
 ## Syntax
 
 ```js
-setStdDeviation()
+setStdDeviation();
 ```
 
 ### Parameters

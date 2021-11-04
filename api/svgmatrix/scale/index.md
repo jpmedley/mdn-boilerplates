@@ -13,7 +13,7 @@ The **`scale()`** method of the {{domxref("SVGMatrix")}} interface
 ## Syntax
 
 ```js
-scale()
+scale();
 ```
 
 ### Parameters

@@ -16,13 +16,31 @@ The **`AnimationEffectTimingReadOnly`** interface of the {{domxref('','','','tru
 
 ## Properties
 
+- {{domxref('AnimationEffectTimingReadOnly.delay')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTimingReadOnly.endDelay')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTimingReadOnly.fill')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTimingReadOnly.iterationStart')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTimingReadOnly.iterations')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTimingReadOnly.duration')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTimingReadOnly.direction')}}
+  - : Returns // Replace with description of what this property returns.
+
+- {{domxref('AnimationEffectTimingReadOnly.easing')}}
+  - : Returns // Replace with description of what this property returns.
 
 
-### Event handlers
-
-
-
-## Methods
 
 
 

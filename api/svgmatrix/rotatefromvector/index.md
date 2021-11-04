@@ -13,7 +13,7 @@ The **`rotateFromVector()`** method of the {{domxref("SVGMatrix")}} interface
 ## Syntax
 
 ```js
-rotateFromVector()
+rotateFromVector();
 ```
 
 ### Parameters

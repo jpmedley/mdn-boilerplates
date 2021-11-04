@@ -13,7 +13,7 @@ The **`animationsPaused()`** method of the {{domxref("SVGSVGElement")}} interfac
 ## Syntax
 
 ```js
-animationsPaused()
+animationsPaused();
 ```
 
 ### Parameters

@@ -13,7 +13,7 @@ The **`getStartTime()`** method of the {{domxref("SVGAnimationElement")}} interf
 ## Syntax
 
 ```js
-getStartTime()
+getStartTime();
 ```
 
 ### Parameters
