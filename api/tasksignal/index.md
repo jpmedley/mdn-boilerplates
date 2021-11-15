@@ -21,7 +21,7 @@ The **`TaskSignal`** interface of the {{domxref('','','','true')}}
 
 ### Event handlers
 
-- {{domxref('onprioritychange')}}
+- {{domxref('TaskSignal.prioritychange_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
 

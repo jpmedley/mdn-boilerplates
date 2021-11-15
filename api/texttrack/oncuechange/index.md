@@ -8,15 +8,18 @@ browser-compat: api.TextTrack.oncuechange
 ---
 {{DefaultAPISidebar("")}}
 
-The **`oncuechange`** EventHandler of the {{domxref("TextTrack")}} interface processes  events.
+The **``** of the {{domxref("TextTrack")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-TextTrack.oncuechange = function;
-TextTrack.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

@@ -95,28 +95,10 @@ The **`OffscreenCanvasRenderingContext2D`** interface of the {{domxref('','','',
 - {{domxref('OffscreenCanvasRenderingContext2D.scale')}}
   - : Returns // Replace with description of what this method returns.
 
-- {{domxref('OffscreenCanvasRenderingContext2D.scale')}}
-  - : Returns // Replace with description of what this method returns.
-
 - {{domxref('OffscreenCanvasRenderingContext2D.rotate')}}
   - : Returns // Replace with description of what this method returns.
 
-- {{domxref('OffscreenCanvasRenderingContext2D.rotate3d')}}
-  - : Returns // Replace with description of what this method returns.
-
-- {{domxref('OffscreenCanvasRenderingContext2D.rotateAxis')}}
-  - : Returns // Replace with description of what this method returns.
-
 - {{domxref('OffscreenCanvasRenderingContext2D.translate')}}
-  - : Returns // Replace with description of what this method returns.
-
-- {{domxref('OffscreenCanvasRenderingContext2D.translate')}}
-  - : Returns // Replace with description of what this method returns.
-
-- {{domxref('OffscreenCanvasRenderingContext2D.perspective')}}
-  - : Returns // Replace with description of what this method returns.
-
-- {{domxref('OffscreenCanvasRenderingContext2D.transform')}}
   - : Returns // Replace with description of what this method returns.
 
 - {{domxref('OffscreenCanvasRenderingContext2D.transform')}}

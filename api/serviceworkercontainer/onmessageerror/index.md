@@ -8,15 +8,18 @@ browser-compat: api.ServiceWorkerContainer.onmessageerror
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}
 
-The **`onmessageerror`** EventHandler of the {{domxref("ServiceWorkerContainer")}} interface processes  events.
+The **``** of the {{domxref("ServiceWorkerContainer")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-ServiceWorkerContainer.onmessageerror = function;
-ServiceWorkerContainer.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

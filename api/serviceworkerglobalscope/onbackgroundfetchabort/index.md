@@ -8,15 +8,18 @@ browser-compat: api.ServiceWorkerGlobalScope.onbackgroundfetchabort
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onbackgroundfetchabort`** EventHandler of the {{domxref("ServiceWorkerGlobalScope")}} interface processes  events.
+The **``** of the {{domxref("ServiceWorkerGlobalScope")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-ServiceWorkerGlobalScope.onbackgroundfetchabort = function;
-ServiceWorkerGlobalScope.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

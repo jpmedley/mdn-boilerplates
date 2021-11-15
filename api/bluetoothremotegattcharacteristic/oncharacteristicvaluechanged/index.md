@@ -8,15 +8,18 @@ browser-compat: api.BluetoothRemoteGATTCharacteristic.oncharacteristicvaluechang
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}
 
-The **`oncharacteristicvaluechanged`** EventHandler of the {{domxref("BluetoothRemoteGATTCharacteristic")}} interface processes  events.
+The **``** of the {{domxref("BluetoothRemoteGATTCharacteristic")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-BluetoothRemoteGATTCharacteristic.oncharacteristicvaluechanged = function;
-BluetoothRemoteGATTCharacteristic.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

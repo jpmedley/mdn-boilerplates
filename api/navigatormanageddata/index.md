@@ -18,7 +18,7 @@ The **`NavigatorManagedData`** interface of the {{domxref('','','','true')}}
 
 ### Event handlers
 
-- {{domxref('onmanagedconfigurationchange')}}
+- {{domxref('NavigatorManagedData.managedconfigurationchange_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
 

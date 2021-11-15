@@ -8,15 +8,18 @@ browser-compat: api.RTCDtlsTransport.onerror
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onerror`** EventHandler of the {{domxref("RTCDtlsTransport")}} interface processes  events.
+The **``** of the {{domxref("RTCDtlsTransport")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-RTCDtlsTransport.onerror = function;
-RTCDtlsTransport.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

@@ -8,15 +8,18 @@ browser-compat: api.PortalHost.onmessage
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onmessage`** EventHandler of the {{domxref("PortalHost")}} interface processes  events.
+The **``** of the {{domxref("PortalHost")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-PortalHost.onmessage = function;
-PortalHost.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

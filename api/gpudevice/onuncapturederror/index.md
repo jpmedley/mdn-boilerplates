@@ -8,15 +8,18 @@ browser-compat: api.GPUDevice.onuncapturederror
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onuncapturederror`** EventHandler of the {{domxref("GPUDevice")}} interface processes  events.
+The **``** of the {{domxref("GPUDevice")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-GPUDevice.onuncapturederror = function;
-GPUDevice.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

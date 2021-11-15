@@ -30,7 +30,7 @@ The **`GPUDevice`** interface of the {{domxref('','','','true')}}
 
 ### Event handlers
 
-- {{domxref('onuncapturederror')}}
+- {{domxref('GPUDevice.uncapturederror_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
 ## Methods

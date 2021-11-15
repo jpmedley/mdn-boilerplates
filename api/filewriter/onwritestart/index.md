@@ -8,15 +8,18 @@ browser-compat: api.FileWriter.onwritestart
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onwritestart`** EventHandler of the {{domxref("FileWriter")}} interface processes  events.
+The **``** of the {{domxref("FileWriter")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-FileWriter.onwritestart = function;
-FileWriter.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

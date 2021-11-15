@@ -8,15 +8,18 @@ browser-compat: api.Window.onorientationchange
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onorientationchange`** EventHandler of the {{domxref("Window")}} interface processes  events.
+The **``** of the {{domxref("Window")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-Window.onorientationchange = function;
-Window.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

@@ -83,28 +83,10 @@ The **`PaintRenderingContext2D`** interface of the {{domxref('','','','true')}}
 - {{domxref('PaintRenderingContext2D.scale')}}
   - : Returns // Replace with description of what this method returns.
 
-- {{domxref('PaintRenderingContext2D.scale')}}
-  - : Returns // Replace with description of what this method returns.
-
 - {{domxref('PaintRenderingContext2D.rotate')}}
   - : Returns // Replace with description of what this method returns.
 
-- {{domxref('PaintRenderingContext2D.rotate3d')}}
-  - : Returns // Replace with description of what this method returns.
-
-- {{domxref('PaintRenderingContext2D.rotateAxis')}}
-  - : Returns // Replace with description of what this method returns.
-
 - {{domxref('PaintRenderingContext2D.translate')}}
-  - : Returns // Replace with description of what this method returns.
-
-- {{domxref('PaintRenderingContext2D.translate')}}
-  - : Returns // Replace with description of what this method returns.
-
-- {{domxref('PaintRenderingContext2D.perspective')}}
-  - : Returns // Replace with description of what this method returns.
-
-- {{domxref('PaintRenderingContext2D.transform')}}
   - : Returns // Replace with description of what this method returns.
 
 - {{domxref('PaintRenderingContext2D.transform')}}

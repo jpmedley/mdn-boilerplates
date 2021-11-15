@@ -8,15 +8,18 @@ browser-compat: api.HTMLPortalElement.onmessage
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onmessage`** EventHandler of the {{domxref("HTMLPortalElement")}} interface processes  events.
+The **``** of the {{domxref("HTMLPortalElement")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-HTMLPortalElement.onmessage = function;
-HTMLPortalElement.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

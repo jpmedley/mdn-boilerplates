@@ -8,15 +8,18 @@ browser-compat: api.PresentationConnection.onmessage
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}
 
-The **`onmessage`** EventHandler of the {{domxref("PresentationConnection")}} interface processes  events.
+The **``** of the {{domxref("PresentationConnection")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-PresentationConnection.onmessage = function;
-PresentationConnection.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

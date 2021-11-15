@@ -8,15 +8,18 @@ browser-compat: api.TaskSignal.onprioritychange
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onprioritychange`** EventHandler of the {{domxref("TaskSignal")}} interface processes  events.
+The **``** of the {{domxref("TaskSignal")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-TaskSignal.onprioritychange = function;
-TaskSignal.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

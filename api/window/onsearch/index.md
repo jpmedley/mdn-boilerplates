@@ -8,15 +8,18 @@ browser-compat: api.Window.onsearch
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onsearch`** EventHandler of the {{domxref("Window")}} interface processes  events.
+The **``** of the {{domxref("Window")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-Window.onsearch = function;
-Window.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

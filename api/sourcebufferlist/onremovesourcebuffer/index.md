@@ -8,15 +8,18 @@ browser-compat: api.SourceBufferList.onremovesourcebuffer
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onremovesourcebuffer`** EventHandler of the {{domxref("SourceBufferList")}} interface processes  events.
+The **``** of the {{domxref("SourceBufferList")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-SourceBufferList.onremovesourcebuffer = function;
-SourceBufferList.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

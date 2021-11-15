@@ -8,15 +8,18 @@ browser-compat: api.BluetoothDevice.ongattserverdisconnected
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}
 
-The **`ongattserverdisconnected`** EventHandler of the {{domxref("BluetoothDevice")}} interface processes  events.
+The **``** of the {{domxref("BluetoothDevice")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-BluetoothDevice.ongattserverdisconnected = function;
-BluetoothDevice.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

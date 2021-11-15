@@ -8,15 +8,18 @@ browser-compat: api.HTMLBodyElement.onblur
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onblur`** EventHandler of the {{domxref("HTMLBodyElement")}} interface processes  events.
+The **``** of the {{domxref("HTMLBodyElement")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-HTMLBodyElement.onblur = function;
-HTMLBodyElement.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

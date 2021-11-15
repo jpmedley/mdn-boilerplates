@@ -8,15 +8,18 @@ browser-compat: api.SourceBuffer.onerror
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onerror`** EventHandler of the {{domxref("SourceBuffer")}} interface processes  events.
+The **``** of the {{domxref("SourceBuffer")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-SourceBuffer.onerror = function;
-SourceBuffer.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

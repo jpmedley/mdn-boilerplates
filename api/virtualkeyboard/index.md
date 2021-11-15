@@ -24,7 +24,7 @@ The **`VirtualKeyboard`** interface of the {{domxref('','','','true')}}
 
 ### Event handlers
 
-- {{domxref('ongeometrychange')}}
+- {{domxref('VirtualKeyboard.geometrychange_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
 ## Methods

@@ -1,14 +1,14 @@
 ---
-title: HTMLBodyElement.onfocus
-slug: Web/API/HTMLBodyElement/onfocus
+title: XRLightProbe.onreflectionchange
+slug: Web/API/XRLightProbe/onreflectionchange
 tags:
   - Property
   - Reference
-browser-compat: api.HTMLBodyElement.onfocus
+browser-compat: api.XRLightProbe.onreflectionchange
 ---
-{{DefaultAPISidebar("")}}
+{{securecontext_header}}{{DefaultAPISidebar("")}}
 
-The **``** of the {{domxref("HTMLBodyElement")}} interface processes  events.
+The **``** of the {{domxref("XRLightProbe")}} interface processes  events.
 
 The  event fires when .
 

@@ -8,15 +8,18 @@ browser-compat: api.MediaSource.onsourceopen
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onsourceopen`** EventHandler of the {{domxref("MediaSource")}} interface processes  events.
+The **``** of the {{domxref("MediaSource")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-MediaSource.onsourceopen = function;
-MediaSource.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

@@ -8,15 +8,18 @@ browser-compat: api.XMLHttpRequestEventTarget.ontimeout
 ---
 {{DefaultAPISidebar("")}}
 
-The **`ontimeout`** EventHandler of the {{domxref("XMLHttpRequestEventTarget")}} interface processes  events.
+The **``** of the {{domxref("XMLHttpRequestEventTarget")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-XMLHttpRequestEventTarget.ontimeout = function;
-XMLHttpRequestEventTarget.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

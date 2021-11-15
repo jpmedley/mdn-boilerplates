@@ -8,15 +8,18 @@ browser-compat: api.MediaStream.oninactive
 ---
 {{DefaultAPISidebar("")}}
 
-The **`oninactive`** EventHandler of the {{domxref("MediaStream")}} interface processes  events.
+The **``** of the {{domxref("MediaStream")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-MediaStream.oninactive = function;
-MediaStream.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

@@ -8,15 +8,18 @@ browser-compat: api.MathMLElement.onbeforexrselect
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onbeforexrselect`** EventHandler of the {{domxref("MathMLElement")}} interface processes  events.
+The **``** of the {{domxref("MathMLElement")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-MathMLElement.onbeforexrselect = function;
-MathMLElement.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

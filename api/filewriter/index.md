@@ -30,22 +30,22 @@ The **`FileWriter`** interface of the {{domxref('','','','true')}}
 
 ### Event handlers
 
-- {{domxref('onwritestart')}}
+- {{domxref('FileWriter.writestart_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
-- {{domxref('onprogress')}}
+- {{domxref('FileWriter.progress_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
-- {{domxref('onwrite')}}
+- {{domxref('FileWriter.write_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
-- {{domxref('onabort')}}
+- {{domxref('FileWriter.abort_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
-- {{domxref('onerror')}}
+- {{domxref('FileWriter.error_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
-- {{domxref('onwriteend')}}
+- {{domxref('FileWriter.writeend_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
 ## Methods

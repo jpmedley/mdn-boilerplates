@@ -8,15 +8,18 @@ browser-compat: api.MediaStreamTrack.oncapturehandlechange
 ---
 {{DefaultAPISidebar("")}}
 
-The **`oncapturehandlechange`** EventHandler of the {{domxref("MediaStreamTrack")}} interface processes  events.
+The **``** of the {{domxref("MediaStreamTrack")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-MediaStreamTrack.oncapturehandlechange = function;
-MediaStreamTrack.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

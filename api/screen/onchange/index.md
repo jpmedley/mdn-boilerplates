@@ -8,15 +8,18 @@ browser-compat: api.Screen.onchange
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onchange`** EventHandler of the {{domxref("Screen")}} interface processes  events.
+The **``** of the {{domxref("Screen")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-Screen.onchange = function;
-Screen.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

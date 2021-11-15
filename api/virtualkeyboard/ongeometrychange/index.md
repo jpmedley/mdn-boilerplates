@@ -8,15 +8,18 @@ browser-compat: api.VirtualKeyboard.ongeometrychange
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}
 
-The **`ongeometrychange`** EventHandler of the {{domxref("VirtualKeyboard")}} interface processes  events.
+The **``** of the {{domxref("VirtualKeyboard")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-VirtualKeyboard.ongeometrychange = function;
-VirtualKeyboard.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

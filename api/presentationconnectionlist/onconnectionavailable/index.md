@@ -8,15 +8,18 @@ browser-compat: api.PresentationConnectionList.onconnectionavailable
 ---
 {{securecontext_header}}{{DefaultAPISidebar("")}}
 
-The **`onconnectionavailable`** EventHandler of the {{domxref("PresentationConnectionList")}} interface processes  events.
+The **``** of the {{domxref("PresentationConnectionList")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-PresentationConnectionList.onconnectionavailable = function;
-PresentationConnectionList.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

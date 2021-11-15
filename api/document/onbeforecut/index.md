@@ -8,15 +8,18 @@ browser-compat: api.Document.onbeforecut
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onbeforecut`** EventHandler of the {{domxref("Document")}} interface processes  events.
+The **``** of the {{domxref("Document")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-Document.onbeforecut = function;
-Document.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

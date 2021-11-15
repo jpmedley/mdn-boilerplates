@@ -8,15 +8,18 @@ browser-compat: api.ShadowRoot.onslotchange
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onslotchange`** EventHandler of the {{domxref("ShadowRoot")}} interface processes  events.
+The **``** of the {{domxref("ShadowRoot")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-ShadowRoot.onslotchange = function;
-ShadowRoot.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

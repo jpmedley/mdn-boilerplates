@@ -8,15 +8,18 @@ browser-compat: api.SVGElement.onbeforexrselect
 ---
 {{DefaultAPISidebar("")}}
 
-The **`onbeforexrselect`** EventHandler of the {{domxref("SVGElement")}} interface processes  events.
+The **``** of the {{domxref("SVGElement")}} interface processes  events.
 
 The  event fires when .
 
 ## Syntax
 
+Use the event name in methods like {{domxref("EventTarget.addEventListener", "addEventListener()")}}, or set an event handler property.
+
 ```js
-SVGElement.onbeforexrselect = function;
-SVGElement.addEventListener('_Please replace this text_', function);
+addEventListener('', (event) => { });
+
+ = (event) => { });
 ```
 
 ## Example

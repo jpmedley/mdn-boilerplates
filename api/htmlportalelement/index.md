@@ -24,10 +24,10 @@ The **`HTMLPortalElement`** interface of the {{domxref('','','','true')}}
 
 ### Event handlers
 
-- {{domxref('onmessage')}}
+- {{domxref('HTMLPortalElement.message_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
-- {{domxref('onmessageerror')}}
+- {{domxref('HTMLPortalElement.messageerror_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
 ## Methods

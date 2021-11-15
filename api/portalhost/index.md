@@ -18,10 +18,10 @@ The **`PortalHost`** interface of the {{domxref('','','','true')}}
 
 ### Event handlers
 
-- {{domxref('onmessage')}}
+- {{domxref('PortalHost.message_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
-- {{domxref('onmessageerror')}}
+- {{domxref('PortalHost.messageerror_event')}}
   - : Fired when // Replace with description of when this event is fired.
 
 ## Methods
